@@ -1,12 +1,7 @@
-import React from 'react';
-import GcBarChartRace from './components/GcBarChartRace';
+import GcBarChartRace from "./components/GcBarChartRace";
 
 function App() {
-  return (
-    <div className="App">
-      <GcBarChartRace />
-    </div>
-  );
+  return <GcBarChartRace />;
 }
 
 export default App;
