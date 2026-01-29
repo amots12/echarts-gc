@@ -1,4 +1,4 @@
-# Tour de France 2022 — GC Animation
+# Animate The Race — GC Animation
 
 An interactive, animated visualization of the **General Classification (GC)** during the **2022 Tour de France**.
 
