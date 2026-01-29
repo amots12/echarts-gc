@@ -1,70 +1,82 @@
-# Getting Started with Create React App
+# Tour de France 2022 — GC Animation
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+An interactive, animated visualization of the **General Classification (GC)** during the **2022 Tour de France**.
 
-## Available Scripts
+▶ **Watch how the race evolves stage by stage**  
+See time gaps grow, riders change rank, and contenders drop out — all through a smooth bar chart race.
 
-In the project directory, you can run:
+---
 
-### `npm start`
+## 🚴 What You’re Seeing
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+- The **top 10 riders** in the General Classification
+- **Bar length** = time gap to the race leader
+- **Colors** = teams
+- **Motion** = changes in rank and performance over time
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+Each frame represents a moment in the race as it unfolds from Stage 1 to the final stage.
 
-### `npm test`
+---
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## 🕹 How to Use
 
-### `npm run build`
+- ▶ **Play** — start the animation  
+- ⏸ **Pause** — stop at any moment  
+- ⟲ **Restart** — replay from the beginning  
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+A progress bar shows how far along the race you are.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+---
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+## 🎯 Why This Visualization
 
-### `npm run eject`
+Cycling GC standings are usually shown as static tables.  
+This project explores a different approach:
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+- Make **race dynamics** easier to understand
+- Show **how gaps change**, not just final results
+- Use animation to support insight, not distract from it
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+The focus is clarity, calm motion, and data storytelling.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+---
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+## 🧠 Design Notes
 
-## Learn More
+- Motion is intentional and restrained
+- Eliminated riders fade and drop naturally
+- The chart is the main focus — UI stays minimal
+- Inspired by data journalism and sports analytics
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+---
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+## 🧪 Data Source
 
-### Code Splitting
+All data is based on publicly available information from **Wikipedia**  
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
 
-### Analyzing the Bundle Size
+---
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+## 🛠 Built With
 
-### Making a Progressive Web App
+- React
+- Apache ECharts
+- Static JSON data
+- No backend — runs entirely in the browser
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+---
 
-### Advanced Configuration
+## 📌 Project Status
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+- ✔ Core visualization complete
+- ✔ Stable and usable
+- 🔜 Future updates may include:
+  - More races (Giro, Vuelta)
+  - Year selection
+  - Additional visual polish
 
-### Deployment
+---
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+## 👀 Explore
 
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+Press **Play** and let the race tell its story.
