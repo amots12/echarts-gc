@@ -1,180 +1,102 @@
-Absolutely — pausing here is a good call. You’ve reached a stable, meaningful checkpoint.
+📸 PROJECT SNAPSHOT — echarts-gc
+Date: current state after GitHub Actions deployment fix
 
-Below is a snapshot + README, written so another engineer (or future you) can pick this up without re-living the chaos.
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+🧠 PROJECT PURPOSE
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+A public, data-driven web visualization that animates the General Classification
+(GC) standings of cycling Grand Tours (starting with Tour de France 2022),
+using a bar chart race metaphor.
 
-⸻
+The visualization shows:
+- Top 10 GC riders per stage
+- Time gaps to the leader
+- Smooth transitions across stages
+- Rider elimination (dropping out of top 10)
+- Team-based color encoding
 
+Tech focus: clarity, animation quality, and data storytelling.
 
-# Tour de France GC Bar Chart Race (ECharts + React)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+🧱 TECH STACK
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+- React (Create React App baseline)
+- Apache ECharts via `echarts-for-react`
+- Static JSON data (scraped from Wikipedia)
+- GitHub Pages for hosting
+- GitHub Actions for CI/CD (build + deploy)
 
-## 📌 Project Snapshot (Current State)
+No backend, no server-side logic.
 
-This project visualises the evolution of the **General Classification (GC)** during the **2022 Tour de France** using an animated horizontal bar chart race.
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+📂 KEY FILES (SOURCE OF TRUTH)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+- src/components/GcBarChartRace.jsx
+  → Core visualization logic (sorting, interpolation, animation, elimination)
 
-The visualisation shows:
-- Top 10 riders per stage
-- Time gaps relative to the GC leader
-- Smooth transitions between stages
-- Gradual elimination (fade + drop) of riders leaving the top 10
-- Team-based colour encoding
-- Intro animation before Stage 1
+- public/data/tour-2022-wikipedia.json
+  → Stage-by-stage GC standings data
 
-The project is currently **stable**, **readable**, and suitable for further incremental refinement.
+- src/App.js
+  → Minimal app shell rendering the visualization
 
----
+- package.json
+  → Contains correct `homepage` field for GitHub Pages
 
-## 🎯 Goals
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+🚀 DEPLOYMENT STATUS
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+- GitHub Actions is the official deployment mechanism
+- Laptop deployment (`npm run deploy`) is deprecated
+- GitHub Pages URL is live and working
+- Laptop repo is now synced with GitHub main branch
 
-- Animate GC standings stage by stage
-- Clearly communicate:
-  - rank changes
-  - time gaps
-  - eliminations
-- Avoid over-engineering (no custom renderers, no canvas hacks)
-- Keep logic explicit and debuggable
+GitHub is the source of truth.
+Local machine is a disposable working copy.
 
----
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+✅ CURRENTLY WORKING
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+- Visualization renders correctly online
+- Sorting: leader at top, gaps ascending downward
+- Interpolation between stages is smooth
+- Intro animation before Stage 1 works
+- Restart / Play / Pause controls work
+- Eliminated riders fade/drop out naturally
+- Team color mapping works reliably
 
-## 🧱 Tech Stack
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+⚠️ KNOWN LIMITATIONS (ACCEPTED FOR NOW)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+- Animation polish can be further refined (rank easing, subtle fades)
+- UI is functional but not yet design-led
+- Only one race/year supported
+- No progress bar yet (planned)
 
-- **React** (functional components, hooks)
-- **Apache ECharts** via `echarts-for-react`
-- Plain JSON data (scraped from Wikipedia)
-- No backend required
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+🧭 AGREED WORKING PRINCIPLES
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+- Small, incremental changes
+- One concern per commit
+- Never mix structural cleanup with logic changes
+- Always pull before starting work
+- Never force-push
+- Trust GitHub Actions for deployment
 
----
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+🎯 NEXT PLANNED STEPS
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+1. Add progress indicator (stage timeline / progress bar)
+2. Improve UI/UX (handoff to UX designer, Figma-based)
+3. Support multiple races and year selection
+4. Polish animation easing and visual hierarchy
 
-## 📂 Key Files
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+🧠 STATE OF MIND CHECK
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+The project is now stable.
+The hard infrastructure problems are solved.
+Remaining work is incremental, visual, and controllable.
 
-src/
-└── components/
-└── GcBarChartRace.jsx   # Main visualization component
-
-public/
-└── data/
-└── tour-2022-wikipedia.json
-
----
-
-## 📊 Data Format
-
-The JSON file must follow this structure:
-
-```json
-{
-  "stages": [
-    {
-      "stage": 1,
-      "riders": [
-        {
-          "rank": 1,
-          "name": "Yves Lampaert",
-          "team": "Quick-Step Alpha Vinyl Team",
-          "time": "15' 17\""
-        }
-      ]
-    }
-  ]
-}
-
-Important assumptions:
-	•	rank === 1 is always the GC leader
-	•	time for non-leaders represents gap to leader
-	•	Only the top 10 riders per stage are used
-
-⸻
-
-▶️ How the Animation Works
-
-Time Model
-	•	The animation is driven by a tick counter
-	•	Each stage transition is split into multiple frames (FRAMES)
-	•	A short intro phase (INTRO_FRAMES) builds the first stage from zero
-
-Interpolation
-	•	Gaps are interpolated linearly between stages
-	•	Riders missing in the next stage are treated as eliminated:
-	•	their gap increases slowly
-	•	their opacity fades to 0
-	•	they drop naturally down the ranking
-
-Sorting
-	•	Riders are sorted explicitly by gap (ascending)
-	•	ECharts is not allowed to auto-sort (realtimeSort is intentionally avoided)
-	•	Category order is fully controlled by React
-
-⸻
-
-🎨 Visual Encoding
-	•	Bar length → time gap to GC leader (seconds)
-	•	Bar colour → team
-	•	Opacity → elimination state
-	•	Labels:
-	•	Bars show rider name + formatted gap
-	•	Y-axis shows team names
-	•	Shadows:
-	•	Soft shadow for depth
-	•	Reduced blur and opacity for calm appearance
-
-⸻
-
-🧩 Controls
-	•	▶ Play — start animation
-	•	⏸ Pause — pause animation
-	•	⟲ Restart — replay from intro
-
-⸻
-
-🚧 Known Limitations / Future Work
-	•	Rank-based easing (leaders move faster than dropped riders)
-	•	Numeric tweening for gap labels (currently frame-based)
-	•	Background banding or grid for readability
-	•	Mobile responsiveness
-	•	Additional races / years
-
-These are intentionally postponed to keep the current version stable.
-
-⸻
-
-🚀 Running Locally
-
-npm install
-npm start
-
-Ensure the JSON file is available at:
-
-public/data/tour-2022-wikipedia.json
-
-
-⸻
-
-🧠 Design Philosophy
-
-This code favors:
-	•	clarity over cleverness
-	•	explicit state over magic
-	•	incremental visual refinement
-
-The project previously suffered from overusing ECharts “bar race” features.
-The current version intentionally avoids those in favor of predictable behavior.
-
-⸻
-
-✅ Status
-
-🟢 Stable
-🟡 Visually good (polish possible)
-🟢 Ready for handoff or extension
-
-⸻
-
-Last updated: pause point after implementing elimination fading and palette softening.
-
----
-
-If/when you come back:
-- you have a **solid baseline**
-- nothing urgent is broken
-- future changes can be made calmly and incrementally
-
-Good call stopping here 👏
+This snapshot marks the end of the “infrastructure pain” phase
+and the beginning of focused product refinement.
