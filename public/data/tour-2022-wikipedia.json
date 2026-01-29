@@ -1,0 +1,1581 @@
+{
+  "race": "tour",
+  "year": 2022,
+  "stages": [
+    {
+      "stage": 1,
+      "riders": [
+        {
+          "rank": 1,
+          "name": "Yves Lampaert",
+          "nationality": "Belgium",
+          "team": "Quick-Step Alpha Vinyl Team",
+          "time": "15' 17\""
+        },
+        {
+          "rank": 2,
+          "name": "Wout van Aert",
+          "nationality": "Belgium",
+          "team": "Team Jumbo–Visma",
+          "time": "+ 5\""
+        },
+        {
+          "rank": 3,
+          "name": "Tadej Pogačar",
+          "nationality": "Slovenia",
+          "team": "UAE Team Emirates",
+          "time": "+ 7\""
+        },
+        {
+          "rank": 4,
+          "name": "Filippo Ganna",
+          "nationality": "Italy",
+          "team": "Ineos Grenadiers",
+          "time": "+ 10\""
+        },
+        {
+          "rank": 5,
+          "name": "Mathieu van der Poel",
+          "nationality": "Netherlands",
+          "team": "Alpecin–Deceuninck",
+          "time": "+ 13\""
+        },
+        {
+          "rank": 6,
+          "name": "Mads Pedersen",
+          "nationality": "Denmark",
+          "team": "Trek–Segafredo",
+          "time": "+ 15\""
+        },
+        {
+          "rank": 7,
+          "name": "Jonas Vingegaard",
+          "nationality": "Denmark",
+          "team": "Team Jumbo–Visma",
+          "time": "+ 15\""
+        },
+        {
+          "rank": 8,
+          "name": "Primož Roglič",
+          "nationality": "Slovenia",
+          "team": "Team Jumbo–Visma",
+          "time": "+ 16\""
+        },
+        {
+          "rank": 9,
+          "name": "Bauke Mollema",
+          "nationality": "Netherlands",
+          "team": "Trek–Segafredo",
+          "time": "+ 17\""
+        },
+        {
+          "rank": 10,
+          "name": "Dylan Teuns",
+          "nationality": "Belgium",
+          "team": "Team Bahrain Victorious",
+          "time": "+ 20\""
+        }
+      ]
+    },
+    {
+      "stage": 2,
+      "riders": [
+        {
+          "rank": 1,
+          "name": "Wout van Aert",
+          "nationality": "Belgium",
+          "team": "Team Jumbo–Visma",
+          "time": "4h 49' 50\""
+        },
+        {
+          "rank": 2,
+          "name": "Yves Lampaert",
+          "nationality": "Belgium",
+          "team": "Quick-Step Alpha Vinyl Team",
+          "time": "+ 1\""
+        },
+        {
+          "rank": 3,
+          "name": "Tadej Pogačar",
+          "nationality": "Slovenia",
+          "team": "UAE Team Emirates",
+          "time": "+ 8\""
+        },
+        {
+          "rank": 4,
+          "name": "Filippo Ganna",
+          "nationality": "Italy",
+          "team": "Ineos Grenadiers",
+          "time": "+ 11\""
+        },
+        {
+          "rank": 5,
+          "name": "Mads Pedersen",
+          "nationality": "Denmark",
+          "team": "Trek–Segafredo",
+          "time": "+ 12\""
+        },
+        {
+          "rank": 6,
+          "name": "Mathieu van der Poel",
+          "nationality": "Netherlands",
+          "team": "Alpecin–Deceuninck",
+          "time": "+ 14\""
+        },
+        {
+          "rank": 7,
+          "name": "Jonas Vingegaard",
+          "nationality": "Denmark",
+          "team": "Team Jumbo–Visma",
+          "time": "+ 16\""
+        },
+        {
+          "rank": 8,
+          "name": "Primož Roglič",
+          "nationality": "Slovenia",
+          "team": "Team Jumbo–Visma",
+          "time": "+ 17\""
+        },
+        {
+          "rank": 9,
+          "name": "Bauke Mollema",
+          "nationality": "Netherlands",
+          "team": "Trek–Segafredo",
+          "time": "+ 18\""
+        },
+        {
+          "rank": 10,
+          "name": "Dylan Teuns",
+          "nationality": "Belgium",
+          "team": "Team Bahrain Victorious",
+          "time": "+ 21\""
+        }
+      ]
+    },
+    {
+      "stage": 3,
+      "riders": [
+        {
+          "rank": 1,
+          "name": "Wout van Aert",
+          "nationality": "Belgium",
+          "team": "Team Jumbo–Visma",
+          "time": "9h 01' 17\""
+        },
+        {
+          "rank": 2,
+          "name": "Yves Lampaert",
+          "nationality": "Belgium",
+          "team": "Quick-Step Alpha Vinyl Team",
+          "time": "+ 7\""
+        },
+        {
+          "rank": 3,
+          "name": "Tadej Pogačar",
+          "nationality": "Slovenia",
+          "team": "UAE Team Emirates",
+          "time": "+ 14\""
+        },
+        {
+          "rank": 4,
+          "name": "Mads Pedersen",
+          "nationality": "Denmark",
+          "team": "Trek–Segafredo",
+          "time": "+ 18\""
+        },
+        {
+          "rank": 5,
+          "name": "Mathieu van der Poel",
+          "nationality": "Netherlands",
+          "team": "Alpecin–Deceuninck",
+          "time": "+ 20\""
+        },
+        {
+          "rank": 6,
+          "name": "Jonas Vingegaard",
+          "nationality": "Denmark",
+          "team": "Team Jumbo–Visma",
+          "time": "+ 22\""
+        },
+        {
+          "rank": 7,
+          "name": "Primož Roglič",
+          "nationality": "Slovenia",
+          "team": "Team Jumbo–Visma",
+          "time": "+ 23\""
+        },
+        {
+          "rank": 8,
+          "name": "Adam Yates",
+          "nationality": "Great Britain",
+          "team": "Ineos Grenadiers",
+          "time": "+ 30\""
+        },
+        {
+          "rank": 9,
+          "name": "Stefan Küng",
+          "nationality": "Switzerland",
+          "team": "Groupama–FDJ",
+          "time": "+ 30\""
+        },
+        {
+          "rank": 10,
+          "name": "Tom Pidcock",
+          "nationality": "Great Britain",
+          "team": "Ineos Grenadiers",
+          "time": "+ 31\""
+        }
+      ]
+    },
+    {
+      "stage": 4,
+      "riders": [
+        {
+          "rank": 1,
+          "name": "Wout van Aert",
+          "nationality": "Belgium",
+          "team": "Team Jumbo–Visma",
+          "time": "13h 02' 43\""
+        },
+        {
+          "rank": 2,
+          "name": "Yves Lampaert",
+          "nationality": "Belgium",
+          "team": "Quick-Step Alpha Vinyl Team",
+          "time": "+ 25\""
+        },
+        {
+          "rank": 3,
+          "name": "Tadej Pogačar",
+          "nationality": "Slovenia",
+          "team": "UAE Team Emirates",
+          "time": "+ 32\""
+        },
+        {
+          "rank": 4,
+          "name": "Mads Pedersen",
+          "nationality": "Denmark",
+          "team": "Trek–Segafredo",
+          "time": "+ 36\""
+        },
+        {
+          "rank": 5,
+          "name": "Mathieu van der Poel",
+          "nationality": "Netherlands",
+          "team": "Alpecin–Deceuninck",
+          "time": "+ 38\""
+        },
+        {
+          "rank": 6,
+          "name": "Jonas Vingegaard",
+          "nationality": "Denmark",
+          "team": "Team Jumbo–Visma",
+          "time": "+ 40\""
+        },
+        {
+          "rank": 7,
+          "name": "Primož Roglič",
+          "nationality": "Slovenia",
+          "team": "Team Jumbo–Visma",
+          "time": "+ 41\""
+        },
+        {
+          "rank": 8,
+          "name": "Adam Yates",
+          "nationality": "Great Britain",
+          "team": "Ineos Grenadiers",
+          "time": "+ 48\""
+        },
+        {
+          "rank": 9,
+          "name": "Stefan Küng",
+          "nationality": "Switzerland",
+          "team": "Groupama–FDJ",
+          "time": "+ 48\""
+        },
+        {
+          "rank": 10,
+          "name": "Tom Pidcock",
+          "nationality": "Great Britain",
+          "team": "Ineos Grenadiers",
+          "time": "+ 49\""
+        }
+      ]
+    },
+    {
+      "stage": 5,
+      "riders": [
+        {
+          "rank": 1,
+          "name": "Wout van Aert",
+          "nationality": "Belgium",
+          "team": "Team Jumbo–Visma",
+          "time": "16h 17' 22\""
+        },
+        {
+          "rank": 2,
+          "name": "Neilson Powless",
+          "nationality": "United States",
+          "team": "EF Education–EasyPost",
+          "time": "+ 13\""
+        },
+        {
+          "rank": 3,
+          "name": "Edvald Boasson Hagen",
+          "nationality": "Norway",
+          "team": "Team TotalEnergies",
+          "time": "+ 14\""
+        },
+        {
+          "rank": 4,
+          "name": "Tadej Pogačar",
+          "nationality": "Slovenia",
+          "team": "UAE Team Emirates",
+          "time": "+ 19\""
+        },
+        {
+          "rank": 5,
+          "name": "Yves Lampaert",
+          "nationality": "Belgium",
+          "team": "Quick-Step Alpha Vinyl Team",
+          "time": "+ 25\""
+        },
+        {
+          "rank": 6,
+          "name": "Mads Pedersen",
+          "nationality": "Denmark",
+          "team": "Trek–Segafredo",
+          "time": "+ 36\""
+        },
+        {
+          "rank": 7,
+          "name": "Jonas Vingegaard",
+          "nationality": "Denmark",
+          "team": "Team Jumbo–Visma",
+          "time": "+ 40\""
+        },
+        {
+          "rank": 8,
+          "name": "Adam Yates",
+          "nationality": "Great Britain",
+          "team": "Ineos Grenadiers",
+          "time": "+ 48\""
+        },
+        {
+          "rank": 9,
+          "name": "Tom Pidcock",
+          "nationality": "Great Britain",
+          "team": "Ineos Grenadiers",
+          "time": "+ 49\""
+        },
+        {
+          "rank": 10,
+          "name": "Geraint Thomas",
+          "nationality": "Great Britain",
+          "team": "Ineos Grenadiers",
+          "time": "+ 50\""
+        }
+      ]
+    },
+    {
+      "stage": 6,
+      "riders": [
+        {
+          "rank": 1,
+          "name": "Tadej Pogačar",
+          "nationality": "Slovenia",
+          "team": "UAE Team Emirates",
+          "time": "20h 44' 44\""
+        },
+        {
+          "rank": 2,
+          "name": "Neilson Powless",
+          "nationality": "United States",
+          "team": "EF Education–EasyPost",
+          "time": "+ 4\""
+        },
+        {
+          "rank": 3,
+          "name": "Jonas Vingegaard",
+          "nationality": "Denmark",
+          "team": "Team Jumbo–Visma",
+          "time": "+ 31\""
+        },
+        {
+          "rank": 4,
+          "name": "Adam Yates",
+          "nationality": "Great Britain",
+          "team": "Ineos Grenadiers",
+          "time": "+ 39\""
+        },
+        {
+          "rank": 5,
+          "name": "Tom Pidcock",
+          "nationality": "Great Britain",
+          "team": "Ineos Grenadiers",
+          "time": "+ 40\""
+        },
+        {
+          "rank": 6,
+          "name": "Geraint Thomas",
+          "nationality": "Great Britain",
+          "team": "Ineos Grenadiers",
+          "time": "+ 46\""
+        },
+        {
+          "rank": 7,
+          "name": "Aleksandr Vlasov",
+          "nationality": "",
+          "team": "Bora–Hansgrohe",
+          "time": "+ 52\""
+        },
+        {
+          "rank": 8,
+          "name": "Daniel Martínez",
+          "nationality": "Colombia",
+          "team": "Ineos Grenadiers",
+          "time": "+ 1' 00\""
+        },
+        {
+          "rank": 9,
+          "name": "Romain Bardet",
+          "nationality": "France",
+          "team": "Team DSM",
+          "time": "+ 1' 01\""
+        },
+        {
+          "rank": 10,
+          "name": "David Gaudu",
+          "nationality": "France",
+          "team": "Groupama–FDJ",
+          "time": "+ 1' 02\""
+        }
+      ]
+    },
+    {
+      "stage": 7,
+      "riders": [
+        {
+          "rank": 1,
+          "name": "Tadej Pogačar",
+          "nationality": "Slovenia",
+          "team": "UAE Team Emirates",
+          "time": "24h 43' 14\""
+        },
+        {
+          "rank": 2,
+          "name": "Jonas Vingegaard",
+          "nationality": "Denmark",
+          "team": "Team Jumbo–Visma",
+          "time": "+ 35\""
+        },
+        {
+          "rank": 3,
+          "name": "Geraint Thomas",
+          "nationality": "Great Britain",
+          "team": "Ineos Grenadiers",
+          "time": "+ 1' 10\""
+        },
+        {
+          "rank": 4,
+          "name": "Adam Yates",
+          "nationality": "Great Britain",
+          "team": "Ineos Grenadiers",
+          "time": "+ 1' 18\""
+        },
+        {
+          "rank": 5,
+          "name": "David Gaudu",
+          "nationality": "France",
+          "team": "Groupama–FDJ",
+          "time": "+ 1' 31\""
+        },
+        {
+          "rank": 6,
+          "name": "Romain Bardet",
+          "nationality": "France",
+          "team": "Team DSM",
+          "time": "+ 1' 32\""
+        },
+        {
+          "rank": 7,
+          "name": "Tom Pidcock",
+          "nationality": "Great Britain",
+          "team": "Ineos Grenadiers",
+          "time": "+ 1' 35\""
+        },
+        {
+          "rank": 8,
+          "name": "Neilson Powless",
+          "nationality": "United States",
+          "team": "EF Education–EasyPost",
+          "time": "+ 1' 37\""
+        },
+        {
+          "rank": 9,
+          "name": "Enric Mas",
+          "nationality": "Spain",
+          "team": "Movistar Team",
+          "time": "+ 1' 43\""
+        },
+        {
+          "rank": 10,
+          "name": "Daniel Martínez",
+          "nationality": "Colombia",
+          "team": "Ineos Grenadiers",
+          "time": "+ 1' 55\""
+        }
+      ]
+    },
+    {
+      "stage": 8,
+      "riders": [
+        {
+          "rank": 1,
+          "name": "Tadej Pogačar",
+          "nationality": "Slovenia",
+          "team": "UAE Team Emirates",
+          "time": "28h 56' 16\""
+        },
+        {
+          "rank": 2,
+          "name": "Jonas Vingegaard",
+          "nationality": "Denmark",
+          "team": "Team Jumbo–Visma",
+          "time": "+ 39\""
+        },
+        {
+          "rank": 3,
+          "name": "Geraint Thomas",
+          "nationality": "Great Britain",
+          "team": "Ineos Grenadiers",
+          "time": "+ 1' 14\""
+        },
+        {
+          "rank": 4,
+          "name": "Adam Yates",
+          "nationality": "Great Britain",
+          "team": "Ineos Grenadiers",
+          "time": "+ 1' 22\""
+        },
+        {
+          "rank": 5,
+          "name": "David Gaudu",
+          "nationality": "France",
+          "team": "Groupama–FDJ",
+          "time": "+ 1' 35\""
+        },
+        {
+          "rank": 6,
+          "name": "Romain Bardet",
+          "nationality": "France",
+          "team": "Team DSM",
+          "time": "+ 1' 36\""
+        },
+        {
+          "rank": 7,
+          "name": "Tom Pidcock",
+          "nationality": "Great Britain",
+          "team": "Ineos Grenadiers",
+          "time": "+ 1' 39\""
+        },
+        {
+          "rank": 8,
+          "name": "Neilson Powless",
+          "nationality": "United States",
+          "team": "EF Education–EasyPost",
+          "time": "+ 1' 41\""
+        },
+        {
+          "rank": 9,
+          "name": "Enric Mas",
+          "nationality": "Spain",
+          "team": "Movistar Team",
+          "time": "+ 1' 47\""
+        },
+        {
+          "rank": 10,
+          "name": "Daniel Martínez",
+          "nationality": "Colombia",
+          "team": "Ineos Grenadiers",
+          "time": "+ 1' 59\""
+        }
+      ]
+    },
+    {
+      "stage": 9,
+      "riders": [
+        {
+          "rank": 1,
+          "name": "Tadej Pogačar",
+          "nationality": "Slovenia",
+          "team": "UAE Team Emirates",
+          "time": "33h 43' 44\""
+        },
+        {
+          "rank": 2,
+          "name": "Jonas Vingegaard",
+          "nationality": "Denmark",
+          "team": "Team Jumbo–Visma",
+          "time": "+ 39\""
+        },
+        {
+          "rank": 3,
+          "name": "Geraint Thomas",
+          "nationality": "Great Britain",
+          "team": "Ineos Grenadiers",
+          "time": "+ 1' 17\""
+        },
+        {
+          "rank": 4,
+          "name": "Adam Yates",
+          "nationality": "Great Britain",
+          "team": "Ineos Grenadiers",
+          "time": "+ 1' 25\""
+        },
+        {
+          "rank": 5,
+          "name": "David Gaudu",
+          "nationality": "France",
+          "team": "Groupama–FDJ",
+          "time": "+ 1' 38\""
+        },
+        {
+          "rank": 6,
+          "name": "Romain Bardet",
+          "nationality": "France",
+          "team": "Team DSM",
+          "time": "+ 1' 39\""
+        },
+        {
+          "rank": 7,
+          "name": "Tom Pidcock",
+          "nationality": "Great Britain",
+          "team": "Ineos Grenadiers",
+          "time": "+ 1' 46\""
+        },
+        {
+          "rank": 8,
+          "name": "Enric Mas",
+          "nationality": "Spain",
+          "team": "Movistar Team",
+          "time": "+ 1' 50\""
+        },
+        {
+          "rank": 9,
+          "name": "Neilson Powless",
+          "nationality": "United States",
+          "team": "EF Education–EasyPost",
+          "time": "+ 1' 55\""
+        },
+        {
+          "rank": 10,
+          "name": "Nairo Quintana",
+          "nationality": "Colombia",
+          "team": "Arkéa–Samsic",
+          "time": "+ 2' 13\""
+        }
+      ]
+    },
+    {
+      "stage": 10,
+      "riders": [
+        {
+          "rank": 1,
+          "name": "Tadej Pogačar",
+          "nationality": "Slovenia",
+          "team": "UAE Team Emirates",
+          "time": "37h 11' 28\""
+        },
+        {
+          "rank": 2,
+          "name": "Lennard Kämna",
+          "nationality": "Germany",
+          "team": "Bora–Hansgrohe",
+          "time": "+ 11\""
+        },
+        {
+          "rank": 3,
+          "name": "Jonas Vingegaard",
+          "nationality": "Denmark",
+          "team": "Team Jumbo–Visma",
+          "time": "+ 39\""
+        },
+        {
+          "rank": 4,
+          "name": "Geraint Thomas",
+          "nationality": "Great Britain",
+          "team": "Ineos Grenadiers",
+          "time": "+ 1' 17\""
+        },
+        {
+          "rank": 5,
+          "name": "Adam Yates",
+          "nationality": "Great Britain",
+          "team": "Ineos Grenadiers",
+          "time": "+ 1' 25\""
+        },
+        {
+          "rank": 6,
+          "name": "David Gaudu",
+          "nationality": "France",
+          "team": "Groupama–FDJ",
+          "time": "+ 1' 38\""
+        },
+        {
+          "rank": 7,
+          "name": "Romain Bardet",
+          "nationality": "France",
+          "team": "Team DSM",
+          "time": "+ 1' 39\""
+        },
+        {
+          "rank": 8,
+          "name": "Tom Pidcock",
+          "nationality": "Great Britain",
+          "team": "Ineos Grenadiers",
+          "time": "+ 1' 46\""
+        },
+        {
+          "rank": 9,
+          "name": "Enric Mas",
+          "nationality": "Spain",
+          "team": "Movistar Team",
+          "time": "+ 1' 50\""
+        },
+        {
+          "rank": 10,
+          "name": "Luis León Sánchez",
+          "nationality": "Spain",
+          "team": "Team Bahrain Victorious",
+          "time": "+ 1' 50\""
+        }
+      ]
+    },
+    {
+      "stage": 11,
+      "riders": [
+        {
+          "rank": 1,
+          "name": "Jonas Vingegaard",
+          "nationality": "Denmark",
+          "team": "Team Jumbo–Visma",
+          "time": "41h 29' 59\""
+        },
+        {
+          "rank": 2,
+          "name": "Romain Bardet",
+          "nationality": "France",
+          "team": "Team DSM",
+          "time": "+ 2' 16\""
+        },
+        {
+          "rank": 3,
+          "name": "Tadej Pogačar",
+          "nationality": "Slovenia",
+          "team": "UAE Team Emirates",
+          "time": "+ 2' 22\""
+        },
+        {
+          "rank": 4,
+          "name": "Geraint Thomas",
+          "nationality": "Great Britain",
+          "team": "Ineos Grenadiers",
+          "time": "+ 2' 26\""
+        },
+        {
+          "rank": 5,
+          "name": "Nairo Quintana",
+          "nationality": "Colombia",
+          "team": "Arkéa–Samsic",
+          "time": "+ 2' 37\""
+        },
+        {
+          "rank": 6,
+          "name": "Adam Yates",
+          "nationality": "Great Britain",
+          "team": "Ineos Grenadiers",
+          "time": "+ 3' 06\""
+        },
+        {
+          "rank": 7,
+          "name": "David Gaudu",
+          "nationality": "France",
+          "team": "Groupama–FDJ",
+          "time": "+ 3' 13\""
+        },
+        {
+          "rank": 8,
+          "name": "Aleksandr Vlasov",
+          "nationality": "",
+          "team": "Bora–Hansgrohe",
+          "time": "+ 7' 23\""
+        },
+        {
+          "rank": 9,
+          "name": "Alexey Lutsenko",
+          "nationality": "Kazakhstan",
+          "team": "Astana Qazaqstan Team",
+          "time": "+ 8' 07\""
+        },
+        {
+          "rank": 10,
+          "name": "Enric Mas",
+          "nationality": "Spain",
+          "team": "Movistar Team",
+          "time": "+ 9' 29\""
+        }
+      ]
+    },
+    {
+      "stage": 12,
+      "riders": [
+        {
+          "rank": 1,
+          "name": "Jonas Vingegaard",
+          "nationality": "Denmark",
+          "team": "Team Jumbo–Visma",
+          "time": "46h 28' 46\""
+        },
+        {
+          "rank": 2,
+          "name": "Tadej Pogačar",
+          "nationality": "Slovenia",
+          "team": "UAE Team Emirates",
+          "time": "+ 2' 22\""
+        },
+        {
+          "rank": 3,
+          "name": "Geraint Thomas",
+          "nationality": "Great Britain",
+          "team": "Ineos Grenadiers",
+          "time": "+ 2' 26\""
+        },
+        {
+          "rank": 4,
+          "name": "Romain Bardet",
+          "nationality": "France",
+          "team": "Team DSM",
+          "time": "+ 2' 35\""
+        },
+        {
+          "rank": 5,
+          "name": "Adam Yates",
+          "nationality": "Great Britain",
+          "team": "Ineos Grenadiers",
+          "time": "+ 3' 44\""
+        },
+        {
+          "rank": 6,
+          "name": "Nairo Quintana",
+          "nationality": "Colombia",
+          "team": "Arkéa–Samsic",
+          "time": "+ 3' 58\""
+        },
+        {
+          "rank": 7,
+          "name": "David Gaudu",
+          "nationality": "France",
+          "team": "Groupama–FDJ",
+          "time": "+ 4' 07\""
+        },
+        {
+          "rank": 8,
+          "name": "Tom Pidcock",
+          "nationality": "Great Britain",
+          "team": "Ineos Grenadiers",
+          "time": "+ 7' 39\""
+        },
+        {
+          "rank": 9,
+          "name": "Enric Mas",
+          "nationality": "Spain",
+          "team": "Movistar Team",
+          "time": "+ 9' 32\""
+        },
+        {
+          "rank": 10,
+          "name": "Aleksandr Vlasov",
+          "nationality": "",
+          "team": "Bora–Hansgrohe",
+          "time": "+ 10' 06\""
+        }
+      ]
+    },
+    {
+      "stage": 13,
+      "riders": [
+        {
+          "rank": 1,
+          "name": "Jonas Vingegaard",
+          "nationality": "Denmark",
+          "team": "Team Jumbo–Visma",
+          "time": "50h 47' 34\""
+        },
+        {
+          "rank": 2,
+          "name": "Tadej Pogačar",
+          "nationality": "Slovenia",
+          "team": "UAE Team Emirates",
+          "time": "+ 2' 22\""
+        },
+        {
+          "rank": 3,
+          "name": "Geraint Thomas",
+          "nationality": "Great Britain",
+          "team": "Ineos Grenadiers",
+          "time": "+ 2' 26\""
+        },
+        {
+          "rank": 4,
+          "name": "Romain Bardet",
+          "nationality": "France",
+          "team": "Team DSM",
+          "time": "+ 2' 35\""
+        },
+        {
+          "rank": 5,
+          "name": "Adam Yates",
+          "nationality": "Great Britain",
+          "team": "Ineos Grenadiers",
+          "time": "+ 3' 44\""
+        },
+        {
+          "rank": 6,
+          "name": "Nairo Quintana",
+          "nationality": "Colombia",
+          "team": "Arkéa–Samsic",
+          "time": "+ 3' 58\""
+        },
+        {
+          "rank": 7,
+          "name": "David Gaudu",
+          "nationality": "France",
+          "team": "Groupama–FDJ",
+          "time": "+ 4' 07\""
+        },
+        {
+          "rank": 8,
+          "name": "Tom Pidcock",
+          "nationality": "Great Britain",
+          "team": "Ineos Grenadiers",
+          "time": "+ 7' 39\""
+        },
+        {
+          "rank": 9,
+          "name": "Enric Mas",
+          "nationality": "Spain",
+          "team": "Movistar Team",
+          "time": "+ 9' 32\""
+        },
+        {
+          "rank": 10,
+          "name": "Aleksandr Vlasov",
+          "nationality": "",
+          "team": "Bora–Hansgrohe",
+          "time": "+ 10' 06\""
+        }
+      ]
+    },
+    {
+      "stage": 14,
+      "riders": [
+        {
+          "rank": 1,
+          "name": "Jonas Vingegaard",
+          "nationality": "Denmark",
+          "team": "Team Jumbo–Visma",
+          "time": "55h 31' 01\""
+        },
+        {
+          "rank": 2,
+          "name": "Tadej Pogačar",
+          "nationality": "Slovenia",
+          "team": "UAE Team Emirates",
+          "time": "+ 2' 22\""
+        },
+        {
+          "rank": 3,
+          "name": "Geraint Thomas",
+          "nationality": "Great Britain",
+          "team": "Ineos Grenadiers",
+          "time": "+ 2' 43\""
+        },
+        {
+          "rank": 4,
+          "name": "Romain Bardet",
+          "nationality": "France",
+          "team": "Team DSM",
+          "time": "+ 3' 01\""
+        },
+        {
+          "rank": 5,
+          "name": "Adam Yates",
+          "nationality": "Great Britain",
+          "team": "Ineos Grenadiers",
+          "time": "+ 4' 06\""
+        },
+        {
+          "rank": 6,
+          "name": "Nairo Quintana",
+          "nationality": "Colombia",
+          "team": "Arkéa–Samsic",
+          "time": "+ 4' 15\""
+        },
+        {
+          "rank": 7,
+          "name": "Louis Meintjes",
+          "nationality": "South Africa",
+          "team": "Intermarché–Wanty–Gobert Matériaux",
+          "time": "+ 4' 24\""
+        },
+        {
+          "rank": 8,
+          "name": "David Gaudu",
+          "nationality": "France",
+          "team": "Groupama–FDJ",
+          "time": "+ 4' 24\""
+        },
+        {
+          "rank": 9,
+          "name": "Tom Pidcock",
+          "nationality": "Great Britain",
+          "team": "Ineos Grenadiers",
+          "time": "+ 8' 49\""
+        },
+        {
+          "rank": 10,
+          "name": "Enric Mas",
+          "nationality": "Spain",
+          "team": "Movistar Team",
+          "time": "+ 9' 58\""
+        }
+      ]
+    },
+    {
+      "stage": 15,
+      "riders": [
+        {
+          "rank": 1,
+          "name": "Jonas Vingegaard",
+          "nationality": "Denmark",
+          "team": "Team Jumbo–Visma",
+          "time": "59h 58' 28\""
+        },
+        {
+          "rank": 2,
+          "name": "Tadej Pogačar",
+          "nationality": "Slovenia",
+          "team": "UAE Team Emirates",
+          "time": "+ 2' 22\""
+        },
+        {
+          "rank": 3,
+          "name": "Geraint Thomas",
+          "nationality": "Great Britain",
+          "team": "Ineos Grenadiers",
+          "time": "+ 2' 43\""
+        },
+        {
+          "rank": 4,
+          "name": "Romain Bardet",
+          "nationality": "France",
+          "team": "Team DSM",
+          "time": "+ 3' 01\""
+        },
+        {
+          "rank": 5,
+          "name": "Adam Yates",
+          "nationality": "Great Britain",
+          "team": "Ineos Grenadiers",
+          "time": "+ 4' 06\""
+        },
+        {
+          "rank": 6,
+          "name": "Nairo Quintana",
+          "nationality": "Colombia",
+          "team": "Arkéa–Samsic",
+          "time": "+ 4' 15\""
+        },
+        {
+          "rank": 7,
+          "name": "Louis Meintjes",
+          "nationality": "South Africa",
+          "team": "Intermarché–Wanty–Gobert Matériaux",
+          "time": "+ 4' 24\""
+        },
+        {
+          "rank": 8,
+          "name": "David Gaudu",
+          "nationality": "France",
+          "team": "Groupama–FDJ",
+          "time": "+ 4' 24\""
+        },
+        {
+          "rank": 9,
+          "name": "Tom Pidcock",
+          "nationality": "Great Britain",
+          "team": "Ineos Grenadiers",
+          "time": "+ 8' 49\""
+        },
+        {
+          "rank": 10,
+          "name": "Enric Mas",
+          "nationality": "Spain",
+          "team": "Movistar Team",
+          "time": "+ 9' 58\""
+        }
+      ]
+    },
+    {
+      "stage": 16,
+      "riders": [
+        {
+          "rank": 1,
+          "name": "Jonas Vingegaard",
+          "nationality": "Denmark",
+          "team": "Team Jumbo–Visma",
+          "time": "64h 28' 09\""
+        },
+        {
+          "rank": 2,
+          "name": "Tadej Pogačar",
+          "nationality": "Slovenia",
+          "team": "UAE Team Emirates",
+          "time": "+ 2' 22\""
+        },
+        {
+          "rank": 3,
+          "name": "Geraint Thomas",
+          "nationality": "Great Britain",
+          "team": "Ineos Grenadiers",
+          "time": "+ 2' 43\""
+        },
+        {
+          "rank": 4,
+          "name": "Nairo Quintana",
+          "nationality": "Colombia",
+          "team": "Arkéa–Samsic",
+          "time": "+ 4' 15\""
+        },
+        {
+          "rank": 5,
+          "name": "David Gaudu",
+          "nationality": "France",
+          "team": "Groupama–FDJ",
+          "time": "+ 4' 24\""
+        },
+        {
+          "rank": 6,
+          "name": "Adam Yates",
+          "nationality": "Great Britain",
+          "team": "Ineos Grenadiers",
+          "time": "+ 5' 28\""
+        },
+        {
+          "rank": 7,
+          "name": "Louis Meintjes",
+          "nationality": "South Africa",
+          "team": "Intermarché–Wanty–Gobert Matériaux",
+          "time": "+ 5' 46\""
+        },
+        {
+          "rank": 8,
+          "name": "Aleksandr Vlasov",
+          "nationality": "",
+          "team": "Bora–Hansgrohe",
+          "time": "+ 6' 18\""
+        },
+        {
+          "rank": 9,
+          "name": "Romain Bardet",
+          "nationality": "France",
+          "team": "Team DSM",
+          "time": "+ 6' 37\""
+        },
+        {
+          "rank": 10,
+          "name": "Tom Pidcock",
+          "nationality": "Great Britain",
+          "team": "Ineos Grenadiers",
+          "time": "+ 10' 11\""
+        }
+      ]
+    },
+    {
+      "stage": 17,
+      "riders": [
+        {
+          "rank": 1,
+          "name": "Jonas Vingegaard",
+          "nationality": "Denmark",
+          "team": "Team Jumbo–Visma",
+          "time": "67h 53' 54\""
+        },
+        {
+          "rank": 2,
+          "name": "Tadej Pogačar",
+          "nationality": "Slovenia",
+          "team": "UAE Team Emirates",
+          "time": "+ 2' 18\""
+        },
+        {
+          "rank": 3,
+          "name": "Geraint Thomas",
+          "nationality": "Great Britain",
+          "team": "Ineos Grenadiers",
+          "time": "+ 4' 56\""
+        },
+        {
+          "rank": 4,
+          "name": "Nairo Quintana",
+          "nationality": "Colombia",
+          "team": "Arkéa–Samsic",
+          "time": "+ 7' 53\""
+        },
+        {
+          "rank": 5,
+          "name": "David Gaudu",
+          "nationality": "France",
+          "team": "Groupama–FDJ",
+          "time": "+ 7' 57\""
+        },
+        {
+          "rank": 6,
+          "name": "Romain Bardet",
+          "nationality": "France",
+          "team": "Team DSM",
+          "time": "+ 9' 21\""
+        },
+        {
+          "rank": 7,
+          "name": "Louis Meintjes",
+          "nationality": "South Africa",
+          "team": "Intermarché–Wanty–Gobert Matériaux",
+          "time": "+ 9' 24\""
+        },
+        {
+          "rank": 8,
+          "name": "Aleksandr Vlasov",
+          "nationality": "",
+          "team": "Bora–Hansgrohe",
+          "time": "+ 9' 56\""
+        },
+        {
+          "rank": 9,
+          "name": "Adam Yates",
+          "nationality": "Great Britain",
+          "team": "Ineos Grenadiers",
+          "time": "+ 14' 33\""
+        },
+        {
+          "rank": 10,
+          "name": "Enric Mas",
+          "nationality": "Spain",
+          "team": "Movistar Team",
+          "time": "+ 16' 35\""
+        }
+      ]
+    },
+    {
+      "stage": 18,
+      "riders": [
+        {
+          "rank": 1,
+          "name": "Jonas Vingegaard",
+          "nationality": "Denmark",
+          "team": "Team Jumbo–Visma",
+          "time": "71h 53' 34\""
+        },
+        {
+          "rank": 2,
+          "name": "Tadej Pogačar",
+          "nationality": "Slovenia",
+          "team": "UAE Team Emirates",
+          "time": "+ 3' 26\""
+        },
+        {
+          "rank": 3,
+          "name": "Geraint Thomas",
+          "nationality": "Great Britain",
+          "team": "Ineos Grenadiers",
+          "time": "+ 8' 00\""
+        },
+        {
+          "rank": 4,
+          "name": "David Gaudu",
+          "nationality": "France",
+          "team": "Groupama–FDJ",
+          "time": "+ 11' 05\""
+        },
+        {
+          "rank": 5,
+          "name": "Nairo Quintana",
+          "nationality": "Colombia",
+          "team": "Arkéa–Samsic",
+          "time": "+ 13' 35\""
+        },
+        {
+          "rank": 6,
+          "name": "Louis Meintjes",
+          "nationality": "South Africa",
+          "team": "Intermarché–Wanty–Gobert Matériaux",
+          "time": "+ 13' 43\""
+        },
+        {
+          "rank": 7,
+          "name": "Aleksandr Vlasov",
+          "nationality": "",
+          "team": "Bora–Hansgrohe",
+          "time": "+ 14' 10\""
+        },
+        {
+          "rank": 8,
+          "name": "Romain Bardet",
+          "nationality": "France",
+          "team": "Team DSM",
+          "time": "+ 16' 11\""
+        },
+        {
+          "rank": 9,
+          "name": "Alexey Lutsenko",
+          "nationality": "Kazakhstan",
+          "team": "Astana Qazaqstan Team",
+          "time": "+ 20' 09\""
+        },
+        {
+          "rank": 10,
+          "name": "Adam Yates",
+          "nationality": "Great Britain",
+          "team": "Ineos Grenadiers",
+          "time": "+ 20' 17\""
+        }
+      ]
+    },
+    {
+      "stage": 19,
+      "riders": [
+        {
+          "rank": 1,
+          "name": "Jonas Vingegaard",
+          "nationality": "Denmark",
+          "team": "Team Jumbo–Visma",
+          "time": "75h 45' 34\""
+        },
+        {
+          "rank": 2,
+          "name": "Tadej Pogačar",
+          "nationality": "Slovenia",
+          "team": "UAE Team Emirates",
+          "time": "+ 3' 26\""
+        },
+        {
+          "rank": 3,
+          "name": "Geraint Thomas",
+          "nationality": "Great Britain",
+          "team": "Ineos Grenadiers",
+          "time": "+ 8' 00\""
+        },
+        {
+          "rank": 4,
+          "name": "David Gaudu",
+          "nationality": "France",
+          "team": "Groupama–FDJ",
+          "time": "+ 11' 05\""
+        },
+        {
+          "rank": 5,
+          "name": "Nairo Quintana",
+          "nationality": "Colombia",
+          "team": "Arkéa–Samsic",
+          "time": "+ 13' 35\""
+        },
+        {
+          "rank": 6,
+          "name": "Louis Meintjes",
+          "nationality": "South Africa",
+          "team": "Intermarché–Wanty–Gobert Matériaux",
+          "time": "+ 13' 43\""
+        },
+        {
+          "rank": 7,
+          "name": "Aleksandr Vlasov",
+          "nationality": "",
+          "team": "Bora–Hansgrohe",
+          "time": "+ 14' 10\""
+        },
+        {
+          "rank": 8,
+          "name": "Romain Bardet",
+          "nationality": "France",
+          "team": "Team DSM",
+          "time": "+ 16' 11\""
+        },
+        {
+          "rank": 9,
+          "name": "Alexey Lutsenko",
+          "nationality": "Kazakhstan",
+          "team": "Astana Qazaqstan Team",
+          "time": "+ 20' 24\""
+        },
+        {
+          "rank": 10,
+          "name": "Adam Yates",
+          "nationality": "Great Britain",
+          "team": "Ineos Grenadiers",
+          "time": "+ 20' 32\""
+        }
+      ]
+    },
+    {
+      "stage": 20,
+      "riders": [
+        {
+          "rank": 1,
+          "name": "Jonas Vingegaard",
+          "nationality": "Denmark",
+          "team": "Team Jumbo–Visma",
+          "time": "76h 33' 57\""
+        },
+        {
+          "rank": 2,
+          "name": "Tadej Pogačar",
+          "nationality": "Slovenia",
+          "team": "UAE Team Emirates",
+          "time": "+ 3' 34\""
+        },
+        {
+          "rank": 3,
+          "name": "Geraint Thomas",
+          "nationality": "Great Britain",
+          "team": "Ineos Grenadiers",
+          "time": "+ 8' 13\""
+        },
+        {
+          "rank": 4,
+          "name": "David Gaudu",
+          "nationality": "France",
+          "team": "Groupama–FDJ",
+          "time": "+ 13' 56\""
+        },
+        {
+          "rank": 5,
+          "name": "Aleksandr Vlasov",
+          "nationality": "",
+          "team": "Bora–Hansgrohe",
+          "time": "+ 16' 37\""
+        },
+        {
+          "rank": 6,
+          "name": "Nairo Quintana",
+          "nationality": "Colombia",
+          "team": "Arkéa–Samsic",
+          "time": "+ 17' 24\""
+        },
+        {
+          "rank": 7,
+          "name": "Romain Bardet",
+          "nationality": "France",
+          "team": "Team DSM",
+          "time": "+ 19' 02\""
+        },
+        {
+          "rank": 8,
+          "name": "Louis Meintjes",
+          "nationality": "South Africa",
+          "team": "Intermarché–Wanty–Gobert Matériaux",
+          "time": "+ 19' 12\""
+        },
+        {
+          "rank": 9,
+          "name": "Alexey Lutsenko",
+          "nationality": "Kazakhstan",
+          "team": "Astana Qazaqstan Team",
+          "time": "+ 23' 47\""
+        },
+        {
+          "rank": 10,
+          "name": "Adam Yates",
+          "nationality": "Great Britain",
+          "team": "Ineos Grenadiers",
+          "time": "+ 25' 43\""
+        }
+      ]
+    },
+    {
+      "stage": 21,
+      "riders": [
+        {
+          "rank": 1,
+          "name": "Jonas Vingegaard",
+          "nationality": "Denmark",
+          "team": "Team Jumbo–Visma",
+          "time": "79h 33' 20\""
+        },
+        {
+          "rank": 2,
+          "name": "Tadej Pogačar",
+          "nationality": "Slovenia",
+          "team": "UAE Team Emirates",
+          "time": "+ 2' 43\""
+        },
+        {
+          "rank": 3,
+          "name": "Geraint Thomas",
+          "nationality": "Great Britain",
+          "team": "Ineos Grenadiers",
+          "time": "+ 7' 22\""
+        },
+        {
+          "rank": 4,
+          "name": "David Gaudu",
+          "nationality": "France",
+          "team": "Groupama–FDJ",
+          "time": "+ 13' 39\""
+        },
+        {
+          "rank": 5,
+          "name": "Aleksandr Vlasov",
+          "nationality": "",
+          "team": "Bora–Hansgrohe",
+          "time": "+ 15' 46\""
+        },
+        {
+          "rank": 6,
+          "name": "Nairo Quintana",
+          "nationality": "Colombia",
+          "team": "Arkéa–Samsic",
+          "time": "+ 16' 33\""
+        },
+        {
+          "rank": 7,
+          "name": "Romain Bardet",
+          "nationality": "France",
+          "team": "Team DSM",
+          "time": "+ 18' 11\""
+        },
+        {
+          "rank": 8,
+          "name": "Louis Meintjes",
+          "nationality": "South Africa",
+          "team": "Intermarché–Wanty–Gobert Matériaux",
+          "time": "+ 19' 12\""
+        },
+        {
+          "rank": 9,
+          "name": "Alexey Lutsenko",
+          "nationality": "Kazakhstan",
+          "team": "Astana Qazaqstan Team",
+          "time": "+ 22' 56\""
+        },
+        {
+          "rank": 10,
+          "name": "Adam Yates",
+          "nationality": "Great Britain",
+          "team": "Ineos Grenadiers",
+          "time": "+ 24' 52\""
+        }
+      ]
+    }
+  ]
+}
