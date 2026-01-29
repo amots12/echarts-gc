@@ -101,7 +101,7 @@ export default function GcBarChartRace() {
   /* ---------- LOAD DATA ---------- */
 
   useEffect(() => {
-    fetch("/data/tour-2022-wikipedia.json")
+    fetch(process.env.PUBLIC_URL + "/data/tour-2022-wikipedia.json")
       .then(r => r.json())
       .then(d => setStages(d.stages));
   }, []);
