@@ -1,0 +1,1306 @@
+{
+  "race": "Tour de France",
+  "year": 2025,
+  "stages": [
+    {
+      "stage": 1,
+      "riders": [
+        {
+          "rank": 1,
+          "name": "Jasper Philipsen",
+          "team": "Alpecin–Deceuninck",
+          "time": "3h 53' 01\""
+        },
+        {
+          "rank": 2,
+          "name": "Biniam Girmay",
+          "team": "Intermarché–Wanty",
+          "time": "+ 4\""
+        },
+        {
+          "rank": 3,
+          "name": "Søren Wærenskjold",
+          "team": "Uno-X Mobility",
+          "time": "+ 6\""
+        },
+        {
+          "rank": 4,
+          "name": "Anthony Turgis",
+          "team": "Team TotalEnergies",
+          "time": "+ 10\""
+        },
+        {
+          "rank": 5,
+          "name": "Matteo Trentin",
+          "team": "Tudor Pro Cycling Team",
+          "time": "+ 10\""
+        },
+        {
+          "rank": 6,
+          "name": "Clément Russo",
+          "team": "Groupama–FDJ",
+          "time": "+ 10\""
+        },
+        {
+          "rank": 7,
+          "name": "Paul Penhoët",
+          "team": "Groupama–FDJ",
+          "time": "+ 10\""
+        },
+        {
+          "rank": 8,
+          "name": "Matteo Jorgenson",
+          "team": "Visma–Lease a Bike",
+          "time": "+ 10\""
+        },
+        {
+          "rank": 9,
+          "name": "Marius Mayrhofer",
+          "team": "Tudor Pro Cycling Team",
+          "time": "+ 10\""
+        },
+        {
+          "rank": 10,
+          "name": "Samuel Watson",
+          "team": "Ineos Grenadiers",
+          "time": "+ 10\""
+        }
+      ]
+    },
+    {
+      "stage": 2,
+      "riders": [
+        {
+          "rank": 1,
+          "name": "Mathieu van der Poel",
+          "team": "Alpecin–Deceuninck",
+          "time": "8h 38' 42\""
+        },
+        {
+          "rank": 2,
+          "name": "Tadej Pogačar",
+          "team": "UAE Team Emirates XRG",
+          "time": "+ 4\""
+        },
+        {
+          "rank": 3,
+          "name": "Jonas Vingegaard",
+          "team": "Visma–Lease a Bike",
+          "time": "+ 6\""
+        },
+        {
+          "rank": 4,
+          "name": "Kévin Vauquelin",
+          "team": "Arkéa–B&B Hotels",
+          "time": "+ 10\""
+        },
+        {
+          "rank": 5,
+          "name": "Matteo Jorgenson",
+          "team": "Visma–Lease a Bike",
+          "time": "+ 10\""
+        },
+        {
+          "rank": 6,
+          "name": "Enric Mas",
+          "team": "Movistar Team",
+          "time": "+ 10\""
+        },
+        {
+          "rank": 7,
+          "name": "Jasper Philipsen",
+          "team": "Alpecin–Deceuninck",
+          "time": "+ 31\""
+        },
+        {
+          "rank": 8,
+          "name": "Joseph Blackmore",
+          "team": "Israel–Premier Tech",
+          "time": "+ 41\""
+        },
+        {
+          "rank": 9,
+          "name": "Tobias Halland Johannessen",
+          "team": "Uno-X Mobility",
+          "time": "+ 41\""
+        },
+        {
+          "rank": 10,
+          "name": "Ben O'Connor",
+          "team": "Team Jayco–AlUla",
+          "time": "+ 41\""
+        }
+      ]
+    },
+    {
+      "stage": 3,
+      "riders": [
+        {
+          "rank": 1,
+          "name": "Mathieu van der Poel",
+          "team": "Alpecin–Deceuninck",
+          "time": "12h 55' 37\""
+        },
+        {
+          "rank": 2,
+          "name": "Tadej Pogačar",
+          "team": "UAE Team Emirates XRG",
+          "time": "+ 4\""
+        },
+        {
+          "rank": 3,
+          "name": "Jonas Vingegaard",
+          "team": "Visma–Lease a Bike",
+          "time": "+ 6\""
+        },
+        {
+          "rank": 4,
+          "name": "Kévin Vauquelin",
+          "team": "Arkéa–B&B Hotels",
+          "time": "+ 10\""
+        },
+        {
+          "rank": 5,
+          "name": "Matteo Jorgenson",
+          "team": "Visma–Lease a Bike",
+          "time": "+ 10\""
+        },
+        {
+          "rank": 6,
+          "name": "Enric Mas",
+          "team": "Movistar Team",
+          "time": "+ 10\""
+        },
+        {
+          "rank": 7,
+          "name": "Joseph Blackmore",
+          "team": "Israel–Premier Tech",
+          "time": "+ 41\""
+        },
+        {
+          "rank": 8,
+          "name": "Tobias Halland Johannessen",
+          "team": "Uno-X Mobility",
+          "time": "+ 41\""
+        },
+        {
+          "rank": 9,
+          "name": "Ben O'Connor",
+          "team": "Team Jayco–AlUla",
+          "time": "+ 41\""
+        },
+        {
+          "rank": 10,
+          "name": "Emanuel Buchmann",
+          "team": "Cofidis",
+          "time": "+ 49\""
+        }
+      ]
+    },
+    {
+      "stage": 4,
+      "riders": [
+        {
+          "rank": 1,
+          "name": "Mathieu van der Poel",
+          "team": "Alpecin–Deceuninck",
+          "time": "16h 46' 00\""
+        },
+        {
+          "rank": 2,
+          "name": "Tadej Pogačar",
+          "team": "UAE Team Emirates XRG",
+          "time": "+ 0\""
+        },
+        {
+          "rank": 3,
+          "name": "Jonas Vingegaard",
+          "team": "Visma–Lease a Bike",
+          "time": "+ 8\""
+        },
+        {
+          "rank": 4,
+          "name": "Matteo Jorgenson",
+          "team": "Visma–Lease a Bike",
+          "time": "+ 19\""
+        },
+        {
+          "rank": 5,
+          "name": "Kévin Vauquelin",
+          "team": "Arkéa–B&B Hotels",
+          "time": "+ 26\""
+        },
+        {
+          "rank": 6,
+          "name": "Enric Mas",
+          "team": "Movistar Team",
+          "time": "+ 48\""
+        },
+        {
+          "rank": 7,
+          "name": "Oscar Onley",
+          "team": "Team Picnic–PostNL",
+          "time": "+ 55\""
+        },
+        {
+          "rank": 8,
+          "name": "João Almeida",
+          "team": "UAE Team Emirates XRG",
+          "time": "+ 55\""
+        },
+        {
+          "rank": 9,
+          "name": "Remco Evenepoel",
+          "team": "Soudal–Quick-Step",
+          "time": "+ 58\""
+        },
+        {
+          "rank": 10,
+          "name": "Mattias Skjelmose",
+          "team": "Lidl–Trek",
+          "time": "+ 1' 02\""
+        }
+      ]
+    },
+    {
+      "stage": 5,
+      "riders": [
+        {
+          "rank": 1,
+          "name": "Tadej Pogačar",
+          "team": "UAE Team Emirates XRG",
+          "time": "17h 22' 58\""
+        },
+        {
+          "rank": 2,
+          "name": "Remco Evenepoel",
+          "team": "Soudal–Quick-Step",
+          "time": "+ 42\""
+        },
+        {
+          "rank": 3,
+          "name": "Kévin Vauquelin",
+          "team": "Arkéa–B&B Hotels",
+          "time": "+ 59\""
+        },
+        {
+          "rank": 4,
+          "name": "Jonas Vingegaard",
+          "team": "Visma–Lease a Bike",
+          "time": "+ 1' 13\""
+        },
+        {
+          "rank": 5,
+          "name": "Matteo Jorgenson",
+          "team": "Visma–Lease a Bike",
+          "time": "+ 1' 22\""
+        },
+        {
+          "rank": 6,
+          "name": "Mathieu van der Poel",
+          "team": "Alpecin–Deceuninck",
+          "time": "+ 1' 28\""
+        },
+        {
+          "rank": 7,
+          "name": "João Almeida",
+          "team": "UAE Team Emirates XRG",
+          "time": "+ 1' 53\""
+        },
+        {
+          "rank": 8,
+          "name": "Primož Roglič",
+          "team": "Red Bull–Bora–Hansgrohe",
+          "time": "+ 2' 30\""
+        },
+        {
+          "rank": 9,
+          "name": "Florian Lipowitz",
+          "team": "Red Bull–Bora–Hansgrohe",
+          "time": "+ 2' 31\""
+        },
+        {
+          "rank": 10,
+          "name": "Mattias Skjelmose",
+          "team": "Lidl–Trek",
+          "time": "+ 2' 32\""
+        }
+      ]
+    },
+    {
+      "stage": 6,
+      "riders": [
+        {
+          "rank": 1,
+          "name": "Mathieu van der Poel",
+          "team": "Alpecin–Deceuninck",
+          "time": "21h 52' 34\""
+        },
+        {
+          "rank": 2,
+          "name": "Tadej Pogačar",
+          "team": "UAE Team Emirates XRG",
+          "time": "+ 1\""
+        },
+        {
+          "rank": 3,
+          "name": "Remco Evenepoel",
+          "team": "Soudal–Quick-Step",
+          "time": "+ 43\""
+        },
+        {
+          "rank": 4,
+          "name": "Kévin Vauquelin",
+          "team": "Arkéa–B&B Hotels",
+          "time": "+ 1' 00\""
+        },
+        {
+          "rank": 5,
+          "name": "Jonas Vingegaard",
+          "team": "Visma–Lease a Bike",
+          "time": "+ 1' 14\""
+        },
+        {
+          "rank": 6,
+          "name": "Matteo Jorgenson",
+          "team": "Visma–Lease a Bike",
+          "time": "+ 1' 23\""
+        },
+        {
+          "rank": 7,
+          "name": "João Almeida",
+          "team": "UAE Team Emirates XRG",
+          "time": "+ 1' 59\""
+        },
+        {
+          "rank": 8,
+          "name": "Ben Healy",
+          "team": "EF Education–EasyPost",
+          "time": "+ 2' 01\""
+        },
+        {
+          "rank": 9,
+          "name": "Florian Lipowitz",
+          "team": "Red Bull–Bora–Hansgrohe",
+          "time": "+ 2' 32\""
+        },
+        {
+          "rank": 10,
+          "name": "Primož Roglič",
+          "team": "Red Bull–Bora–Hansgrohe",
+          "time": "+ 2' 36\""
+        }
+      ]
+    },
+    {
+      "stage": 7,
+      "riders": [
+        {
+          "rank": 1,
+          "name": "Tadej Pogačar",
+          "team": "UAE Team Emirates XRG",
+          "time": "25h 58' 04\""
+        },
+        {
+          "rank": 2,
+          "name": "Remco Evenepoel",
+          "team": "Soudal–Quick-Step",
+          "time": "+ 54\""
+        },
+        {
+          "rank": 3,
+          "name": "Kévin Vauquelin",
+          "team": "Arkéa–B&B Hotels",
+          "time": "+ 1' 11\""
+        },
+        {
+          "rank": 4,
+          "name": "Jonas Vingegaard",
+          "team": "Visma–Lease a Bike",
+          "time": "+ 1' 17\""
+        },
+        {
+          "rank": 5,
+          "name": "Mathieu van der Poel",
+          "team": "Alpecin–Deceuninck",
+          "time": "+ 1' 29\""
+        },
+        {
+          "rank": 6,
+          "name": "Matteo Jorgenson",
+          "team": "Visma–Lease a Bike",
+          "time": "+ 1' 34\""
+        },
+        {
+          "rank": 7,
+          "name": "Oscar Onley",
+          "team": "Team Picnic–PostNL",
+          "time": "+ 2' 49\""
+        },
+        {
+          "rank": 8,
+          "name": "Florian Lipowitz",
+          "team": "Red Bull–Bora–Hansgrohe",
+          "time": "+ 3' 02\""
+        },
+        {
+          "rank": 9,
+          "name": "Primož Roglič",
+          "team": "Red Bull–Bora–Hansgrohe",
+          "time": "+ 3' 06\""
+        },
+        {
+          "rank": 10,
+          "name": "Mattias Skjelmose",
+          "team": "Lidl–Trek",
+          "time": "+ 3' 43\""
+        }
+      ]
+    },
+    {
+      "stage": 8,
+      "riders": [
+        {
+          "rank": 1,
+          "name": "Tadej Pogačar",
+          "team": "UAE Team Emirates XRG",
+          "time": "29h 48' 30\""
+        },
+        {
+          "rank": 2,
+          "name": "Remco Evenepoel",
+          "team": "Soudal–Quick-Step",
+          "time": "+ 54\""
+        },
+        {
+          "rank": 3,
+          "name": "Kévin Vauquelin",
+          "team": "Arkéa–B&B Hotels",
+          "time": "+ 1' 11\""
+        },
+        {
+          "rank": 4,
+          "name": "Jonas Vingegaard",
+          "team": "Visma–Lease a Bike",
+          "time": "+ 1' 17\""
+        },
+        {
+          "rank": 5,
+          "name": "Mathieu van der Poel",
+          "team": "Alpecin–Deceuninck",
+          "time": "+ 1' 29\""
+        },
+        {
+          "rank": 6,
+          "name": "Matteo Jorgenson",
+          "team": "Visma–Lease a Bike",
+          "time": "+ 1' 34\""
+        },
+        {
+          "rank": 7,
+          "name": "Oscar Onley",
+          "team": "Team Picnic–PostNL",
+          "time": "+ 2' 49\""
+        },
+        {
+          "rank": 8,
+          "name": "Florian Lipowitz",
+          "team": "Red Bull–Bora–Hansgrohe",
+          "time": "+ 3' 02\""
+        },
+        {
+          "rank": 9,
+          "name": "Primož Roglič",
+          "team": "Red Bull–Bora–Hansgrohe",
+          "time": "+ 3' 06\""
+        },
+        {
+          "rank": 10,
+          "name": "Mattias Skjelmose",
+          "team": "Lidl–Trek",
+          "time": "+ 3' 43\""
+        }
+      ]
+    },
+    {
+      "stage": 9,
+      "riders": [
+        {
+          "rank": 1,
+          "name": "Tadej Pogačar",
+          "team": "UAE Team Emirates XRG",
+          "time": "33h 17' 22\""
+        },
+        {
+          "rank": 2,
+          "name": "Remco Evenepoel",
+          "team": "Soudal–Quick-Step",
+          "time": "+ 54\""
+        },
+        {
+          "rank": 3,
+          "name": "Kévin Vauquelin",
+          "team": "Arkéa–B&B Hotels",
+          "time": "+ 1' 11\""
+        },
+        {
+          "rank": 4,
+          "name": "Jonas Vingegaard",
+          "team": "Visma–Lease a Bike",
+          "time": "+ 1' 17\""
+        },
+        {
+          "rank": 5,
+          "name": "Matteo Jorgenson",
+          "team": "Visma–Lease a Bike",
+          "time": "+ 1' 34\""
+        },
+        {
+          "rank": 6,
+          "name": "Mathieu van der Poel",
+          "team": "Alpecin–Deceuninck",
+          "time": "+ 1' 46\""
+        },
+        {
+          "rank": 7,
+          "name": "Oscar Onley",
+          "team": "Team Picnic–PostNL",
+          "time": "+ 2' 49\""
+        },
+        {
+          "rank": 8,
+          "name": "Florian Lipowitz",
+          "team": "Red Bull–Bora–Hansgrohe",
+          "time": "+ 3' 02\""
+        },
+        {
+          "rank": 9,
+          "name": "Primož Roglič",
+          "team": "Red Bull–Bora–Hansgrohe",
+          "time": "+ 3' 06\""
+        },
+        {
+          "rank": 10,
+          "name": "Mattias Skjelmose",
+          "team": "Lidl–Trek",
+          "time": "+ 3' 43\""
+        }
+      ]
+    },
+    {
+      "stage": 10,
+      "riders": [
+        {
+          "rank": 1,
+          "name": "Ben Healy",
+          "team": "EF Education–EasyPost",
+          "time": "37h 41' 49\""
+        },
+        {
+          "rank": 2,
+          "name": "Tadej Pogačar",
+          "team": "UAE Team Emirates XRG",
+          "time": "+ 29\""
+        },
+        {
+          "rank": 3,
+          "name": "Remco Evenepoel",
+          "team": "Soudal–Quick-Step",
+          "time": "+ 1' 29\""
+        },
+        {
+          "rank": 4,
+          "name": "Jonas Vingegaard",
+          "team": "Visma–Lease a Bike",
+          "time": "+ 1' 46\""
+        },
+        {
+          "rank": 5,
+          "name": "Matteo Jorgenson",
+          "team": "Visma–Lease a Bike",
+          "time": "+ 2' 06\""
+        },
+        {
+          "rank": 6,
+          "name": "Kévin Vauquelin",
+          "team": "Arkéa–B&B Hotels",
+          "time": "+ 2' 26\""
+        },
+        {
+          "rank": 7,
+          "name": "Oscar Onley",
+          "team": "Team Picnic–PostNL",
+          "time": "+ 3' 24\""
+        },
+        {
+          "rank": 8,
+          "name": "Florian Lipowitz",
+          "team": "Red Bull–Bora–Hansgrohe",
+          "time": "+ 3' 34\""
+        },
+        {
+          "rank": 9,
+          "name": "Primož Roglič",
+          "team": "Red Bull–Bora–Hansgrohe",
+          "time": "+ 3' 41\""
+        },
+        {
+          "rank": 10,
+          "name": "Tobias Halland Johannessen",
+          "team": "Uno-X Mobility",
+          "time": "+ 5' 03\""
+        }
+      ]
+    },
+    {
+      "stage": 11,
+      "riders": [
+        {
+          "rank": 1,
+          "name": "Ben Healy",
+          "team": "EF Education–EasyPost",
+          "time": "41h 01' 13\""
+        },
+        {
+          "rank": 2,
+          "name": "Tadej Pogačar",
+          "team": "UAE Team Emirates XRG",
+          "time": "+ 29\""
+        },
+        {
+          "rank": 3,
+          "name": "Remco Evenepoel",
+          "team": "Soudal–Quick-Step",
+          "time": "+ 1' 29\""
+        },
+        {
+          "rank": 4,
+          "name": "Jonas Vingegaard",
+          "team": "Visma–Lease a Bike",
+          "time": "+ 1' 46\""
+        },
+        {
+          "rank": 5,
+          "name": "Matteo Jorgenson",
+          "team": "Visma–Lease a Bike",
+          "time": "+ 2' 06\""
+        },
+        {
+          "rank": 6,
+          "name": "Kévin Vauquelin",
+          "team": "Arkéa–B&B Hotels",
+          "time": "+ 2' 26\""
+        },
+        {
+          "rank": 7,
+          "name": "Oscar Onley",
+          "team": "Team Picnic–PostNL",
+          "time": "+ 3' 24\""
+        },
+        {
+          "rank": 8,
+          "name": "Florian Lipowitz",
+          "team": "Red Bull–Bora–Hansgrohe",
+          "time": "+ 3' 34\""
+        },
+        {
+          "rank": 9,
+          "name": "Primož Roglič",
+          "team": "Red Bull–Bora–Hansgrohe",
+          "time": "+ 3' 41\""
+        },
+        {
+          "rank": 10,
+          "name": "Tobias Halland Johannessen",
+          "team": "Uno-X Mobility",
+          "time": "+ 5' 03\""
+        }
+      ]
+    },
+    {
+      "stage": 12,
+      "riders": [
+        {
+          "rank": 1,
+          "name": "Tadej Pogačar",
+          "team": "UAE Team Emirates XRG",
+          "time": "45h 22' 51\""
+        },
+        {
+          "rank": 2,
+          "name": "Jonas Vingegaard",
+          "team": "Visma–Lease a Bike",
+          "time": "+ 3' 31\""
+        },
+        {
+          "rank": 3,
+          "name": "Remco Evenepoel",
+          "team": "Soudal–Quick-Step",
+          "time": "+ 4' 45\""
+        },
+        {
+          "rank": 4,
+          "name": "Florian Lipowitz",
+          "team": "Red Bull–Bora–Hansgrohe",
+          "time": "+ 5' 34\""
+        },
+        {
+          "rank": 5,
+          "name": "Kévin Vauquelin",
+          "team": "Arkéa–B&B Hotels",
+          "time": "+ 5' 40\""
+        },
+        {
+          "rank": 6,
+          "name": "Oscar Onley",
+          "team": "Team Picnic–PostNL",
+          "time": "+ 6' 05\""
+        },
+        {
+          "rank": 7,
+          "name": "Primož Roglič",
+          "team": "Red Bull–Bora–Hansgrohe",
+          "time": "+ 7' 30\""
+        },
+        {
+          "rank": 8,
+          "name": "Tobias Halland Johannessen",
+          "team": "Uno-X Mobility",
+          "time": "+ 7' 44\""
+        },
+        {
+          "rank": 9,
+          "name": "Felix Gall",
+          "team": "Decathlon–AG2R La Mondiale",
+          "time": "+ 9' 21\""
+        },
+        {
+          "rank": 10,
+          "name": "Matteo Jorgenson",
+          "team": "Visma–Lease a Bike",
+          "time": "+ 12' 12\""
+        }
+      ]
+    },
+    {
+      "stage": 13,
+      "riders": [
+        {
+          "rank": 1,
+          "name": "Tadej Pogačar",
+          "team": "UAE Team Emirates XRG",
+          "time": "45h 45' 51\""
+        },
+        {
+          "rank": 2,
+          "name": "Jonas Vingegaard",
+          "team": "Visma–Lease a Bike",
+          "time": "+ 4' 07\""
+        },
+        {
+          "rank": 3,
+          "name": "Remco Evenepoel",
+          "team": "Soudal–Quick-Step",
+          "time": "+ 7' 24\""
+        },
+        {
+          "rank": 4,
+          "name": "Florian Lipowitz",
+          "team": "Red Bull–Bora–Hansgrohe",
+          "time": "+ 7' 30\""
+        },
+        {
+          "rank": 5,
+          "name": "Oscar Onley",
+          "team": "Team Picnic–PostNL",
+          "time": "+ 8' 11\""
+        },
+        {
+          "rank": 6,
+          "name": "Kévin Vauquelin",
+          "team": "Arkéa–B&B Hotels",
+          "time": "+ 8' 15\""
+        },
+        {
+          "rank": 7,
+          "name": "Primož Roglič",
+          "team": "Red Bull–Bora–Hansgrohe",
+          "time": "+ 8' 50\""
+        },
+        {
+          "rank": 8,
+          "name": "Tobias Halland Johannessen",
+          "team": "Uno-X Mobility",
+          "time": "+ 10' 36\""
+        },
+        {
+          "rank": 9,
+          "name": "Felix Gall",
+          "team": "Decathlon–AG2R La Mondiale",
+          "time": "+ 11' 43\""
+        },
+        {
+          "rank": 10,
+          "name": "Matteo Jorgenson",
+          "team": "Visma–Lease a Bike",
+          "time": "+ 14' 15\""
+        }
+      ]
+    },
+    {
+      "stage": 14,
+      "riders": [
+        {
+          "rank": 1,
+          "name": "Tadej Pogačar",
+          "team": "UAE Team Emirates XRG",
+          "time": "50h 40' 28\""
+        },
+        {
+          "rank": 2,
+          "name": "Jonas Vingegaard",
+          "team": "Visma–Lease a Bike",
+          "time": "+ 4' 13\""
+        },
+        {
+          "rank": 3,
+          "name": "Florian Lipowitz",
+          "team": "Red Bull–Bora–Hansgrohe",
+          "time": "+ 7' 53\""
+        },
+        {
+          "rank": 4,
+          "name": "Oscar Onley",
+          "team": "Team Picnic–PostNL",
+          "time": "+ 9' 18\""
+        },
+        {
+          "rank": 5,
+          "name": "Kévin Vauquelin",
+          "team": "Arkéa–B&B Hotels",
+          "time": "+ 10' 21\""
+        },
+        {
+          "rank": 6,
+          "name": "Primož Roglič",
+          "team": "Red Bull–Bora–Hansgrohe",
+          "time": "+ 10' 34\""
+        },
+        {
+          "rank": 7,
+          "name": "Felix Gall",
+          "team": "Decathlon–AG2R La Mondiale",
+          "time": "+ 12' 00\""
+        },
+        {
+          "rank": 8,
+          "name": "Tobias Halland Johannessen",
+          "team": "Uno-X Mobility",
+          "time": "+ 12' 33\""
+        },
+        {
+          "rank": 9,
+          "name": "Ben Healy",
+          "team": "EF Education–EasyPost",
+          "time": "+ 18' 41\""
+        },
+        {
+          "rank": 10,
+          "name": "Carlos Rodríguez",
+          "team": "Ineos Grenadiers",
+          "time": "+ 22' 57\""
+        }
+      ]
+    },
+    {
+      "stage": 15,
+      "riders": [
+        {
+          "rank": 1,
+          "name": "Tadej Pogačar",
+          "team": "UAE Team Emirates XRG",
+          "time": "54h 20' 44\""
+        },
+        {
+          "rank": 2,
+          "name": "Jonas Vingegaard",
+          "team": "Visma–Lease a Bike",
+          "time": "+ 4' 13\""
+        },
+        {
+          "rank": 3,
+          "name": "Florian Lipowitz",
+          "team": "Red Bull–Bora–Hansgrohe",
+          "time": "+ 7' 53\""
+        },
+        {
+          "rank": 4,
+          "name": "Oscar Onley",
+          "team": "Team Picnic–PostNL",
+          "time": "+ 9' 18\""
+        },
+        {
+          "rank": 5,
+          "name": "Kévin Vauquelin",
+          "team": "Arkéa–B&B Hotels",
+          "time": "+ 10' 21\""
+        },
+        {
+          "rank": 6,
+          "name": "Primož Roglič",
+          "team": "Red Bull–Bora–Hansgrohe",
+          "time": "+ 10' 34\""
+        },
+        {
+          "rank": 7,
+          "name": "Felix Gall",
+          "team": "Decathlon–AG2R La Mondiale",
+          "time": "+ 12' 00\""
+        },
+        {
+          "rank": 8,
+          "name": "Tobias Halland Johannessen",
+          "team": "Uno-X Mobility",
+          "time": "+ 12' 33\""
+        },
+        {
+          "rank": 9,
+          "name": "Carlos Rodríguez",
+          "team": "Ineos Grenadiers",
+          "time": "+ 18' 26\""
+        },
+        {
+          "rank": 10,
+          "name": "Ben Healy",
+          "team": "EF Education–EasyPost",
+          "time": "+ 18' 41\""
+        }
+      ]
+    },
+    {
+      "stage": 16,
+      "riders": [
+        {
+          "rank": 1,
+          "name": "Tadej Pogačar",
+          "team": "UAE Team Emirates XRG",
+          "time": "58h 24' 46\""
+        },
+        {
+          "rank": 2,
+          "name": "Jonas Vingegaard",
+          "team": "Visma–Lease a Bike",
+          "time": "+ 4' 15\""
+        },
+        {
+          "rank": 3,
+          "name": "Florian Lipowitz",
+          "team": "Red Bull–Bora–Hansgrohe",
+          "time": "+ 9' 03\""
+        },
+        {
+          "rank": 4,
+          "name": "Oscar Onley",
+          "team": "Team Picnic–PostNL",
+          "time": "+ 11' 04\""
+        },
+        {
+          "rank": 5,
+          "name": "Primož Roglič",
+          "team": "Red Bull–Bora–Hansgrohe",
+          "time": "+ 11' 42\""
+        },
+        {
+          "rank": 6,
+          "name": "Kévin Vauquelin",
+          "team": "Arkéa–B&B Hotels",
+          "time": "+ 13' 20\""
+        },
+        {
+          "rank": 7,
+          "name": "Felix Gall",
+          "team": "Decathlon–AG2R La Mondiale",
+          "time": "+ 14' 50\""
+        },
+        {
+          "rank": 8,
+          "name": "Tobias Halland Johannessen",
+          "team": "Uno-X Mobility",
+          "time": "+ 17' 01\""
+        },
+        {
+          "rank": 9,
+          "name": "Ben Healy",
+          "team": "EF Education–EasyPost",
+          "time": "+ 17' 52\""
+        },
+        {
+          "rank": 10,
+          "name": "Carlos Rodríguez",
+          "team": "Ineos Grenadiers",
+          "time": "+ 20' 45\""
+        }
+      ]
+    },
+    {
+      "stage": 17,
+      "riders": [
+        {
+          "rank": 1,
+          "name": "Tadej Pogačar",
+          "team": "UAE Team Emirates XRG",
+          "time": "61h 51' 25\""
+        },
+        {
+          "rank": 2,
+          "name": "Jonas Vingegaard",
+          "team": "Visma–Lease a Bike",
+          "time": "+ 4' 15\""
+        },
+        {
+          "rank": 3,
+          "name": "Florian Lipowitz",
+          "team": "Red Bull–Bora–Hansgrohe",
+          "time": "+ 9' 03\""
+        },
+        {
+          "rank": 4,
+          "name": "Oscar Onley",
+          "team": "Team Picnic–PostNL",
+          "time": "+ 11' 04\""
+        },
+        {
+          "rank": 5,
+          "name": "Primož Roglič",
+          "team": "Red Bull–Bora–Hansgrohe",
+          "time": "+ 11' 42\""
+        },
+        {
+          "rank": 6,
+          "name": "Kévin Vauquelin",
+          "team": "Arkéa–B&B Hotels",
+          "time": "+ 13' 20\""
+        },
+        {
+          "rank": 7,
+          "name": "Felix Gall",
+          "team": "Decathlon–AG2R La Mondiale",
+          "time": "+ 14' 50\""
+        },
+        {
+          "rank": 8,
+          "name": "Tobias Halland Johannessen",
+          "team": "Uno-X Mobility",
+          "time": "+ 17' 01\""
+        },
+        {
+          "rank": 9,
+          "name": "Ben Healy",
+          "team": "EF Education–EasyPost",
+          "time": "+ 17' 52\""
+        },
+        {
+          "rank": 10,
+          "name": "Carlos Rodríguez",
+          "team": "Ineos Grenadiers",
+          "time": "+ 20' 45\""
+        }
+      ]
+    },
+    {
+      "stage": 18,
+      "riders": [
+        {
+          "rank": 1,
+          "name": "Tadej Pogačar",
+          "team": "UAE Team Emirates XRG",
+          "time": "66h 55' 42\""
+        },
+        {
+          "rank": 2,
+          "name": "Jonas Vingegaard",
+          "team": "Visma–Lease a Bike",
+          "time": "+ 4' 26\""
+        },
+        {
+          "rank": 3,
+          "name": "Florian Lipowitz",
+          "team": "Red Bull–Bora–Hansgrohe",
+          "time": "+ 11' 01\""
+        },
+        {
+          "rank": 4,
+          "name": "Oscar Onley",
+          "team": "Team Picnic–PostNL",
+          "time": "+ 11' 23\""
+        },
+        {
+          "rank": 5,
+          "name": "Primož Roglič",
+          "team": "Red Bull–Bora–Hansgrohe",
+          "time": "+ 12' 49\""
+        },
+        {
+          "rank": 6,
+          "name": "Felix Gall",
+          "team": "Decathlon–AG2R La Mondiale",
+          "time": "+ 15' 36\""
+        },
+        {
+          "rank": 7,
+          "name": "Kévin Vauquelin",
+          "team": "Arkéa–B&B Hotels",
+          "time": "+ 16' 15\""
+        },
+        {
+          "rank": 8,
+          "name": "Tobias Halland Johannessen",
+          "team": "Uno-X Mobility",
+          "time": "+ 18' 31\""
+        },
+        {
+          "rank": 9,
+          "name": "Ben Healy",
+          "team": "EF Education–EasyPost",
+          "time": "+ 25' 41\""
+        },
+        {
+          "rank": 10,
+          "name": "Ben O'Connor",
+          "team": "Team Jayco–AlUla",
+          "time": "+ 29' 19\""
+        }
+      ]
+    },
+    {
+      "stage": 19,
+      "riders": [
+        {
+          "rank": 1,
+          "name": "Tadej Pogačar",
+          "team": "UAE Team Emirates XRG",
+          "time": "69h 41' 46\""
+        },
+        {
+          "rank": 2,
+          "name": "Jonas Vingegaard",
+          "team": "Visma–Lease a Bike",
+          "time": "+ 4' 24\""
+        },
+        {
+          "rank": 3,
+          "name": "Florian Lipowitz",
+          "team": "Red Bull–Bora–Hansgrohe",
+          "time": "+ 11' 09\""
+        },
+        {
+          "rank": 4,
+          "name": "Oscar Onley",
+          "team": "Team Picnic–PostNL",
+          "time": "+ 12' 12\""
+        },
+        {
+          "rank": 5,
+          "name": "Felix Gall",
+          "team": "Decathlon–AG2R La Mondiale",
+          "time": "+ 17' 12\""
+        },
+        {
+          "rank": 6,
+          "name": "Tobias Halland Johannessen",
+          "team": "Uno-X Mobility",
+          "time": "+ 20' 14\""
+        },
+        {
+          "rank": 7,
+          "name": "Kévin Vauquelin",
+          "team": "Arkéa–B&B Hotels",
+          "time": "+ 22' 35\""
+        },
+        {
+          "rank": 8,
+          "name": "Primož Roglič",
+          "team": "Red Bull–Bora–Hansgrohe",
+          "time": "+ 25' 30\""
+        },
+        {
+          "rank": 9,
+          "name": "Ben Healy",
+          "team": "EF Education–EasyPost",
+          "time": "+ 28' 02\""
+        },
+        {
+          "rank": 10,
+          "name": "Ben O'Connor",
+          "team": "Team Jayco–AlUla",
+          "time": "+ 34' 34\""
+        }
+      ]
+    },
+    {
+      "stage": 20,
+      "riders": [
+        {
+          "rank": 1,
+          "name": "Tadej Pogačar",
+          "team": "UAE Team Emirates XRG",
+          "time": "73h 54' 59\""
+        },
+        {
+          "rank": 2,
+          "name": "Jonas Vingegaard",
+          "team": "Visma–Lease a Bike",
+          "time": "+ 4' 24\""
+        },
+        {
+          "rank": 3,
+          "name": "Florian Lipowitz",
+          "team": "Red Bull–Bora–Hansgrohe",
+          "time": "+ 11' 09\""
+        },
+        {
+          "rank": 4,
+          "name": "Oscar Onley",
+          "team": "Team Picnic–PostNL",
+          "time": "+ 12' 12\""
+        },
+        {
+          "rank": 5,
+          "name": "Felix Gall",
+          "team": "Decathlon–AG2R La Mondiale",
+          "time": "+ 17' 12\""
+        },
+        {
+          "rank": 6,
+          "name": "Tobias Halland Johannessen",
+          "team": "Uno-X Mobility",
+          "time": "+ 20' 14\""
+        },
+        {
+          "rank": 7,
+          "name": "Kévin Vauquelin",
+          "team": "Arkéa–B&B Hotels",
+          "time": "+ 22' 35\""
+        },
+        {
+          "rank": 8,
+          "name": "Primož Roglič",
+          "team": "Red Bull–Bora–Hansgrohe",
+          "time": "+ 25' 30\""
+        },
+        {
+          "rank": 9,
+          "name": "Ben Healy",
+          "team": "EF Education–EasyPost",
+          "time": "+ 28' 02\""
+        },
+        {
+          "rank": 10,
+          "name": "Jordan Jegat",
+          "team": "Team TotalEnergies",
+          "time": "+ 32' 42\""
+        }
+      ]
+    }
+  ]
+}

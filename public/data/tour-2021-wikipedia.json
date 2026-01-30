@@ -1,0 +1,1371 @@
+{
+  "race": "Tour de France",
+  "year": 2021,
+  "stages": [
+    {
+      "stage": 1,
+      "riders": [
+        {
+          "rank": 1,
+          "name": "Julian Alaphilippe",
+          "team": "Deceuninck–Quick-Step",
+          "time": "4h 38' 55\""
+        },
+        {
+          "rank": 2,
+          "name": "Michael Matthews",
+          "team": "Team BikeExchange",
+          "time": "+ 12\""
+        },
+        {
+          "rank": 3,
+          "name": "Primož Roglič",
+          "team": "Team Jumbo–Visma",
+          "time": "+ 14\""
+        },
+        {
+          "rank": 4,
+          "name": "Jack Haig",
+          "team": "Team Bahrain Victorious",
+          "time": "+ 18\""
+        },
+        {
+          "rank": 5,
+          "name": "Wilco Kelderman",
+          "team": "Bora–Hansgrohe",
+          "time": "+ 18\""
+        },
+        {
+          "rank": 6,
+          "name": "Tadej Pogačar",
+          "team": "UAE Team Emirates",
+          "time": "+ 18\""
+        },
+        {
+          "rank": 7,
+          "name": "David Gaudu",
+          "team": "Groupama–FDJ",
+          "time": "+ 18\""
+        },
+        {
+          "rank": 8,
+          "name": "Sergio Higuita",
+          "team": "EF Education–Nippo",
+          "time": "+ 18\""
+        },
+        {
+          "rank": 9,
+          "name": "Bauke Mollema",
+          "team": "Trek–Segafredo",
+          "time": "+ 18\""
+        },
+        {
+          "rank": 10,
+          "name": "Geraint Thomas",
+          "team": "Ineos Grenadiers",
+          "time": "+ 18\""
+        }
+      ]
+    },
+    {
+      "stage": 2,
+      "riders": [
+        {
+          "rank": 1,
+          "name": "Mathieu van der Poel",
+          "team": "Alpecin–Fenix",
+          "time": "8h 57' 25\""
+        },
+        {
+          "rank": 2,
+          "name": "Julian Alaphilippe",
+          "team": "Deceuninck–Quick-Step",
+          "time": "+ 8\""
+        },
+        {
+          "rank": 3,
+          "name": "Tadej Pogačar",
+          "team": "UAE Team Emirates",
+          "time": "+ 13\""
+        },
+        {
+          "rank": 4,
+          "name": "Primož Roglič",
+          "team": "Team Jumbo–Visma",
+          "time": "+ 14\""
+        },
+        {
+          "rank": 5,
+          "name": "Wilco Kelderman",
+          "team": "Bora–Hansgrohe",
+          "time": "+ 24\""
+        },
+        {
+          "rank": 6,
+          "name": "Jack Haig",
+          "team": "Team Bahrain Victorious",
+          "time": "+ 26\""
+        },
+        {
+          "rank": 7,
+          "name": "Bauke Mollema",
+          "team": "Trek–Segafredo",
+          "time": "+ 26\""
+        },
+        {
+          "rank": 8,
+          "name": "Sergio Higuita",
+          "team": "EF Education–Nippo",
+          "time": "+ 26\""
+        },
+        {
+          "rank": 9,
+          "name": "Jonas Vingegaard",
+          "team": "Team Jumbo–Visma",
+          "time": "+ 26\""
+        },
+        {
+          "rank": 10,
+          "name": "David Gaudu",
+          "team": "Groupama–FDJ",
+          "time": "+ 26\""
+        }
+      ]
+    },
+    {
+      "stage": 3,
+      "riders": [
+        {
+          "rank": 1,
+          "name": "Mathieu van der Poel",
+          "team": "Alpecin–Fenix",
+          "time": "12h 58' 53\""
+        },
+        {
+          "rank": 2,
+          "name": "Julian Alaphilippe",
+          "team": "Deceuninck–Quick-Step",
+          "time": "+ 8\""
+        },
+        {
+          "rank": 3,
+          "name": "Richard Carapaz",
+          "team": "Ineos Grenadiers",
+          "time": "+ 31\""
+        },
+        {
+          "rank": 4,
+          "name": "Wout van Aert",
+          "team": "Team Jumbo–Visma",
+          "time": "+ 31\""
+        },
+        {
+          "rank": 5,
+          "name": "Wilco Kelderman",
+          "team": "Bora–Hansgrohe",
+          "time": "+ 38\""
+        },
+        {
+          "rank": 6,
+          "name": "Tadej Pogačar",
+          "team": "UAE Team Emirates",
+          "time": "+ 39\""
+        },
+        {
+          "rank": 7,
+          "name": "Enric Mas",
+          "team": "Movistar Team",
+          "time": "+ 40\""
+        },
+        {
+          "rank": 8,
+          "name": "Nairo Quintana",
+          "team": "Arkéa–Samsic",
+          "time": "+ 40\""
+        },
+        {
+          "rank": 9,
+          "name": "Pierre Latour",
+          "team": "Team TotalEnergies",
+          "time": "+ 45\""
+        },
+        {
+          "rank": 10,
+          "name": "Sergio Higuita",
+          "team": "EF Education–Nippo",
+          "time": "+ 52\""
+        }
+      ]
+    },
+    {
+      "stage": 4,
+      "riders": [
+        {
+          "rank": 1,
+          "name": "Mathieu van der Poel",
+          "team": "Alpecin–Fenix",
+          "time": "16h 19' 10\""
+        },
+        {
+          "rank": 2,
+          "name": "Julian Alaphilippe",
+          "team": "Deceuninck–Quick-Step",
+          "time": "+ 8\""
+        },
+        {
+          "rank": 3,
+          "name": "Richard Carapaz",
+          "team": "Ineos Grenadiers",
+          "time": "+ 31\""
+        },
+        {
+          "rank": 4,
+          "name": "Wout van Aert",
+          "team": "Team Jumbo–Visma",
+          "time": "+ 31\""
+        },
+        {
+          "rank": 5,
+          "name": "Wilco Kelderman",
+          "team": "Bora–Hansgrohe",
+          "time": "+ 38\""
+        },
+        {
+          "rank": 6,
+          "name": "Tadej Pogačar",
+          "team": "UAE Team Emirates",
+          "time": "+ 39\""
+        },
+        {
+          "rank": 7,
+          "name": "Enric Mas",
+          "team": "Movistar Team",
+          "time": "+ 40\""
+        },
+        {
+          "rank": 8,
+          "name": "Nairo Quintana",
+          "team": "Arkéa–Samsic",
+          "time": "+ 40\""
+        },
+        {
+          "rank": 9,
+          "name": "Pierre Latour",
+          "team": "Team TotalEnergies",
+          "time": "+ 45\""
+        },
+        {
+          "rank": 10,
+          "name": "David Gaudu",
+          "team": "Groupama–FDJ",
+          "time": "+ 52\""
+        }
+      ]
+    },
+    {
+      "stage": 5,
+      "riders": [
+        {
+          "rank": 1,
+          "name": "Mathieu van der Poel",
+          "team": "Alpecin–Fenix",
+          "time": "16h 51' 41\""
+        },
+        {
+          "rank": 2,
+          "name": "Tadej Pogačar",
+          "team": "UAE Team Emirates",
+          "time": "+ 8\""
+        },
+        {
+          "rank": 3,
+          "name": "Wout van Aert",
+          "team": "Team Jumbo–Visma",
+          "time": "+ 30\""
+        },
+        {
+          "rank": 4,
+          "name": "Julian Alaphilippe",
+          "team": "Deceuninck–Quick-Step",
+          "time": "+ 48\""
+        },
+        {
+          "rank": 5,
+          "name": "Alexey Lutsenko",
+          "team": "Astana–Premier Tech",
+          "time": "+ 1' 21\""
+        },
+        {
+          "rank": 6,
+          "name": "Pierre Latour",
+          "team": "Team TotalEnergies",
+          "time": "+ 1' 28\""
+        },
+        {
+          "rank": 7,
+          "name": "Rigoberto Urán",
+          "team": "EF Education–Nippo",
+          "time": "+ 1' 29\""
+        },
+        {
+          "rank": 8,
+          "name": "Jonas Vingegaard",
+          "team": "Team Jumbo–Visma",
+          "time": "+ 1' 43\""
+        },
+        {
+          "rank": 9,
+          "name": "Richard Carapaz",
+          "team": "Ineos Grenadiers",
+          "time": "+ 1' 44\""
+        },
+        {
+          "rank": 10,
+          "name": "Primož Roglič",
+          "team": "Team Jumbo–Visma",
+          "time": "+ 1' 48\""
+        }
+      ]
+    },
+    {
+      "stage": 6,
+      "riders": [
+        {
+          "rank": 1,
+          "name": "Mathieu van der Poel",
+          "team": "Alpecin–Fenix",
+          "time": "20h 09' 17\""
+        },
+        {
+          "rank": 2,
+          "name": "Tadej Pogačar",
+          "team": "UAE Team Emirates",
+          "time": "+ 8\""
+        },
+        {
+          "rank": 3,
+          "name": "Wout van Aert",
+          "team": "Team Jumbo–Visma",
+          "time": "+ 30\""
+        },
+        {
+          "rank": 4,
+          "name": "Julian Alaphilippe",
+          "team": "Deceuninck–Quick-Step",
+          "time": "+ 48\""
+        },
+        {
+          "rank": 5,
+          "name": "Alexey Lutsenko",
+          "team": "Astana–Premier Tech",
+          "time": "+ 1' 21\""
+        },
+        {
+          "rank": 6,
+          "name": "Pierre Latour",
+          "team": "Team TotalEnergies",
+          "time": "+ 1' 28\""
+        },
+        {
+          "rank": 7,
+          "name": "Rigoberto Urán",
+          "team": "EF Education–Nippo",
+          "time": "+ 1' 29\""
+        },
+        {
+          "rank": 8,
+          "name": "Jonas Vingegaard",
+          "team": "Team Jumbo–Visma",
+          "time": "+ 1' 43\""
+        },
+        {
+          "rank": 9,
+          "name": "Richard Carapaz",
+          "team": "Ineos Grenadiers",
+          "time": "+ 1' 44\""
+        },
+        {
+          "rank": 10,
+          "name": "Primož Roglič",
+          "team": "Team Jumbo–Visma",
+          "time": "+ 1' 48\""
+        }
+      ]
+    },
+    {
+      "stage": 7,
+      "riders": [
+        {
+          "rank": 1,
+          "name": "Mathieu van der Poel",
+          "team": "Alpecin–Fenix",
+          "time": "25h 39' 17\""
+        },
+        {
+          "rank": 2,
+          "name": "Wout van Aert",
+          "team": "Team Jumbo–Visma",
+          "time": "+ 30\""
+        },
+        {
+          "rank": 3,
+          "name": "Kasper Asgreen",
+          "team": "Deceuninck–Quick-Step",
+          "time": "+ 1' 49\""
+        },
+        {
+          "rank": 4,
+          "name": "Matej Mohorič",
+          "team": "Team Bahrain Victorious",
+          "time": "+ 3' 01\""
+        },
+        {
+          "rank": 5,
+          "name": "Tadej Pogačar",
+          "team": "UAE Team Emirates",
+          "time": "+ 3' 43\""
+        },
+        {
+          "rank": 6,
+          "name": "Vincenzo Nibali",
+          "team": "Trek–Segafredo",
+          "time": "+ 4' 12\""
+        },
+        {
+          "rank": 7,
+          "name": "Julian Alaphilippe",
+          "team": "Deceuninck–Quick-Step",
+          "time": "+ 4' 23\""
+        },
+        {
+          "rank": 8,
+          "name": "Alexey Lutsenko",
+          "team": "Astana–Premier Tech",
+          "time": "+ 4' 56\""
+        },
+        {
+          "rank": 9,
+          "name": "Pierre Latour",
+          "team": "Team TotalEnergies",
+          "time": "+ 5' 03\""
+        },
+        {
+          "rank": 10,
+          "name": "Rigoberto Urán",
+          "team": "EF Education–Nippo",
+          "time": "+ 5' 04\""
+        }
+      ]
+    },
+    {
+      "stage": 8,
+      "riders": [
+        {
+          "rank": 1,
+          "name": "Tadej Pogačar",
+          "team": "UAE Team Emirates",
+          "time": "29h 38' 25\""
+        },
+        {
+          "rank": 2,
+          "name": "Wout van Aert",
+          "team": "Team Jumbo–Visma",
+          "time": "+ 1' 48\""
+        },
+        {
+          "rank": 3,
+          "name": "Alexey Lutsenko",
+          "team": "Astana–Premier Tech",
+          "time": "+ 4' 38\""
+        },
+        {
+          "rank": 4,
+          "name": "Rigoberto Urán",
+          "team": "EF Education–Nippo",
+          "time": "+ 4' 46\""
+        },
+        {
+          "rank": 5,
+          "name": "Jonas Vingegaard",
+          "team": "Team Jumbo–Visma",
+          "time": "+ 5' 00\""
+        },
+        {
+          "rank": 6,
+          "name": "Richard Carapaz",
+          "team": "Ineos Grenadiers",
+          "time": "+ 5' 01\""
+        },
+        {
+          "rank": 7,
+          "name": "Wilco Kelderman",
+          "team": "Bora–Hansgrohe",
+          "time": "+ 5' 13\""
+        },
+        {
+          "rank": 8,
+          "name": "Enric Mas",
+          "team": "Movistar Team",
+          "time": "+ 5' 15\""
+        },
+        {
+          "rank": 9,
+          "name": "David Gaudu",
+          "team": "Groupama–FDJ",
+          "time": "+ 5' 52\""
+        },
+        {
+          "rank": 10,
+          "name": "Pello Bilbao",
+          "team": "Team Bahrain Victorious",
+          "time": "+ 6' 41\""
+        }
+      ]
+    },
+    {
+      "stage": 9,
+      "riders": [
+        {
+          "rank": 1,
+          "name": "Tadej Pogačar",
+          "team": "UAE Team Emirates",
+          "time": "34h 11' 10\""
+        },
+        {
+          "rank": 2,
+          "name": "Ben O'Connor",
+          "team": "AG2R Citroën Team",
+          "time": "+ 2' 01\""
+        },
+        {
+          "rank": 3,
+          "name": "Rigoberto Urán",
+          "team": "EF Education–Nippo",
+          "time": "+ 5' 18\""
+        },
+        {
+          "rank": 4,
+          "name": "Jonas Vingegaard",
+          "team": "Team Jumbo–Visma",
+          "time": "+ 5' 32\""
+        },
+        {
+          "rank": 5,
+          "name": "Richard Carapaz",
+          "team": "Ineos Grenadiers",
+          "time": "+ 5' 33\""
+        },
+        {
+          "rank": 6,
+          "name": "Enric Mas",
+          "team": "Movistar Team",
+          "time": "+ 5' 47\""
+        },
+        {
+          "rank": 7,
+          "name": "Wilco Kelderman",
+          "team": "Bora–Hansgrohe",
+          "time": "+ 5' 58\""
+        },
+        {
+          "rank": 8,
+          "name": "Alexey Lutsenko",
+          "team": "Astana–Premier Tech",
+          "time": "+ 6' 12\""
+        },
+        {
+          "rank": 9,
+          "name": "Guillaume Martin",
+          "team": "Cofidis",
+          "time": "+ 7' 02\""
+        },
+        {
+          "rank": 10,
+          "name": "David Gaudu",
+          "team": "Groupama–FDJ",
+          "time": "+ 7' 22\""
+        }
+      ]
+    },
+    {
+      "stage": 10,
+      "riders": [
+        {
+          "rank": 1,
+          "name": "Tadej Pogačar",
+          "team": "UAE Team Emirates",
+          "time": "38h 25' 17\""
+        },
+        {
+          "rank": 2,
+          "name": "Ben O'Connor",
+          "team": "AG2R Citroën Team",
+          "time": "+ 2' 01\""
+        },
+        {
+          "rank": 3,
+          "name": "Rigoberto Urán",
+          "team": "EF Education–Nippo",
+          "time": "+ 5' 18\""
+        },
+        {
+          "rank": 4,
+          "name": "Jonas Vingegaard",
+          "team": "Team Jumbo–Visma",
+          "time": "+ 5' 32\""
+        },
+        {
+          "rank": 5,
+          "name": "Richard Carapaz",
+          "team": "Ineos Grenadiers",
+          "time": "+ 5' 33\""
+        },
+        {
+          "rank": 6,
+          "name": "Enric Mas",
+          "team": "Movistar Team",
+          "time": "+ 5' 47\""
+        },
+        {
+          "rank": 7,
+          "name": "Wilco Kelderman",
+          "team": "Bora–Hansgrohe",
+          "time": "+ 5' 58\""
+        },
+        {
+          "rank": 8,
+          "name": "Alexey Lutsenko",
+          "team": "Astana–Premier Tech",
+          "time": "+ 6' 12\""
+        },
+        {
+          "rank": 9,
+          "name": "Guillaume Martin",
+          "team": "Cofidis",
+          "time": "+ 7' 02\""
+        },
+        {
+          "rank": 10,
+          "name": "David Gaudu",
+          "team": "Groupama–FDJ",
+          "time": "+ 7' 22\""
+        }
+      ]
+    },
+    {
+      "stage": 11,
+      "riders": [
+        {
+          "rank": 1,
+          "name": "Tadej Pogačar",
+          "team": "UAE Team Emirates",
+          "time": "43h 44' 38\""
+        },
+        {
+          "rank": 2,
+          "name": "Rigoberto Urán",
+          "team": "EF Education–Nippo",
+          "time": "+ 5' 18\""
+        },
+        {
+          "rank": 3,
+          "name": "Jonas Vingegaard",
+          "team": "Team Jumbo–Visma",
+          "time": "+ 5' 32\""
+        },
+        {
+          "rank": 4,
+          "name": "Richard Carapaz",
+          "team": "Ineos Grenadiers",
+          "time": "+ 5' 33\""
+        },
+        {
+          "rank": 5,
+          "name": "Ben O'Connor",
+          "team": "AG2R Citroën Team",
+          "time": "+ 5' 58\""
+        },
+        {
+          "rank": 6,
+          "name": "Wilco Kelderman",
+          "team": "Bora–Hansgrohe",
+          "time": "+ 6' 16\""
+        },
+        {
+          "rank": 7,
+          "name": "Alexey Lutsenko",
+          "team": "Astana–Premier Tech",
+          "time": "+ 6' 30\""
+        },
+        {
+          "rank": 8,
+          "name": "Enric Mas",
+          "team": "Movistar Team",
+          "time": "+ 7' 11\""
+        },
+        {
+          "rank": 9,
+          "name": "Guillaume Martin",
+          "team": "Cofidis",
+          "time": "+ 9' 29\""
+        },
+        {
+          "rank": 10,
+          "name": "Pello Bilbao",
+          "team": "Team Bahrain Victorious",
+          "time": "+ 10' 28\""
+        }
+      ]
+    },
+    {
+      "stage": 12,
+      "riders": [
+        {
+          "rank": 1,
+          "name": "Tadej Pogačar",
+          "team": "UAE Team Emirates",
+          "time": "47h 22' 43\""
+        },
+        {
+          "rank": 2,
+          "name": "Rigoberto Urán",
+          "team": "EF Education–Nippo",
+          "time": "+ 5' 18\""
+        },
+        {
+          "rank": 3,
+          "name": "Jonas Vingegaard",
+          "team": "Team Jumbo–Visma",
+          "time": "+ 5' 32\""
+        },
+        {
+          "rank": 4,
+          "name": "Richard Carapaz",
+          "team": "Ineos Grenadiers",
+          "time": "+ 5' 33\""
+        },
+        {
+          "rank": 5,
+          "name": "Ben O'Connor",
+          "team": "AG2R Citroën Team",
+          "time": "+ 5' 58\""
+        },
+        {
+          "rank": 6,
+          "name": "Wilco Kelderman",
+          "team": "Bora–Hansgrohe",
+          "time": "+ 6' 16\""
+        },
+        {
+          "rank": 7,
+          "name": "Alexey Lutsenko",
+          "team": "Astana–Premier Tech",
+          "time": "+ 6' 30\""
+        },
+        {
+          "rank": 8,
+          "name": "Enric Mas",
+          "team": "Movistar Team",
+          "time": "+ 7' 11\""
+        },
+        {
+          "rank": 9,
+          "name": "Guillaume Martin",
+          "team": "Cofidis",
+          "time": "+ 9' 29\""
+        },
+        {
+          "rank": 10,
+          "name": "Pello Bilbao",
+          "team": "Team Bahrain Victorious",
+          "time": "+ 10' 28\""
+        }
+      ]
+    },
+    {
+      "stage": 13,
+      "riders": [
+        {
+          "rank": 1,
+          "name": "Tadej Pogačar",
+          "team": "UAE Team Emirates",
+          "time": "52h 27' 12\""
+        },
+        {
+          "rank": 2,
+          "name": "Rigoberto Urán",
+          "team": "EF Education–Nippo",
+          "time": "+ 5' 18\""
+        },
+        {
+          "rank": 3,
+          "name": "Jonas Vingegaard",
+          "team": "Team Jumbo–Visma",
+          "time": "+ 5' 32\""
+        },
+        {
+          "rank": 4,
+          "name": "Richard Carapaz",
+          "team": "Ineos Grenadiers",
+          "time": "+ 5' 33\""
+        },
+        {
+          "rank": 5,
+          "name": "Ben O'Connor",
+          "team": "AG2R Citroën Team",
+          "time": "+ 5' 58\""
+        },
+        {
+          "rank": 6,
+          "name": "Wilco Kelderman",
+          "team": "Bora–Hansgrohe",
+          "time": "+ 6' 16\""
+        },
+        {
+          "rank": 7,
+          "name": "Alexey Lutsenko",
+          "team": "Astana–Premier Tech",
+          "time": "+ 6' 30\""
+        },
+        {
+          "rank": 8,
+          "name": "Enric Mas",
+          "team": "Movistar Team",
+          "time": "+ 7' 11\""
+        },
+        {
+          "rank": 9,
+          "name": "Guillaume Martin",
+          "team": "Cofidis",
+          "time": "+ 9' 29\""
+        },
+        {
+          "rank": 10,
+          "name": "Pello Bilbao",
+          "team": "Team Bahrain Victorious",
+          "time": "+ 10' 28\""
+        }
+      ]
+    },
+    {
+      "stage": 14,
+      "riders": [
+        {
+          "rank": 1,
+          "name": "Tadej Pogačar",
+          "team": "UAE Team Emirates",
+          "time": "56h 50' 21\""
+        },
+        {
+          "rank": 2,
+          "name": "Guillaume Martin",
+          "team": "Cofidis",
+          "time": "+ 4' 04\""
+        },
+        {
+          "rank": 3,
+          "name": "Rigoberto Urán",
+          "team": "EF Education–Nippo",
+          "time": "+ 5' 18\""
+        },
+        {
+          "rank": 4,
+          "name": "Jonas Vingegaard",
+          "team": "Team Jumbo–Visma",
+          "time": "+ 5' 32\""
+        },
+        {
+          "rank": 5,
+          "name": "Richard Carapaz",
+          "team": "Ineos Grenadiers",
+          "time": "+ 5' 33\""
+        },
+        {
+          "rank": 6,
+          "name": "Ben O'Connor",
+          "team": "AG2R Citroën Team",
+          "time": "+ 5' 58\""
+        },
+        {
+          "rank": 7,
+          "name": "Wilco Kelderman",
+          "team": "Bora–Hansgrohe",
+          "time": "+ 6' 16\""
+        },
+        {
+          "rank": 8,
+          "name": "Alexey Lutsenko",
+          "team": "Astana–Premier Tech",
+          "time": "+ 6' 30\""
+        },
+        {
+          "rank": 9,
+          "name": "Enric Mas",
+          "team": "Movistar Team",
+          "time": "+ 7' 11\""
+        },
+        {
+          "rank": 10,
+          "name": "Mattia Cattaneo",
+          "team": "Deceuninck–Quick-Step",
+          "time": "+ 9' 48\""
+        }
+      ]
+    },
+    {
+      "stage": 15,
+      "riders": [
+        {
+          "rank": 1,
+          "name": "Tadej Pogačar",
+          "team": "UAE Team Emirates",
+          "time": "62h 07' 18\""
+        },
+        {
+          "rank": 2,
+          "name": "Rigoberto Urán",
+          "team": "EF Education–Nippo",
+          "time": "+ 5' 18\""
+        },
+        {
+          "rank": 3,
+          "name": "Jonas Vingegaard",
+          "team": "Team Jumbo–Visma",
+          "time": "+ 5' 32\""
+        },
+        {
+          "rank": 4,
+          "name": "Richard Carapaz",
+          "team": "Ineos Grenadiers",
+          "time": "+ 5' 33\""
+        },
+        {
+          "rank": 5,
+          "name": "Ben O'Connor",
+          "team": "AG2R Citroën Team",
+          "time": "+ 5' 58\""
+        },
+        {
+          "rank": 6,
+          "name": "Wilco Kelderman",
+          "team": "Bora–Hansgrohe",
+          "time": "+ 6' 16\""
+        },
+        {
+          "rank": 7,
+          "name": "Alexey Lutsenko",
+          "team": "Astana–Premier Tech",
+          "time": "+ 7' 01\""
+        },
+        {
+          "rank": 8,
+          "name": "Enric Mas",
+          "team": "Movistar Team",
+          "time": "+ 7' 11\""
+        },
+        {
+          "rank": 9,
+          "name": "Guillaume Martin",
+          "team": "Cofidis",
+          "time": "+ 7' 58\""
+        },
+        {
+          "rank": 10,
+          "name": "Pello Bilbao",
+          "team": "Team Bahrain Victorious",
+          "time": "+ 10' 59\""
+        }
+      ]
+    },
+    {
+      "stage": 16,
+      "riders": [
+        {
+          "rank": 1,
+          "name": "Tadej Pogačar",
+          "team": "UAE Team Emirates",
+          "time": "66h 23' 06\""
+        },
+        {
+          "rank": 2,
+          "name": "Rigoberto Urán",
+          "team": "EF Education–Nippo",
+          "time": "+ 5' 18\""
+        },
+        {
+          "rank": 3,
+          "name": "Jonas Vingegaard",
+          "team": "Team Jumbo–Visma",
+          "time": "+ 5' 32\""
+        },
+        {
+          "rank": 4,
+          "name": "Richard Carapaz",
+          "team": "Ineos Grenadiers",
+          "time": "+ 5' 33\""
+        },
+        {
+          "rank": 5,
+          "name": "Ben O'Connor",
+          "team": "AG2R Citroën Team",
+          "time": "+ 5' 58\""
+        },
+        {
+          "rank": 6,
+          "name": "Wilco Kelderman",
+          "team": "Bora–Hansgrohe",
+          "time": "+ 6' 16\""
+        },
+        {
+          "rank": 7,
+          "name": "Alexey Lutsenko",
+          "team": "Astana–Premier Tech",
+          "time": "+ 7' 01\""
+        },
+        {
+          "rank": 8,
+          "name": "Enric Mas",
+          "team": "Movistar Team",
+          "time": "+ 7' 11\""
+        },
+        {
+          "rank": 9,
+          "name": "Guillaume Martin",
+          "team": "Cofidis",
+          "time": "+ 8' 02\""
+        },
+        {
+          "rank": 10,
+          "name": "Pello Bilbao",
+          "team": "Team Bahrain Victorious",
+          "time": "+ 10' 59\""
+        }
+      ]
+    },
+    {
+      "stage": 17,
+      "riders": [
+        {
+          "rank": 1,
+          "name": "Tadej Pogačar",
+          "team": "UAE Team Emirates",
+          "time": "71h 26' 27\""
+        },
+        {
+          "rank": 2,
+          "name": "Jonas Vingegaard",
+          "team": "Team Jumbo–Visma",
+          "time": "+ 5' 39\""
+        },
+        {
+          "rank": 3,
+          "name": "Richard Carapaz",
+          "team": "Ineos Grenadiers",
+          "time": "+ 5' 43\""
+        },
+        {
+          "rank": 4,
+          "name": "Rigoberto Urán",
+          "team": "EF Education–Nippo",
+          "time": "+ 7' 17\""
+        },
+        {
+          "rank": 5,
+          "name": "Ben O'Connor",
+          "team": "AG2R Citroën Team",
+          "time": "+ 7' 34\""
+        },
+        {
+          "rank": 6,
+          "name": "Wilco Kelderman",
+          "team": "Bora–Hansgrohe",
+          "time": "+ 8' 06\""
+        },
+        {
+          "rank": 7,
+          "name": "Enric Mas",
+          "team": "Movistar Team",
+          "time": "+ 9' 48\""
+        },
+        {
+          "rank": 8,
+          "name": "Alexey Lutsenko",
+          "team": "Astana–Premier Tech",
+          "time": "+ 10' 04\""
+        },
+        {
+          "rank": 9,
+          "name": "Guillaume Martin",
+          "team": "Cofidis",
+          "time": "+ 11' 51\""
+        },
+        {
+          "rank": 10,
+          "name": "Pello Bilbao",
+          "team": "Team Bahrain Victorious",
+          "time": "+ 12' 53\""
+        }
+      ]
+    },
+    {
+      "stage": 18,
+      "riders": [
+        {
+          "rank": 1,
+          "name": "Tadej Pogačar",
+          "team": "UAE Team Emirates",
+          "time": "75h 00' 02\""
+        },
+        {
+          "rank": 2,
+          "name": "Jonas Vingegaard",
+          "team": "Team Jumbo–Visma",
+          "time": "+ 5' 45\""
+        },
+        {
+          "rank": 3,
+          "name": "Richard Carapaz",
+          "team": "Ineos Grenadiers",
+          "time": "+ 5' 51\""
+        },
+        {
+          "rank": 4,
+          "name": "Ben O'Connor",
+          "team": "AG2R Citroën Team",
+          "time": "+ 8' 18\""
+        },
+        {
+          "rank": 5,
+          "name": "Wilco Kelderman",
+          "team": "Bora–Hansgrohe",
+          "time": "+ 8' 50\""
+        },
+        {
+          "rank": 6,
+          "name": "Enric Mas",
+          "team": "Movistar Team",
+          "time": "+ 10' 11\""
+        },
+        {
+          "rank": 7,
+          "name": "Alexey Lutsenko",
+          "team": "Astana–Premier Tech",
+          "time": "+ 11' 22\""
+        },
+        {
+          "rank": 8,
+          "name": "Guillaume Martin",
+          "team": "Cofidis",
+          "time": "+ 12' 46\""
+        },
+        {
+          "rank": 9,
+          "name": "Pello Bilbao",
+          "team": "Team Bahrain Victorious",
+          "time": "+ 13' 48\""
+        },
+        {
+          "rank": 10,
+          "name": "Rigoberto Urán",
+          "team": "EF Education–Nippo",
+          "time": "+ 16' 25\""
+        }
+      ]
+    },
+    {
+      "stage": 19,
+      "riders": [
+        {
+          "rank": 1,
+          "name": "Tadej Pogačar",
+          "team": "UAE Team Emirates",
+          "time": "79h 40' 09\""
+        },
+        {
+          "rank": 2,
+          "name": "Jonas Vingegaard",
+          "team": "Team Jumbo–Visma",
+          "time": "+ 5' 45\""
+        },
+        {
+          "rank": 3,
+          "name": "Richard Carapaz",
+          "team": "Ineos Grenadiers",
+          "time": "+ 5' 51\""
+        },
+        {
+          "rank": 4,
+          "name": "Ben O'Connor",
+          "team": "AG2R Citroën Team",
+          "time": "+ 8' 18\""
+        },
+        {
+          "rank": 5,
+          "name": "Wilco Kelderman",
+          "team": "Bora–Hansgrohe",
+          "time": "+ 8' 50\""
+        },
+        {
+          "rank": 6,
+          "name": "Enric Mas",
+          "team": "Movistar Team",
+          "time": "+ 10' 11\""
+        },
+        {
+          "rank": 7,
+          "name": "Alexey Lutsenko",
+          "team": "Astana–Premier Tech",
+          "time": "+ 11' 22\""
+        },
+        {
+          "rank": 8,
+          "name": "Guillaume Martin",
+          "team": "Cofidis",
+          "time": "+ 12' 46\""
+        },
+        {
+          "rank": 9,
+          "name": "Pello Bilbao",
+          "team": "Team Bahrain Victorious",
+          "time": "+ 13' 48\""
+        },
+        {
+          "rank": 10,
+          "name": "Rigoberto Urán",
+          "team": "EF Education–Nippo",
+          "time": "+ 16' 25\""
+        }
+      ]
+    },
+    {
+      "stage": 20,
+      "riders": [
+        {
+          "rank": 1,
+          "name": "Tadej Pogačar",
+          "team": "UAE Team Emirates",
+          "time": "80h 16' 59\""
+        },
+        {
+          "rank": 2,
+          "name": "Jonas Vingegaard",
+          "team": "Team Jumbo–Visma",
+          "time": "+ 5' 20\""
+        },
+        {
+          "rank": 3,
+          "name": "Richard Carapaz",
+          "team": "Ineos Grenadiers",
+          "time": "+ 7' 03\""
+        },
+        {
+          "rank": 4,
+          "name": "Ben O'Connor",
+          "team": "AG2R Citroën Team",
+          "time": "+ 10' 02\""
+        },
+        {
+          "rank": 5,
+          "name": "Wilco Kelderman",
+          "team": "Bora–Hansgrohe",
+          "time": "+ 10' 13\""
+        },
+        {
+          "rank": 6,
+          "name": "Enric Mas",
+          "team": "Movistar Team",
+          "time": "+ 11' 43\""
+        },
+        {
+          "rank": 7,
+          "name": "Alexey Lutsenko",
+          "team": "Astana–Premier Tech",
+          "time": "+ 12' 23\""
+        },
+        {
+          "rank": 8,
+          "name": "Guillaume Martin",
+          "team": "Cofidis",
+          "time": "+ 15' 33\""
+        },
+        {
+          "rank": 9,
+          "name": "Pello Bilbao",
+          "team": "Team Bahrain Victorious",
+          "time": "+ 16' 04\""
+        },
+        {
+          "rank": 10,
+          "name": "Rigoberto Urán",
+          "team": "EF Education–Nippo",
+          "time": "+ 18' 34\""
+        }
+      ]
+    },
+    {
+      "stage": 21,
+      "riders": [
+        {
+          "rank": 1,
+          "name": "Tadej Pogačar",
+          "team": "UAE Team Emirates",
+          "time": "82h 56' 36\""
+        },
+        {
+          "rank": 2,
+          "name": "Jonas Vingegaard",
+          "team": "Team Jumbo–Visma",
+          "time": "+ 5' 20\""
+        },
+        {
+          "rank": 3,
+          "name": "Richard Carapaz",
+          "team": "Ineos Grenadiers",
+          "time": "+ 7' 03\""
+        },
+        {
+          "rank": 4,
+          "name": "Ben O'Connor",
+          "team": "AG2R Citroën Team",
+          "time": "+ 10' 02\""
+        },
+        {
+          "rank": 5,
+          "name": "Wilco Kelderman",
+          "team": "Bora–Hansgrohe",
+          "time": "+ 10' 13\""
+        },
+        {
+          "rank": 6,
+          "name": "Enric Mas",
+          "team": "Movistar Team",
+          "time": "+ 11' 43\""
+        },
+        {
+          "rank": 7,
+          "name": "Alexey Lutsenko",
+          "team": "Astana–Premier Tech",
+          "time": "+ 12' 23\""
+        },
+        {
+          "rank": 8,
+          "name": "Guillaume Martin",
+          "team": "Cofidis",
+          "time": "+ 15' 33\""
+        },
+        {
+          "rank": 9,
+          "name": "Pello Bilbao",
+          "team": "Team Bahrain Victorious",
+          "time": "+ 16' 04\""
+        },
+        {
+          "rank": 10,
+          "name": "Rigoberto Urán",
+          "team": "EF Education–Nippo",
+          "time": "+ 18' 34\""
+        }
+      ]
+    }
+  ]
+}

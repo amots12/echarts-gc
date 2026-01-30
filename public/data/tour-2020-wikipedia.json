@@ -1,0 +1,1371 @@
+{
+  "race": "Tour de France",
+  "year": 2020,
+  "stages": [
+    {
+      "stage": 1,
+      "riders": [
+        {
+          "rank": 1,
+          "name": "Alexander Kristoff",
+          "team": "UAE Team Emirates",
+          "time": "3h 46' 13\""
+        },
+        {
+          "rank": 2,
+          "name": "Mads Pedersen",
+          "team": "Trek–Segafredo",
+          "time": "+ 4\""
+        },
+        {
+          "rank": 3,
+          "name": "Cees Bol",
+          "team": "Team Sunweb",
+          "time": "+ 6\""
+        },
+        {
+          "rank": 4,
+          "name": "Sam Bennett",
+          "team": "Deceuninck–Quick-Step",
+          "time": "+ 10\""
+        },
+        {
+          "rank": 5,
+          "name": "Peter Sagan",
+          "team": "Bora–Hansgrohe",
+          "time": "+ 10\""
+        },
+        {
+          "rank": 6,
+          "name": "Elia Viviani",
+          "team": "Cofidis",
+          "time": "+ 10\""
+        },
+        {
+          "rank": 7,
+          "name": "Giacomo Nizzolo",
+          "team": "NTT Pro Cycling",
+          "time": "+ 10\""
+        },
+        {
+          "rank": 8,
+          "name": "Bryan Coquard",
+          "team": "B&B Hotels–Vital Concept",
+          "time": "+ 10\""
+        },
+        {
+          "rank": 9,
+          "name": "Anthony Turgis",
+          "team": "Total Direct Énergie",
+          "time": "+ 10\""
+        },
+        {
+          "rank": 10,
+          "name": "Jasper Stuyven",
+          "team": "Trek–Segafredo",
+          "time": "+ 10\""
+        }
+      ]
+    },
+    {
+      "stage": 2,
+      "riders": [
+        {
+          "rank": 1,
+          "name": "Julian Alaphilippe",
+          "team": "Deceuninck–Quick-Step",
+          "time": "8h 41' 35\""
+        },
+        {
+          "rank": 2,
+          "name": "Adam Yates",
+          "team": "Mitchelton–Scott",
+          "time": "+ 4\""
+        },
+        {
+          "rank": 3,
+          "name": "Marc Hirschi",
+          "team": "Team Sunweb",
+          "time": "+ 7\""
+        },
+        {
+          "rank": 4,
+          "name": "Sergio Higuita",
+          "team": "EF Pro Cycling",
+          "time": "+ 17\""
+        },
+        {
+          "rank": 5,
+          "name": "Tadej Pogačar",
+          "team": "UAE Team Emirates",
+          "time": "+ 17\""
+        },
+        {
+          "rank": 6,
+          "name": "Esteban Chaves",
+          "team": "Mitchelton–Scott",
+          "time": "+ 17\""
+        },
+        {
+          "rank": 7,
+          "name": "Davide Formolo",
+          "team": "UAE Team Emirates",
+          "time": "+ 17\""
+        },
+        {
+          "rank": 8,
+          "name": "Egan Bernal",
+          "team": "Ineos Grenadiers",
+          "time": "+ 17\""
+        },
+        {
+          "rank": 9,
+          "name": "Richard Carapaz",
+          "team": "Ineos Grenadiers",
+          "time": "+ 17\""
+        },
+        {
+          "rank": 10,
+          "name": "Tom Dumoulin",
+          "team": "Team Jumbo–Visma",
+          "time": "+ 17\""
+        }
+      ]
+    },
+    {
+      "stage": 3,
+      "riders": [
+        {
+          "rank": 1,
+          "name": "Julian Alaphilippe",
+          "team": "Deceuninck–Quick-Step",
+          "time": "13h 59' 17\""
+        },
+        {
+          "rank": 2,
+          "name": "Adam Yates",
+          "team": "Mitchelton–Scott",
+          "time": "+ 4\""
+        },
+        {
+          "rank": 3,
+          "name": "Marc Hirschi",
+          "team": "Team Sunweb",
+          "time": "+ 7\""
+        },
+        {
+          "rank": 4,
+          "name": "Tadej Pogačar",
+          "team": "UAE Team Emirates",
+          "time": "+ 17\""
+        },
+        {
+          "rank": 5,
+          "name": "Davide Formolo",
+          "team": "UAE Team Emirates",
+          "time": "+ 17\""
+        },
+        {
+          "rank": 6,
+          "name": "Egan Bernal",
+          "team": "Ineos Grenadiers",
+          "time": "+ 17\""
+        },
+        {
+          "rank": 7,
+          "name": "Tom Dumoulin",
+          "team": "Team Jumbo–Visma",
+          "time": "+ 17\""
+        },
+        {
+          "rank": 8,
+          "name": "Sergio Higuita",
+          "team": "EF Pro Cycling",
+          "time": "+ 17\""
+        },
+        {
+          "rank": 9,
+          "name": "Guillaume Martin",
+          "team": "Cofidis",
+          "time": "+ 17\""
+        },
+        {
+          "rank": 10,
+          "name": "Esteban Chaves",
+          "team": "Mitchelton–Scott",
+          "time": "+ 17\""
+        }
+      ]
+    },
+    {
+      "stage": 4,
+      "riders": [
+        {
+          "rank": 1,
+          "name": "Julian Alaphilippe",
+          "team": "Deceuninck–Quick-Step",
+          "time": "18h 07' 04\""
+        },
+        {
+          "rank": 2,
+          "name": "Adam Yates",
+          "team": "Mitchelton–Scott",
+          "time": "+ 4\""
+        },
+        {
+          "rank": 3,
+          "name": "Primož Roglič",
+          "team": "Team Jumbo–Visma",
+          "time": "+ 7\""
+        },
+        {
+          "rank": 4,
+          "name": "Tadej Pogačar",
+          "team": "UAE Team Emirates",
+          "time": "+ 11\""
+        },
+        {
+          "rank": 5,
+          "name": "Guillaume Martin",
+          "team": "Cofidis",
+          "time": "+ 13\""
+        },
+        {
+          "rank": 6,
+          "name": "Egan Bernal",
+          "team": "Ineos Grenadiers",
+          "time": "+ 17\""
+        },
+        {
+          "rank": 7,
+          "name": "Tom Dumoulin",
+          "team": "Team Jumbo–Visma",
+          "time": "+ 17\""
+        },
+        {
+          "rank": 8,
+          "name": "Esteban Chaves",
+          "team": "Mitchelton–Scott",
+          "time": "+ 17\""
+        },
+        {
+          "rank": 9,
+          "name": "Nairo Quintana",
+          "team": "Arkéa–Samsic",
+          "time": "+ 17\""
+        },
+        {
+          "rank": 10,
+          "name": "Miguel Ángel López",
+          "team": "Astana",
+          "time": "+ 17\""
+        }
+      ]
+    },
+    {
+      "stage": 5,
+      "riders": [
+        {
+          "rank": 1,
+          "name": "Adam Yates",
+          "team": "Mitchelton–Scott",
+          "time": "22h 28' 30\""
+        },
+        {
+          "rank": 2,
+          "name": "Primož Roglič",
+          "team": "Team Jumbo–Visma",
+          "time": "+ 3\""
+        },
+        {
+          "rank": 3,
+          "name": "Tadej Pogačar",
+          "team": "UAE Team Emirates",
+          "time": "+ 7\""
+        },
+        {
+          "rank": 4,
+          "name": "Guillaume Martin",
+          "team": "Cofidis",
+          "time": "+ 9\""
+        },
+        {
+          "rank": 5,
+          "name": "Egan Bernal",
+          "team": "Ineos Grenadiers",
+          "time": "+ 13\""
+        },
+        {
+          "rank": 6,
+          "name": "Tom Dumoulin",
+          "team": "Team Jumbo–Visma",
+          "time": "+ 13\""
+        },
+        {
+          "rank": 7,
+          "name": "Nairo Quintana",
+          "team": "Arkéa–Samsic",
+          "time": "+ 13\""
+        },
+        {
+          "rank": 8,
+          "name": "Esteban Chaves",
+          "team": "Mitchelton–Scott",
+          "time": "+ 13\""
+        },
+        {
+          "rank": 9,
+          "name": "Miguel Ángel López",
+          "team": "Astana",
+          "time": "+ 13\""
+        },
+        {
+          "rank": 10,
+          "name": "Romain Bardet",
+          "team": "AG2R La Mondiale",
+          "time": "+ 13\""
+        }
+      ]
+    },
+    {
+      "stage": 6,
+      "riders": [
+        {
+          "rank": 1,
+          "name": "Adam Yates",
+          "team": "Mitchelton–Scott",
+          "time": "27h 03' 57\""
+        },
+        {
+          "rank": 2,
+          "name": "Primož Roglič",
+          "team": "Team Jumbo–Visma",
+          "time": "+ 3\""
+        },
+        {
+          "rank": 3,
+          "name": "Tadej Pogačar",
+          "team": "UAE Team Emirates",
+          "time": "+ 7\""
+        },
+        {
+          "rank": 4,
+          "name": "Guillaume Martin",
+          "team": "Cofidis",
+          "time": "+ 9\""
+        },
+        {
+          "rank": 5,
+          "name": "Egan Bernal",
+          "team": "Ineos Grenadiers",
+          "time": "+ 13\""
+        },
+        {
+          "rank": 6,
+          "name": "Tom Dumoulin",
+          "team": "Team Jumbo–Visma",
+          "time": "+ 13\""
+        },
+        {
+          "rank": 7,
+          "name": "Esteban Chaves",
+          "team": "Mitchelton–Scott",
+          "time": "+ 13\""
+        },
+        {
+          "rank": 8,
+          "name": "Nairo Quintana",
+          "team": "Arkéa–Samsic",
+          "time": "+ 13\""
+        },
+        {
+          "rank": 9,
+          "name": "Romain Bardet",
+          "team": "AG2R La Mondiale",
+          "time": "+ 13\""
+        },
+        {
+          "rank": 10,
+          "name": "Miguel Ángel López",
+          "team": "Astana",
+          "time": "+ 13\""
+        }
+      ]
+    },
+    {
+      "stage": 7,
+      "riders": [
+        {
+          "rank": 1,
+          "name": "Adam Yates",
+          "team": "Mitchelton–Scott",
+          "time": "30h 36' 00\""
+        },
+        {
+          "rank": 2,
+          "name": "Primož Roglič",
+          "team": "Team Jumbo–Visma",
+          "time": "+ 3\""
+        },
+        {
+          "rank": 3,
+          "name": "Guillaume Martin",
+          "team": "Cofidis",
+          "time": "+ 9\""
+        },
+        {
+          "rank": 4,
+          "name": "Egan Bernal",
+          "team": "Ineos Grenadiers",
+          "time": "+ 13\""
+        },
+        {
+          "rank": 5,
+          "name": "Tom Dumoulin",
+          "team": "Team Jumbo–Visma",
+          "time": "+ 13\""
+        },
+        {
+          "rank": 6,
+          "name": "Nairo Quintana",
+          "team": "Arkéa–Samsic",
+          "time": "+ 13\""
+        },
+        {
+          "rank": 7,
+          "name": "Romain Bardet",
+          "team": "AG2R La Mondiale",
+          "time": "+ 13\""
+        },
+        {
+          "rank": 8,
+          "name": "Miguel Ángel López",
+          "team": "Astana",
+          "time": "+ 13\""
+        },
+        {
+          "rank": 9,
+          "name": "Thibaut Pinot",
+          "team": "Groupama–FDJ",
+          "time": "+ 13\""
+        },
+        {
+          "rank": 10,
+          "name": "Rigoberto Urán",
+          "team": "EF Pro Cycling",
+          "time": "+ 13\""
+        }
+      ]
+    },
+    {
+      "stage": 8,
+      "riders": [
+        {
+          "rank": 1,
+          "name": "Adam Yates",
+          "team": "Mitchelton–Scott",
+          "time": "34h 44' 52\""
+        },
+        {
+          "rank": 2,
+          "name": "Primož Roglič",
+          "team": "Team Jumbo–Visma",
+          "time": "+ 3\""
+        },
+        {
+          "rank": 3,
+          "name": "Guillaume Martin",
+          "team": "Cofidis",
+          "time": "+ 9\""
+        },
+        {
+          "rank": 4,
+          "name": "Romain Bardet",
+          "team": "AG2R La Mondiale",
+          "time": "+ 11\""
+        },
+        {
+          "rank": 5,
+          "name": "Egan Bernal",
+          "team": "Ineos Grenadiers",
+          "time": "+ 13\""
+        },
+        {
+          "rank": 6,
+          "name": "Nairo Quintana",
+          "team": "Arkéa–Samsic",
+          "time": "+ 13\""
+        },
+        {
+          "rank": 7,
+          "name": "Miguel Ángel López",
+          "team": "Astana",
+          "time": "+ 13\""
+        },
+        {
+          "rank": 8,
+          "name": "Rigoberto Urán",
+          "team": "EF Pro Cycling",
+          "time": "+ 13\""
+        },
+        {
+          "rank": 9,
+          "name": "Tadej Pogačar",
+          "team": "UAE Team Emirates",
+          "time": "+ 48\""
+        },
+        {
+          "rank": 10,
+          "name": "Enric Mas",
+          "team": "Movistar Team",
+          "time": "+ 1' 00\""
+        }
+      ]
+    },
+    {
+      "stage": 9,
+      "riders": [
+        {
+          "rank": 1,
+          "name": "Primož Roglič",
+          "team": "Team Jumbo–Visma",
+          "time": "38h 40' 01\""
+        },
+        {
+          "rank": 2,
+          "name": "Egan Bernal",
+          "team": "Ineos Grenadiers",
+          "time": "+ 21\""
+        },
+        {
+          "rank": 3,
+          "name": "Guillaume Martin",
+          "team": "Cofidis",
+          "time": "+ 28\""
+        },
+        {
+          "rank": 4,
+          "name": "Romain Bardet",
+          "team": "AG2R La Mondiale",
+          "time": "+ 30\""
+        },
+        {
+          "rank": 5,
+          "name": "Nairo Quintana",
+          "team": "Arkéa–Samsic",
+          "time": "+ 32\""
+        },
+        {
+          "rank": 6,
+          "name": "Rigoberto Urán",
+          "team": "EF Pro Cycling",
+          "time": "+ 32\""
+        },
+        {
+          "rank": 7,
+          "name": "Tadej Pogačar",
+          "team": "UAE Team Emirates",
+          "time": "+ 44\""
+        },
+        {
+          "rank": 8,
+          "name": "Adam Yates",
+          "team": "Mitchelton–Scott",
+          "time": "+ 1' 02\""
+        },
+        {
+          "rank": 9,
+          "name": "Miguel Ángel López",
+          "team": "Astana",
+          "time": "+ 1' 15\""
+        },
+        {
+          "rank": 10,
+          "name": "Mikel Landa",
+          "team": "Bahrain–McLaren",
+          "time": "+ 1' 42\""
+        }
+      ]
+    },
+    {
+      "stage": 10,
+      "riders": [
+        {
+          "rank": 1,
+          "name": "Primož Roglič",
+          "team": "Team Jumbo–Visma",
+          "time": "42h 15' 23\""
+        },
+        {
+          "rank": 2,
+          "name": "Egan Bernal",
+          "team": "Ineos Grenadiers",
+          "time": "+ 21\""
+        },
+        {
+          "rank": 3,
+          "name": "Guillaume Martin",
+          "team": "Cofidis",
+          "time": "+ 28\""
+        },
+        {
+          "rank": 4,
+          "name": "Romain Bardet",
+          "team": "AG2R La Mondiale",
+          "time": "+ 30\""
+        },
+        {
+          "rank": 5,
+          "name": "Nairo Quintana",
+          "team": "Arkéa–Samsic",
+          "time": "+ 32\""
+        },
+        {
+          "rank": 6,
+          "name": "Rigoberto Urán",
+          "team": "EF Pro Cycling",
+          "time": "+ 32\""
+        },
+        {
+          "rank": 7,
+          "name": "Tadej Pogačar",
+          "team": "UAE Team Emirates",
+          "time": "+ 44\""
+        },
+        {
+          "rank": 8,
+          "name": "Adam Yates",
+          "team": "Mitchelton–Scott",
+          "time": "+ 1' 02\""
+        },
+        {
+          "rank": 9,
+          "name": "Miguel Ángel López",
+          "team": "Astana",
+          "time": "+ 1' 15\""
+        },
+        {
+          "rank": 10,
+          "name": "Mikel Landa",
+          "team": "Bahrain–McLaren",
+          "time": "+ 1' 42\""
+        }
+      ]
+    },
+    {
+      "stage": 11,
+      "riders": [
+        {
+          "rank": 1,
+          "name": "Primož Roglič",
+          "team": "Team Jumbo–Visma",
+          "time": "46h 15' 24\""
+        },
+        {
+          "rank": 2,
+          "name": "Egan Bernal",
+          "team": "Ineos Grenadiers",
+          "time": "+ 21\""
+        },
+        {
+          "rank": 3,
+          "name": "Guillaume Martin",
+          "team": "Cofidis",
+          "time": "+ 28\""
+        },
+        {
+          "rank": 4,
+          "name": "Romain Bardet",
+          "team": "AG2R La Mondiale",
+          "time": "+ 30\""
+        },
+        {
+          "rank": 5,
+          "name": "Nairo Quintana",
+          "team": "Arkéa–Samsic",
+          "time": "+ 32\""
+        },
+        {
+          "rank": 6,
+          "name": "Rigoberto Urán",
+          "team": "EF Pro Cycling",
+          "time": "+ 32\""
+        },
+        {
+          "rank": 7,
+          "name": "Tadej Pogačar",
+          "team": "UAE Team Emirates",
+          "time": "+ 44\""
+        },
+        {
+          "rank": 8,
+          "name": "Adam Yates",
+          "team": "Mitchelton–Scott",
+          "time": "+ 1' 02\""
+        },
+        {
+          "rank": 9,
+          "name": "Miguel Ángel López",
+          "team": "Astana",
+          "time": "+ 1' 15\""
+        },
+        {
+          "rank": 10,
+          "name": "Mikel Landa",
+          "team": "Bahrain–McLaren",
+          "time": "+ 1' 42\""
+        }
+      ]
+    },
+    {
+      "stage": 12,
+      "riders": [
+        {
+          "rank": 1,
+          "name": "Primož Roglič",
+          "team": "Team Jumbo–Visma",
+          "time": "51h 26' 46\""
+        },
+        {
+          "rank": 2,
+          "name": "Egan Bernal",
+          "team": "Ineos Grenadiers",
+          "time": "+ 21\""
+        },
+        {
+          "rank": 3,
+          "name": "Guillaume Martin",
+          "team": "Cofidis",
+          "time": "+ 28\""
+        },
+        {
+          "rank": 4,
+          "name": "Romain Bardet",
+          "team": "AG2R La Mondiale",
+          "time": "+ 30\""
+        },
+        {
+          "rank": 5,
+          "name": "Nairo Quintana",
+          "team": "Arkéa–Samsic",
+          "time": "+ 32\""
+        },
+        {
+          "rank": 6,
+          "name": "Rigoberto Urán",
+          "team": "EF Pro Cycling",
+          "time": "+ 32\""
+        },
+        {
+          "rank": 7,
+          "name": "Tadej Pogačar",
+          "team": "UAE Team Emirates",
+          "time": "+ 44\""
+        },
+        {
+          "rank": 8,
+          "name": "Adam Yates",
+          "team": "Mitchelton–Scott",
+          "time": "+ 1' 02\""
+        },
+        {
+          "rank": 9,
+          "name": "Miguel Ángel López",
+          "team": "Astana",
+          "time": "+ 1' 15\""
+        },
+        {
+          "rank": 10,
+          "name": "Mikel Landa",
+          "team": "Bahrain–McLaren",
+          "time": "+ 1' 42\""
+        }
+      ]
+    },
+    {
+      "stage": 13,
+      "riders": [
+        {
+          "rank": 1,
+          "name": "Primož Roglič",
+          "team": "Team Jumbo–Visma",
+          "time": "56h 34' 35\""
+        },
+        {
+          "rank": 2,
+          "name": "Tadej Pogačar",
+          "team": "UAE Team Emirates",
+          "time": "+ 44\""
+        },
+        {
+          "rank": 3,
+          "name": "Egan Bernal",
+          "team": "Ineos Grenadiers",
+          "time": "+ 59\""
+        },
+        {
+          "rank": 4,
+          "name": "Rigoberto Urán",
+          "team": "EF Pro Cycling",
+          "time": "+ 1' 10\""
+        },
+        {
+          "rank": 5,
+          "name": "Nairo Quintana",
+          "team": "Arkéa–Samsic",
+          "time": "+ 1' 12\""
+        },
+        {
+          "rank": 6,
+          "name": "Miguel Ángel López",
+          "team": "Astana",
+          "time": "+ 1' 31\""
+        },
+        {
+          "rank": 7,
+          "name": "Adam Yates",
+          "team": "Mitchelton–Scott",
+          "time": "+ 1' 42\""
+        },
+        {
+          "rank": 8,
+          "name": "Mikel Landa",
+          "team": "Bahrain–McLaren",
+          "time": "+ 1' 55\""
+        },
+        {
+          "rank": 9,
+          "name": "Richie Porte",
+          "team": "Trek–Segafredo",
+          "time": "+ 2' 06\""
+        },
+        {
+          "rank": 10,
+          "name": "Enric Mas",
+          "team": "Movistar Team",
+          "time": "+ 2' 54\""
+        }
+      ]
+    },
+    {
+      "stage": 14,
+      "riders": [
+        {
+          "rank": 1,
+          "name": "Primož Roglič",
+          "team": "Team Jumbo–Visma",
+          "time": "61h 03' 00\""
+        },
+        {
+          "rank": 2,
+          "name": "Tadej Pogačar",
+          "team": "UAE Team Emirates",
+          "time": "+ 44\""
+        },
+        {
+          "rank": 3,
+          "name": "Egan Bernal",
+          "team": "Ineos Grenadiers",
+          "time": "+ 59\""
+        },
+        {
+          "rank": 4,
+          "name": "Rigoberto Urán",
+          "team": "EF Pro Cycling",
+          "time": "+ 1' 10\""
+        },
+        {
+          "rank": 5,
+          "name": "Nairo Quintana",
+          "team": "Arkéa–Samsic",
+          "time": "+ 1' 12\""
+        },
+        {
+          "rank": 6,
+          "name": "Miguel Ángel López",
+          "team": "Astana",
+          "time": "+ 1' 31\""
+        },
+        {
+          "rank": 7,
+          "name": "Adam Yates",
+          "team": "Mitchelton–Scott",
+          "time": "+ 1' 42\""
+        },
+        {
+          "rank": 8,
+          "name": "Mikel Landa",
+          "team": "Bahrain–McLaren",
+          "time": "+ 1' 55\""
+        },
+        {
+          "rank": 9,
+          "name": "Richie Porte",
+          "team": "Trek–Segafredo",
+          "time": "+ 2' 06\""
+        },
+        {
+          "rank": 10,
+          "name": "Enric Mas",
+          "team": "Movistar Team",
+          "time": "+ 2' 54\""
+        }
+      ]
+    },
+    {
+      "stage": 15,
+      "riders": [
+        {
+          "rank": 1,
+          "name": "Primož Roglič",
+          "team": "Team Jumbo–Visma",
+          "time": "65h 37' 07\""
+        },
+        {
+          "rank": 2,
+          "name": "Tadej Pogačar",
+          "team": "UAE Team Emirates",
+          "time": "+ 40\""
+        },
+        {
+          "rank": 3,
+          "name": "Rigoberto Urán",
+          "team": "EF Pro Cycling",
+          "time": "+ 1' 34\""
+        },
+        {
+          "rank": 4,
+          "name": "Miguel Ángel López",
+          "team": "Astana",
+          "time": "+ 1' 45\""
+        },
+        {
+          "rank": 5,
+          "name": "Adam Yates",
+          "team": "Mitchelton–Scott",
+          "time": "+ 2' 03\""
+        },
+        {
+          "rank": 6,
+          "name": "Richie Porte",
+          "team": "Trek–Segafredo",
+          "time": "+ 2' 13\""
+        },
+        {
+          "rank": 7,
+          "name": "Mikel Landa",
+          "team": "Bahrain–McLaren",
+          "time": "+ 2' 16\""
+        },
+        {
+          "rank": 8,
+          "name": "Enric Mas",
+          "team": "Movistar Team",
+          "time": "+ 3' 15\""
+        },
+        {
+          "rank": 9,
+          "name": "Nairo Quintana",
+          "team": "Arkéa–Samsic",
+          "time": "+ 5' 08\""
+        },
+        {
+          "rank": 10,
+          "name": "Tom Dumoulin",
+          "team": "Team Jumbo–Visma",
+          "time": "+ 5' 12\""
+        }
+      ]
+    },
+    {
+      "stage": 16,
+      "riders": [
+        {
+          "rank": 1,
+          "name": "Primož Roglič",
+          "team": "Team Jumbo–Visma",
+          "time": "70h 06' 47\""
+        },
+        {
+          "rank": 2,
+          "name": "Tadej Pogačar",
+          "team": "UAE Team Emirates",
+          "time": "+ 40\""
+        },
+        {
+          "rank": 3,
+          "name": "Rigoberto Urán",
+          "team": "EF Pro Cycling",
+          "time": "+ 1' 34\""
+        },
+        {
+          "rank": 4,
+          "name": "Miguel Ángel López",
+          "team": "Astana",
+          "time": "+ 1' 45\""
+        },
+        {
+          "rank": 5,
+          "name": "Adam Yates",
+          "team": "Mitchelton–Scott",
+          "time": "+ 2' 03\""
+        },
+        {
+          "rank": 6,
+          "name": "Richie Porte",
+          "team": "Trek–Segafredo",
+          "time": "+ 2' 13\""
+        },
+        {
+          "rank": 7,
+          "name": "Mikel Landa",
+          "team": "Bahrain–McLaren",
+          "time": "+ 2' 16\""
+        },
+        {
+          "rank": 8,
+          "name": "Enric Mas",
+          "team": "Movistar Team",
+          "time": "+ 3' 15\""
+        },
+        {
+          "rank": 9,
+          "name": "Tom Dumoulin",
+          "team": "Team Jumbo–Visma",
+          "time": "+ 5' 19\""
+        },
+        {
+          "rank": 10,
+          "name": "Nairo Quintana",
+          "team": "Arkéa–Samsic",
+          "time": "+ 5' 43\""
+        }
+      ]
+    },
+    {
+      "stage": 17,
+      "riders": [
+        {
+          "rank": 1,
+          "name": "Primož Roglič",
+          "team": "Team Jumbo–Visma",
+          "time": "74h 56' 04\""
+        },
+        {
+          "rank": 2,
+          "name": "Tadej Pogačar",
+          "team": "UAE Team Emirates",
+          "time": "+ 57\""
+        },
+        {
+          "rank": 3,
+          "name": "Miguel Ángel López",
+          "team": "Astana",
+          "time": "+ 1' 26\""
+        },
+        {
+          "rank": 4,
+          "name": "Richie Porte",
+          "team": "Trek–Segafredo",
+          "time": "+ 3' 05\""
+        },
+        {
+          "rank": 5,
+          "name": "Adam Yates",
+          "team": "Mitchelton–Scott",
+          "time": "+ 3' 14\""
+        },
+        {
+          "rank": 6,
+          "name": "Rigoberto Urán",
+          "team": "EF Pro Cycling",
+          "time": "+ 3' 24\""
+        },
+        {
+          "rank": 7,
+          "name": "Mikel Landa",
+          "team": "Bahrain–McLaren",
+          "time": "+ 3' 27\""
+        },
+        {
+          "rank": 8,
+          "name": "Enric Mas",
+          "team": "Movistar Team",
+          "time": "+ 4' 18\""
+        },
+        {
+          "rank": 9,
+          "name": "Tom Dumoulin",
+          "team": "Team Jumbo–Visma",
+          "time": "+ 7' 23\""
+        },
+        {
+          "rank": 10,
+          "name": "Alejandro Valverde",
+          "team": "Movistar Team",
+          "time": "+ 9' 31\""
+        }
+      ]
+    },
+    {
+      "stage": 18,
+      "riders": [
+        {
+          "rank": 1,
+          "name": "Primož Roglič",
+          "team": "Team Jumbo–Visma",
+          "time": "79h 45' 30\""
+        },
+        {
+          "rank": 2,
+          "name": "Tadej Pogačar",
+          "team": "UAE Team Emirates",
+          "time": "+ 57\""
+        },
+        {
+          "rank": 3,
+          "name": "Miguel Ángel López",
+          "team": "Astana",
+          "time": "+ 1' 27\""
+        },
+        {
+          "rank": 4,
+          "name": "Richie Porte",
+          "team": "Trek–Segafredo",
+          "time": "+ 3' 06\""
+        },
+        {
+          "rank": 5,
+          "name": "Mikel Landa",
+          "team": "Bahrain–McLaren",
+          "time": "+ 3' 28\""
+        },
+        {
+          "rank": 6,
+          "name": "Enric Mas",
+          "team": "Movistar Team",
+          "time": "+ 4' 19\""
+        },
+        {
+          "rank": 7,
+          "name": "Adam Yates",
+          "team": "Mitchelton–Scott",
+          "time": "+ 5' 55\""
+        },
+        {
+          "rank": 8,
+          "name": "Rigoberto Urán",
+          "team": "EF Pro Cycling",
+          "time": "+ 6' 05\""
+        },
+        {
+          "rank": 9,
+          "name": "Tom Dumoulin",
+          "team": "Team Jumbo–Visma",
+          "time": "+ 7' 24\""
+        },
+        {
+          "rank": 10,
+          "name": "Alejandro Valverde",
+          "team": "Movistar Team",
+          "time": "+ 12' 12\""
+        }
+      ]
+    },
+    {
+      "stage": 19,
+      "riders": [
+        {
+          "rank": 1,
+          "name": "Primož Roglič",
+          "team": "Team Jumbo–Visma",
+          "time": "83h 29' 41\""
+        },
+        {
+          "rank": 2,
+          "name": "Tadej Pogačar",
+          "team": "UAE Team Emirates",
+          "time": "+ 57\""
+        },
+        {
+          "rank": 3,
+          "name": "Miguel Ángel López",
+          "team": "Astana",
+          "time": "+ 1' 27\""
+        },
+        {
+          "rank": 4,
+          "name": "Richie Porte",
+          "team": "Trek–Segafredo",
+          "time": "+ 3' 06\""
+        },
+        {
+          "rank": 5,
+          "name": "Mikel Landa",
+          "team": "Bahrain–McLaren",
+          "time": "+ 3' 28\""
+        },
+        {
+          "rank": 6,
+          "name": "Enric Mas",
+          "team": "Movistar Team",
+          "time": "+ 4' 19\""
+        },
+        {
+          "rank": 7,
+          "name": "Adam Yates",
+          "team": "Mitchelton–Scott",
+          "time": "+ 5' 55\""
+        },
+        {
+          "rank": 8,
+          "name": "Rigoberto Urán",
+          "team": "EF Pro Cycling",
+          "time": "+ 6' 05\""
+        },
+        {
+          "rank": 9,
+          "name": "Tom Dumoulin",
+          "team": "Team Jumbo–Visma",
+          "time": "+ 7' 24\""
+        },
+        {
+          "rank": 10,
+          "name": "Alejandro Valverde",
+          "team": "Movistar Team",
+          "time": "+ 12' 12\""
+        }
+      ]
+    },
+    {
+      "stage": 20,
+      "riders": [
+        {
+          "rank": 1,
+          "name": "Tadej Pogačar",
+          "team": "UAE Team Emirates",
+          "time": "84h 26' 33\""
+        },
+        {
+          "rank": 2,
+          "name": "Primož Roglič",
+          "team": "Team Jumbo–Visma",
+          "time": "+ 59\""
+        },
+        {
+          "rank": 3,
+          "name": "Richie Porte",
+          "team": "Trek–Segafredo",
+          "time": "+ 3' 30\""
+        },
+        {
+          "rank": 4,
+          "name": "Mikel Landa",
+          "team": "Bahrain–McLaren",
+          "time": "+ 5' 58\""
+        },
+        {
+          "rank": 5,
+          "name": "Enric Mas",
+          "team": "Movistar Team",
+          "time": "+ 6' 07\""
+        },
+        {
+          "rank": 6,
+          "name": "Miguel Ángel López",
+          "team": "Astana",
+          "time": "+ 6' 47\""
+        },
+        {
+          "rank": 7,
+          "name": "Tom Dumoulin",
+          "team": "Team Jumbo–Visma",
+          "time": "+ 7' 48\""
+        },
+        {
+          "rank": 8,
+          "name": "Rigoberto Urán",
+          "team": "EF Pro Cycling",
+          "time": "+ 8' 02\""
+        },
+        {
+          "rank": 9,
+          "name": "Adam Yates",
+          "team": "Mitchelton–Scott",
+          "time": "+ 9' 25\""
+        },
+        {
+          "rank": 10,
+          "name": "Damiano Caruso",
+          "team": "Bahrain–McLaren",
+          "time": "+ 14' 03\""
+        }
+      ]
+    },
+    {
+      "stage": 21,
+      "riders": [
+        {
+          "rank": 1,
+          "name": "Tadej Pogačar",
+          "team": "UAE Team Emirates",
+          "time": "87h 20' 05\""
+        },
+        {
+          "rank": 2,
+          "name": "Primož Roglič",
+          "team": "Team Jumbo–Visma",
+          "time": "+ 59\""
+        },
+        {
+          "rank": 3,
+          "name": "Richie Porte",
+          "team": "Trek–Segafredo",
+          "time": "+ 3' 30\""
+        },
+        {
+          "rank": 4,
+          "name": "Mikel Landa",
+          "team": "Bahrain–McLaren",
+          "time": "+ 5' 58\""
+        },
+        {
+          "rank": 5,
+          "name": "Enric Mas",
+          "team": "Movistar Team",
+          "time": "+ 6' 07\""
+        },
+        {
+          "rank": 6,
+          "name": "Miguel Ángel López",
+          "team": "Astana",
+          "time": "+ 6' 47\""
+        },
+        {
+          "rank": 7,
+          "name": "Tom Dumoulin",
+          "team": "Team Jumbo–Visma",
+          "time": "+ 7' 48\""
+        },
+        {
+          "rank": 8,
+          "name": "Rigoberto Urán",
+          "team": "EF Pro Cycling",
+          "time": "+ 8' 02\""
+        },
+        {
+          "rank": 9,
+          "name": "Adam Yates",
+          "team": "Mitchelton–Scott",
+          "time": "+ 9' 25\""
+        },
+        {
+          "rank": 10,
+          "name": "Damiano Caruso",
+          "team": "Bahrain–McLaren",
+          "time": "+ 14' 03\""
+        }
+      ]
+    }
+  ]
+}
