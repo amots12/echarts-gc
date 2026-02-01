@@ -1,0 +1,1306 @@
+{
+  "race": "Giro d%27Italia",
+  "year": 2021,
+  "stages": [
+    {
+      "stage": 1,
+      "riders": [
+        {
+          "rank": 1,
+          "name": "Filippo Ganna",
+          "team": "Ineos Grenadiers",
+          "time": "8' 47\""
+        },
+        {
+          "rank": 2,
+          "name": "Edoardo Affini",
+          "team": "Team Jumbo–Visma",
+          "time": "+ 10\""
+        },
+        {
+          "rank": 3,
+          "name": "Tobias Foss",
+          "team": "Team Jumbo–Visma",
+          "time": "+ 13\""
+        },
+        {
+          "rank": 4,
+          "name": "João Almeida",
+          "team": "Deceuninck–Quick-Step",
+          "time": "+ 17\""
+        },
+        {
+          "rank": 5,
+          "name": "Rémi Cavagna",
+          "team": "Deceuninck–Quick-Step",
+          "time": "+ 18\""
+        },
+        {
+          "rank": 6,
+          "name": "Jos van Emden",
+          "team": "Team Jumbo–Visma",
+          "time": "+ 18\""
+        },
+        {
+          "rank": 7,
+          "name": "Remco Evenepoel",
+          "team": "Deceuninck–Quick-Step",
+          "time": "+ 19\""
+        },
+        {
+          "rank": 8,
+          "name": "Max Walscheid",
+          "team": "Team Qhubeka Assos",
+          "time": "+ 19\""
+        },
+        {
+          "rank": 9,
+          "name": "Matthias Brändle",
+          "team": "Israel Start-Up Nation",
+          "time": "+ 22\""
+        },
+        {
+          "rank": 10,
+          "name": "Gianni Moscon",
+          "team": "Ineos Grenadiers",
+          "time": "+ 23\""
+        }
+      ]
+    },
+    {
+      "stage": 2,
+      "riders": [
+        {
+          "rank": 1,
+          "name": "Filippo Ganna",
+          "team": "Ineos Grenadiers",
+          "time": "4h 29' 53\""
+        },
+        {
+          "rank": 2,
+          "name": "Edoardo Affini",
+          "team": "Team Jumbo–Visma",
+          "time": "+ 13\""
+        },
+        {
+          "rank": 3,
+          "name": "Tobias Foss",
+          "team": "Team Jumbo–Visma",
+          "time": "+ 16\""
+        },
+        {
+          "rank": 4,
+          "name": "Remco Evenepoel",
+          "team": "Deceuninck–Quick-Step",
+          "time": "+ 20\""
+        },
+        {
+          "rank": 5,
+          "name": "João Almeida",
+          "team": "Deceuninck–Quick-Step",
+          "time": "+ 20\""
+        },
+        {
+          "rank": 6,
+          "name": "Rémi Cavagna",
+          "team": "Deceuninck–Quick-Step",
+          "time": "+ 21\""
+        },
+        {
+          "rank": 7,
+          "name": "Jos van Emden",
+          "team": "Team Jumbo–Visma",
+          "time": "+ 21\""
+        },
+        {
+          "rank": 8,
+          "name": "Max Walscheid",
+          "team": "Team Qhubeka Assos",
+          "time": "+ 22\""
+        },
+        {
+          "rank": 9,
+          "name": "Matthias Brändle",
+          "team": "Israel Start-Up Nation",
+          "time": "+ 25\""
+        },
+        {
+          "rank": 10,
+          "name": "Gianni Moscon",
+          "team": "Ineos Grenadiers",
+          "time": "+ 26\""
+        }
+      ]
+    },
+    {
+      "stage": 3,
+      "riders": [
+        {
+          "rank": 1,
+          "name": "Filippo Ganna",
+          "team": "Ineos Grenadiers",
+          "time": "8h 51' 26\""
+        },
+        {
+          "rank": 2,
+          "name": "Tobias Foss",
+          "team": "Team Jumbo–Visma",
+          "time": "+ 16\""
+        },
+        {
+          "rank": 3,
+          "name": "Remco Evenepoel",
+          "team": "Deceuninck–Quick-Step",
+          "time": "+ 20\""
+        },
+        {
+          "rank": 4,
+          "name": "João Almeida",
+          "team": "Deceuninck–Quick-Step",
+          "time": "+ 20\""
+        },
+        {
+          "rank": 5,
+          "name": "Rémi Cavagna",
+          "team": "Deceuninck–Quick-Step",
+          "time": "+ 21\""
+        },
+        {
+          "rank": 6,
+          "name": "Gianni Moscon",
+          "team": "Ineos Grenadiers",
+          "time": "+ 26\""
+        },
+        {
+          "rank": 7,
+          "name": "Aleksandr Vlasov",
+          "team": "Astana–Premier Tech",
+          "time": "+ 27\""
+        },
+        {
+          "rank": 8,
+          "name": "Alberto Bettiol",
+          "team": "EF Education–Nippo",
+          "time": "+ 29\""
+        },
+        {
+          "rank": 9,
+          "name": "Jonathan Castroviejo",
+          "team": "Ineos Grenadiers",
+          "time": "+ 30\""
+        },
+        {
+          "rank": 10,
+          "name": "Diego Ulissi",
+          "team": "UAE Team Emirates",
+          "time": "+ 32\""
+        }
+      ]
+    },
+    {
+      "stage": 4,
+      "riders": [
+        {
+          "rank": 1,
+          "name": "Alessandro De Marchi",
+          "team": "Israel Start-Up Nation",
+          "time": "13h 50' 44\""
+        },
+        {
+          "rank": 2,
+          "name": "Joe Dombrowski",
+          "team": "UAE Team Emirates",
+          "time": "+ 22\""
+        },
+        {
+          "rank": 3,
+          "name": "Louis Vervaeke",
+          "team": "Alpecin–Fenix",
+          "time": "+ 42\""
+        },
+        {
+          "rank": 4,
+          "name": "Nelson Oliveira",
+          "team": "Movistar Team",
+          "time": "+ 48\""
+        },
+        {
+          "rank": 5,
+          "name": "Attila Valter",
+          "team": "Groupama–FDJ",
+          "time": "+ 1' 00\""
+        },
+        {
+          "rank": 6,
+          "name": "Nicolas Edet",
+          "team": "Cofidis",
+          "time": "+ 1' 15\""
+        },
+        {
+          "rank": 7,
+          "name": "Aleksandr Vlasov",
+          "team": "Astana–Premier Tech",
+          "time": "+ 1' 24\""
+        },
+        {
+          "rank": 8,
+          "name": "Remco Evenepoel",
+          "team": "Deceuninck–Quick-Step",
+          "time": "+ 1' 28\""
+        },
+        {
+          "rank": 9,
+          "name": "Alberto Bettiol",
+          "team": "EF Education–Nippo",
+          "time": "+ 1' 37\""
+        },
+        {
+          "rank": 10,
+          "name": "Hugh Carthy",
+          "team": "EF Education–Nippo",
+          "time": "+ 1' 38\""
+        }
+      ]
+    },
+    {
+      "stage": 5,
+      "riders": [
+        {
+          "rank": 1,
+          "name": "Alessandro De Marchi",
+          "team": "Israel Start-Up Nation",
+          "time": "17h 57' 45\""
+        },
+        {
+          "rank": 2,
+          "name": "Louis Vervaeke",
+          "team": "Alpecin–Fenix",
+          "time": "+ 42\""
+        },
+        {
+          "rank": 3,
+          "name": "Nelson Oliveira",
+          "team": "Movistar Team",
+          "time": "+ 48\""
+        },
+        {
+          "rank": 4,
+          "name": "Attila Valter",
+          "team": "Groupama–FDJ",
+          "time": "+ 1' 00\""
+        },
+        {
+          "rank": 5,
+          "name": "Nicolas Edet",
+          "team": "Cofidis",
+          "time": "+ 1' 15\""
+        },
+        {
+          "rank": 6,
+          "name": "Aleksandr Vlasov",
+          "team": "Astana–Premier Tech",
+          "time": "+ 1' 24\""
+        },
+        {
+          "rank": 7,
+          "name": "Remco Evenepoel",
+          "team": "Deceuninck–Quick-Step",
+          "time": "+ 1' 28\""
+        },
+        {
+          "rank": 8,
+          "name": "Alberto Bettiol",
+          "team": "EF Education–Nippo",
+          "time": "+ 1' 37\""
+        },
+        {
+          "rank": 9,
+          "name": "Hugh Carthy",
+          "team": "EF Education–Nippo",
+          "time": "+ 1' 38\""
+        },
+        {
+          "rank": 10,
+          "name": "Egan Bernal",
+          "team": "Ineos Grenadiers",
+          "time": "+ 1' 39\""
+        }
+      ]
+    },
+    {
+      "stage": 6,
+      "riders": [
+        {
+          "rank": 1,
+          "name": "Attila Valter",
+          "team": "Groupama–FDJ",
+          "time": "22h 17' 06\""
+        },
+        {
+          "rank": 2,
+          "name": "Remco Evenepoel",
+          "team": "Deceuninck–Quick-Step",
+          "time": "+ 11\""
+        },
+        {
+          "rank": 3,
+          "name": "Egan Bernal",
+          "team": "Ineos Grenadiers",
+          "time": "+ 16\""
+        },
+        {
+          "rank": 4,
+          "name": "Aleksandr Vlasov",
+          "team": "Astana–Premier Tech",
+          "time": "+ 24\""
+        },
+        {
+          "rank": 5,
+          "name": "Louis Vervaeke",
+          "team": "Alpecin–Fenix",
+          "time": "+ 25\""
+        },
+        {
+          "rank": 6,
+          "name": "Hugh Carthy",
+          "team": "EF Education–Nippo",
+          "time": "+ 38\""
+        },
+        {
+          "rank": 7,
+          "name": "Damiano Caruso",
+          "team": "Team Bahrain Victorious",
+          "time": "+ 39\""
+        },
+        {
+          "rank": 8,
+          "name": "Giulio Ciccone",
+          "team": "Trek–Segafredo",
+          "time": "+ 41\""
+        },
+        {
+          "rank": 9,
+          "name": "Dan Martin",
+          "team": "Israel Start-Up Nation",
+          "time": "+ 47\""
+        },
+        {
+          "rank": 10,
+          "name": "Simon Yates",
+          "team": "Team BikeExchange",
+          "time": "+ 49\""
+        }
+      ]
+    },
+    {
+      "stage": 7,
+      "riders": [
+        {
+          "rank": 1,
+          "name": "Attila Valter",
+          "team": "Groupama–FDJ",
+          "time": "26h 59' 18\""
+        },
+        {
+          "rank": 2,
+          "name": "Remco Evenepoel",
+          "team": "Deceuninck–Quick-Step",
+          "time": "+ 11\""
+        },
+        {
+          "rank": 3,
+          "name": "Egan Bernal",
+          "team": "Ineos Grenadiers",
+          "time": "+ 16\""
+        },
+        {
+          "rank": 4,
+          "name": "Aleksandr Vlasov",
+          "team": "Astana–Premier Tech",
+          "time": "+ 24\""
+        },
+        {
+          "rank": 5,
+          "name": "Louis Vervaeke",
+          "team": "Alpecin–Fenix",
+          "time": "+ 25\""
+        },
+        {
+          "rank": 6,
+          "name": "Hugh Carthy",
+          "team": "EF Education–Nippo",
+          "time": "+ 38\""
+        },
+        {
+          "rank": 7,
+          "name": "Damiano Caruso",
+          "team": "Team Bahrain Victorious",
+          "time": "+ 39\""
+        },
+        {
+          "rank": 8,
+          "name": "Giulio Ciccone",
+          "team": "Trek–Segafredo",
+          "time": "+ 41\""
+        },
+        {
+          "rank": 9,
+          "name": "Dan Martin",
+          "team": "Israel Start-Up Nation",
+          "time": "+ 47\""
+        },
+        {
+          "rank": 10,
+          "name": "Simon Yates",
+          "team": "Team BikeExchange",
+          "time": "+ 49\""
+        }
+      ]
+    },
+    {
+      "stage": 8,
+      "riders": [
+        {
+          "rank": 1,
+          "name": "Attila Valter",
+          "team": "Groupama–FDJ",
+          "time": "31h 10' 53\""
+        },
+        {
+          "rank": 2,
+          "name": "Remco Evenepoel",
+          "team": "Deceuninck–Quick-Step",
+          "time": "+ 11\""
+        },
+        {
+          "rank": 3,
+          "name": "Egan Bernal",
+          "team": "Ineos Grenadiers",
+          "time": "+ 16\""
+        },
+        {
+          "rank": 4,
+          "name": "Aleksandr Vlasov",
+          "team": "Astana–Premier Tech",
+          "time": "+ 24\""
+        },
+        {
+          "rank": 5,
+          "name": "Hugh Carthy",
+          "team": "EF Education–Nippo",
+          "time": "+ 38\""
+        },
+        {
+          "rank": 6,
+          "name": "Damiano Caruso",
+          "team": "Team Bahrain Victorious",
+          "time": "+ 39\""
+        },
+        {
+          "rank": 7,
+          "name": "Giulio Ciccone",
+          "team": "Trek–Segafredo",
+          "time": "+ 41\""
+        },
+        {
+          "rank": 8,
+          "name": "Dan Martin",
+          "team": "Israel Start-Up Nation",
+          "time": "+ 47\""
+        },
+        {
+          "rank": 9,
+          "name": "Simon Yates",
+          "team": "Team BikeExchange",
+          "time": "+ 49\""
+        },
+        {
+          "rank": 10,
+          "name": "Louis Vervaeke",
+          "team": "Alpecin–Fenix",
+          "time": "+ 50\""
+        }
+      ]
+    },
+    {
+      "stage": 9,
+      "riders": [
+        {
+          "rank": 1,
+          "name": "Egan Bernal",
+          "team": "Ineos Grenadiers",
+          "time": "35h 19' 22\""
+        },
+        {
+          "rank": 2,
+          "name": "Remco Evenepoel",
+          "team": "Deceuninck–Quick-Step",
+          "time": "+ 15\""
+        },
+        {
+          "rank": 3,
+          "name": "Aleksandr Vlasov",
+          "team": "Astana–Premier Tech",
+          "time": "+ 21\""
+        },
+        {
+          "rank": 4,
+          "name": "Giulio Ciccone",
+          "team": "Trek–Segafredo",
+          "time": "+ 36\""
+        },
+        {
+          "rank": 5,
+          "name": "Attila Valter",
+          "team": "Groupama–FDJ",
+          "time": "+ 43\""
+        },
+        {
+          "rank": 6,
+          "name": "Hugh Carthy",
+          "team": "EF Education–Nippo",
+          "time": "+ 44\""
+        },
+        {
+          "rank": 7,
+          "name": "Damiano Caruso",
+          "team": "Team Bahrain Victorious",
+          "time": "+ 45\""
+        },
+        {
+          "rank": 8,
+          "name": "Dan Martin",
+          "team": "Israel Start-Up Nation",
+          "time": "+ 51\""
+        },
+        {
+          "rank": 9,
+          "name": "Simon Yates",
+          "team": "Team BikeExchange",
+          "time": "+ 55\""
+        },
+        {
+          "rank": 10,
+          "name": "Davide Formolo",
+          "team": "UAE Team Emirates",
+          "time": "+ 1' 01\""
+        }
+      ]
+    },
+    {
+      "stage": 10,
+      "riders": [
+        {
+          "rank": 1,
+          "name": "Egan Bernal",
+          "team": "Ineos Grenadiers",
+          "time": "38h 30' 17\""
+        },
+        {
+          "rank": 2,
+          "name": "Remco Evenepoel",
+          "team": "Deceuninck–Quick-Step",
+          "time": "+ 14\""
+        },
+        {
+          "rank": 3,
+          "name": "Aleksandr Vlasov",
+          "team": "Astana–Premier Tech",
+          "time": "+ 22\""
+        },
+        {
+          "rank": 4,
+          "name": "Giulio Ciccone",
+          "team": "Trek–Segafredo",
+          "time": "+ 37\""
+        },
+        {
+          "rank": 5,
+          "name": "Attila Valter",
+          "team": "Groupama–FDJ",
+          "time": "+ 44\""
+        },
+        {
+          "rank": 6,
+          "name": "Hugh Carthy",
+          "team": "EF Education–Nippo",
+          "time": "+ 45\""
+        },
+        {
+          "rank": 7,
+          "name": "Damiano Caruso",
+          "team": "Team Bahrain Victorious",
+          "time": "+ 46\""
+        },
+        {
+          "rank": 8,
+          "name": "Dan Martin",
+          "team": "Israel Start-Up Nation",
+          "time": "+ 52\""
+        },
+        {
+          "rank": 9,
+          "name": "Simon Yates",
+          "team": "Team BikeExchange",
+          "time": "+ 56\""
+        },
+        {
+          "rank": 10,
+          "name": "Davide Formolo",
+          "team": "UAE Team Emirates",
+          "time": "+ 1' 02\""
+        }
+      ]
+    },
+    {
+      "stage": 11,
+      "riders": [
+        {
+          "rank": 1,
+          "name": "Egan Bernal",
+          "team": "Ineos Grenadiers",
+          "time": "42h 35' 21\""
+        },
+        {
+          "rank": 2,
+          "name": "Aleksandr Vlasov",
+          "team": "Astana–Premier Tech",
+          "time": "+ 45\""
+        },
+        {
+          "rank": 3,
+          "name": "Damiano Caruso",
+          "team": "Team Bahrain Victorious",
+          "time": "+ 1' 12\""
+        },
+        {
+          "rank": 4,
+          "name": "Hugh Carthy",
+          "team": "EF Education–Nippo",
+          "time": "+ 1' 17\""
+        },
+        {
+          "rank": 5,
+          "name": "Simon Yates",
+          "team": "Team BikeExchange",
+          "time": "+ 1' 22\""
+        },
+        {
+          "rank": 6,
+          "name": "Emanuel Buchmann",
+          "team": "Bora–Hansgrohe",
+          "time": "+ 1' 50\""
+        },
+        {
+          "rank": 7,
+          "name": "Remco Evenepoel",
+          "team": "Deceuninck–Quick-Step",
+          "time": "+ 2' 22\""
+        },
+        {
+          "rank": 8,
+          "name": "Giulio Ciccone",
+          "team": "Trek–Segafredo",
+          "time": "+ 2' 24\""
+        },
+        {
+          "rank": 9,
+          "name": "Tobias Foss",
+          "team": "Team Jumbo–Visma",
+          "time": "+ 2' 49\""
+        },
+        {
+          "rank": 10,
+          "name": "Daniel Martínez",
+          "team": "Ineos Grenadiers",
+          "time": "+ 3' 15\""
+        }
+      ]
+    },
+    {
+      "stage": 12,
+      "riders": [
+        {
+          "rank": 1,
+          "name": "Egan Bernal",
+          "team": "Ineos Grenadiers",
+          "time": "48h 29' 23\""
+        },
+        {
+          "rank": 2,
+          "name": "Aleksandr Vlasov",
+          "team": "Astana–Premier Tech",
+          "time": "+ 45\""
+        },
+        {
+          "rank": 3,
+          "name": "Damiano Caruso",
+          "team": "Team Bahrain Victorious",
+          "time": "+ 1' 12\""
+        },
+        {
+          "rank": 4,
+          "name": "Hugh Carthy",
+          "team": "EF Education–Nippo",
+          "time": "+ 1' 17\""
+        },
+        {
+          "rank": 5,
+          "name": "Simon Yates",
+          "team": "Team BikeExchange",
+          "time": "+ 1' 22\""
+        },
+        {
+          "rank": 6,
+          "name": "Emanuel Buchmann",
+          "team": "Bora–Hansgrohe",
+          "time": "+ 1' 50\""
+        },
+        {
+          "rank": 7,
+          "name": "Remco Evenepoel",
+          "team": "Deceuninck–Quick-Step",
+          "time": "+ 2' 22\""
+        },
+        {
+          "rank": 8,
+          "name": "Giulio Ciccone",
+          "team": "Trek–Segafredo",
+          "time": "+ 2' 24\""
+        },
+        {
+          "rank": 9,
+          "name": "Tobias Foss",
+          "team": "Team Jumbo–Visma",
+          "time": "+ 2' 49\""
+        },
+        {
+          "rank": 10,
+          "name": "Daniel Martínez",
+          "team": "Ineos Grenadiers",
+          "time": "+ 3' 15\""
+        }
+      ]
+    },
+    {
+      "stage": 13,
+      "riders": [
+        {
+          "rank": 1,
+          "name": "Egan Bernal",
+          "team": "Ineos Grenadiers",
+          "time": "53h 11' 42\""
+        },
+        {
+          "rank": 2,
+          "name": "Aleksandr Vlasov",
+          "team": "Astana–Premier Tech",
+          "time": "+ 45\""
+        },
+        {
+          "rank": 3,
+          "name": "Damiano Caruso",
+          "team": "Team Bahrain Victorious",
+          "time": "+ 1' 12\""
+        },
+        {
+          "rank": 4,
+          "name": "Hugh Carthy",
+          "team": "EF Education–Nippo",
+          "time": "+ 1' 17\""
+        },
+        {
+          "rank": 5,
+          "name": "Simon Yates",
+          "team": "Team BikeExchange",
+          "time": "+ 1' 22\""
+        },
+        {
+          "rank": 6,
+          "name": "Emanuel Buchmann",
+          "team": "Bora–Hansgrohe",
+          "time": "+ 1' 50\""
+        },
+        {
+          "rank": 7,
+          "name": "Remco Evenepoel",
+          "team": "Deceuninck–Quick-Step",
+          "time": "+ 2' 22\""
+        },
+        {
+          "rank": 8,
+          "name": "Giulio Ciccone",
+          "team": "Trek–Segafredo",
+          "time": "+ 2' 24\""
+        },
+        {
+          "rank": 9,
+          "name": "Tobias Foss",
+          "team": "Team Jumbo–Visma",
+          "time": "+ 2' 49\""
+        },
+        {
+          "rank": 10,
+          "name": "Daniel Martínez",
+          "team": "Ineos Grenadiers",
+          "time": "+ 3' 15\""
+        }
+      ]
+    },
+    {
+      "stage": 14,
+      "riders": [
+        {
+          "rank": 1,
+          "name": "Egan Bernal",
+          "team": "Ineos Grenadiers",
+          "time": "58h 30' 47\""
+        },
+        {
+          "rank": 2,
+          "name": "Simon Yates",
+          "team": "Team BikeExchange",
+          "time": "+ 1' 33\""
+        },
+        {
+          "rank": 3,
+          "name": "Damiano Caruso",
+          "team": "Team Bahrain Victorious",
+          "time": "+ 1' 51\""
+        },
+        {
+          "rank": 4,
+          "name": "Aleksandr Vlasov",
+          "team": "Astana–Premier Tech",
+          "time": "+ 1' 57\""
+        },
+        {
+          "rank": 5,
+          "name": "Hugh Carthy",
+          "team": "EF Education–Nippo",
+          "time": "+ 2' 11\""
+        },
+        {
+          "rank": 6,
+          "name": "Emanuel Buchmann",
+          "team": "Bora–Hansgrohe",
+          "time": "+ 2' 36\""
+        },
+        {
+          "rank": 7,
+          "name": "Giulio Ciccone",
+          "team": "Trek–Segafredo",
+          "time": "+ 3' 03\""
+        },
+        {
+          "rank": 8,
+          "name": "Remco Evenepoel",
+          "team": "Deceuninck–Quick-Step",
+          "time": "+ 3' 52\""
+        },
+        {
+          "rank": 9,
+          "name": "Daniel Martínez",
+          "team": "Ineos Grenadiers",
+          "time": "+ 3' 54\""
+        },
+        {
+          "rank": 10,
+          "name": "Romain Bardet",
+          "team": "Team DSM",
+          "time": "+ 4' 31\""
+        }
+      ]
+    },
+    {
+      "stage": 15,
+      "riders": [
+        {
+          "rank": 1,
+          "name": "Egan Bernal",
+          "team": "Ineos Grenadiers",
+          "time": "62h 13' 33\""
+        },
+        {
+          "rank": 2,
+          "name": "Simon Yates",
+          "team": "Team BikeExchange",
+          "time": "+ 1' 33\""
+        },
+        {
+          "rank": 3,
+          "name": "Damiano Caruso",
+          "team": "Team Bahrain Victorious",
+          "time": "+ 1' 51\""
+        },
+        {
+          "rank": 4,
+          "name": "Aleksandr Vlasov",
+          "team": "Astana–Premier Tech",
+          "time": "+ 1' 57\""
+        },
+        {
+          "rank": 5,
+          "name": "Hugh Carthy",
+          "team": "EF Education–Nippo",
+          "time": "+ 2' 11\""
+        },
+        {
+          "rank": 6,
+          "name": "Giulio Ciccone",
+          "team": "Trek–Segafredo",
+          "time": "+ 3' 03\""
+        },
+        {
+          "rank": 7,
+          "name": "Remco Evenepoel",
+          "team": "Deceuninck–Quick-Step",
+          "time": "+ 3' 52\""
+        },
+        {
+          "rank": 8,
+          "name": "Daniel Martínez",
+          "team": "Ineos Grenadiers",
+          "time": "+ 3' 54\""
+        },
+        {
+          "rank": 9,
+          "name": "Romain Bardet",
+          "team": "Team DSM",
+          "time": "+ 4' 31\""
+        },
+        {
+          "rank": 10,
+          "name": "Tobias Foss",
+          "team": "Team Jumbo–Visma",
+          "time": "+ 5' 36\""
+        }
+      ]
+    },
+    {
+      "stage": 16,
+      "riders": [
+        {
+          "rank": 1,
+          "name": "Egan Bernal",
+          "team": "Ineos Grenadiers",
+          "time": "66h 36' 04\""
+        },
+        {
+          "rank": 2,
+          "name": "Damiano Caruso",
+          "team": "Team Bahrain Victorious",
+          "time": "+ 2' 24\""
+        },
+        {
+          "rank": 3,
+          "name": "Hugh Carthy",
+          "team": "EF Education–Nippo",
+          "time": "+ 3' 40\""
+        },
+        {
+          "rank": 4,
+          "name": "Aleksandr Vlasov",
+          "team": "Astana–Premier Tech",
+          "time": "+ 4' 18\""
+        },
+        {
+          "rank": 5,
+          "name": "Simon Yates",
+          "team": "Team BikeExchange",
+          "time": "+ 4' 20\""
+        },
+        {
+          "rank": 6,
+          "name": "Giulio Ciccone",
+          "team": "Trek–Segafredo",
+          "time": "+ 4' 31\""
+        },
+        {
+          "rank": 7,
+          "name": "Romain Bardet",
+          "team": "Team DSM",
+          "time": "+ 5' 02\""
+        },
+        {
+          "rank": 8,
+          "name": "Daniel Martínez",
+          "team": "Ineos Grenadiers",
+          "time": "+ 7' 17\""
+        },
+        {
+          "rank": 9,
+          "name": "Tobias Foss",
+          "team": "Team Jumbo–Visma",
+          "time": "+ 8' 20\""
+        },
+        {
+          "rank": 10,
+          "name": "João Almeida",
+          "team": "Deceuninck–Quick-Step",
+          "time": "+ 10' 01\""
+        }
+      ]
+    },
+    {
+      "stage": 17,
+      "riders": [
+        {
+          "rank": 1,
+          "name": "Egan Bernal",
+          "team": "Ineos Grenadiers",
+          "time": "71h 32' 05\""
+        },
+        {
+          "rank": 2,
+          "name": "Damiano Caruso",
+          "team": "Team Bahrain Victorious",
+          "time": "+ 2' 21\""
+        },
+        {
+          "rank": 3,
+          "name": "Simon Yates",
+          "team": "Team BikeExchange",
+          "time": "+ 3' 23\""
+        },
+        {
+          "rank": 4,
+          "name": "Aleksandr Vlasov",
+          "team": "Astana–Premier Tech",
+          "time": "+ 6' 03\""
+        },
+        {
+          "rank": 5,
+          "name": "Hugh Carthy",
+          "team": "EF Education–Nippo",
+          "time": "+ 6' 09\""
+        },
+        {
+          "rank": 6,
+          "name": "Romain Bardet",
+          "team": "Team DSM",
+          "time": "+ 6' 31\""
+        },
+        {
+          "rank": 7,
+          "name": "Daniel Martínez",
+          "team": "Ineos Grenadiers",
+          "time": "+ 7' 17\""
+        },
+        {
+          "rank": 8,
+          "name": "João Almeida",
+          "team": "Deceuninck–Quick-Step",
+          "time": "+ 8' 45\""
+        },
+        {
+          "rank": 9,
+          "name": "Tobias Foss",
+          "team": "Team Jumbo–Visma",
+          "time": "+ 9' 18\""
+        },
+        {
+          "rank": 10,
+          "name": "Giulio Ciccone",
+          "team": "Trek–Segafredo",
+          "time": "+ 11' 06\""
+        }
+      ]
+    },
+    {
+      "stage": 18,
+      "riders": [
+        {
+          "rank": 1,
+          "name": "Egan Bernal",
+          "team": "Ineos Grenadiers",
+          "time": "77h 10' 18\""
+        },
+        {
+          "rank": 2,
+          "name": "Damiano Caruso",
+          "team": "Team Bahrain Victorious",
+          "time": "+ 2' 21\""
+        },
+        {
+          "rank": 3,
+          "name": "Simon Yates",
+          "team": "Team BikeExchange",
+          "time": "+ 3' 23\""
+        },
+        {
+          "rank": 4,
+          "name": "Aleksandr Vlasov",
+          "team": "Astana–Premier Tech",
+          "time": "+ 6' 03\""
+        },
+        {
+          "rank": 5,
+          "name": "Hugh Carthy",
+          "team": "EF Education–Nippo",
+          "time": "+ 6' 09\""
+        },
+        {
+          "rank": 6,
+          "name": "Romain Bardet",
+          "team": "Team DSM",
+          "time": "+ 6' 31\""
+        },
+        {
+          "rank": 7,
+          "name": "Daniel Martínez",
+          "team": "Ineos Grenadiers",
+          "time": "+ 7' 17\""
+        },
+        {
+          "rank": 8,
+          "name": "João Almeida",
+          "team": "Deceuninck–Quick-Step",
+          "time": "+ 8' 45\""
+        },
+        {
+          "rank": 9,
+          "name": "Tobias Foss",
+          "team": "Team Jumbo–Visma",
+          "time": "+ 9' 18\""
+        },
+        {
+          "rank": 10,
+          "name": "Dan Martin",
+          "team": "Israel Start-Up Nation",
+          "time": "+ 13' 37\""
+        }
+      ]
+    },
+    {
+      "stage": 19,
+      "riders": [
+        {
+          "rank": 1,
+          "name": "Egan Bernal",
+          "team": "Ineos Grenadiers",
+          "time": "81h 13' 37\""
+        },
+        {
+          "rank": 2,
+          "name": "Damiano Caruso",
+          "team": "Team Bahrain Victorious",
+          "time": "+ 2' 29\""
+        },
+        {
+          "rank": 3,
+          "name": "Simon Yates",
+          "team": "Team BikeExchange",
+          "time": "+ 2' 49\""
+        },
+        {
+          "rank": 4,
+          "name": "Aleksandr Vlasov",
+          "team": "Astana–Premier Tech",
+          "time": "+ 6' 11\""
+        },
+        {
+          "rank": 5,
+          "name": "Hugh Carthy",
+          "team": "EF Education–Nippo",
+          "time": "+ 7' 10\""
+        },
+        {
+          "rank": 6,
+          "name": "Romain Bardet",
+          "team": "Team DSM",
+          "time": "+ 7' 32\""
+        },
+        {
+          "rank": 7,
+          "name": "Daniel Martínez",
+          "team": "Ineos Grenadiers",
+          "time": "+ 7' 42\""
+        },
+        {
+          "rank": 8,
+          "name": "João Almeida",
+          "team": "Deceuninck–Quick-Step",
+          "time": "+ 8' 26\""
+        },
+        {
+          "rank": 9,
+          "name": "Tobias Foss",
+          "team": "Team Jumbo–Visma",
+          "time": "+ 10' 19\""
+        },
+        {
+          "rank": 10,
+          "name": "Dan Martin",
+          "team": "Israel Start-Up Nation",
+          "time": "+ 13' 55\""
+        }
+      ]
+    },
+    {
+      "stage": 20,
+      "riders": [
+        {
+          "rank": 1,
+          "name": "Egan Bernal",
+          "team": "Ineos Grenadiers",
+          "time": "85h 41' 47\""
+        },
+        {
+          "rank": 2,
+          "name": "Damiano Caruso",
+          "team": "Team Bahrain Victorious",
+          "time": "+ 1' 59\""
+        },
+        {
+          "rank": 3,
+          "name": "Simon Yates",
+          "team": "Team BikeExchange",
+          "time": "+ 3' 23\""
+        },
+        {
+          "rank": 4,
+          "name": "Aleksandr Vlasov",
+          "team": "Astana–Premier Tech",
+          "time": "+ 7' 07\""
+        },
+        {
+          "rank": 5,
+          "name": "Romain Bardet",
+          "team": "Team DSM",
+          "time": "+ 7' 48\""
+        },
+        {
+          "rank": 6,
+          "name": "Daniel Martínez",
+          "team": "Ineos Grenadiers",
+          "time": "+ 7' 56\""
+        },
+        {
+          "rank": 7,
+          "name": "Hugh Carthy",
+          "team": "EF Education–Nippo",
+          "time": "+ 8' 22\""
+        },
+        {
+          "rank": 8,
+          "name": "João Almeida",
+          "team": "Deceuninck–Quick-Step",
+          "time": "+ 8' 50\""
+        },
+        {
+          "rank": 9,
+          "name": "Tobias Foss",
+          "team": "Team Jumbo–Visma",
+          "time": "+ 12' 39\""
+        },
+        {
+          "rank": 10,
+          "name": "Dan Martin",
+          "team": "Israel Start-Up Nation",
+          "time": "+ 16' 48\""
+        }
+      ]
+    }
+  ]
+}

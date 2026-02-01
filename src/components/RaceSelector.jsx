@@ -9,18 +9,16 @@ import {
   FormControl
 } from "@mui/material";
 
-const AVAILABLE_RACES = [
-  { id: "tour", label: "Tour de France" }
-];
-
-const AVAILABLE_YEARS = [2025, 2024, 2023, 2022];
-
 export default function RaceSelector({
   race,
   year,
+  races,
   onRaceChange,
   onYearChange
 }) {
+  const raceOptions = Object.entries(races);
+  const yearOptions = races[race]?.years || [];
+
   return (
     <Box
       sx={{
@@ -54,11 +52,11 @@ export default function RaceSelector({
             <Select
               value={race}
               onChange={e => onRaceChange(e.target.value)}
-              sx={{ borderRadius: 2, minWidth: 160 }}
+              sx={{ borderRadius: 2, minWidth: 180 }}
             >
-              {AVAILABLE_RACES.map(r => (
-                <MenuItem key={r.id} value={r.id}>
-                  {r.label}
+              {raceOptions.map(([id, cfg]) => (
+                <MenuItem key={id} value={id}>
+                  {cfg.label}
                 </MenuItem>
               ))}
             </Select>
@@ -68,9 +66,9 @@ export default function RaceSelector({
             <Select
               value={year}
               onChange={e => onYearChange(Number(e.target.value))}
-              sx={{ borderRadius: 2, minWidth: 100 }}
+              sx={{ borderRadius: 2, minWidth: 110 }}
             >
-              {AVAILABLE_YEARS.map(y => (
+              {yearOptions.map(y => (
                 <MenuItem key={y} value={y}>
                   {y}
                 </MenuItem>

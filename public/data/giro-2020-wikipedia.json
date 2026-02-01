@@ -1,0 +1,1371 @@
+{
+  "race": "Giro d%27Italia",
+  "year": 2020,
+  "stages": [
+    {
+      "stage": 1,
+      "riders": [
+        {
+          "rank": 1,
+          "name": "Filippo Ganna",
+          "team": "Ineos Grenadiers",
+          "time": "15' 24\""
+        },
+        {
+          "rank": 2,
+          "name": "João Almeida",
+          "team": "Deceuninck–Quick-Step",
+          "time": "+ 22\""
+        },
+        {
+          "rank": 3,
+          "name": "Mikkel Bjerg",
+          "team": "UAE Team Emirates",
+          "time": "+ 22\""
+        },
+        {
+          "rank": 4,
+          "name": "Geraint Thomas",
+          "team": "Ineos Grenadiers",
+          "time": "+ 23\""
+        },
+        {
+          "rank": 5,
+          "name": "Tobias Foss",
+          "team": "Team Jumbo–Visma",
+          "time": "+ 31\""
+        },
+        {
+          "rank": 6,
+          "name": "Josef Černý",
+          "team": "CCC Team",
+          "time": "+ 36\""
+        },
+        {
+          "rank": 7,
+          "name": "Matteo Sobrero",
+          "team": "NTT Pro Cycling",
+          "time": "+ 40\""
+        },
+        {
+          "rank": 8,
+          "name": "Lawson Craddock",
+          "team": "EF Pro Cycling",
+          "time": "+ 41\""
+        },
+        {
+          "rank": 9,
+          "name": "Miles Scotson",
+          "team": "Groupama–FDJ",
+          "time": "+ 42\""
+        },
+        {
+          "rank": 10,
+          "name": "Matthias Brändle",
+          "team": "Israel Start-Up Nation",
+          "time": "+ 42\""
+        }
+      ]
+    },
+    {
+      "stage": 2,
+      "riders": [
+        {
+          "rank": 1,
+          "name": "Filippo Ganna",
+          "team": "Ineos Grenadiers",
+          "time": "3h 40' 27\""
+        },
+        {
+          "rank": 2,
+          "name": "João Almeida",
+          "team": "Deceuninck–Quick-Step",
+          "time": "+ 22\""
+        },
+        {
+          "rank": 3,
+          "name": "Geraint Thomas",
+          "team": "Ineos Grenadiers",
+          "time": "+ 23\""
+        },
+        {
+          "rank": 4,
+          "name": "Tobias Foss",
+          "team": "Team Jumbo–Visma",
+          "time": "+ 31\""
+        },
+        {
+          "rank": 5,
+          "name": "Josef Černý",
+          "team": "CCC Team",
+          "time": "+ 36\""
+        },
+        {
+          "rank": 6,
+          "name": "Matteo Sobrero",
+          "team": "NTT Pro Cycling",
+          "time": "+ 40\""
+        },
+        {
+          "rank": 7,
+          "name": "Jan Tratnik",
+          "team": "Bahrain–McLaren",
+          "time": "+ 42\""
+        },
+        {
+          "rank": 8,
+          "name": "Simon Yates",
+          "team": "Mitchelton–Scott",
+          "time": "+ 49\""
+        },
+        {
+          "rank": 9,
+          "name": "Tanel Kangert",
+          "team": "EF Pro Cycling",
+          "time": "+ 49\""
+        },
+        {
+          "rank": 10,
+          "name": "Diego Ulissi",
+          "team": "UAE Team Emirates",
+          "time": "+ 54\""
+        }
+      ]
+    },
+    {
+      "stage": 3,
+      "riders": [
+        {
+          "rank": 1,
+          "name": "João Almeida",
+          "team": "Deceuninck–Quick-Step",
+          "time": "7h 44' 25\""
+        },
+        {
+          "rank": 2,
+          "name": "Jonathan Caicedo",
+          "team": "EF Pro Cycling",
+          "time": "+ 0\""
+        },
+        {
+          "rank": 3,
+          "name": "Pello Bilbao",
+          "team": "Bahrain–McLaren",
+          "time": "+ 37\""
+        },
+        {
+          "rank": 4,
+          "name": "Wilco Kelderman",
+          "team": "Team Sunweb",
+          "time": "+ 42\""
+        },
+        {
+          "rank": 5,
+          "name": "Harm Vanhoucke",
+          "team": "Lotto–Soudal",
+          "time": "+ 53\""
+        },
+        {
+          "rank": 6,
+          "name": "Vincenzo Nibali",
+          "team": "Trek–Segafredo",
+          "time": "+ 55\""
+        },
+        {
+          "rank": 7,
+          "name": "Domenico Pozzovivo",
+          "team": "NTT Pro Cycling",
+          "time": "+ 59\""
+        },
+        {
+          "rank": 8,
+          "name": "Brandon McNulty",
+          "team": "UAE Team Emirates",
+          "time": "+ 1' 11\""
+        },
+        {
+          "rank": 9,
+          "name": "Jakob Fuglsang",
+          "team": "Astana",
+          "time": "+ 1' 13\""
+        },
+        {
+          "rank": 10,
+          "name": "Steven Kruijswijk",
+          "team": "Team Jumbo–Visma",
+          "time": "+ 1' 15\""
+        }
+      ]
+    },
+    {
+      "stage": 4,
+      "riders": [
+        {
+          "rank": 1,
+          "name": "João Almeida",
+          "team": "Deceuninck–Quick-Step",
+          "time": "11h 06' 36\""
+        },
+        {
+          "rank": 2,
+          "name": "Jonathan Caicedo",
+          "team": "EF Pro Cycling",
+          "time": "+ 2\""
+        },
+        {
+          "rank": 3,
+          "name": "Pello Bilbao",
+          "team": "Bahrain–McLaren",
+          "time": "+ 39\""
+        },
+        {
+          "rank": 4,
+          "name": "Wilco Kelderman",
+          "team": "Team Sunweb",
+          "time": "+ 44\""
+        },
+        {
+          "rank": 5,
+          "name": "Harm Vanhoucke",
+          "team": "Lotto–Soudal",
+          "time": "+ 55\""
+        },
+        {
+          "rank": 6,
+          "name": "Vincenzo Nibali",
+          "team": "Trek–Segafredo",
+          "time": "+ 57\""
+        },
+        {
+          "rank": 7,
+          "name": "Domenico Pozzovivo",
+          "team": "NTT Pro Cycling",
+          "time": "+ 1' 01\""
+        },
+        {
+          "rank": 8,
+          "name": "Brandon McNulty",
+          "team": "UAE Team Emirates",
+          "time": "+ 1' 13\""
+        },
+        {
+          "rank": 9,
+          "name": "Jakob Fuglsang",
+          "team": "Astana",
+          "time": "+ 1' 15\""
+        },
+        {
+          "rank": 10,
+          "name": "Steven Kruijswijk",
+          "team": "Team Jumbo–Visma",
+          "time": "+ 1' 17\""
+        }
+      ]
+    },
+    {
+      "stage": 5,
+      "riders": [
+        {
+          "rank": 1,
+          "name": "João Almeida",
+          "team": "Deceuninck–Quick-Step",
+          "time": "17h 06' 23\""
+        },
+        {
+          "rank": 2,
+          "name": "Pello Bilbao",
+          "team": "Bahrain–McLaren",
+          "time": "+ 43\""
+        },
+        {
+          "rank": 3,
+          "name": "Wilco Kelderman",
+          "team": "Team Sunweb",
+          "time": "+ 48\""
+        },
+        {
+          "rank": 4,
+          "name": "Harm Vanhoucke",
+          "team": "Lotto–Soudal",
+          "time": "+ 59\""
+        },
+        {
+          "rank": 5,
+          "name": "Vincenzo Nibali",
+          "team": "Trek–Segafredo",
+          "time": "+ 1' 01\""
+        },
+        {
+          "rank": 6,
+          "name": "Domenico Pozzovivo",
+          "team": "NTT Pro Cycling",
+          "time": "+ 1' 05\""
+        },
+        {
+          "rank": 7,
+          "name": "Jakob Fuglsang",
+          "team": "Astana",
+          "time": "+ 1' 19\""
+        },
+        {
+          "rank": 8,
+          "name": "Steven Kruijswijk",
+          "team": "Team Jumbo–Visma",
+          "time": "+ 1' 21\""
+        },
+        {
+          "rank": 9,
+          "name": "Patrick Konrad",
+          "team": "Bora–Hansgrohe",
+          "time": "+ 1' 26\""
+        },
+        {
+          "rank": 10,
+          "name": "Rafał Majka",
+          "team": "Bora–Hansgrohe",
+          "time": "+ 1' 32\""
+        }
+      ]
+    },
+    {
+      "stage": 6,
+      "riders": [
+        {
+          "rank": 1,
+          "name": "João Almeida",
+          "team": "Deceuninck–Quick-Step",
+          "time": "22h 01' 01\""
+        },
+        {
+          "rank": 2,
+          "name": "Pello Bilbao",
+          "team": "Bahrain–McLaren",
+          "time": "+ 43\""
+        },
+        {
+          "rank": 3,
+          "name": "Wilco Kelderman",
+          "team": "Team Sunweb",
+          "time": "+ 48\""
+        },
+        {
+          "rank": 4,
+          "name": "Harm Vanhoucke",
+          "team": "Lotto–Soudal",
+          "time": "+ 59\""
+        },
+        {
+          "rank": 5,
+          "name": "Vincenzo Nibali",
+          "team": "Trek–Segafredo",
+          "time": "+ 1' 01\""
+        },
+        {
+          "rank": 6,
+          "name": "Domenico Pozzovivo",
+          "team": "NTT Pro Cycling",
+          "time": "+ 1' 05\""
+        },
+        {
+          "rank": 7,
+          "name": "Jakob Fuglsang",
+          "team": "Astana",
+          "time": "+ 1' 19\""
+        },
+        {
+          "rank": 8,
+          "name": "Steven Kruijswijk",
+          "team": "Team Jumbo–Visma",
+          "time": "+ 1' 21\""
+        },
+        {
+          "rank": 9,
+          "name": "Patrick Konrad",
+          "team": "Bora–Hansgrohe",
+          "time": "+ 1' 26\""
+        },
+        {
+          "rank": 10,
+          "name": "Rafał Majka",
+          "team": "Bora–Hansgrohe",
+          "time": "+ 1' 32\""
+        }
+      ]
+    },
+    {
+      "stage": 7,
+      "riders": [
+        {
+          "rank": 1,
+          "name": "João Almeida",
+          "team": "Deceuninck–Quick-Step",
+          "time": "24h 48' 29\""
+        },
+        {
+          "rank": 2,
+          "name": "Pello Bilbao",
+          "team": "Bahrain–McLaren",
+          "time": "+ 43\""
+        },
+        {
+          "rank": 3,
+          "name": "Wilco Kelderman",
+          "team": "Team Sunweb",
+          "time": "+ 48\""
+        },
+        {
+          "rank": 4,
+          "name": "Harm Vanhoucke",
+          "team": "Lotto–Soudal",
+          "time": "+ 59\""
+        },
+        {
+          "rank": 5,
+          "name": "Vincenzo Nibali",
+          "team": "Trek–Segafredo",
+          "time": "+ 1' 01\""
+        },
+        {
+          "rank": 6,
+          "name": "Domenico Pozzovivo",
+          "team": "NTT Pro Cycling",
+          "time": "+ 1' 05\""
+        },
+        {
+          "rank": 7,
+          "name": "Jakob Fuglsang",
+          "team": "Astana",
+          "time": "+ 1' 19\""
+        },
+        {
+          "rank": 8,
+          "name": "Steven Kruijswijk",
+          "team": "Team Jumbo–Visma",
+          "time": "+ 1' 21\""
+        },
+        {
+          "rank": 9,
+          "name": "Patrick Konrad",
+          "team": "Bora–Hansgrohe",
+          "time": "+ 1' 26\""
+        },
+        {
+          "rank": 10,
+          "name": "Rafał Majka",
+          "team": "Bora–Hansgrohe",
+          "time": "+ 1' 32\""
+        }
+      ]
+    },
+    {
+      "stage": 8,
+      "riders": [
+        {
+          "rank": 1,
+          "name": "João Almeida",
+          "team": "Deceuninck–Quick-Step",
+          "time": "29h 52' 34\""
+        },
+        {
+          "rank": 2,
+          "name": "Pello Bilbao",
+          "team": "Bahrain–McLaren",
+          "time": "+ 43\""
+        },
+        {
+          "rank": 3,
+          "name": "Wilco Kelderman",
+          "team": "Team Sunweb",
+          "time": "+ 48\""
+        },
+        {
+          "rank": 4,
+          "name": "Harm Vanhoucke",
+          "team": "Lotto–Soudal",
+          "time": "+ 59\""
+        },
+        {
+          "rank": 5,
+          "name": "Vincenzo Nibali",
+          "team": "Trek–Segafredo",
+          "time": "+ 1' 01\""
+        },
+        {
+          "rank": 6,
+          "name": "Domenico Pozzovivo",
+          "team": "NTT Pro Cycling",
+          "time": "+ 1' 05\""
+        },
+        {
+          "rank": 7,
+          "name": "Jakob Fuglsang",
+          "team": "Astana",
+          "time": "+ 1' 19\""
+        },
+        {
+          "rank": 8,
+          "name": "Steven Kruijswijk",
+          "team": "Team Jumbo–Visma",
+          "time": "+ 1' 21\""
+        },
+        {
+          "rank": 9,
+          "name": "Patrick Konrad",
+          "team": "Bora–Hansgrohe",
+          "time": "+ 1' 26\""
+        },
+        {
+          "rank": 10,
+          "name": "Rafał Majka",
+          "team": "Bora–Hansgrohe",
+          "time": "+ 1' 32\""
+        }
+      ]
+    },
+    {
+      "stage": 9,
+      "riders": [
+        {
+          "rank": 1,
+          "name": "João Almeida",
+          "team": "Deceuninck–Quick-Step",
+          "time": "35h 35' 50\""
+        },
+        {
+          "rank": 2,
+          "name": "Wilco Kelderman",
+          "team": "Team Sunweb",
+          "time": "+ 30\""
+        },
+        {
+          "rank": 3,
+          "name": "Pello Bilbao",
+          "team": "Bahrain–McLaren",
+          "time": "+ 39\""
+        },
+        {
+          "rank": 4,
+          "name": "Domenico Pozzovivo",
+          "team": "NTT Pro Cycling",
+          "time": "+ 53\""
+        },
+        {
+          "rank": 5,
+          "name": "Vincenzo Nibali",
+          "team": "Trek–Segafredo",
+          "time": "+ 57\""
+        },
+        {
+          "rank": 6,
+          "name": "Jakob Fuglsang",
+          "team": "Astana",
+          "time": "+ 1' 01\""
+        },
+        {
+          "rank": 7,
+          "name": "Harm Vanhoucke",
+          "team": "Lotto–Soudal",
+          "time": "+ 1' 02\""
+        },
+        {
+          "rank": 8,
+          "name": "Patrick Konrad",
+          "team": "Bora–Hansgrohe",
+          "time": "+ 1' 11\""
+        },
+        {
+          "rank": 9,
+          "name": "Jai Hindley",
+          "team": "Team Sunweb",
+          "time": "+ 1' 15\""
+        },
+        {
+          "rank": 10,
+          "name": "Rafał Majka",
+          "team": "Bora–Hansgrohe",
+          "time": "+ 1' 17\""
+        }
+      ]
+    },
+    {
+      "stage": 10,
+      "riders": [
+        {
+          "rank": 1,
+          "name": "João Almeida",
+          "team": "Deceuninck–Quick-Step",
+          "time": "39h 38' 05\""
+        },
+        {
+          "rank": 2,
+          "name": "Wilco Kelderman",
+          "team": "Team Sunweb",
+          "time": "+ 34\""
+        },
+        {
+          "rank": 3,
+          "name": "Pello Bilbao",
+          "team": "Bahrain–McLaren",
+          "time": "+ 43\""
+        },
+        {
+          "rank": 4,
+          "name": "Domenico Pozzovivo",
+          "team": "NTT Pro Cycling",
+          "time": "+ 57\""
+        },
+        {
+          "rank": 5,
+          "name": "Vincenzo Nibali",
+          "team": "Trek–Segafredo",
+          "time": "+ 1' 01\""
+        },
+        {
+          "rank": 6,
+          "name": "Patrick Konrad",
+          "team": "Bora–Hansgrohe",
+          "time": "+ 1' 15\""
+        },
+        {
+          "rank": 7,
+          "name": "Jai Hindley",
+          "team": "Team Sunweb",
+          "time": "+ 1' 19\""
+        },
+        {
+          "rank": 8,
+          "name": "Rafał Majka",
+          "team": "Bora–Hansgrohe",
+          "time": "+ 1' 21\""
+        },
+        {
+          "rank": 9,
+          "name": "Fausto Masnada",
+          "team": "Deceuninck–Quick-Step",
+          "time": "+ 1' 36\""
+        },
+        {
+          "rank": 10,
+          "name": "Hermann Pernsteiner",
+          "team": "Bahrain–McLaren",
+          "time": "+ 1' 52\""
+        }
+      ]
+    },
+    {
+      "stage": 11,
+      "riders": [
+        {
+          "rank": 1,
+          "name": "João Almeida",
+          "team": "Deceuninck–Quick-Step",
+          "time": "43h 41' 57\""
+        },
+        {
+          "rank": 2,
+          "name": "Wilco Kelderman",
+          "team": "Team Sunweb",
+          "time": "+ 34\""
+        },
+        {
+          "rank": 3,
+          "name": "Pello Bilbao",
+          "team": "Bahrain–McLaren",
+          "time": "+ 43\""
+        },
+        {
+          "rank": 4,
+          "name": "Domenico Pozzovivo",
+          "team": "NTT Pro Cycling",
+          "time": "+ 57\""
+        },
+        {
+          "rank": 5,
+          "name": "Vincenzo Nibali",
+          "team": "Trek–Segafredo",
+          "time": "+ 1' 01\""
+        },
+        {
+          "rank": 6,
+          "name": "Patrick Konrad",
+          "team": "Bora–Hansgrohe",
+          "time": "+ 1' 15\""
+        },
+        {
+          "rank": 7,
+          "name": "Jai Hindley",
+          "team": "Team Sunweb",
+          "time": "+ 1' 19\""
+        },
+        {
+          "rank": 8,
+          "name": "Rafał Majka",
+          "team": "Bora–Hansgrohe",
+          "time": "+ 1' 21\""
+        },
+        {
+          "rank": 9,
+          "name": "Fausto Masnada",
+          "team": "Deceuninck–Quick-Step",
+          "time": "+ 1' 36\""
+        },
+        {
+          "rank": 10,
+          "name": "Hermann Pernsteiner",
+          "team": "Bahrain–McLaren",
+          "time": "+ 1' 52\""
+        }
+      ]
+    },
+    {
+      "stage": 12,
+      "riders": [
+        {
+          "rank": 1,
+          "name": "João Almeida",
+          "team": "Deceuninck–Quick-Step",
+          "time": "49h 21' 46\""
+        },
+        {
+          "rank": 2,
+          "name": "Wilco Kelderman",
+          "team": "Team Sunweb",
+          "time": "+ 34\""
+        },
+        {
+          "rank": 3,
+          "name": "Pello Bilbao",
+          "team": "Bahrain–McLaren",
+          "time": "+ 43\""
+        },
+        {
+          "rank": 4,
+          "name": "Domenico Pozzovivo",
+          "team": "NTT Pro Cycling",
+          "time": "+ 57\""
+        },
+        {
+          "rank": 5,
+          "name": "Vincenzo Nibali",
+          "team": "Trek–Segafredo",
+          "time": "+ 1' 01\""
+        },
+        {
+          "rank": 6,
+          "name": "Patrick Konrad",
+          "team": "Bora–Hansgrohe",
+          "time": "+ 1' 15\""
+        },
+        {
+          "rank": 7,
+          "name": "Jai Hindley",
+          "team": "Team Sunweb",
+          "time": "+ 1' 19\""
+        },
+        {
+          "rank": 8,
+          "name": "Rafał Majka",
+          "team": "Bora–Hansgrohe",
+          "time": "+ 1' 21\""
+        },
+        {
+          "rank": 9,
+          "name": "Fausto Masnada",
+          "team": "Deceuninck–Quick-Step",
+          "time": "+ 1' 36\""
+        },
+        {
+          "rank": 10,
+          "name": "Jakob Fuglsang",
+          "team": "Astana",
+          "time": "+ 2' 20\""
+        }
+      ]
+    },
+    {
+      "stage": 13,
+      "riders": [
+        {
+          "rank": 1,
+          "name": "João Almeida",
+          "team": "Deceuninck–Quick-Step",
+          "time": "53h 43' 58\""
+        },
+        {
+          "rank": 2,
+          "name": "Wilco Kelderman",
+          "team": "Team Sunweb",
+          "time": "+ 40\""
+        },
+        {
+          "rank": 3,
+          "name": "Pello Bilbao",
+          "team": "Bahrain–McLaren",
+          "time": "+ 49\""
+        },
+        {
+          "rank": 4,
+          "name": "Domenico Pozzovivo",
+          "team": "NTT Pro Cycling",
+          "time": "+ 1' 03\""
+        },
+        {
+          "rank": 5,
+          "name": "Vincenzo Nibali",
+          "team": "Trek–Segafredo",
+          "time": "+ 1' 07\""
+        },
+        {
+          "rank": 6,
+          "name": "Patrick Konrad",
+          "team": "Bora–Hansgrohe",
+          "time": "+ 1' 17\""
+        },
+        {
+          "rank": 7,
+          "name": "Jai Hindley",
+          "team": "Team Sunweb",
+          "time": "+ 1' 25\""
+        },
+        {
+          "rank": 8,
+          "name": "Rafał Majka",
+          "team": "Bora–Hansgrohe",
+          "time": "+ 1' 27\""
+        },
+        {
+          "rank": 9,
+          "name": "Fausto Masnada",
+          "team": "Deceuninck–Quick-Step",
+          "time": "+ 1' 42\""
+        },
+        {
+          "rank": 10,
+          "name": "Jakob Fuglsang",
+          "team": "Astana",
+          "time": "+ 2' 26\""
+        }
+      ]
+    },
+    {
+      "stage": 14,
+      "riders": [
+        {
+          "rank": 1,
+          "name": "João Almeida",
+          "team": "Deceuninck–Quick-Step",
+          "time": "54h 28' 09\""
+        },
+        {
+          "rank": 2,
+          "name": "Wilco Kelderman",
+          "team": "Team Sunweb",
+          "time": "+ 56\""
+        },
+        {
+          "rank": 3,
+          "name": "Pello Bilbao",
+          "team": "Bahrain–McLaren",
+          "time": "+ 2' 11\""
+        },
+        {
+          "rank": 4,
+          "name": "Brandon McNulty",
+          "team": "UAE Team Emirates",
+          "time": "+ 2' 23\""
+        },
+        {
+          "rank": 5,
+          "name": "Vincenzo Nibali",
+          "team": "Trek–Segafredo",
+          "time": "+ 2' 30\""
+        },
+        {
+          "rank": 6,
+          "name": "Rafał Majka",
+          "team": "Bora–Hansgrohe",
+          "time": "+ 2' 33\""
+        },
+        {
+          "rank": 7,
+          "name": "Domenico Pozzovivo",
+          "team": "NTT Pro Cycling",
+          "time": "+ 2' 33\""
+        },
+        {
+          "rank": 8,
+          "name": "Fausto Masnada",
+          "team": "Deceuninck–Quick-Step",
+          "time": "+ 3' 11\""
+        },
+        {
+          "rank": 9,
+          "name": "Patrick Konrad",
+          "team": "Bora–Hansgrohe",
+          "time": "+ 3' 17\""
+        },
+        {
+          "rank": 10,
+          "name": "Jai Hindley",
+          "team": "Team Sunweb",
+          "time": "+ 3' 33\""
+        }
+      ]
+    },
+    {
+      "stage": 15,
+      "riders": [
+        {
+          "rank": 1,
+          "name": "João Almeida",
+          "team": "Deceuninck–Quick-Step",
+          "time": "59h 27' 38\""
+        },
+        {
+          "rank": 2,
+          "name": "Wilco Kelderman",
+          "team": "Team Sunweb",
+          "time": "+ 15\""
+        },
+        {
+          "rank": 3,
+          "name": "Jai Hindley",
+          "team": "Team Sunweb",
+          "time": "+ 2' 56\""
+        },
+        {
+          "rank": 4,
+          "name": "Tao Geoghegan Hart",
+          "team": "Ineos Grenadiers",
+          "time": "+ 2' 57\""
+        },
+        {
+          "rank": 5,
+          "name": "Pello Bilbao",
+          "team": "Bahrain–McLaren",
+          "time": "+ 3' 10\""
+        },
+        {
+          "rank": 6,
+          "name": "Rafał Majka",
+          "team": "Bora–Hansgrohe",
+          "time": "+ 3' 18\""
+        },
+        {
+          "rank": 7,
+          "name": "Vincenzo Nibali",
+          "team": "Trek–Segafredo",
+          "time": "+ 3' 29\""
+        },
+        {
+          "rank": 8,
+          "name": "Domenico Pozzovivo",
+          "team": "NTT Pro Cycling",
+          "time": "+ 3' 50\""
+        },
+        {
+          "rank": 9,
+          "name": "Patrick Konrad",
+          "team": "Bora–Hansgrohe",
+          "time": "+ 4' 09\""
+        },
+        {
+          "rank": 10,
+          "name": "Fausto Masnada",
+          "team": "Deceuninck–Quick-Step",
+          "time": "+ 4' 12\""
+        }
+      ]
+    },
+    {
+      "stage": 16,
+      "riders": [
+        {
+          "rank": 1,
+          "name": "João Almeida",
+          "team": "Deceuninck–Quick-Step",
+          "time": "65h 45' 08\""
+        },
+        {
+          "rank": 2,
+          "name": "Wilco Kelderman",
+          "team": "Team Sunweb",
+          "time": "+ 17\""
+        },
+        {
+          "rank": 3,
+          "name": "Jai Hindley",
+          "team": "Team Sunweb",
+          "time": "+ 2' 58\""
+        },
+        {
+          "rank": 4,
+          "name": "Tao Geoghegan Hart",
+          "team": "Ineos Grenadiers",
+          "time": "+ 2' 59\""
+        },
+        {
+          "rank": 5,
+          "name": "Pello Bilbao",
+          "team": "Bahrain–McLaren",
+          "time": "+ 3' 12\""
+        },
+        {
+          "rank": 6,
+          "name": "Rafał Majka",
+          "team": "Bora–Hansgrohe",
+          "time": "+ 3' 20\""
+        },
+        {
+          "rank": 7,
+          "name": "Vincenzo Nibali",
+          "team": "Trek–Segafredo",
+          "time": "+ 3' 31\""
+        },
+        {
+          "rank": 8,
+          "name": "Domenico Pozzovivo",
+          "team": "NTT Pro Cycling",
+          "time": "+ 3' 52\""
+        },
+        {
+          "rank": 9,
+          "name": "Patrick Konrad",
+          "team": "Bora–Hansgrohe",
+          "time": "+ 4' 11\""
+        },
+        {
+          "rank": 10,
+          "name": "Fausto Masnada",
+          "team": "Deceuninck–Quick-Step",
+          "time": "+ 4' 24\""
+        }
+      ]
+    },
+    {
+      "stage": 17,
+      "riders": [
+        {
+          "rank": 1,
+          "name": "João Almeida",
+          "team": "Deceuninck–Quick-Step",
+          "time": "71h 41' 18\""
+        },
+        {
+          "rank": 2,
+          "name": "Wilco Kelderman",
+          "team": "Team Sunweb",
+          "time": "+ 17\""
+        },
+        {
+          "rank": 3,
+          "name": "Jai Hindley",
+          "team": "Team Sunweb",
+          "time": "+ 2' 58\""
+        },
+        {
+          "rank": 4,
+          "name": "Tao Geoghegan Hart",
+          "team": "Ineos Grenadiers",
+          "time": "+ 2' 59\""
+        },
+        {
+          "rank": 5,
+          "name": "Pello Bilbao",
+          "team": "Bahrain–McLaren",
+          "time": "+ 3' 12\""
+        },
+        {
+          "rank": 6,
+          "name": "Rafał Majka",
+          "team": "Bora–Hansgrohe",
+          "time": "+ 3' 20\""
+        },
+        {
+          "rank": 7,
+          "name": "Vincenzo Nibali",
+          "team": "Trek–Segafredo",
+          "time": "+ 3' 31\""
+        },
+        {
+          "rank": 8,
+          "name": "Domenico Pozzovivo",
+          "team": "NTT Pro Cycling",
+          "time": "+ 3' 52\""
+        },
+        {
+          "rank": 9,
+          "name": "Patrick Konrad",
+          "team": "Bora–Hansgrohe",
+          "time": "+ 4' 11\""
+        },
+        {
+          "rank": 10,
+          "name": "Fausto Masnada",
+          "team": "Deceuninck–Quick-Step",
+          "time": "+ 4' 26\""
+        }
+      ]
+    },
+    {
+      "stage": 18,
+      "riders": [
+        {
+          "rank": 1,
+          "name": "Wilco Kelderman",
+          "team": "Team Sunweb",
+          "time": "77h 46' 56\""
+        },
+        {
+          "rank": 2,
+          "name": "Jai Hindley",
+          "team": "Team Sunweb",
+          "time": "+ 12\""
+        },
+        {
+          "rank": 3,
+          "name": "Tao Geoghegan Hart",
+          "team": "Ineos Grenadiers",
+          "time": "+ 15\""
+        },
+        {
+          "rank": 4,
+          "name": "Pello Bilbao",
+          "team": "Bahrain–McLaren",
+          "time": "+ 1' 19\""
+        },
+        {
+          "rank": 5,
+          "name": "João Almeida",
+          "team": "Deceuninck–Quick-Step",
+          "time": "+ 2' 16\""
+        },
+        {
+          "rank": 6,
+          "name": "Jakob Fuglsang",
+          "team": "Astana",
+          "time": "+ 3' 59\""
+        },
+        {
+          "rank": 7,
+          "name": "Patrick Konrad",
+          "team": "Bora–Hansgrohe",
+          "time": "+ 5' 40\""
+        },
+        {
+          "rank": 8,
+          "name": "Vincenzo Nibali",
+          "team": "Trek–Segafredo",
+          "time": "+ 5' 47\""
+        },
+        {
+          "rank": 9,
+          "name": "Fausto Masnada",
+          "team": "Deceuninck–Quick-Step",
+          "time": "+ 6' 46\""
+        },
+        {
+          "rank": 10,
+          "name": "Rafał Majka",
+          "team": "Bora–Hansgrohe",
+          "time": "+ 7' 28\""
+        }
+      ]
+    },
+    {
+      "stage": 19,
+      "riders": [
+        {
+          "rank": 1,
+          "name": "Wilco Kelderman",
+          "team": "Team Sunweb",
+          "time": "80h 29' 19\""
+        },
+        {
+          "rank": 2,
+          "name": "Jai Hindley",
+          "team": "Team Sunweb",
+          "time": "+ 12\""
+        },
+        {
+          "rank": 3,
+          "name": "Tao Geoghegan Hart",
+          "team": "Ineos Grenadiers",
+          "time": "+ 15\""
+        },
+        {
+          "rank": 4,
+          "name": "Pello Bilbao",
+          "team": "Bahrain–McLaren",
+          "time": "+ 1' 19\""
+        },
+        {
+          "rank": 5,
+          "name": "João Almeida",
+          "team": "Deceuninck–Quick-Step",
+          "time": "+ 2' 16\""
+        },
+        {
+          "rank": 6,
+          "name": "Jakob Fuglsang",
+          "team": "Astana",
+          "time": "+ 3' 59\""
+        },
+        {
+          "rank": 7,
+          "name": "Patrick Konrad",
+          "team": "Bora–Hansgrohe",
+          "time": "+ 5' 40\""
+        },
+        {
+          "rank": 8,
+          "name": "Vincenzo Nibali",
+          "team": "Trek–Segafredo",
+          "time": "+ 5' 47\""
+        },
+        {
+          "rank": 9,
+          "name": "Fausto Masnada",
+          "team": "Deceuninck–Quick-Step",
+          "time": "+ 6' 46\""
+        },
+        {
+          "rank": 10,
+          "name": "Rafał Majka",
+          "team": "Bora–Hansgrohe",
+          "time": "+ 7' 28\""
+        }
+      ]
+    },
+    {
+      "stage": 20,
+      "riders": [
+        {
+          "rank": 1,
+          "name": "Jai Hindley",
+          "team": "Team Sunweb",
+          "time": "85h 22' 07\""
+        },
+        {
+          "rank": 2,
+          "name": "Tao Geoghegan Hart",
+          "team": "Ineos Grenadiers",
+          "time": "+ 0\""
+        },
+        {
+          "rank": 3,
+          "name": "Wilco Kelderman",
+          "team": "Team Sunweb",
+          "time": "+ 1' 32\""
+        },
+        {
+          "rank": 4,
+          "name": "Pello Bilbao",
+          "team": "Bahrain–McLaren",
+          "time": "+ 2' 51\""
+        },
+        {
+          "rank": 5,
+          "name": "João Almeida",
+          "team": "Deceuninck–Quick-Step",
+          "time": "+ 3' 14\""
+        },
+        {
+          "rank": 6,
+          "name": "Jakob Fuglsang",
+          "team": "Astana",
+          "time": "+ 6' 32\""
+        },
+        {
+          "rank": 7,
+          "name": "Vincenzo Nibali",
+          "team": "Trek–Segafredo",
+          "time": "+ 7' 46\""
+        },
+        {
+          "rank": 8,
+          "name": "Patrick Konrad",
+          "team": "Bora–Hansgrohe",
+          "time": "+ 8' 05\""
+        },
+        {
+          "rank": 9,
+          "name": "Fausto Masnada",
+          "team": "Deceuninck–Quick-Step",
+          "time": "+ 9' 24\""
+        },
+        {
+          "rank": 10,
+          "name": "Hermann Pernsteiner",
+          "team": "Bahrain–McLaren",
+          "time": "+ 10' 08\""
+        }
+      ]
+    },
+    {
+      "stage": 21,
+      "riders": [
+        {
+          "rank": 1,
+          "name": "Tao Geoghegan Hart",
+          "team": "Ineos Grenadiers",
+          "time": "85h 40' 21\""
+        },
+        {
+          "rank": 2,
+          "name": "Jai Hindley",
+          "team": "Team Sunweb",
+          "time": "+ 39\""
+        },
+        {
+          "rank": 3,
+          "name": "Wilco Kelderman",
+          "team": "Team Sunweb",
+          "time": "+ 1' 29\""
+        },
+        {
+          "rank": 4,
+          "name": "João Almeida",
+          "team": "Deceuninck–Quick-Step",
+          "time": "+ 2' 57\""
+        },
+        {
+          "rank": 5,
+          "name": "Pello Bilbao",
+          "team": "Bahrain–McLaren",
+          "time": "+ 3' 09\""
+        },
+        {
+          "rank": 6,
+          "name": "Jakob Fuglsang",
+          "team": "Astana",
+          "time": "+ 7' 02\""
+        },
+        {
+          "rank": 7,
+          "name": "Vincenzo Nibali",
+          "team": "Trek–Segafredo",
+          "time": "+ 8' 15\""
+        },
+        {
+          "rank": 8,
+          "name": "Patrick Konrad",
+          "team": "Bora–Hansgrohe",
+          "time": "+ 8' 42\""
+        },
+        {
+          "rank": 9,
+          "name": "Fausto Masnada",
+          "team": "Deceuninck–Quick-Step",
+          "time": "+ 9' 57\""
+        },
+        {
+          "rank": 10,
+          "name": "Hermann Pernsteiner",
+          "team": "Bahrain–McLaren",
+          "time": "+ 11' 05\""
+        }
+      ]
+    }
+  ]
+}

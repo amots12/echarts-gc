@@ -1,0 +1,1371 @@
+{
+  "race": "Giro d%27Italia",
+  "year": 2023,
+  "stages": [
+    {
+      "stage": 1,
+      "riders": [
+        {
+          "rank": 1,
+          "name": "Remco Evenepoel",
+          "team": "Soudal–Quick-Step",
+          "time": "21' 18\""
+        },
+        {
+          "rank": 2,
+          "name": "Filippo Ganna",
+          "team": "Ineos Grenadiers",
+          "time": "+ 22\""
+        },
+        {
+          "rank": 3,
+          "name": "João Almeida",
+          "team": "UAE Team Emirates",
+          "time": "+ 29\""
+        },
+        {
+          "rank": 4,
+          "name": "Tao Geoghegan Hart",
+          "team": "Ineos Grenadiers",
+          "time": "+ 40\""
+        },
+        {
+          "rank": 5,
+          "name": "Stefan Küng",
+          "team": "Groupama–FDJ",
+          "time": "+ 43\""
+        },
+        {
+          "rank": 6,
+          "name": "Primož Roglič",
+          "team": "Team Jumbo–Visma",
+          "time": "+ 43\""
+        },
+        {
+          "rank": 7,
+          "name": "Jay Vine",
+          "team": "UAE Team Emirates",
+          "time": "+ 46\""
+        },
+        {
+          "rank": 8,
+          "name": "Brandon McNulty",
+          "team": "UAE Team Emirates",
+          "time": "+ 48\""
+        },
+        {
+          "rank": 9,
+          "name": "Geraint Thomas",
+          "team": "Ineos Grenadiers",
+          "time": "+ 55\""
+        },
+        {
+          "rank": 10,
+          "name": "Aleksandr Vlasov",
+          "team": "Bora–Hansgrohe",
+          "time": "+ 55\""
+        }
+      ]
+    },
+    {
+      "stage": 2,
+      "riders": [
+        {
+          "rank": 1,
+          "name": "Remco Evenepoel",
+          "team": "Soudal–Quick-Step",
+          "time": "5h 16' 29\""
+        },
+        {
+          "rank": 2,
+          "name": "Filippo Ganna",
+          "team": "Ineos Grenadiers",
+          "time": "+ 22\""
+        },
+        {
+          "rank": 3,
+          "name": "João Almeida",
+          "team": "UAE Team Emirates",
+          "time": "+ 29\""
+        },
+        {
+          "rank": 4,
+          "name": "Stefan Küng",
+          "team": "Groupama–FDJ",
+          "time": "+ 43\""
+        },
+        {
+          "rank": 5,
+          "name": "Primož Roglič",
+          "team": "Team Jumbo–Visma",
+          "time": "+ 43\""
+        },
+        {
+          "rank": 6,
+          "name": "Geraint Thomas",
+          "team": "Ineos Grenadiers",
+          "time": "+ 55\""
+        },
+        {
+          "rank": 7,
+          "name": "Aleksandr Vlasov",
+          "team": "Bora–Hansgrohe",
+          "time": "+ 55\""
+        },
+        {
+          "rank": 8,
+          "name": "Tao Geoghegan Hart",
+          "team": "Ineos Grenadiers",
+          "time": "+ 59\""
+        },
+        {
+          "rank": 9,
+          "name": "Brandon McNulty",
+          "team": "UAE Team Emirates",
+          "time": "+ 1' 00\""
+        },
+        {
+          "rank": 10,
+          "name": "Jay Vine",
+          "team": "UAE Team Emirates",
+          "time": "+ 1' 05\""
+        }
+      ]
+    },
+    {
+      "stage": 3,
+      "riders": [
+        {
+          "rank": 1,
+          "name": "Remco Evenepoel",
+          "team": "Soudal–Quick-Step",
+          "time": "10h 18' 07\""
+        },
+        {
+          "rank": 2,
+          "name": "João Almeida",
+          "team": "UAE Team Emirates",
+          "time": "+ 32\""
+        },
+        {
+          "rank": 3,
+          "name": "Primož Roglič",
+          "team": "Team Jumbo–Visma",
+          "time": "+ 44\""
+        },
+        {
+          "rank": 4,
+          "name": "Stefan Küng",
+          "team": "Groupama–FDJ",
+          "time": "+ 46\""
+        },
+        {
+          "rank": 5,
+          "name": "Geraint Thomas",
+          "team": "Ineos Grenadiers",
+          "time": "+ 58\""
+        },
+        {
+          "rank": 6,
+          "name": "Aleksandr Vlasov",
+          "team": "Bora–Hansgrohe",
+          "time": "+ 58\""
+        },
+        {
+          "rank": 7,
+          "name": "Tao Geoghegan Hart",
+          "team": "Ineos Grenadiers",
+          "time": "+ 1' 02\""
+        },
+        {
+          "rank": 8,
+          "name": "Michael Matthews",
+          "team": "Team Jayco–AlUla",
+          "time": "+ 1' 02\""
+        },
+        {
+          "rank": 9,
+          "name": "Jay Vine",
+          "team": "UAE Team Emirates",
+          "time": "+ 1' 08\""
+        },
+        {
+          "rank": 10,
+          "name": "Mads Pedersen",
+          "team": "Trek–Segafredo",
+          "time": "+ 1' 18\""
+        }
+      ]
+    },
+    {
+      "stage": 4,
+      "riders": [
+        {
+          "rank": 1,
+          "name": "Andreas Leknessund",
+          "team": "Team DSM",
+          "time": "14h 35' 44\""
+        },
+        {
+          "rank": 2,
+          "name": "Remco Evenepoel",
+          "team": "Soudal–Quick-Step",
+          "time": "+ 28\""
+        },
+        {
+          "rank": 3,
+          "name": "Aurélien Paret-Peintre",
+          "team": "AG2R Citroën Team",
+          "time": "+ 30\""
+        },
+        {
+          "rank": 4,
+          "name": "João Almeida",
+          "team": "UAE Team Emirates",
+          "time": "+ 1' 00\""
+        },
+        {
+          "rank": 5,
+          "name": "Primož Roglič",
+          "team": "Team Jumbo–Visma",
+          "time": "+ 1' 12\""
+        },
+        {
+          "rank": 6,
+          "name": "Geraint Thomas",
+          "team": "Ineos Grenadiers",
+          "time": "+ 1' 26\""
+        },
+        {
+          "rank": 7,
+          "name": "Aleksandr Vlasov",
+          "team": "Bora–Hansgrohe",
+          "time": "+ 1' 26\""
+        },
+        {
+          "rank": 8,
+          "name": "Toms Skujiņš",
+          "team": "Trek–Segafredo",
+          "time": "+ 1' 29\""
+        },
+        {
+          "rank": 9,
+          "name": "Tao Geoghegan Hart",
+          "team": "Ineos Grenadiers",
+          "time": "+ 1' 30\""
+        },
+        {
+          "rank": 10,
+          "name": "Jay Vine",
+          "team": "UAE Team Emirates",
+          "time": "+ 1' 36\""
+        }
+      ]
+    },
+    {
+      "stage": 5,
+      "riders": [
+        {
+          "rank": 1,
+          "name": "Andreas Leknessund",
+          "team": "Team DSM",
+          "time": "19h 06' 03\""
+        },
+        {
+          "rank": 2,
+          "name": "Remco Evenepoel",
+          "team": "Soudal–Quick-Step",
+          "time": "+ 28\""
+        },
+        {
+          "rank": 3,
+          "name": "Aurélien Paret-Peintre",
+          "team": "AG2R Citroën Team",
+          "time": "+ 30\""
+        },
+        {
+          "rank": 4,
+          "name": "João Almeida",
+          "team": "UAE Team Emirates",
+          "time": "+ 1' 00\""
+        },
+        {
+          "rank": 5,
+          "name": "Primož Roglič",
+          "team": "Team Jumbo–Visma",
+          "time": "+ 1' 12\""
+        },
+        {
+          "rank": 6,
+          "name": "Geraint Thomas",
+          "team": "Ineos Grenadiers",
+          "time": "+ 1' 26\""
+        },
+        {
+          "rank": 7,
+          "name": "Aleksandr Vlasov",
+          "team": "Bora–Hansgrohe",
+          "time": "+ 1' 26\""
+        },
+        {
+          "rank": 8,
+          "name": "Toms Skujiņš",
+          "team": "Trek–Segafredo",
+          "time": "+ 1' 29\""
+        },
+        {
+          "rank": 9,
+          "name": "Tao Geoghegan Hart",
+          "team": "Ineos Grenadiers",
+          "time": "+ 1' 30\""
+        },
+        {
+          "rank": 10,
+          "name": "Vincenzo Albanese",
+          "team": "Eolo–Kometa",
+          "time": "+ 1' 39\""
+        }
+      ]
+    },
+    {
+      "stage": 6,
+      "riders": [
+        {
+          "rank": 1,
+          "name": "Andreas Leknessund",
+          "team": "Team DSM",
+          "time": "22h 50' 48\""
+        },
+        {
+          "rank": 2,
+          "name": "Remco Evenepoel",
+          "team": "Soudal–Quick-Step",
+          "time": "+ 28\""
+        },
+        {
+          "rank": 3,
+          "name": "Aurélien Paret-Peintre",
+          "team": "AG2R Citroën Team",
+          "time": "+ 30\""
+        },
+        {
+          "rank": 4,
+          "name": "João Almeida",
+          "team": "UAE Team Emirates",
+          "time": "+ 1' 00\""
+        },
+        {
+          "rank": 5,
+          "name": "Primož Roglič",
+          "team": "Team Jumbo–Visma",
+          "time": "+ 1' 12\""
+        },
+        {
+          "rank": 6,
+          "name": "Geraint Thomas",
+          "team": "Ineos Grenadiers",
+          "time": "+ 1' 26\""
+        },
+        {
+          "rank": 7,
+          "name": "Aleksandr Vlasov",
+          "team": "Bora–Hansgrohe",
+          "time": "+ 1' 26\""
+        },
+        {
+          "rank": 8,
+          "name": "Toms Skujiņš",
+          "team": "Trek–Segafredo",
+          "time": "+ 1' 29\""
+        },
+        {
+          "rank": 9,
+          "name": "Tao Geoghegan Hart",
+          "team": "Ineos Grenadiers",
+          "time": "+ 1' 30\""
+        },
+        {
+          "rank": 10,
+          "name": "Vincenzo Albanese",
+          "team": "Eolo–Kometa",
+          "time": "+ 1' 39\""
+        }
+      ]
+    },
+    {
+      "stage": 7,
+      "riders": [
+        {
+          "rank": 1,
+          "name": "Andreas Leknessund",
+          "team": "Team DSM",
+          "time": "29h 02' 38\""
+        },
+        {
+          "rank": 2,
+          "name": "Remco Evenepoel",
+          "team": "Soudal–Quick-Step",
+          "time": "+ 28\""
+        },
+        {
+          "rank": 3,
+          "name": "Aurélien Paret-Peintre",
+          "team": "AG2R Citroën Team",
+          "time": "+ 30\""
+        },
+        {
+          "rank": 4,
+          "name": "João Almeida",
+          "team": "UAE Team Emirates",
+          "time": "+ 1' 00\""
+        },
+        {
+          "rank": 5,
+          "name": "Primož Roglič",
+          "team": "Team Jumbo–Visma",
+          "time": "+ 1' 12\""
+        },
+        {
+          "rank": 6,
+          "name": "Geraint Thomas",
+          "team": "Ineos Grenadiers",
+          "time": "+ 1' 26\""
+        },
+        {
+          "rank": 7,
+          "name": "Aleksandr Vlasov",
+          "team": "Bora–Hansgrohe",
+          "time": "+ 1' 26\""
+        },
+        {
+          "rank": 8,
+          "name": "Tao Geoghegan Hart",
+          "team": "Ineos Grenadiers",
+          "time": "+ 1' 30\""
+        },
+        {
+          "rank": 9,
+          "name": "Lennard Kämna",
+          "team": "Bora–Hansgrohe",
+          "time": "+ 1' 54\""
+        },
+        {
+          "rank": 10,
+          "name": "Damiano Caruso",
+          "team": "Team Bahrain Victorious",
+          "time": "+ 1' 59\""
+        }
+      ]
+    },
+    {
+      "stage": 8,
+      "riders": [
+        {
+          "rank": 1,
+          "name": "Andreas Leknessund",
+          "team": "Team DSM",
+          "time": "33h 52' 10\""
+        },
+        {
+          "rank": 2,
+          "name": "Remco Evenepoel",
+          "team": "Soudal–Quick-Step",
+          "time": "+ 8\""
+        },
+        {
+          "rank": 3,
+          "name": "Primož Roglič",
+          "team": "Team Jumbo–Visma",
+          "time": "+ 38\""
+        },
+        {
+          "rank": 4,
+          "name": "João Almeida",
+          "team": "UAE Team Emirates",
+          "time": "+ 40\""
+        },
+        {
+          "rank": 5,
+          "name": "Geraint Thomas",
+          "team": "Ineos Grenadiers",
+          "time": "+ 52\""
+        },
+        {
+          "rank": 6,
+          "name": "Tao Geoghegan Hart",
+          "team": "Ineos Grenadiers",
+          "time": "+ 56\""
+        },
+        {
+          "rank": 7,
+          "name": "Aurélien Paret-Peintre",
+          "team": "AG2R Citroën Team",
+          "time": "+ 58\""
+        },
+        {
+          "rank": 8,
+          "name": "Aleksandr Vlasov",
+          "team": "Bora–Hansgrohe",
+          "time": "+ 1' 26\""
+        },
+        {
+          "rank": 9,
+          "name": "Damiano Caruso",
+          "team": "Team Bahrain Victorious",
+          "time": "+ 1' 39\""
+        },
+        {
+          "rank": 10,
+          "name": "Lennard Kämna",
+          "team": "Bora–Hansgrohe",
+          "time": "+ 1' 54\""
+        }
+      ]
+    },
+    {
+      "stage": 9,
+      "riders": [
+        {
+          "rank": 1,
+          "name": "Remco Evenepoel",
+          "team": "Soudal–Quick-Step",
+          "time": "34h 33' 42\""
+        },
+        {
+          "rank": 2,
+          "name": "Geraint Thomas",
+          "team": "Ineos Grenadiers",
+          "time": "+ 45\""
+        },
+        {
+          "rank": 3,
+          "name": "Primož Roglič",
+          "team": "Team Jumbo–Visma",
+          "time": "+ 47\""
+        },
+        {
+          "rank": 4,
+          "name": "Tao Geoghegan Hart",
+          "team": "Ineos Grenadiers",
+          "time": "+ 50\""
+        },
+        {
+          "rank": 5,
+          "name": "João Almeida",
+          "team": "UAE Team Emirates",
+          "time": "+ 1' 07\""
+        },
+        {
+          "rank": 6,
+          "name": "Andreas Leknessund",
+          "team": "Team DSM",
+          "time": "+ 1' 07\""
+        },
+        {
+          "rank": 7,
+          "name": "Aleksandr Vlasov",
+          "team": "Bora–Hansgrohe",
+          "time": "+ 1' 48\""
+        },
+        {
+          "rank": 8,
+          "name": "Damiano Caruso",
+          "team": "Team Bahrain Victorious",
+          "time": "+ 2' 13\""
+        },
+        {
+          "rank": 9,
+          "name": "Lennard Kämna",
+          "team": "Bora–Hansgrohe",
+          "time": "+ 2' 37\""
+        },
+        {
+          "rank": 10,
+          "name": "Pavel Sivakov",
+          "team": "Ineos Grenadiers",
+          "time": "+ 3' 00\""
+        }
+      ]
+    },
+    {
+      "stage": 10,
+      "riders": [
+        {
+          "rank": 1,
+          "name": "Geraint Thomas",
+          "team": "Ineos Grenadiers",
+          "time": "39h 26' 33\""
+        },
+        {
+          "rank": 2,
+          "name": "Primož Roglič",
+          "team": "Team Jumbo–Visma",
+          "time": "+ 2\""
+        },
+        {
+          "rank": 3,
+          "name": "Tao Geoghegan Hart",
+          "team": "Ineos Grenadiers",
+          "time": "+ 5\""
+        },
+        {
+          "rank": 4,
+          "name": "João Almeida",
+          "team": "UAE Team Emirates",
+          "time": "+ 22\""
+        },
+        {
+          "rank": 5,
+          "name": "Andreas Leknessund",
+          "team": "Team DSM",
+          "time": "+ 35\""
+        },
+        {
+          "rank": 6,
+          "name": "Damiano Caruso",
+          "team": "Team Bahrain Victorious",
+          "time": "+ 1' 28\""
+        },
+        {
+          "rank": 7,
+          "name": "Lennard Kämna",
+          "team": "Bora–Hansgrohe",
+          "time": "+ 1' 52\""
+        },
+        {
+          "rank": 8,
+          "name": "Pavel Sivakov",
+          "team": "Ineos Grenadiers",
+          "time": "+ 2' 15\""
+        },
+        {
+          "rank": 9,
+          "name": "Eddie Dunbar",
+          "team": "Team Jayco–AlUla",
+          "time": "+ 2' 32\""
+        },
+        {
+          "rank": 10,
+          "name": "Thymen Arensman",
+          "team": "Ineos Grenadiers",
+          "time": "+ 2' 32\""
+        }
+      ]
+    },
+    {
+      "stage": 11,
+      "riders": [
+        {
+          "rank": 1,
+          "name": "Geraint Thomas",
+          "team": "Ineos Grenadiers",
+          "time": "44h 35' 35\""
+        },
+        {
+          "rank": 2,
+          "name": "Primož Roglič",
+          "team": "Team Jumbo–Visma",
+          "time": "+ 2\""
+        },
+        {
+          "rank": 3,
+          "name": "João Almeida",
+          "team": "UAE Team Emirates",
+          "time": "+ 22\""
+        },
+        {
+          "rank": 4,
+          "name": "Andreas Leknessund",
+          "team": "Team DSM",
+          "time": "+ 35\""
+        },
+        {
+          "rank": 5,
+          "name": "Damiano Caruso",
+          "team": "Team Bahrain Victorious",
+          "time": "+ 1' 28\""
+        },
+        {
+          "rank": 6,
+          "name": "Lennard Kämna",
+          "team": "Bora–Hansgrohe",
+          "time": "+ 1' 52\""
+        },
+        {
+          "rank": 7,
+          "name": "Eddie Dunbar",
+          "team": "Team Jayco–AlUla",
+          "time": "+ 2' 32\""
+        },
+        {
+          "rank": 8,
+          "name": "Thymen Arensman",
+          "team": "Ineos Grenadiers",
+          "time": "+ 2' 32\""
+        },
+        {
+          "rank": 9,
+          "name": "Laurens De Plus",
+          "team": "Ineos Grenadiers",
+          "time": "+ 2' 36\""
+        },
+        {
+          "rank": 10,
+          "name": "Aurélien Paret-Peintre",
+          "team": "AG2R Citroën Team",
+          "time": "+ 2' 48\""
+        }
+      ]
+    },
+    {
+      "stage": 12,
+      "riders": [
+        {
+          "rank": 1,
+          "name": "Geraint Thomas",
+          "team": "Ineos Grenadiers",
+          "time": "49h 02' 05\""
+        },
+        {
+          "rank": 2,
+          "name": "Primož Roglič",
+          "team": "Team Jumbo–Visma",
+          "time": "+ 2\""
+        },
+        {
+          "rank": 3,
+          "name": "João Almeida",
+          "team": "UAE Team Emirates",
+          "time": "+ 22\""
+        },
+        {
+          "rank": 4,
+          "name": "Andreas Leknessund",
+          "team": "Team DSM",
+          "time": "+ 35\""
+        },
+        {
+          "rank": 5,
+          "name": "Damiano Caruso",
+          "team": "Team Bahrain Victorious",
+          "time": "+ 1' 28\""
+        },
+        {
+          "rank": 6,
+          "name": "Lennard Kämna",
+          "team": "Bora–Hansgrohe",
+          "time": "+ 1' 52\""
+        },
+        {
+          "rank": 7,
+          "name": "Eddie Dunbar",
+          "team": "Team Jayco–AlUla",
+          "time": "+ 2' 32\""
+        },
+        {
+          "rank": 8,
+          "name": "Thymen Arensman",
+          "team": "Ineos Grenadiers",
+          "time": "+ 2' 32\""
+        },
+        {
+          "rank": 9,
+          "name": "Laurens De Plus",
+          "team": "Ineos Grenadiers",
+          "time": "+ 2' 36\""
+        },
+        {
+          "rank": 10,
+          "name": "Aurélien Paret-Peintre",
+          "team": "AG2R Citroën Team",
+          "time": "+ 2' 48\""
+        }
+      ]
+    },
+    {
+      "stage": 13,
+      "riders": [
+        {
+          "rank": 1,
+          "name": "Geraint Thomas",
+          "team": "Ineos Grenadiers",
+          "time": "51h 20' 01\""
+        },
+        {
+          "rank": 2,
+          "name": "Primož Roglič",
+          "team": "Team Jumbo–Visma",
+          "time": "+ 2\""
+        },
+        {
+          "rank": 3,
+          "name": "João Almeida",
+          "team": "UAE Team Emirates",
+          "time": "+ 22\""
+        },
+        {
+          "rank": 4,
+          "name": "Andreas Leknessund",
+          "team": "Team DSM",
+          "time": "+ 42\""
+        },
+        {
+          "rank": 5,
+          "name": "Damiano Caruso",
+          "team": "Team Bahrain Victorious",
+          "time": "+ 1' 28\""
+        },
+        {
+          "rank": 6,
+          "name": "Lennard Kämna",
+          "team": "Bora–Hansgrohe",
+          "time": "+ 1' 52\""
+        },
+        {
+          "rank": 7,
+          "name": "Eddie Dunbar",
+          "team": "Team Jayco–AlUla",
+          "time": "+ 2' 32\""
+        },
+        {
+          "rank": 8,
+          "name": "Thymen Arensman",
+          "team": "Ineos Grenadiers",
+          "time": "+ 2' 45\""
+        },
+        {
+          "rank": 9,
+          "name": "Laurens De Plus",
+          "team": "Ineos Grenadiers",
+          "time": "+ 3' 08\""
+        },
+        {
+          "rank": 10,
+          "name": "Thibaut Pinot",
+          "team": "Groupama–FDJ",
+          "time": "+ 3' 13\""
+        }
+      ]
+    },
+    {
+      "stage": 14,
+      "riders": [
+        {
+          "rank": 1,
+          "name": "Bruno Armirail",
+          "team": "Groupama–FDJ",
+          "time": "56h 17' 01\""
+        },
+        {
+          "rank": 2,
+          "name": "Geraint Thomas",
+          "team": "Ineos Grenadiers",
+          "time": "+ 1' 41\""
+        },
+        {
+          "rank": 3,
+          "name": "Primož Roglič",
+          "team": "Team Jumbo–Visma",
+          "time": "+ 1' 43\""
+        },
+        {
+          "rank": 4,
+          "name": "João Almeida",
+          "team": "UAE Team Emirates",
+          "time": "+ 2' 03\""
+        },
+        {
+          "rank": 5,
+          "name": "Andreas Leknessund",
+          "team": "Team DSM",
+          "time": "+ 2' 23\""
+        },
+        {
+          "rank": 6,
+          "name": "Damiano Caruso",
+          "team": "Team Bahrain Victorious",
+          "time": "+ 3' 09\""
+        },
+        {
+          "rank": 7,
+          "name": "Lennard Kämna",
+          "team": "Bora–Hansgrohe",
+          "time": "+ 3' 33\""
+        },
+        {
+          "rank": 8,
+          "name": "Eddie Dunbar",
+          "team": "Team Jayco–AlUla",
+          "time": "+ 4' 13\""
+        },
+        {
+          "rank": 9,
+          "name": "Thymen Arensman",
+          "team": "Ineos Grenadiers",
+          "time": "+ 4' 26\""
+        },
+        {
+          "rank": 10,
+          "name": "Laurens De Plus",
+          "team": "Ineos Grenadiers",
+          "time": "+ 4' 49\""
+        }
+      ]
+    },
+    {
+      "stage": 15,
+      "riders": [
+        {
+          "rank": 1,
+          "name": "Bruno Armirail",
+          "team": "Groupama–FDJ",
+          "time": "61h 38' 06\""
+        },
+        {
+          "rank": 2,
+          "name": "Geraint Thomas",
+          "team": "Ineos Grenadiers",
+          "time": "+ 1' 08\""
+        },
+        {
+          "rank": 3,
+          "name": "Primož Roglič",
+          "team": "Team Jumbo–Visma",
+          "time": "+ 1' 10\""
+        },
+        {
+          "rank": 4,
+          "name": "João Almeida",
+          "team": "UAE Team Emirates",
+          "time": "+ 1' 30\""
+        },
+        {
+          "rank": 5,
+          "name": "Andreas Leknessund",
+          "team": "Team DSM",
+          "time": "+ 1' 50\""
+        },
+        {
+          "rank": 6,
+          "name": "Damiano Caruso",
+          "team": "Team Bahrain Victorious",
+          "time": "+ 2' 36\""
+        },
+        {
+          "rank": 7,
+          "name": "Lennard Kämna",
+          "team": "Bora–Hansgrohe",
+          "time": "+ 3' 02\""
+        },
+        {
+          "rank": 8,
+          "name": "Eddie Dunbar",
+          "team": "Team Jayco–AlUla",
+          "time": "+ 3' 40\""
+        },
+        {
+          "rank": 9,
+          "name": "Thymen Arensman",
+          "team": "Ineos Grenadiers",
+          "time": "+ 3' 55\""
+        },
+        {
+          "rank": 10,
+          "name": "Laurens De Plus",
+          "team": "Ineos Grenadiers",
+          "time": "+ 4' 18\""
+        }
+      ]
+    },
+    {
+      "stage": 16,
+      "riders": [
+        {
+          "rank": 1,
+          "name": "Geraint Thomas",
+          "team": "Ineos Grenadiers",
+          "time": "67h 32' 35\""
+        },
+        {
+          "rank": 2,
+          "name": "João Almeida",
+          "team": "UAE Team Emirates",
+          "time": "+ 18\""
+        },
+        {
+          "rank": 3,
+          "name": "Primož Roglič",
+          "team": "Team Jumbo–Visma",
+          "time": "+ 29\""
+        },
+        {
+          "rank": 4,
+          "name": "Damiano Caruso",
+          "team": "Team Bahrain Victorious",
+          "time": "+ 2' 50\""
+        },
+        {
+          "rank": 5,
+          "name": "Eddie Dunbar",
+          "team": "Team Jayco–AlUla",
+          "time": "+ 3' 03\""
+        },
+        {
+          "rank": 6,
+          "name": "Lennard Kämna",
+          "team": "Bora–Hansgrohe",
+          "time": "+ 3' 20\""
+        },
+        {
+          "rank": 7,
+          "name": "Bruno Armirail",
+          "team": "Groupama–FDJ",
+          "time": "+ 3' 22\""
+        },
+        {
+          "rank": 8,
+          "name": "Andreas Leknessund",
+          "team": "Team DSM",
+          "time": "+ 3' 30\""
+        },
+        {
+          "rank": 9,
+          "name": "Thymen Arensman",
+          "team": "Ineos Grenadiers",
+          "time": "+ 4' 09\""
+        },
+        {
+          "rank": 10,
+          "name": "Laurens De Plus",
+          "team": "Ineos Grenadiers",
+          "time": "+ 4' 32\""
+        }
+      ]
+    },
+    {
+      "stage": 17,
+      "riders": [
+        {
+          "rank": 1,
+          "name": "Geraint Thomas",
+          "team": "Ineos Grenadiers",
+          "time": "71h 58' 43\""
+        },
+        {
+          "rank": 2,
+          "name": "João Almeida",
+          "team": "UAE Team Emirates",
+          "time": "+ 18\""
+        },
+        {
+          "rank": 3,
+          "name": "Primož Roglič",
+          "team": "Team Jumbo–Visma",
+          "time": "+ 29\""
+        },
+        {
+          "rank": 4,
+          "name": "Damiano Caruso",
+          "team": "Team Bahrain Victorious",
+          "time": "+ 2' 50\""
+        },
+        {
+          "rank": 5,
+          "name": "Eddie Dunbar",
+          "team": "Team Jayco–AlUla",
+          "time": "+ 3' 03\""
+        },
+        {
+          "rank": 6,
+          "name": "Lennard Kämna",
+          "team": "Bora–Hansgrohe",
+          "time": "+ 3' 20\""
+        },
+        {
+          "rank": 7,
+          "name": "Bruno Armirail",
+          "team": "Groupama–FDJ",
+          "time": "+ 3' 22\""
+        },
+        {
+          "rank": 8,
+          "name": "Andreas Leknessund",
+          "team": "Team DSM",
+          "time": "+ 3' 30\""
+        },
+        {
+          "rank": 9,
+          "name": "Thymen Arensman",
+          "team": "Ineos Grenadiers",
+          "time": "+ 4' 09\""
+        },
+        {
+          "rank": 10,
+          "name": "Laurens De Plus",
+          "team": "Ineos Grenadiers",
+          "time": "+ 4' 32\""
+        }
+      ]
+    },
+    {
+      "stage": 18,
+      "riders": [
+        {
+          "rank": 1,
+          "name": "Geraint Thomas",
+          "team": "Ineos Grenadiers",
+          "time": "76h 25' 51\""
+        },
+        {
+          "rank": 2,
+          "name": "Primož Roglič",
+          "team": "Team Jumbo–Visma",
+          "time": "+ 29\""
+        },
+        {
+          "rank": 3,
+          "name": "João Almeida",
+          "team": "UAE Team Emirates",
+          "time": "+ 39\""
+        },
+        {
+          "rank": 4,
+          "name": "Eddie Dunbar",
+          "team": "Team Jayco–AlUla",
+          "time": "+ 3' 39\""
+        },
+        {
+          "rank": 5,
+          "name": "Damiano Caruso",
+          "team": "Team Bahrain Victorious",
+          "time": "+ 3' 51\""
+        },
+        {
+          "rank": 6,
+          "name": "Lennard Kämna",
+          "team": "Bora–Hansgrohe",
+          "time": "+ 4' 27\""
+        },
+        {
+          "rank": 7,
+          "name": "Thibaut Pinot",
+          "team": "Groupama–FDJ",
+          "time": "+ 4' 43\""
+        },
+        {
+          "rank": 8,
+          "name": "Andreas Leknessund",
+          "team": "Team DSM",
+          "time": "+ 4' 47\""
+        },
+        {
+          "rank": 9,
+          "name": "Thymen Arensman",
+          "team": "Ineos Grenadiers",
+          "time": "+ 4' 53\""
+        },
+        {
+          "rank": 10,
+          "name": "Laurens De Plus",
+          "team": "Ineos Grenadiers",
+          "time": "+ 5' 52\""
+        }
+      ]
+    },
+    {
+      "stage": 19,
+      "riders": [
+        {
+          "rank": 1,
+          "name": "Geraint Thomas",
+          "team": "Ineos Grenadiers",
+          "time": "81h 55' 47\""
+        },
+        {
+          "rank": 2,
+          "name": "Primož Roglič",
+          "team": "Team Jumbo–Visma",
+          "time": "+ 26\""
+        },
+        {
+          "rank": 3,
+          "name": "João Almeida",
+          "team": "UAE Team Emirates",
+          "time": "+ 59\""
+        },
+        {
+          "rank": 4,
+          "name": "Damiano Caruso",
+          "team": "Team Bahrain Victorious",
+          "time": "+ 4' 11\""
+        },
+        {
+          "rank": 5,
+          "name": "Eddie Dunbar",
+          "team": "Team Jayco–AlUla",
+          "time": "+ 4' 53\""
+        },
+        {
+          "rank": 6,
+          "name": "Thibaut Pinot",
+          "team": "Groupama–FDJ",
+          "time": "+ 5' 10\""
+        },
+        {
+          "rank": 7,
+          "name": "Thymen Arensman",
+          "team": "Ineos Grenadiers",
+          "time": "+ 5' 13\""
+        },
+        {
+          "rank": 8,
+          "name": "Lennard Kämna",
+          "team": "Bora–Hansgrohe",
+          "time": "+ 5' 54\""
+        },
+        {
+          "rank": 9,
+          "name": "Andreas Leknessund",
+          "team": "Team DSM",
+          "time": "+ 6' 08\""
+        },
+        {
+          "rank": 10,
+          "name": "Laurens De Plus",
+          "team": "Ineos Grenadiers",
+          "time": "+ 7' 30\""
+        }
+      ]
+    },
+    {
+      "stage": 20,
+      "riders": [
+        {
+          "rank": 1,
+          "name": "Primož Roglič",
+          "team": "Team Jumbo–Visma",
+          "time": "82h 40' 36\""
+        },
+        {
+          "rank": 2,
+          "name": "Geraint Thomas",
+          "team": "Ineos Grenadiers",
+          "time": "+ 14\""
+        },
+        {
+          "rank": 3,
+          "name": "João Almeida",
+          "team": "UAE Team Emirates",
+          "time": "+ 1' 15\""
+        },
+        {
+          "rank": 4,
+          "name": "Damiano Caruso",
+          "team": "Team Bahrain Victorious",
+          "time": "+ 4' 40\""
+        },
+        {
+          "rank": 5,
+          "name": "Thibaut Pinot",
+          "team": "Groupama–FDJ",
+          "time": "+ 5' 43\""
+        },
+        {
+          "rank": 6,
+          "name": "Thymen Arensman",
+          "team": "Ineos Grenadiers",
+          "time": "+ 6' 05\""
+        },
+        {
+          "rank": 7,
+          "name": "Eddie Dunbar",
+          "team": "Team Jayco–AlUla",
+          "time": "+ 7' 30\""
+        },
+        {
+          "rank": 8,
+          "name": "Andreas Leknessund",
+          "team": "Team DSM",
+          "time": "+ 7' 31\""
+        },
+        {
+          "rank": 9,
+          "name": "Lennard Kämna",
+          "team": "Bora–Hansgrohe",
+          "time": "+ 7' 46\""
+        },
+        {
+          "rank": 10,
+          "name": "Laurens De Plus",
+          "team": "Ineos Grenadiers",
+          "time": "+ 9' 08\""
+        }
+      ]
+    },
+    {
+      "stage": 21,
+      "riders": [
+        {
+          "rank": 1,
+          "name": "Primož Roglič",
+          "team": "Team Jumbo–Visma",
+          "time": "85h 29' 02\""
+        },
+        {
+          "rank": 2,
+          "name": "Geraint Thomas",
+          "team": "Ineos Grenadiers",
+          "time": "+ 14\""
+        },
+        {
+          "rank": 3,
+          "name": "João Almeida",
+          "team": "UAE Team Emirates",
+          "time": "+ 1' 15\""
+        },
+        {
+          "rank": 4,
+          "name": "Damiano Caruso",
+          "team": "Team Bahrain Victorious",
+          "time": "+ 4' 40\""
+        },
+        {
+          "rank": 5,
+          "name": "Thibaut Pinot",
+          "team": "Groupama–FDJ",
+          "time": "+ 5' 43\""
+        },
+        {
+          "rank": 6,
+          "name": "Thymen Arensman",
+          "team": "Ineos Grenadiers",
+          "time": "+ 6' 05\""
+        },
+        {
+          "rank": 7,
+          "name": "Eddie Dunbar",
+          "team": "Team Jayco–AlUla",
+          "time": "+ 7' 30\""
+        },
+        {
+          "rank": 8,
+          "name": "Andreas Leknessund",
+          "team": "Team DSM",
+          "time": "+ 7' 31\""
+        },
+        {
+          "rank": 9,
+          "name": "Lennard Kämna",
+          "team": "Bora–Hansgrohe",
+          "time": "+ 7' 46\""
+        },
+        {
+          "rank": 10,
+          "name": "Laurens De Plus",
+          "team": "Ineos Grenadiers",
+          "time": "+ 9' 08\""
+        }
+      ]
+    }
+  ]
+}

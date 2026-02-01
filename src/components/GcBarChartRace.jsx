@@ -157,7 +157,7 @@ export default function GcBarChartRace({ race, year }) {
 
   /* ---------- CHART DATA ---------- */
 
-  const categories = riders.map(r => r.team);
+  const categories = riders.map(r => r.name);
 
   const seriesData = riders.map(r => ({
     value: r.gap,
@@ -166,15 +166,24 @@ export default function GcBarChartRace({ race, year }) {
       shadowBlur: 6,
       shadowColor: "rgba(0,0,0,0.18)",
       shadowOffsetX: 2,
-      opacity: r.opacity ?? 1
+      opacity: r.opacity ?? 1,
+      borderRadius: [6, 6, 6, 6]
     },
     label: {
       show: true,
       position: "right",
       formatter:
         r.rank === 1
-          ? `${r.name} (Leader)`
-          : `${r.name} +${formatGap(r.gap)}s`
+          ? `{gap|Leader}, {team|${r.team}}`
+          : `{gap|+${formatGap(r.gap)}}, {team|${r.team}}`,
+      rich: {
+        gap: {
+          fontWeight: "bold"
+        },
+        team: {
+          fontWeight: "normal"
+        }
+      }
     }
   }));
 
@@ -184,25 +193,44 @@ export default function GcBarChartRace({ race, year }) {
       left: "center"
     },
     grid: { left: 240, right: 40, top: 60, bottom: 20 },
-    xAxis: { type: "value", min: 0 },
-    //yAxis: { type: "category", data: categories, inverse: true },
+    xAxis: {
+      type: "value",
+      min: 0,
+      splitLine: { show: false },
+      axisLine: { show: false },
+      axisTick: { show: false }
+    },
     yAxis: {
-        type: "category",
-        inverse: true,
-        data: categories,
-        animationDurationUpdate: FRAME_MS * 2,
-        animationEasingUpdate: "cubicInOut"
+      type: "category",
+      inverse: true,
+      data: categories,
+      animationDurationUpdate: FRAME_MS * 2,
+      animationEasingUpdate: "cubicInOut",
+      axisLine: { show: false },
+      axisTick: { show: false },
+      axisLabel: {
+        fontWeight: "bold",
+        fontSize: 13,
+        color: "#111827"
       },
-      series: [
-        {
-          type: "bar",
-          data: seriesData,
-          animationDurationUpdate: FRAME_MS * 1.6,
-          animationEasingUpdate: "cubicInOut",
-          animationDuration: 600,
-          animationEasing: "cubicOut"
+      splitLine: {
+        show: true,
+        lineStyle: {
+          color: "rgba(0,0,0,0.14)",
+          width: 1
         }
-      ]
+      }
+    },
+    series: [
+      {
+        type: "bar",
+        data: seriesData,
+        animationDurationUpdate: FRAME_MS * 1.6,
+        animationEasingUpdate: "cubicInOut",
+        animationDuration: 600,
+        animationEasing: "cubicOut"
+      }
+    ]
   };
 
   /* ---------- CONTROLS ---------- */

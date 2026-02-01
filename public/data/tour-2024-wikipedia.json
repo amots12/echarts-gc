@@ -1301,6 +1301,81 @@
           "time": "+ 32' 42\""
         }
       ]
+    },
+    {
+      "stage": 21,
+      "riders": [
+        {
+          "rank": 1,
+          "name": "Tadej Pogačar",
+          "team": "UAE Team Emirates",
+          "nationality": "Slovenia",
+          "time_gap": "83h 38' 56\""
+        },
+        {
+          "rank": 2,
+          "name": "Jonas Vingegaard",
+          "team": "Visma–Lease a Bike",
+          "nationality": "Denmark",
+          "time_gap": "+ 6' 17\""
+        },
+        {
+          "rank": 3,
+          "name": "Remco Evenepoel",
+          "team": "Soudal–Quick-Step",
+          "nationality": "Belgium",
+          "time_gap": "+ 9' 18\""
+        },
+        {
+          "rank": 4,
+          "name": "João Almeida",
+          "team": "UAE Team Emirates",
+          "nationality": "Portugal",
+          "time_gap": "+ 19' 03\""
+        },
+        {
+          "rank": 5,
+          "name": "Mikel Landa",
+          "team": "Soudal–Quick-Step",
+          "nationality": "Spain",
+          "time_gap": "+ 20' 06\""
+        },
+        {
+          "rank": 6,
+          "name": "Adam Yates",
+          "team": "UAE Team Emirates",
+          "nationality": "Great Britain",
+          "time_gap": "+ 24' 07\""
+        },
+        {
+          "rank": 7,
+          "name": "Carlos Rodríguez",
+          "team": "Ineos Grenadiers",
+          "nationality": "Spain",
+          "time_gap": "+ 25' 04\""
+        },
+        {
+          "rank": 8,
+          "name": "Matteo Jorgenson",
+          "team": "Visma–Lease a Bike",
+          "nationality": "USA",
+          "time_gap": "+ 26' 34\""
+        },
+        {
+          "rank": 9,
+          "name": "Derek Gee",
+          "team": "Israel–Premier Tech",
+          "nationality": "Canada",
+          "time_gap": "+ 27' 21\""
+        },
+        {
+          "rank": 10,
+          "name": "Santiago Buitrago",
+          "team": "Bahrain Victorious",
+          "nationality": "Colombia",
+          "time_gap": "+ 29' 03\""
+        }
+      ]
     }
   ]
 }

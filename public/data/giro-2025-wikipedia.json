@@ -1,0 +1,1371 @@
+{
+  "race": "Giro d%27Italia",
+  "year": 2025,
+  "stages": [
+    {
+      "stage": 1,
+      "riders": [
+        {
+          "rank": 1,
+          "name": "Mads Pedersen",
+          "team": "Lidl–Trek",
+          "time": "3h 36' 14\""
+        },
+        {
+          "rank": 2,
+          "name": "Wout van Aert",
+          "team": "Visma–Lease a Bike",
+          "time": "+ 4\""
+        },
+        {
+          "rank": 3,
+          "name": "Orluis Aular",
+          "team": "Movistar Team",
+          "time": "+ 6\""
+        },
+        {
+          "rank": 4,
+          "name": "Francesco Busatto",
+          "team": "Intermarché–Wanty",
+          "time": "+ 10\""
+        },
+        {
+          "rank": 5,
+          "name": "Tom Pidcock",
+          "team": "Q36.5 Pro Cycling Team",
+          "time": "+ 10\""
+        },
+        {
+          "rank": 6,
+          "name": "Diego Ulissi",
+          "team": "XDS Astana Team",
+          "time": "+ 10\""
+        },
+        {
+          "rank": 7,
+          "name": "Richard Carapaz",
+          "team": "EF Education–EasyPost",
+          "time": "+ 10\""
+        },
+        {
+          "rank": 8,
+          "name": "Max Poole",
+          "team": "Team Picnic–PostNL",
+          "time": "+ 10\""
+        },
+        {
+          "rank": 9,
+          "name": "Nicola Conci",
+          "team": "XDS Astana Team",
+          "time": "+ 10\""
+        },
+        {
+          "rank": 10,
+          "name": "Davide Piganzoli",
+          "team": "Team Polti VisitMalta",
+          "time": "+ 10\""
+        }
+      ]
+    },
+    {
+      "stage": 2,
+      "riders": [
+        {
+          "rank": 1,
+          "name": "Primož Roglič",
+          "team": "Red Bull–Bora–Hansgrohe",
+          "time": "3h 52' 32\""
+        },
+        {
+          "rank": 2,
+          "name": "Mads Pedersen",
+          "team": "Lidl–Trek",
+          "time": "+ 1\""
+        },
+        {
+          "rank": 3,
+          "name": "Mathias Vacek",
+          "team": "Lidl–Trek",
+          "time": "+ 5\""
+        },
+        {
+          "rank": 4,
+          "name": "Brandon McNulty",
+          "team": "UAE Team Emirates XRG",
+          "time": "+ 12\""
+        },
+        {
+          "rank": 5,
+          "name": "Juan Ayuso",
+          "team": "UAE Team Emirates XRG",
+          "time": "+ 16\""
+        },
+        {
+          "rank": 6,
+          "name": "Isaac del Toro",
+          "team": "UAE Team Emirates XRG",
+          "time": "+ 17\""
+        },
+        {
+          "rank": 7,
+          "name": "Max Poole",
+          "team": "Team Picnic–PostNL",
+          "time": "+ 24\""
+        },
+        {
+          "rank": 8,
+          "name": "Antonio Tiberi",
+          "team": "Team Bahrain Victorious",
+          "time": "+ 25\""
+        },
+        {
+          "rank": 9,
+          "name": "Michael Storer",
+          "team": "Tudor Pro Cycling Team",
+          "time": "+ 27\""
+        },
+        {
+          "rank": 10,
+          "name": "Giulio Pellizzari",
+          "team": "Red Bull–Bora–Hansgrohe",
+          "time": "+ 31\""
+        }
+      ]
+    },
+    {
+      "stage": 3,
+      "riders": [
+        {
+          "rank": 1,
+          "name": "Mads Pedersen",
+          "team": "Lidl–Trek",
+          "time": "7h 42' 10\""
+        },
+        {
+          "rank": 2,
+          "name": "Primož Roglič",
+          "team": "Red Bull–Bora–Hansgrohe",
+          "time": "+ 9\""
+        },
+        {
+          "rank": 3,
+          "name": "Mathias Vacek",
+          "team": "Lidl–Trek",
+          "time": "+ 14\""
+        },
+        {
+          "rank": 4,
+          "name": "Brandon McNulty",
+          "team": "UAE Team Emirates XRG",
+          "time": "+ 21\""
+        },
+        {
+          "rank": 5,
+          "name": "Juan Ayuso",
+          "team": "UAE Team Emirates XRG",
+          "time": "+ 25\""
+        },
+        {
+          "rank": 6,
+          "name": "Isaac del Toro",
+          "team": "UAE Team Emirates XRG",
+          "time": "+ 26\""
+        },
+        {
+          "rank": 7,
+          "name": "Max Poole",
+          "team": "Team Picnic–PostNL",
+          "time": "+ 33\""
+        },
+        {
+          "rank": 8,
+          "name": "Antonio Tiberi",
+          "team": "Team Bahrain Victorious",
+          "time": "+ 34\""
+        },
+        {
+          "rank": 9,
+          "name": "Michael Storer",
+          "team": "Tudor Pro Cycling Team",
+          "time": "+ 36\""
+        },
+        {
+          "rank": 10,
+          "name": "Giulio Pellizzari",
+          "team": "Red Bull–Bora–Hansgrohe",
+          "time": "+ 40\""
+        }
+      ]
+    },
+    {
+      "stage": 4,
+      "riders": [
+        {
+          "rank": 1,
+          "name": "Mads Pedersen",
+          "team": "Lidl–Trek",
+          "time": "11h 44' 31\""
+        },
+        {
+          "rank": 2,
+          "name": "Primož Roglič",
+          "team": "Red Bull–Bora–Hansgrohe",
+          "time": "+ 7\""
+        },
+        {
+          "rank": 3,
+          "name": "Mathias Vacek",
+          "team": "Lidl–Trek",
+          "time": "+ 14\""
+        },
+        {
+          "rank": 4,
+          "name": "Brandon McNulty",
+          "team": "UAE Team Emirates XRG",
+          "time": "+ 21\""
+        },
+        {
+          "rank": 5,
+          "name": "Isaac del Toro",
+          "team": "UAE Team Emirates XRG",
+          "time": "+ 22\""
+        },
+        {
+          "rank": 6,
+          "name": "Juan Ayuso",
+          "team": "UAE Team Emirates XRG",
+          "time": "+ 25\""
+        },
+        {
+          "rank": 7,
+          "name": "Max Poole",
+          "team": "Team Picnic–PostNL",
+          "time": "+ 33\""
+        },
+        {
+          "rank": 8,
+          "name": "Antonio Tiberi",
+          "team": "Team Bahrain Victorious",
+          "time": "+ 34\""
+        },
+        {
+          "rank": 9,
+          "name": "Michael Storer",
+          "team": "Tudor Pro Cycling Team",
+          "time": "+ 36\""
+        },
+        {
+          "rank": 10,
+          "name": "Giulio Pellizzari",
+          "team": "Red Bull–Bora–Hansgrohe",
+          "time": "+ 40\""
+        }
+      ]
+    },
+    {
+      "stage": 5,
+      "riders": [
+        {
+          "rank": 1,
+          "name": "Mads Pedersen",
+          "team": "Lidl–Trek",
+          "time": "15h 11' 52\""
+        },
+        {
+          "rank": 2,
+          "name": "Primož Roglič",
+          "team": "Red Bull–Bora–Hansgrohe",
+          "time": "+ 17\""
+        },
+        {
+          "rank": 3,
+          "name": "Mathias Vacek",
+          "team": "Lidl–Trek",
+          "time": "+ 24\""
+        },
+        {
+          "rank": 4,
+          "name": "Brandon McNulty",
+          "team": "UAE Team Emirates XRG",
+          "time": "+ 31\""
+        },
+        {
+          "rank": 5,
+          "name": "Isaac del Toro",
+          "team": "UAE Team Emirates XRG",
+          "time": "+ 32\""
+        },
+        {
+          "rank": 6,
+          "name": "Juan Ayuso",
+          "team": "UAE Team Emirates XRG",
+          "time": "+ 35\""
+        },
+        {
+          "rank": 7,
+          "name": "Max Poole",
+          "team": "Team Picnic–PostNL",
+          "time": "+ 43\""
+        },
+        {
+          "rank": 8,
+          "name": "Antonio Tiberi",
+          "team": "Team Bahrain Victorious",
+          "time": "+ 44\""
+        },
+        {
+          "rank": 9,
+          "name": "Michael Storer",
+          "team": "Tudor Pro Cycling Team",
+          "time": "+ 46\""
+        },
+        {
+          "rank": 10,
+          "name": "Giulio Pellizzari",
+          "team": "Red Bull–Bora–Hansgrohe",
+          "time": "+ 50\""
+        }
+      ]
+    },
+    {
+      "stage": 6,
+      "riders": [
+        {
+          "rank": 1,
+          "name": "Mads Pedersen",
+          "team": "Lidl–Trek",
+          "time": "20h 11' 44\""
+        },
+        {
+          "rank": 2,
+          "name": "Primož Roglič",
+          "team": "Red Bull–Bora–Hansgrohe",
+          "time": "+ 17\""
+        },
+        {
+          "rank": 3,
+          "name": "Mathias Vacek",
+          "team": "Lidl–Trek",
+          "time": "+ 24\""
+        },
+        {
+          "rank": 4,
+          "name": "Brandon McNulty",
+          "team": "UAE Team Emirates XRG",
+          "time": "+ 31\""
+        },
+        {
+          "rank": 5,
+          "name": "Isaac del Toro",
+          "team": "UAE Team Emirates XRG",
+          "time": "+ 32\""
+        },
+        {
+          "rank": 6,
+          "name": "Juan Ayuso",
+          "team": "UAE Team Emirates XRG",
+          "time": "+ 35\""
+        },
+        {
+          "rank": 7,
+          "name": "Max Poole",
+          "team": "Team Picnic–PostNL",
+          "time": "+ 43\""
+        },
+        {
+          "rank": 8,
+          "name": "Antonio Tiberi",
+          "team": "Team Bahrain Victorious",
+          "time": "+ 44\""
+        },
+        {
+          "rank": 9,
+          "name": "Michael Storer",
+          "team": "Tudor Pro Cycling Team",
+          "time": "+ 46\""
+        },
+        {
+          "rank": 10,
+          "name": "Giulio Pellizzari",
+          "team": "Red Bull–Bora–Hansgrohe",
+          "time": "+ 50\""
+        }
+      ]
+    },
+    {
+      "stage": 7,
+      "riders": [
+        {
+          "rank": 1,
+          "name": "Primož Roglič",
+          "team": "Red Bull–Bora–Hansgrohe",
+          "time": "24h 32' 20\""
+        },
+        {
+          "rank": 2,
+          "name": "Juan Ayuso",
+          "team": "UAE Team Emirates XRG",
+          "time": "+ 4\""
+        },
+        {
+          "rank": 3,
+          "name": "Isaac del Toro",
+          "team": "UAE Team Emirates XRG",
+          "time": "+ 9\""
+        },
+        {
+          "rank": 4,
+          "name": "Antonio Tiberi",
+          "team": "Team Bahrain Victorious",
+          "time": "+ 27\""
+        },
+        {
+          "rank": 5,
+          "name": "Max Poole",
+          "team": "Team Picnic–PostNL",
+          "time": "+ 30\""
+        },
+        {
+          "rank": 6,
+          "name": "Michael Storer",
+          "team": "Tudor Pro Cycling Team",
+          "time": "+ 33\""
+        },
+        {
+          "rank": 7,
+          "name": "Brandon McNulty",
+          "team": "UAE Team Emirates XRG",
+          "time": "+ 34\""
+        },
+        {
+          "rank": 8,
+          "name": "Mathias Vacek",
+          "team": "Lidl–Trek",
+          "time": "+ 37\""
+        },
+        {
+          "rank": 9,
+          "name": "Simon Yates",
+          "team": "Visma–Lease a Bike",
+          "time": "+ 39\""
+        },
+        {
+          "rank": 10,
+          "name": "Richard Carapaz",
+          "team": "EF Education–EasyPost",
+          "time": "+ 39\""
+        }
+      ]
+    },
+    {
+      "stage": 8,
+      "riders": [
+        {
+          "rank": 1,
+          "name": "Diego Ulissi",
+          "team": "XDS Astana Team",
+          "time": "29h 21' 23\""
+        },
+        {
+          "rank": 2,
+          "name": "Lorenzo Fortunato",
+          "team": "XDS Astana Team",
+          "time": "+ 12\""
+        },
+        {
+          "rank": 3,
+          "name": "Primož Roglič",
+          "team": "Red Bull–Bora–Hansgrohe",
+          "time": "+ 17\""
+        },
+        {
+          "rank": 4,
+          "name": "Juan Ayuso",
+          "team": "UAE Team Emirates XRG",
+          "time": "+ 20\""
+        },
+        {
+          "rank": 5,
+          "name": "Isaac del Toro",
+          "team": "UAE Team Emirates XRG",
+          "time": "+ 26\""
+        },
+        {
+          "rank": 6,
+          "name": "Antonio Tiberi",
+          "team": "Team Bahrain Victorious",
+          "time": "+ 44\""
+        },
+        {
+          "rank": 7,
+          "name": "Max Poole",
+          "team": "Team Picnic–PostNL",
+          "time": "+ 47\""
+        },
+        {
+          "rank": 8,
+          "name": "Michael Storer",
+          "team": "Tudor Pro Cycling Team",
+          "time": "+ 50\""
+        },
+        {
+          "rank": 9,
+          "name": "Brandon McNulty",
+          "team": "UAE Team Emirates XRG",
+          "time": "+ 51\""
+        },
+        {
+          "rank": 10,
+          "name": "Simon Yates",
+          "team": "Visma–Lease a Bike",
+          "time": "+ 56\""
+        }
+      ]
+    },
+    {
+      "stage": 9,
+      "riders": [
+        {
+          "rank": 1,
+          "name": "Isaac del Toro",
+          "team": "UAE Team Emirates XRG",
+          "time": "33h 36' 45\""
+        },
+        {
+          "rank": 2,
+          "name": "Juan Ayuso",
+          "team": "UAE Team Emirates XRG",
+          "time": "+ 1' 13\""
+        },
+        {
+          "rank": 3,
+          "name": "Antonio Tiberi",
+          "team": "Team Bahrain Victorious",
+          "time": "+ 1' 30\""
+        },
+        {
+          "rank": 4,
+          "name": "Richard Carapaz",
+          "team": "EF Education–EasyPost",
+          "time": "+ 1' 40\""
+        },
+        {
+          "rank": 5,
+          "name": "Giulio Ciccone",
+          "team": "Lidl–Trek",
+          "time": "+ 1' 41\""
+        },
+        {
+          "rank": 6,
+          "name": "Simon Yates",
+          "team": "Visma–Lease a Bike",
+          "time": "+ 1' 42\""
+        },
+        {
+          "rank": 7,
+          "name": "Egan Bernal",
+          "team": "Ineos Grenadiers",
+          "time": "+ 1' 57\""
+        },
+        {
+          "rank": 8,
+          "name": "Brandon McNulty",
+          "team": "UAE Team Emirates XRG",
+          "time": "+ 1' 59\""
+        },
+        {
+          "rank": 9,
+          "name": "Adam Yates",
+          "team": "UAE Team Emirates XRG",
+          "time": "+ 2' 01\""
+        },
+        {
+          "rank": 10,
+          "name": "Primož Roglič",
+          "team": "Red Bull–Bora–Hansgrohe",
+          "time": "+ 2' 25\""
+        }
+      ]
+    },
+    {
+      "stage": 10,
+      "riders": [
+        {
+          "rank": 1,
+          "name": "Isaac del Toro",
+          "team": "UAE Team Emirates XRG",
+          "time": "34h 11' 37\""
+        },
+        {
+          "rank": 2,
+          "name": "Juan Ayuso",
+          "team": "UAE Team Emirates XRG",
+          "time": "+ 25\""
+        },
+        {
+          "rank": 3,
+          "name": "Antonio Tiberi",
+          "team": "Team Bahrain Victorious",
+          "time": "+ 1' 01\""
+        },
+        {
+          "rank": 4,
+          "name": "Simon Yates",
+          "team": "Visma–Lease a Bike",
+          "time": "+ 1' 03\""
+        },
+        {
+          "rank": 5,
+          "name": "Primož Roglič",
+          "team": "Red Bull–Bora–Hansgrohe",
+          "time": "+ 1' 18\""
+        },
+        {
+          "rank": 6,
+          "name": "Brandon McNulty",
+          "team": "UAE Team Emirates XRG",
+          "time": "+ 2' 00\""
+        },
+        {
+          "rank": 7,
+          "name": "Adam Yates",
+          "team": "UAE Team Emirates XRG",
+          "time": "+ 2' 06\""
+        },
+        {
+          "rank": 8,
+          "name": "Giulio Ciccone",
+          "team": "Lidl–Trek",
+          "time": "+ 2' 07\""
+        },
+        {
+          "rank": 9,
+          "name": "Richard Carapaz",
+          "team": "EF Education–EasyPost",
+          "time": "+ 2' 10\""
+        },
+        {
+          "rank": 10,
+          "name": "Thymen Arensman",
+          "team": "Ineos Grenadiers",
+          "time": "+ 2' 27\""
+        }
+      ]
+    },
+    {
+      "stage": 11,
+      "riders": [
+        {
+          "rank": 1,
+          "name": "Isaac del Toro",
+          "team": "UAE Team Emirates XRG",
+          "time": "38h 47' 01\""
+        },
+        {
+          "rank": 2,
+          "name": "Juan Ayuso",
+          "team": "UAE Team Emirates XRG",
+          "time": "+ 31\""
+        },
+        {
+          "rank": 3,
+          "name": "Antonio Tiberi",
+          "team": "Team Bahrain Victorious",
+          "time": "+ 1' 07\""
+        },
+        {
+          "rank": 4,
+          "name": "Simon Yates",
+          "team": "Visma–Lease a Bike",
+          "time": "+ 1' 09\""
+        },
+        {
+          "rank": 5,
+          "name": "Primož Roglič",
+          "team": "Red Bull–Bora–Hansgrohe",
+          "time": "+ 1' 24\""
+        },
+        {
+          "rank": 6,
+          "name": "Richard Carapaz",
+          "team": "EF Education–EasyPost",
+          "time": "+ 1' 56\""
+        },
+        {
+          "rank": 7,
+          "name": "Giulio Ciccone",
+          "team": "Lidl–Trek",
+          "time": "+ 2' 09\""
+        },
+        {
+          "rank": 8,
+          "name": "Brandon McNulty",
+          "team": "UAE Team Emirates XRG",
+          "time": "+ 2' 16\""
+        },
+        {
+          "rank": 9,
+          "name": "Adam Yates",
+          "team": "UAE Team Emirates XRG",
+          "time": "+ 2' 33\""
+        },
+        {
+          "rank": 10,
+          "name": "Thymen Arensman",
+          "team": "Ineos Grenadiers",
+          "time": "+ 2' 33\""
+        }
+      ]
+    },
+    {
+      "stage": 12,
+      "riders": [
+        {
+          "rank": 1,
+          "name": "Isaac del Toro",
+          "team": "UAE Team Emirates XRG",
+          "time": "42h 42' 39\""
+        },
+        {
+          "rank": 2,
+          "name": "Juan Ayuso",
+          "team": "UAE Team Emirates XRG",
+          "time": "+ 33\""
+        },
+        {
+          "rank": 3,
+          "name": "Antonio Tiberi",
+          "team": "Team Bahrain Victorious",
+          "time": "+ 1' 09\""
+        },
+        {
+          "rank": 4,
+          "name": "Simon Yates",
+          "team": "Visma–Lease a Bike",
+          "time": "+ 1' 11\""
+        },
+        {
+          "rank": 5,
+          "name": "Primož Roglič",
+          "team": "Red Bull–Bora–Hansgrohe",
+          "time": "+ 1' 26\""
+        },
+        {
+          "rank": 6,
+          "name": "Richard Carapaz",
+          "team": "EF Education–EasyPost",
+          "time": "+ 1' 58\""
+        },
+        {
+          "rank": 7,
+          "name": "Giulio Ciccone",
+          "team": "Lidl–Trek",
+          "time": "+ 2' 11\""
+        },
+        {
+          "rank": 8,
+          "name": "Brandon McNulty",
+          "team": "UAE Team Emirates XRG",
+          "time": "+ 2' 18\""
+        },
+        {
+          "rank": 9,
+          "name": "Adam Yates",
+          "team": "UAE Team Emirates XRG",
+          "time": "+ 2' 35\""
+        },
+        {
+          "rank": 10,
+          "name": "Thymen Arensman",
+          "team": "Ineos Grenadiers",
+          "time": "+ 2' 35\""
+        }
+      ]
+    },
+    {
+      "stage": 13,
+      "riders": [
+        {
+          "rank": 1,
+          "name": "Isaac del Toro",
+          "team": "UAE Team Emirates XRG",
+          "time": "46h 32' 59\""
+        },
+        {
+          "rank": 2,
+          "name": "Juan Ayuso",
+          "team": "UAE Team Emirates XRG",
+          "time": "+ 38\""
+        },
+        {
+          "rank": 3,
+          "name": "Antonio Tiberi",
+          "team": "Team Bahrain Victorious",
+          "time": "+ 1' 18\""
+        },
+        {
+          "rank": 4,
+          "name": "Simon Yates",
+          "team": "Visma–Lease a Bike",
+          "time": "+ 1' 20\""
+        },
+        {
+          "rank": 5,
+          "name": "Primož Roglič",
+          "team": "Red Bull–Bora–Hansgrohe",
+          "time": "+ 1' 35\""
+        },
+        {
+          "rank": 6,
+          "name": "Richard Carapaz",
+          "team": "EF Education–EasyPost",
+          "time": "+ 2' 07\""
+        },
+        {
+          "rank": 7,
+          "name": "Giulio Ciccone",
+          "team": "Lidl–Trek",
+          "time": "+ 2' 20\""
+        },
+        {
+          "rank": 8,
+          "name": "Brandon McNulty",
+          "team": "UAE Team Emirates XRG",
+          "time": "+ 2' 40\""
+        },
+        {
+          "rank": 9,
+          "name": "Egan Bernal",
+          "team": "Ineos Grenadiers",
+          "time": "+ 2' 50\""
+        },
+        {
+          "rank": 10,
+          "name": "Derek Gee",
+          "team": "Israel–Premier Tech",
+          "time": "+ 2' 54\""
+        }
+      ]
+    },
+    {
+      "stage": 14,
+      "riders": [
+        {
+          "rank": 1,
+          "name": "Isaac del Toro",
+          "team": "UAE Team Emirates XRG",
+          "time": "50h 37' 55\""
+        },
+        {
+          "rank": 2,
+          "name": "Simon Yates",
+          "team": "Visma–Lease a Bike",
+          "time": "+ 1' 20\""
+        },
+        {
+          "rank": 3,
+          "name": "Juan Ayuso",
+          "team": "UAE Team Emirates XRG",
+          "time": "+ 1' 26\""
+        },
+        {
+          "rank": 4,
+          "name": "Richard Carapaz",
+          "team": "EF Education–EasyPost",
+          "time": "+ 2' 07\""
+        },
+        {
+          "rank": 5,
+          "name": "Primož Roglič",
+          "team": "Red Bull–Bora–Hansgrohe",
+          "time": "+ 2' 23\""
+        },
+        {
+          "rank": 6,
+          "name": "Derek Gee",
+          "team": "Israel–Premier Tech",
+          "time": "+ 2' 54\""
+        },
+        {
+          "rank": 7,
+          "name": "Damiano Caruso",
+          "team": "Team Bahrain Victorious",
+          "time": "+ 2' 55\""
+        },
+        {
+          "rank": 8,
+          "name": "Antonio Tiberi",
+          "team": "Team Bahrain Victorious",
+          "time": "+ 3' 02\""
+        },
+        {
+          "rank": 9,
+          "name": "Egan Bernal",
+          "team": "Ineos Grenadiers",
+          "time": "+ 3' 38\""
+        },
+        {
+          "rank": 10,
+          "name": "Thymen Arensman",
+          "team": "Ineos Grenadiers",
+          "time": "+ 3' 45\""
+        }
+      ]
+    },
+    {
+      "stage": 15,
+      "riders": [
+        {
+          "rank": 1,
+          "name": "Isaac del Toro",
+          "team": "UAE Team Emirates XRG",
+          "time": "55h 54' 05\""
+        },
+        {
+          "rank": 2,
+          "name": "Simon Yates",
+          "team": "Visma–Lease a Bike",
+          "time": "+ 1' 20\""
+        },
+        {
+          "rank": 3,
+          "name": "Juan Ayuso",
+          "team": "UAE Team Emirates XRG",
+          "time": "+ 1' 26\""
+        },
+        {
+          "rank": 4,
+          "name": "Richard Carapaz",
+          "team": "EF Education–EasyPost",
+          "time": "+ 2' 07\""
+        },
+        {
+          "rank": 5,
+          "name": "Derek Gee",
+          "team": "Israel–Premier Tech",
+          "time": "+ 2' 54\""
+        },
+        {
+          "rank": 6,
+          "name": "Damiano Caruso",
+          "team": "Team Bahrain Victorious",
+          "time": "+ 2' 55\""
+        },
+        {
+          "rank": 7,
+          "name": "Antonio Tiberi",
+          "team": "Team Bahrain Victorious",
+          "time": "+ 3' 02\""
+        },
+        {
+          "rank": 8,
+          "name": "Egan Bernal",
+          "team": "Ineos Grenadiers",
+          "time": "+ 3' 38\""
+        },
+        {
+          "rank": 9,
+          "name": "Thymen Arensman",
+          "team": "Ineos Grenadiers",
+          "time": "+ 3' 45\""
+        },
+        {
+          "rank": 10,
+          "name": "Primož Roglič",
+          "team": "Red Bull–Bora–Hansgrohe",
+          "time": "+ 3' 53\""
+        }
+      ]
+    },
+    {
+      "stage": 16,
+      "riders": [
+        {
+          "rank": 1,
+          "name": "Isaac del Toro",
+          "team": "UAE Team Emirates XRG",
+          "time": "61h 31' 56\""
+        },
+        {
+          "rank": 2,
+          "name": "Simon Yates",
+          "team": "Visma–Lease a Bike",
+          "time": "+ 26\""
+        },
+        {
+          "rank": 3,
+          "name": "Richard Carapaz",
+          "team": "EF Education–EasyPost",
+          "time": "+ 31\""
+        },
+        {
+          "rank": 4,
+          "name": "Derek Gee",
+          "team": "Israel–Premier Tech",
+          "time": "+ 1' 31\""
+        },
+        {
+          "rank": 5,
+          "name": "Damiano Caruso",
+          "team": "Team Bahrain Victorious",
+          "time": "+ 2' 40\""
+        },
+        {
+          "rank": 6,
+          "name": "Egan Bernal",
+          "team": "Ineos Grenadiers",
+          "time": "+ 3' 23\""
+        },
+        {
+          "rank": 7,
+          "name": "Michael Storer",
+          "team": "Tudor Pro Cycling Team",
+          "time": "+ 3' 31\""
+        },
+        {
+          "rank": 8,
+          "name": "Antonio Tiberi",
+          "team": "Team Bahrain Victorious",
+          "time": "+ 4' 07\""
+        },
+        {
+          "rank": 9,
+          "name": "Giulio Pellizzari",
+          "team": "Red Bull–Bora–Hansgrohe",
+          "time": "+ 4' 36\""
+        },
+        {
+          "rank": 10,
+          "name": "Adam Yates",
+          "team": "UAE Team Emirates XRG",
+          "time": "+ 5' 08\""
+        }
+      ]
+    },
+    {
+      "stage": 17,
+      "riders": [
+        {
+          "rank": 1,
+          "name": "Isaac del Toro",
+          "team": "UAE Team Emirates XRG",
+          "time": "65h 30' 34\""
+        },
+        {
+          "rank": 2,
+          "name": "Richard Carapaz",
+          "team": "EF Education–EasyPost",
+          "time": "+ 41\""
+        },
+        {
+          "rank": 3,
+          "name": "Simon Yates",
+          "team": "Visma–Lease a Bike",
+          "time": "+ 51\""
+        },
+        {
+          "rank": 4,
+          "name": "Derek Gee",
+          "team": "Israel–Premier Tech",
+          "time": "+ 1' 57\""
+        },
+        {
+          "rank": 5,
+          "name": "Damiano Caruso",
+          "team": "Team Bahrain Victorious",
+          "time": "+ 3' 06\""
+        },
+        {
+          "rank": 6,
+          "name": "Egan Bernal",
+          "team": "Ineos Grenadiers",
+          "time": "+ 4' 43\""
+        },
+        {
+          "rank": 7,
+          "name": "Giulio Pellizzari",
+          "team": "Red Bull–Bora–Hansgrohe",
+          "time": "+ 5' 02\""
+        },
+        {
+          "rank": 8,
+          "name": "Einer Rubio",
+          "team": "Movistar Team",
+          "time": "+ 6' 09\""
+        },
+        {
+          "rank": 9,
+          "name": "Adam Yates",
+          "team": "UAE Team Emirates XRG",
+          "time": "+ 7' 45\""
+        },
+        {
+          "rank": 10,
+          "name": "Michael Storer",
+          "team": "Tudor Pro Cycling Team",
+          "time": "+ 7' 46\""
+        }
+      ]
+    },
+    {
+      "stage": 18,
+      "riders": [
+        {
+          "rank": 1,
+          "name": "Isaac del Toro",
+          "team": "UAE Team Emirates XRG",
+          "time": "68h 56' 32\""
+        },
+        {
+          "rank": 2,
+          "name": "Richard Carapaz",
+          "team": "EF Education–EasyPost",
+          "time": "+ 41\""
+        },
+        {
+          "rank": 3,
+          "name": "Simon Yates",
+          "team": "Visma–Lease a Bike",
+          "time": "+ 51\""
+        },
+        {
+          "rank": 4,
+          "name": "Derek Gee",
+          "team": "Israel–Premier Tech",
+          "time": "+ 1' 57\""
+        },
+        {
+          "rank": 5,
+          "name": "Damiano Caruso",
+          "team": "Team Bahrain Victorious",
+          "time": "+ 3' 06\""
+        },
+        {
+          "rank": 6,
+          "name": "Egan Bernal",
+          "team": "Ineos Grenadiers",
+          "time": "+ 4' 43\""
+        },
+        {
+          "rank": 7,
+          "name": "Giulio Pellizzari",
+          "team": "Red Bull–Bora–Hansgrohe",
+          "time": "+ 5' 02\""
+        },
+        {
+          "rank": 8,
+          "name": "Einer Rubio",
+          "team": "Movistar Team",
+          "time": "+ 6' 09\""
+        },
+        {
+          "rank": 9,
+          "name": "Adam Yates",
+          "team": "UAE Team Emirates XRG",
+          "time": "+ 7' 45\""
+        },
+        {
+          "rank": 10,
+          "name": "Michael Storer",
+          "team": "Tudor Pro Cycling Team",
+          "time": "+ 7' 46\""
+        }
+      ]
+    },
+    {
+      "stage": 19,
+      "riders": [
+        {
+          "rank": 1,
+          "name": "Isaac del Toro",
+          "team": "UAE Team Emirates XRG",
+          "time": "73h 47' 59\""
+        },
+        {
+          "rank": 2,
+          "name": "Richard Carapaz",
+          "team": "EF Education–EasyPost",
+          "time": "+ 43\""
+        },
+        {
+          "rank": 3,
+          "name": "Simon Yates",
+          "team": "Visma–Lease a Bike",
+          "time": "+ 1' 21\""
+        },
+        {
+          "rank": 4,
+          "name": "Derek Gee",
+          "team": "Israel–Premier Tech",
+          "time": "+ 2' 27\""
+        },
+        {
+          "rank": 5,
+          "name": "Damiano Caruso",
+          "team": "Team Bahrain Victorious",
+          "time": "+ 3' 36\""
+        },
+        {
+          "rank": 6,
+          "name": "Egan Bernal",
+          "team": "Ineos Grenadiers",
+          "time": "+ 5' 13\""
+        },
+        {
+          "rank": 7,
+          "name": "Giulio Pellizzari",
+          "team": "Red Bull–Bora–Hansgrohe",
+          "time": "+ 5' 32\""
+        },
+        {
+          "rank": 8,
+          "name": "Einer Rubio",
+          "team": "Movistar Team",
+          "time": "+ 6' 39\""
+        },
+        {
+          "rank": 9,
+          "name": "Michael Storer",
+          "team": "Tudor Pro Cycling Team",
+          "time": "+ 9' 11\""
+        },
+        {
+          "rank": 10,
+          "name": "Brandon McNulty",
+          "team": "UAE Team Emirates XRG",
+          "time": "+ 9' 33\""
+        }
+      ]
+    },
+    {
+      "stage": 20,
+      "riders": [
+        {
+          "rank": 1,
+          "name": "Simon Yates",
+          "team": "Visma–Lease a Bike",
+          "time": "79h 18' 42\""
+        },
+        {
+          "rank": 2,
+          "name": "Isaac del Toro",
+          "team": "UAE Team Emirates XRG",
+          "time": "+ 3' 56\""
+        },
+        {
+          "rank": 3,
+          "name": "Richard Carapaz",
+          "team": "EF Education–EasyPost",
+          "time": "+ 4' 43\""
+        },
+        {
+          "rank": 4,
+          "name": "Derek Gee",
+          "team": "Israel–Premier Tech",
+          "time": "+ 6' 23\""
+        },
+        {
+          "rank": 5,
+          "name": "Damiano Caruso",
+          "team": "Team Bahrain Victorious",
+          "time": "+ 7' 32\""
+        },
+        {
+          "rank": 6,
+          "name": "Giulio Pellizzari",
+          "team": "Red Bull–Bora–Hansgrohe",
+          "time": "+ 9' 28\""
+        },
+        {
+          "rank": 7,
+          "name": "Egan Bernal",
+          "team": "Ineos Grenadiers",
+          "time": "+ 12' 42\""
+        },
+        {
+          "rank": 8,
+          "name": "Einer Rubio",
+          "team": "Movistar Team",
+          "time": "+ 13' 05\""
+        },
+        {
+          "rank": 9,
+          "name": "Brandon McNulty",
+          "team": "UAE Team Emirates XRG",
+          "time": "+ 13' 36\""
+        },
+        {
+          "rank": 10,
+          "name": "Michael Storer",
+          "team": "Tudor Pro Cycling Team",
+          "time": "+ 14' 27\""
+        }
+      ]
+    },
+    {
+      "stage": 21,
+      "riders": [
+        {
+          "rank": 1,
+          "name": "Simon Yates",
+          "team": "Visma–Lease a Bike",
+          "time": "82h 31' 01\""
+        },
+        {
+          "rank": 2,
+          "name": "Isaac del Toro",
+          "team": "UAE Team Emirates XRG",
+          "time": "+ 3' 56\""
+        },
+        {
+          "rank": 3,
+          "name": "Richard Carapaz",
+          "team": "EF Education–EasyPost",
+          "time": "+ 4' 43\""
+        },
+        {
+          "rank": 4,
+          "name": "Derek Gee",
+          "team": "Israel–Premier Tech",
+          "time": "+ 6' 23\""
+        },
+        {
+          "rank": 5,
+          "name": "Damiano Caruso",
+          "team": "Team Bahrain Victorious",
+          "time": "+ 7' 32\""
+        },
+        {
+          "rank": 6,
+          "name": "Giulio Pellizzari",
+          "team": "Red Bull–Bora–Hansgrohe",
+          "time": "+ 9' 28\""
+        },
+        {
+          "rank": 7,
+          "name": "Egan Bernal",
+          "team": "Ineos Grenadiers",
+          "time": "+ 12' 42\""
+        },
+        {
+          "rank": 8,
+          "name": "Einer Rubio",
+          "team": "Movistar Team",
+          "time": "+ 13' 05\""
+        },
+        {
+          "rank": 9,
+          "name": "Brandon McNulty",
+          "team": "UAE Team Emirates XRG",
+          "time": "+ 13' 36\""
+        },
+        {
+          "rank": 10,
+          "name": "Michael Storer",
+          "team": "Tudor Pro Cycling Team",
+          "time": "+ 14' 27\""
+        }
+      ]
+    }
+  ]
+}

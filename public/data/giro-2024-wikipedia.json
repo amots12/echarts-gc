@@ -1,0 +1,1371 @@
+{
+  "race": "Giro d%27Italia",
+  "year": 2024,
+  "stages": [
+    {
+      "stage": 1,
+      "riders": [
+        {
+          "rank": 1,
+          "name": "Jhonatan Narváez",
+          "team": "Ineos Grenadiers",
+          "time": "3h 14' 23\""
+        },
+        {
+          "rank": 2,
+          "name": "Maximilian Schachmann",
+          "team": "Bora–Hansgrohe",
+          "time": "+ 3\""
+        },
+        {
+          "rank": 3,
+          "name": "Tadej Pogačar",
+          "team": "UAE Team Emirates",
+          "time": "+ 6\""
+        },
+        {
+          "rank": 4,
+          "name": "Alex Baudin",
+          "team": "Decathlon–AG2R La Mondiale",
+          "time": "+ 16\""
+        },
+        {
+          "rank": 5,
+          "name": "Damiano Caruso",
+          "team": "Team Bahrain Victorious",
+          "time": "+ 17\""
+        },
+        {
+          "rank": 6,
+          "name": "Nicola Conci",
+          "team": "Alpecin–Deceuninck",
+          "time": "+ 18\""
+        },
+        {
+          "rank": 7,
+          "name": "Quinten Hermans",
+          "team": "Alpecin–Deceuninck",
+          "time": "+ 20\""
+        },
+        {
+          "rank": 8,
+          "name": "Mauri Vansevenant",
+          "team": "Soudal–Quick-Step",
+          "time": "+ 20\""
+        },
+        {
+          "rank": 9,
+          "name": "Antonio Tiberi",
+          "team": "Team Bahrain Victorious",
+          "time": "+ 20\""
+        },
+        {
+          "rank": 10,
+          "name": "Attila Valter",
+          "team": "Visma–Lease a Bike",
+          "time": "+ 20\""
+        }
+      ]
+    },
+    {
+      "stage": 2,
+      "riders": [
+        {
+          "rank": 1,
+          "name": "Tadej Pogačar",
+          "team": "UAE Team Emirates",
+          "time": "7h 08' 29\""
+        },
+        {
+          "rank": 2,
+          "name": "Geraint Thomas",
+          "team": "Ineos Grenadiers",
+          "time": "+ 45\""
+        },
+        {
+          "rank": 3,
+          "name": "Daniel Martínez",
+          "team": "Bora–Hansgrohe",
+          "time": "+ 45\""
+        },
+        {
+          "rank": 4,
+          "name": "Cian Uijtdebroeks",
+          "team": "Visma–Lease a Bike",
+          "time": "+ 54\""
+        },
+        {
+          "rank": 5,
+          "name": "Einer Rubio",
+          "team": "Movistar Team",
+          "time": "+ 54\""
+        },
+        {
+          "rank": 6,
+          "name": "Lorenzo Fortunato",
+          "team": "Astana Qazaqstan Team",
+          "time": "+ 1' 05\""
+        },
+        {
+          "rank": 7,
+          "name": "Juan Pedro López",
+          "team": "Lidl–Trek",
+          "time": "+ 1' 09\""
+        },
+        {
+          "rank": 8,
+          "name": "Jan Hirt",
+          "team": "Soudal–Quick-Step",
+          "time": "+ 1' 11\""
+        },
+        {
+          "rank": 9,
+          "name": "Esteban Chaves",
+          "team": "EF Education–EasyPost",
+          "time": "+ 1' 24\""
+        },
+        {
+          "rank": 10,
+          "name": "Ben O'Connor",
+          "team": "Decathlon–AG2R La Mondiale",
+          "time": "+ 1' 24\""
+        }
+      ]
+    },
+    {
+      "stage": 3,
+      "riders": [
+        {
+          "rank": 1,
+          "name": "Tadej Pogačar",
+          "team": "UAE Team Emirates",
+          "time": "11h 03' 02\""
+        },
+        {
+          "rank": 2,
+          "name": "Geraint Thomas",
+          "team": "Ineos Grenadiers",
+          "time": "+ 46\""
+        },
+        {
+          "rank": 3,
+          "name": "Daniel Martínez",
+          "team": "Bora–Hansgrohe",
+          "time": "+ 47\""
+        },
+        {
+          "rank": 4,
+          "name": "Einer Rubio",
+          "team": "Movistar Team",
+          "time": "+ 56\""
+        },
+        {
+          "rank": 5,
+          "name": "Cian Uijtdebroeks",
+          "team": "Visma–Lease a Bike",
+          "time": "+ 56\""
+        },
+        {
+          "rank": 6,
+          "name": "Lorenzo Fortunato",
+          "team": "Astana Qazaqstan Team",
+          "time": "+ 1' 07\""
+        },
+        {
+          "rank": 7,
+          "name": "Juan Pedro López",
+          "team": "Lidl–Trek",
+          "time": "+ 1' 11\""
+        },
+        {
+          "rank": 8,
+          "name": "Jan Hirt",
+          "team": "Soudal–Quick-Step",
+          "time": "+ 1' 13\""
+        },
+        {
+          "rank": 9,
+          "name": "Alexey Lutsenko",
+          "team": "Astana Qazaqstan Team",
+          "time": "+ 1' 26\""
+        },
+        {
+          "rank": 10,
+          "name": "Ben O'Connor",
+          "team": "Decathlon–AG2R La Mondiale",
+          "time": "+ 1' 26\""
+        }
+      ]
+    },
+    {
+      "stage": 4,
+      "riders": [
+        {
+          "rank": 1,
+          "name": "Tadej Pogačar",
+          "team": "UAE Team Emirates",
+          "time": "15h 19' 05\""
+        },
+        {
+          "rank": 2,
+          "name": "Geraint Thomas",
+          "team": "Ineos Grenadiers",
+          "time": "+ 46\""
+        },
+        {
+          "rank": 3,
+          "name": "Daniel Martínez",
+          "team": "Bora–Hansgrohe",
+          "time": "+ 47\""
+        },
+        {
+          "rank": 4,
+          "name": "Cian Uijtdebroeks",
+          "team": "Visma–Lease a Bike",
+          "time": "+ 55\""
+        },
+        {
+          "rank": 5,
+          "name": "Einer Rubio",
+          "team": "Movistar Team",
+          "time": "+ 56\""
+        },
+        {
+          "rank": 6,
+          "name": "Lorenzo Fortunato",
+          "team": "Astana Qazaqstan Team",
+          "time": "+ 1' 07\""
+        },
+        {
+          "rank": 7,
+          "name": "Juan Pedro López",
+          "team": "Lidl–Trek",
+          "time": "+ 1' 11\""
+        },
+        {
+          "rank": 8,
+          "name": "Jan Hirt",
+          "team": "Soudal–Quick-Step",
+          "time": "+ 1' 13\""
+        },
+        {
+          "rank": 9,
+          "name": "Alexey Lutsenko",
+          "team": "Astana Qazaqstan Team",
+          "time": "+ 1' 26\""
+        },
+        {
+          "rank": 10,
+          "name": "Esteban Chaves",
+          "team": "EF Education–EasyPost",
+          "time": "+ 1' 26\""
+        }
+      ]
+    },
+    {
+      "stage": 5,
+      "riders": [
+        {
+          "rank": 1,
+          "name": "Tadej Pogačar",
+          "team": "UAE Team Emirates",
+          "time": "19h 19' 15\""
+        },
+        {
+          "rank": 2,
+          "name": "Geraint Thomas",
+          "team": "Ineos Grenadiers",
+          "time": "+ 46\""
+        },
+        {
+          "rank": 3,
+          "name": "Daniel Martínez",
+          "team": "Bora–Hansgrohe",
+          "time": "+ 47\""
+        },
+        {
+          "rank": 4,
+          "name": "Cian Uijtdebroeks",
+          "team": "Visma–Lease a Bike",
+          "time": "+ 55\""
+        },
+        {
+          "rank": 5,
+          "name": "Einer Rubio",
+          "team": "Movistar Team",
+          "time": "+ 56\""
+        },
+        {
+          "rank": 6,
+          "name": "Lorenzo Fortunato",
+          "team": "Astana Qazaqstan Team",
+          "time": "+ 1' 07\""
+        },
+        {
+          "rank": 7,
+          "name": "Juan Pedro López",
+          "team": "Lidl–Trek",
+          "time": "+ 1' 11\""
+        },
+        {
+          "rank": 8,
+          "name": "Jan Hirt",
+          "team": "Soudal–Quick-Step",
+          "time": "+ 1' 13\""
+        },
+        {
+          "rank": 9,
+          "name": "Alexey Lutsenko",
+          "team": "Astana Qazaqstan Team",
+          "time": "+ 1' 26\""
+        },
+        {
+          "rank": 10,
+          "name": "Esteban Chaves",
+          "team": "EF Education–EasyPost",
+          "time": "+ 1' 26\""
+        }
+      ]
+    },
+    {
+      "stage": 6,
+      "riders": [
+        {
+          "rank": 1,
+          "name": "Tadej Pogačar",
+          "team": "UAE Team Emirates",
+          "time": "23h 20' 52\""
+        },
+        {
+          "rank": 2,
+          "name": "Geraint Thomas",
+          "team": "Ineos Grenadiers",
+          "time": "+ 46\""
+        },
+        {
+          "rank": 3,
+          "name": "Daniel Martínez",
+          "team": "Bora–Hansgrohe",
+          "time": "+ 47\""
+        },
+        {
+          "rank": 4,
+          "name": "Cian Uijtdebroeks",
+          "team": "Visma–Lease a Bike",
+          "time": "+ 55\""
+        },
+        {
+          "rank": 5,
+          "name": "Einer Rubio",
+          "team": "Movistar Team",
+          "time": "+ 56\""
+        },
+        {
+          "rank": 6,
+          "name": "Lorenzo Fortunato",
+          "team": "Astana Qazaqstan Team",
+          "time": "+ 1' 07\""
+        },
+        {
+          "rank": 7,
+          "name": "Juan Pedro López",
+          "team": "Lidl–Trek",
+          "time": "+ 1' 11\""
+        },
+        {
+          "rank": 8,
+          "name": "Jan Hirt",
+          "team": "Soudal–Quick-Step",
+          "time": "+ 1' 13\""
+        },
+        {
+          "rank": 9,
+          "name": "Alexey Lutsenko",
+          "team": "Astana Qazaqstan Team",
+          "time": "+ 1' 26\""
+        },
+        {
+          "rank": 10,
+          "name": "Esteban Chaves",
+          "team": "EF Education–EasyPost",
+          "time": "+ 1' 26\""
+        }
+      ]
+    },
+    {
+      "stage": 7,
+      "riders": [
+        {
+          "rank": 1,
+          "name": "Tadej Pogačar",
+          "team": "UAE Team Emirates",
+          "time": "24h 12' 36\""
+        },
+        {
+          "rank": 2,
+          "name": "Daniel Martínez",
+          "team": "Bora–Hansgrohe",
+          "time": "+ 2' 36\""
+        },
+        {
+          "rank": 3,
+          "name": "Geraint Thomas",
+          "team": "Ineos Grenadiers",
+          "time": "+ 2' 46\""
+        },
+        {
+          "rank": 4,
+          "name": "Ben O'Connor",
+          "team": "Decathlon–AG2R La Mondiale",
+          "time": "+ 3' 33\""
+        },
+        {
+          "rank": 5,
+          "name": "Luke Plapp",
+          "team": "Team Jayco–AlUla",
+          "time": "+ 3' 42\""
+        },
+        {
+          "rank": 6,
+          "name": "Alexey Lutsenko",
+          "team": "Astana Qazaqstan Team",
+          "time": "+ 3' 49\""
+        },
+        {
+          "rank": 7,
+          "name": "Cian Uijtdebroeks",
+          "team": "Visma–Lease a Bike",
+          "time": "+ 3' 50\""
+        },
+        {
+          "rank": 8,
+          "name": "Antonio Tiberi",
+          "team": "Team Bahrain Victorious",
+          "time": "+ 4' 11\""
+        },
+        {
+          "rank": 9,
+          "name": "Filippo Zana",
+          "team": "Team Jayco–AlUla",
+          "time": "+ 4' 41\""
+        },
+        {
+          "rank": 10,
+          "name": "Lorenzo Fortunato",
+          "team": "Astana Qazaqstan Team",
+          "time": "+ 4' 44\""
+        }
+      ]
+    },
+    {
+      "stage": 8,
+      "riders": [
+        {
+          "rank": 1,
+          "name": "Tadej Pogačar",
+          "team": "UAE Team Emirates",
+          "time": "28h 14' 42\""
+        },
+        {
+          "rank": 2,
+          "name": "Daniel Martínez",
+          "team": "Bora–Hansgrohe",
+          "time": "+ 2' 40\""
+        },
+        {
+          "rank": 3,
+          "name": "Geraint Thomas",
+          "team": "Ineos Grenadiers",
+          "time": "+ 2' 58\""
+        },
+        {
+          "rank": 4,
+          "name": "Ben O'Connor",
+          "team": "Decathlon–AG2R La Mondiale",
+          "time": "+ 3' 39\""
+        },
+        {
+          "rank": 5,
+          "name": "Cian Uijtdebroeks",
+          "team": "Visma–Lease a Bike",
+          "time": "+ 4' 02\""
+        },
+        {
+          "rank": 6,
+          "name": "Antonio Tiberi",
+          "team": "Team Bahrain Victorious",
+          "time": "+ 4' 23\""
+        },
+        {
+          "rank": 7,
+          "name": "Lorenzo Fortunato",
+          "team": "Astana Qazaqstan Team",
+          "time": "+ 5' 15\""
+        },
+        {
+          "rank": 8,
+          "name": "Einer Rubio",
+          "team": "Movistar Team",
+          "time": "+ 5' 28\""
+        },
+        {
+          "rank": 9,
+          "name": "Thymen Arensman",
+          "team": "Ineos Grenadiers",
+          "time": "+ 5' 30\""
+        },
+        {
+          "rank": 10,
+          "name": "Jan Hirt",
+          "team": "Soudal–Quick-Step",
+          "time": "+ 5' 53\""
+        }
+      ]
+    },
+    {
+      "stage": 9,
+      "riders": [
+        {
+          "rank": 1,
+          "name": "Tadej Pogačar",
+          "team": "UAE Team Emirates",
+          "time": "32h 59' 04\""
+        },
+        {
+          "rank": 2,
+          "name": "Daniel Martínez",
+          "team": "Bora–Hansgrohe",
+          "time": "+ 2' 40\""
+        },
+        {
+          "rank": 3,
+          "name": "Geraint Thomas",
+          "team": "Ineos Grenadiers",
+          "time": "+ 2' 58\""
+        },
+        {
+          "rank": 4,
+          "name": "Ben O'Connor",
+          "team": "Decathlon–AG2R La Mondiale",
+          "time": "+ 3' 39\""
+        },
+        {
+          "rank": 5,
+          "name": "Cian Uijtdebroeks",
+          "team": "Visma–Lease a Bike",
+          "time": "+ 4' 02\""
+        },
+        {
+          "rank": 6,
+          "name": "Antonio Tiberi",
+          "team": "Team Bahrain Victorious",
+          "time": "+ 4' 23\""
+        },
+        {
+          "rank": 7,
+          "name": "Lorenzo Fortunato",
+          "team": "Astana Qazaqstan Team",
+          "time": "+ 5' 15\""
+        },
+        {
+          "rank": 8,
+          "name": "Einer Rubio",
+          "team": "Movistar Team",
+          "time": "+ 5' 28\""
+        },
+        {
+          "rank": 9,
+          "name": "Thymen Arensman",
+          "team": "Ineos Grenadiers",
+          "time": "+ 5' 30\""
+        },
+        {
+          "rank": 10,
+          "name": "Jan Hirt",
+          "team": "Soudal–Quick-Step",
+          "time": "+ 5' 53\""
+        }
+      ]
+    },
+    {
+      "stage": 10,
+      "riders": [
+        {
+          "rank": 1,
+          "name": "Tadej Pogačar",
+          "team": "UAE Team Emirates",
+          "time": "36h 46' 08\""
+        },
+        {
+          "rank": 2,
+          "name": "Daniel Martínez",
+          "team": "Bora–Hansgrohe",
+          "time": "+ 2' 40\""
+        },
+        {
+          "rank": 3,
+          "name": "Geraint Thomas",
+          "team": "Ineos Grenadiers",
+          "time": "+ 2' 58\""
+        },
+        {
+          "rank": 4,
+          "name": "Ben O'Connor",
+          "team": "Decathlon–AG2R La Mondiale",
+          "time": "+ 3' 39\""
+        },
+        {
+          "rank": 5,
+          "name": "Cian Uijtdebroeks",
+          "team": "Visma–Lease a Bike",
+          "time": "+ 4' 15\""
+        },
+        {
+          "rank": 6,
+          "name": "Antonio Tiberi",
+          "team": "Team Bahrain Victorious",
+          "time": "+ 4' 27\""
+        },
+        {
+          "rank": 7,
+          "name": "Romain Bardet",
+          "team": "Team DSM–Firmenich PostNL",
+          "time": "+ 4' 57\""
+        },
+        {
+          "rank": 8,
+          "name": "Lorenzo Fortunato",
+          "team": "Astana Qazaqstan Team",
+          "time": "+ 5' 19\""
+        },
+        {
+          "rank": 9,
+          "name": "Filippo Zana",
+          "team": "Team Jayco–AlUla",
+          "time": "+ 5' 23\""
+        },
+        {
+          "rank": 10,
+          "name": "Einer Rubio",
+          "team": "Movistar Team",
+          "time": "+ 5' 28\""
+        }
+      ]
+    },
+    {
+      "stage": 11,
+      "riders": [
+        {
+          "rank": 1,
+          "name": "Tadej Pogačar",
+          "team": "UAE Team Emirates",
+          "time": "41h 09' 26\""
+        },
+        {
+          "rank": 2,
+          "name": "Daniel Martínez",
+          "team": "Bora–Hansgrohe",
+          "time": "+ 2' 40\""
+        },
+        {
+          "rank": 3,
+          "name": "Geraint Thomas",
+          "team": "Ineos Grenadiers",
+          "time": "+ 2' 56\""
+        },
+        {
+          "rank": 4,
+          "name": "Ben O'Connor",
+          "team": "Decathlon–AG2R La Mondiale",
+          "time": "+ 3' 39\""
+        },
+        {
+          "rank": 5,
+          "name": "Antonio Tiberi",
+          "team": "Team Bahrain Victorious",
+          "time": "+ 4' 27\""
+        },
+        {
+          "rank": 6,
+          "name": "Romain Bardet",
+          "team": "Team DSM–Firmenich PostNL",
+          "time": "+ 4' 57\""
+        },
+        {
+          "rank": 7,
+          "name": "Lorenzo Fortunato",
+          "team": "Astana Qazaqstan Team",
+          "time": "+ 5' 19\""
+        },
+        {
+          "rank": 8,
+          "name": "Filippo Zana",
+          "team": "Team Jayco–AlUla",
+          "time": "+ 5' 23\""
+        },
+        {
+          "rank": 9,
+          "name": "Einer Rubio",
+          "team": "Movistar Team",
+          "time": "+ 5' 28\""
+        },
+        {
+          "rank": 10,
+          "name": "Thymen Arensman",
+          "team": "Ineos Grenadiers",
+          "time": "+ 5' 52\""
+        }
+      ]
+    },
+    {
+      "stage": 12,
+      "riders": [
+        {
+          "rank": 1,
+          "name": "Tadej Pogačar",
+          "team": "UAE Team Emirates",
+          "time": "45h 22' 35\""
+        },
+        {
+          "rank": 2,
+          "name": "Daniel Martínez",
+          "team": "Bora–Hansgrohe",
+          "time": "+ 2' 40\""
+        },
+        {
+          "rank": 3,
+          "name": "Geraint Thomas",
+          "team": "Ineos Grenadiers",
+          "time": "+ 2' 56\""
+        },
+        {
+          "rank": 4,
+          "name": "Ben O'Connor",
+          "team": "Decathlon–AG2R La Mondiale",
+          "time": "+ 3' 39\""
+        },
+        {
+          "rank": 5,
+          "name": "Antonio Tiberi",
+          "team": "Team Bahrain Victorious",
+          "time": "+ 4' 27\""
+        },
+        {
+          "rank": 6,
+          "name": "Romain Bardet",
+          "team": "Team DSM–Firmenich PostNL",
+          "time": "+ 4' 57\""
+        },
+        {
+          "rank": 7,
+          "name": "Lorenzo Fortunato",
+          "team": "Astana Qazaqstan Team",
+          "time": "+ 5' 19\""
+        },
+        {
+          "rank": 8,
+          "name": "Filippo Zana",
+          "team": "Team Jayco–AlUla",
+          "time": "+ 5' 23\""
+        },
+        {
+          "rank": 9,
+          "name": "Einer Rubio",
+          "team": "Movistar Team",
+          "time": "+ 5' 28\""
+        },
+        {
+          "rank": 10,
+          "name": "Thymen Arensman",
+          "team": "Ineos Grenadiers",
+          "time": "+ 5' 52\""
+        }
+      ]
+    },
+    {
+      "stage": 13,
+      "riders": [
+        {
+          "rank": 1,
+          "name": "Tadej Pogačar",
+          "team": "UAE Team Emirates",
+          "time": "49h 24' 38\""
+        },
+        {
+          "rank": 2,
+          "name": "Daniel Martínez",
+          "team": "Bora–Hansgrohe",
+          "time": "+ 2' 40\""
+        },
+        {
+          "rank": 3,
+          "name": "Geraint Thomas",
+          "team": "Ineos Grenadiers",
+          "time": "+ 2' 56\""
+        },
+        {
+          "rank": 4,
+          "name": "Ben O'Connor",
+          "team": "Decathlon–AG2R La Mondiale",
+          "time": "+ 3' 39\""
+        },
+        {
+          "rank": 5,
+          "name": "Antonio Tiberi",
+          "team": "Team Bahrain Victorious",
+          "time": "+ 4' 27\""
+        },
+        {
+          "rank": 6,
+          "name": "Romain Bardet",
+          "team": "Team DSM–Firmenich PostNL",
+          "time": "+ 4' 57\""
+        },
+        {
+          "rank": 7,
+          "name": "Lorenzo Fortunato",
+          "team": "Astana Qazaqstan Team",
+          "time": "+ 5' 19\""
+        },
+        {
+          "rank": 8,
+          "name": "Filippo Zana",
+          "team": "Team Jayco–AlUla",
+          "time": "+ 5' 23\""
+        },
+        {
+          "rank": 9,
+          "name": "Einer Rubio",
+          "team": "Movistar Team",
+          "time": "+ 5' 28\""
+        },
+        {
+          "rank": 10,
+          "name": "Thymen Arensman",
+          "team": "Ineos Grenadiers",
+          "time": "+ 5' 52\""
+        }
+      ]
+    },
+    {
+      "stage": 14,
+      "riders": [
+        {
+          "rank": 1,
+          "name": "Tadej Pogačar",
+          "team": "UAE Team Emirates",
+          "time": "50h 00' 09\""
+        },
+        {
+          "rank": 2,
+          "name": "Geraint Thomas",
+          "team": "Ineos Grenadiers",
+          "time": "+ 3' 41\""
+        },
+        {
+          "rank": 3,
+          "name": "Daniel Martínez",
+          "team": "Bora–Hansgrohe",
+          "time": "+ 3' 56\""
+        },
+        {
+          "rank": 4,
+          "name": "Ben O'Connor",
+          "team": "Decathlon–AG2R La Mondiale",
+          "time": "+ 4' 35\""
+        },
+        {
+          "rank": 5,
+          "name": "Antonio Tiberi",
+          "team": "Team Bahrain Victorious",
+          "time": "+ 5' 17\""
+        },
+        {
+          "rank": 6,
+          "name": "Thymen Arensman",
+          "team": "Ineos Grenadiers",
+          "time": "+ 6' 30\""
+        },
+        {
+          "rank": 7,
+          "name": "Filippo Zana",
+          "team": "Team Jayco–AlUla",
+          "time": "+ 7' 26\""
+        },
+        {
+          "rank": 8,
+          "name": "Romain Bardet",
+          "team": "Team DSM–Firmenich PostNL",
+          "time": "+ 7' 52\""
+        },
+        {
+          "rank": 9,
+          "name": "Lorenzo Fortunato",
+          "team": "Astana Qazaqstan Team",
+          "time": "+ 8' 40\""
+        },
+        {
+          "rank": 10,
+          "name": "Alex Baudin",
+          "team": "Decathlon–AG2R La Mondiale",
+          "time": "+ 8' 56\""
+        }
+      ]
+    },
+    {
+      "stage": 15,
+      "riders": [
+        {
+          "rank": 1,
+          "name": "Tadej Pogačar",
+          "team": "UAE Team Emirates",
+          "time": "56h 11' 42\""
+        },
+        {
+          "rank": 2,
+          "name": "Geraint Thomas",
+          "team": "Ineos Grenadiers",
+          "time": "+ 6' 41\""
+        },
+        {
+          "rank": 3,
+          "name": "Daniel Martínez",
+          "team": "Bora–Hansgrohe",
+          "time": "+ 6' 56\""
+        },
+        {
+          "rank": 4,
+          "name": "Ben O'Connor",
+          "team": "Decathlon–AG2R La Mondiale",
+          "time": "+ 7' 43\""
+        },
+        {
+          "rank": 5,
+          "name": "Antonio Tiberi",
+          "team": "Team Bahrain Victorious",
+          "time": "+ 9' 26\""
+        },
+        {
+          "rank": 6,
+          "name": "Thymen Arensman",
+          "team": "Ineos Grenadiers",
+          "time": "+ 9' 45\""
+        },
+        {
+          "rank": 7,
+          "name": "Romain Bardet",
+          "team": "Team DSM–Firmenich PostNL",
+          "time": "+ 10' 49\""
+        },
+        {
+          "rank": 8,
+          "name": "Filippo Zana",
+          "team": "Team Jayco–AlUla",
+          "time": "+ 11' 11\""
+        },
+        {
+          "rank": 9,
+          "name": "Einer Rubio",
+          "team": "Movistar Team",
+          "time": "+ 12' 13\""
+        },
+        {
+          "rank": 10,
+          "name": "Jan Hirt",
+          "team": "Soudal–Quick-Step",
+          "time": "+ 13' 11\""
+        }
+      ]
+    },
+    {
+      "stage": 16,
+      "riders": [
+        {
+          "rank": 1,
+          "name": "Tadej Pogačar",
+          "team": "UAE Team Emirates",
+          "time": "59h 01' 09\""
+        },
+        {
+          "rank": 2,
+          "name": "Daniel Martínez",
+          "team": "Bora–Hansgrohe",
+          "time": "+ 7' 18\""
+        },
+        {
+          "rank": 3,
+          "name": "Geraint Thomas",
+          "team": "Ineos Grenadiers",
+          "time": "+ 7' 40\""
+        },
+        {
+          "rank": 4,
+          "name": "Ben O'Connor",
+          "team": "Decathlon–AG2R La Mondiale",
+          "time": "+ 8' 42\""
+        },
+        {
+          "rank": 5,
+          "name": "Antonio Tiberi",
+          "team": "Team Bahrain Victorious",
+          "time": "+ 10' 09\""
+        },
+        {
+          "rank": 6,
+          "name": "Thymen Arensman",
+          "team": "Ineos Grenadiers",
+          "time": "+ 10' 33\""
+        },
+        {
+          "rank": 7,
+          "name": "Romain Bardet",
+          "team": "Team DSM–Firmenich PostNL",
+          "time": "+ 12' 18\""
+        },
+        {
+          "rank": 8,
+          "name": "Filippo Zana",
+          "team": "Team Jayco–AlUla",
+          "time": "+ 12' 43\""
+        },
+        {
+          "rank": 9,
+          "name": "Einer Rubio",
+          "team": "Movistar Team",
+          "time": "+ 13' 09\""
+        },
+        {
+          "rank": 10,
+          "name": "Jan Hirt",
+          "team": "Soudal–Quick-Step",
+          "time": "+ 14' 07\""
+        }
+      ]
+    },
+    {
+      "stage": 17,
+      "riders": [
+        {
+          "rank": 1,
+          "name": "Tadej Pogačar",
+          "team": "UAE Team Emirates",
+          "time": "63h 31' 18\""
+        },
+        {
+          "rank": 2,
+          "name": "Daniel Martínez",
+          "team": "Bora–Hansgrohe",
+          "time": "+ 7' 42\""
+        },
+        {
+          "rank": 3,
+          "name": "Geraint Thomas",
+          "team": "Ineos Grenadiers",
+          "time": "+ 8' 04\""
+        },
+        {
+          "rank": 4,
+          "name": "Ben O'Connor",
+          "team": "Decathlon–AG2R La Mondiale",
+          "time": "+ 9' 47\""
+        },
+        {
+          "rank": 5,
+          "name": "Antonio Tiberi",
+          "team": "Team Bahrain Victorious",
+          "time": "+ 10' 29\""
+        },
+        {
+          "rank": 6,
+          "name": "Thymen Arensman",
+          "team": "Ineos Grenadiers",
+          "time": "+ 11' 10\""
+        },
+        {
+          "rank": 7,
+          "name": "Romain Bardet",
+          "team": "Team DSM–Firmenich PostNL",
+          "time": "+ 12' 42\""
+        },
+        {
+          "rank": 8,
+          "name": "Einer Rubio",
+          "team": "Movistar Team",
+          "time": "+ 13' 33\""
+        },
+        {
+          "rank": 9,
+          "name": "Filippo Zana",
+          "team": "Team Jayco–AlUla",
+          "time": "+ 13' 52\""
+        },
+        {
+          "rank": 10,
+          "name": "Jan Hirt",
+          "team": "Soudal–Quick-Step",
+          "time": "+ 14' 44\""
+        }
+      ]
+    },
+    {
+      "stage": 18,
+      "riders": [
+        {
+          "rank": 1,
+          "name": "Tadej Pogačar",
+          "team": "UAE Team Emirates",
+          "time": "67h 17' 02\""
+        },
+        {
+          "rank": 2,
+          "name": "Daniel Martínez",
+          "team": "Bora–Hansgrohe",
+          "time": "+ 7' 42\""
+        },
+        {
+          "rank": 3,
+          "name": "Geraint Thomas",
+          "team": "Ineos Grenadiers",
+          "time": "+ 8' 04\""
+        },
+        {
+          "rank": 4,
+          "name": "Ben O'Connor",
+          "team": "Decathlon–AG2R La Mondiale",
+          "time": "+ 9' 47\""
+        },
+        {
+          "rank": 5,
+          "name": "Antonio Tiberi",
+          "team": "Team Bahrain Victorious",
+          "time": "+ 10' 29\""
+        },
+        {
+          "rank": 6,
+          "name": "Thymen Arensman",
+          "team": "Ineos Grenadiers",
+          "time": "+ 11' 10\""
+        },
+        {
+          "rank": 7,
+          "name": "Romain Bardet",
+          "team": "Team DSM–Firmenich PostNL",
+          "time": "+ 12' 42\""
+        },
+        {
+          "rank": 8,
+          "name": "Einer Rubio",
+          "team": "Movistar Team",
+          "time": "+ 13' 33\""
+        },
+        {
+          "rank": 9,
+          "name": "Filippo Zana",
+          "team": "Team Jayco–AlUla",
+          "time": "+ 13' 52\""
+        },
+        {
+          "rank": 10,
+          "name": "Jan Hirt",
+          "team": "Soudal–Quick-Step",
+          "time": "+ 14' 44\""
+        }
+      ]
+    },
+    {
+      "stage": 19,
+      "riders": [
+        {
+          "rank": 1,
+          "name": "Tadej Pogačar",
+          "team": "UAE Team Emirates",
+          "time": "71h 24' 03\""
+        },
+        {
+          "rank": 2,
+          "name": "Daniel Martínez",
+          "team": "Bora–Hansgrohe",
+          "time": "+ 7' 42\""
+        },
+        {
+          "rank": 3,
+          "name": "Geraint Thomas",
+          "team": "Ineos Grenadiers",
+          "time": "+ 8' 04\""
+        },
+        {
+          "rank": 4,
+          "name": "Ben O'Connor",
+          "team": "Decathlon–AG2R La Mondiale",
+          "time": "+ 9' 47\""
+        },
+        {
+          "rank": 5,
+          "name": "Antonio Tiberi",
+          "team": "Team Bahrain Victorious",
+          "time": "+ 10' 29\""
+        },
+        {
+          "rank": 6,
+          "name": "Thymen Arensman",
+          "team": "Ineos Grenadiers",
+          "time": "+ 11' 10\""
+        },
+        {
+          "rank": 7,
+          "name": "Romain Bardet",
+          "team": "Team DSM–Firmenich PostNL",
+          "time": "+ 12' 42\""
+        },
+        {
+          "rank": 8,
+          "name": "Einer Rubio",
+          "team": "Movistar Team",
+          "time": "+ 13' 33\""
+        },
+        {
+          "rank": 9,
+          "name": "Filippo Zana",
+          "team": "Team Jayco–AlUla",
+          "time": "+ 13' 52\""
+        },
+        {
+          "rank": 10,
+          "name": "Jan Hirt",
+          "team": "Soudal–Quick-Step",
+          "time": "+ 14' 44\""
+        }
+      ]
+    },
+    {
+      "stage": 20,
+      "riders": [
+        {
+          "rank": 1,
+          "name": "Tadej Pogačar",
+          "team": "UAE Team Emirates",
+          "time": "76h 22' 13\""
+        },
+        {
+          "rank": 2,
+          "name": "Daniel Martínez",
+          "team": "Bora–Hansgrohe",
+          "time": "+ 9' 56\""
+        },
+        {
+          "rank": 3,
+          "name": "Geraint Thomas",
+          "team": "Ineos Grenadiers",
+          "time": "+ 10' 24\""
+        },
+        {
+          "rank": 4,
+          "name": "Ben O'Connor",
+          "team": "Decathlon–AG2R La Mondiale",
+          "time": "+ 12' 07\""
+        },
+        {
+          "rank": 5,
+          "name": "Antonio Tiberi",
+          "team": "Team Bahrain Victorious",
+          "time": "+ 12' 49\""
+        },
+        {
+          "rank": 6,
+          "name": "Thymen Arensman",
+          "team": "Ineos Grenadiers",
+          "time": "+ 14' 31\""
+        },
+        {
+          "rank": 7,
+          "name": "Einer Rubio",
+          "team": "Movistar Team",
+          "time": "+ 15' 52\""
+        },
+        {
+          "rank": 8,
+          "name": "Jan Hirt",
+          "team": "Soudal–Quick-Step",
+          "time": "+ 18' 05\""
+        },
+        {
+          "rank": 9,
+          "name": "Romain Bardet",
+          "team": "Team DSM–Firmenich PostNL",
+          "time": "+ 20' 32\""
+        },
+        {
+          "rank": 10,
+          "name": "Michael Storer",
+          "team": "Tudor Pro Cycling Team",
+          "time": "+ 21' 11\""
+        }
+      ]
+    },
+    {
+      "stage": 21,
+      "riders": [
+        {
+          "rank": 1,
+          "name": "Tadej Pogačar",
+          "team": "UAE Team Emirates",
+          "time": "79h 14' 03\""
+        },
+        {
+          "rank": 2,
+          "name": "Daniel Martínez",
+          "team": "Bora–Hansgrohe",
+          "time": "+ 9' 56\""
+        },
+        {
+          "rank": 3,
+          "name": "Geraint Thomas",
+          "team": "Ineos Grenadiers",
+          "time": "+ 10' 24\""
+        },
+        {
+          "rank": 4,
+          "name": "Ben O'Connor",
+          "team": "Decathlon–AG2R La Mondiale",
+          "time": "+ 12' 07\""
+        },
+        {
+          "rank": 5,
+          "name": "Antonio Tiberi",
+          "team": "Team Bahrain Victorious",
+          "time": "+ 12' 49\""
+        },
+        {
+          "rank": 6,
+          "name": "Thymen Arensman",
+          "team": "Ineos Grenadiers",
+          "time": "+ 14' 31\""
+        },
+        {
+          "rank": 7,
+          "name": "Einer Rubio",
+          "team": "Movistar Team",
+          "time": "+ 15' 52\""
+        },
+        {
+          "rank": 8,
+          "name": "Jan Hirt",
+          "team": "Soudal–Quick-Step",
+          "time": "+ 18' 05\""
+        },
+        {
+          "rank": 9,
+          "name": "Romain Bardet",
+          "team": "Team DSM–Firmenich PostNL",
+          "time": "+ 20' 32\""
+        },
+        {
+          "rank": 10,
+          "name": "Michael Storer",
+          "team": "Tudor Pro Cycling Team",
+          "time": "+ 21' 11\""
+        }
+      ]
+    }
+  ]
+}
