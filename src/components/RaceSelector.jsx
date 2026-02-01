@@ -1,5 +1,13 @@
 // src/components/RaceSelector.jsx
 import React from "react";
+import {
+  Box,
+  Stack,
+  Typography,
+  Select,
+  MenuItem,
+  FormControl
+} from "@mui/material";
 
 const AVAILABLE_RACES = [
   { id: "tour", label: "Tour de France" }
@@ -14,31 +22,63 @@ export default function RaceSelector({
   onYearChange
 }) {
   return (
-    <div style={{ textAlign: "center", marginBottom: 16 }}>
-      <label style={{ marginRight: 8 }}>Race:</label>
-      <select
-        value={race}
-        onChange={e => onRaceChange(e.target.value)}
-        style={{ marginRight: 16 }}
+    <Box
+      sx={{
+        borderRadius: 3,
+        border: "1px solid #e5e7eb",
+        px: 3,
+        py: 2,
+        mb: 3,
+        backgroundColor: "#fff"
+      }}
+    >
+      <Stack
+        direction="row"
+        alignItems="center"
+        justifyContent="space-between"
+        spacing={2}
       >
-        {AVAILABLE_RACES.map(r => (
-          <option key={r.id} value={r.id}>
-            {r.label}
-          </option>
-        ))}
-      </select>
+        {/* Title */}
+        <Box>
+          <Typography variant="h6" fontWeight={600}>
+            Cycling GC Bar Chart Race
+          </Typography>
+          <Typography variant="body2" color="text.secondary">
+            General Classification standings across stages
+          </Typography>
+        </Box>
 
-      <label style={{ marginRight: 8 }}>Year:</label>
-      <select
-        value={year}
-        onChange={e => onYearChange(Number(e.target.value))}
-      >
-        {AVAILABLE_YEARS.map(y => (
-          <option key={y} value={y}>
-            {y}
-          </option>
-        ))}
-      </select>
-    </div>
+        {/* Selectors */}
+        <Stack direction="row" spacing={2}>
+          <FormControl size="small">
+            <Select
+              value={race}
+              onChange={e => onRaceChange(e.target.value)}
+              sx={{ borderRadius: 2, minWidth: 160 }}
+            >
+              {AVAILABLE_RACES.map(r => (
+                <MenuItem key={r.id} value={r.id}>
+                  {r.label}
+                </MenuItem>
+              ))}
+            </Select>
+          </FormControl>
+
+          <FormControl size="small">
+            <Select
+              value={year}
+              onChange={e => onYearChange(Number(e.target.value))}
+              sx={{ borderRadius: 2, minWidth: 100 }}
+            >
+              {AVAILABLE_YEARS.map(y => (
+                <MenuItem key={y} value={y}>
+                  {y}
+                </MenuItem>
+              ))}
+            </Select>
+          </FormControl>
+        </Stack>
+      </Stack>
+    </Box>
   );
 }

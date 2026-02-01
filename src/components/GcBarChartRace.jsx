@@ -1,6 +1,11 @@
 import React, { useEffect, useRef, useState } from "react";
 import ReactECharts from "echarts-for-react";
 
+import { Stack, IconButton, Tooltip } from "@mui/material";
+import PlayArrowIcon from "@mui/icons-material/PlayArrow";
+import PauseIcon from "@mui/icons-material/Pause";
+import ReplayIcon from "@mui/icons-material/Replay";
+
 /* ================= TEAM COLORS ================= */
 
 const TEAM_COLORS = {
@@ -86,8 +91,6 @@ function interpolate(stageA, stageB, t) {
     // Re-sort dynamically by gap (leader at top)
     return base.sort((a, b) => a.gap - b.gap);
     }
-/* ================= COMPONENT ================= */
-
 
 export default function GcBarChartRace({ race, year }) {
   const [stages, setStages] = useState([]);
@@ -250,11 +253,31 @@ export default function GcBarChartRace({ race, year }) {
         transition: "width 120ms linear"
         }}/>
         </div>
-      <div style={{ textAlign: "center", marginTop: 14 }}>
-        <button onClick={play}>▶ Play</button>
-        <button onClick={pause}>⏸ Pause</button>
-        <button onClick={restart}>⟲ Restart</button>
-      </div>
+        <Stack
+  direction="row"
+  spacing={2}
+  justifyContent="center"
+  alignItems="center"
+  sx={{ mt: 2 }}
+>
+  <Tooltip title="Play">
+    <IconButton onClick={play}>
+      <PlayArrowIcon />
+    </IconButton>
+  </Tooltip>
+
+  <Tooltip title="Pause">
+    <IconButton onClick={pause}>
+      <PauseIcon />
+    </IconButton>
+  </Tooltip>
+
+  <Tooltip title="Restart">
+    <IconButton onClick={restart}>
+      <ReplayIcon />
+    </IconButton>
+  </Tooltip>
+</Stack>
     </div>
   );
 }
