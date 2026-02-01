@@ -88,7 +88,8 @@ function interpolate(stageA, stageB, t) {
     }
 /* ================= COMPONENT ================= */
 
-export default function GcBarChartRace() {
+
+export default function GcBarChartRace({ race, year }) {
   const [stages, setStages] = useState([]);
   const [tick, setTick] = useState(0);
   const timerRef = useRef(null);
@@ -101,10 +102,20 @@ export default function GcBarChartRace() {
   /* ---------- LOAD DATA ---------- */
 
   useEffect(() => {
-    fetch(process.env.PUBLIC_URL + "/data/tour-2022-wikipedia.json")
-      .then(r => r.json())
-      .then(d => setStages(d.stages));
-  }, []);
+    setStages([]);
+    setTick(0);
+  
+    fetch(`${process.env.PUBLIC_URL}/data/${race}-${year}-wikipedia.json`)
+      .then(r => {
+        if (!r.ok) throw new Error("Data not found");
+        return r.json();
+      })
+      .then(d => setStages(d.stages))
+      .catch(err => {
+        console.error(err);
+        setStages([]);
+      });
+  }, [race, year]);
 
   if (!stages.length) return <div>Loading…</div>;
 

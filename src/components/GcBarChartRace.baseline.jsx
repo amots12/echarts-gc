@@ -92,6 +92,7 @@ export default function GcBarChartRace() {
   const [stages, setStages] = useState([]);
   const [tick, setTick] = useState(0);
   const timerRef = useRef(null);
+  
 
   const FRAMES = 30;
   const FRAME_MS = 120;
@@ -100,7 +101,7 @@ export default function GcBarChartRace() {
   /* ---------- LOAD DATA ---------- */
 
   useEffect(() => {
-    fetch("/data/tour-2022-wikipedia.json")
+    fetch(process.env.PUBLIC_URL + "/data/tour-2022-wikipedia.json")
       .then(r => r.json())
       .then(d => setStages(d.stages));
   }, []);
@@ -130,15 +131,15 @@ export default function GcBarChartRace() {
             stages[0],
             t
           )
-        : stageIndex < stages.length - 1
-          ? interpolate(stages[stageIndex], stages[stageIndex + 1], t)
-          : stages[stageIndex].riders
-              .slice(0, 10)
-              .sort((a, b) => a.rank - b.rank)
-              .map(r => ({
-                ...r,
-                gap: parseGap(r.time, r.rank === 1)
-              }));
+          : stageIndex < stages.length - 1
+            ? interpolate(stages[stageIndex], stages[stageIndex + 1], t)
+            : stages[stageIndex].riders
+                .slice(0, 10)
+                .map(r => ({
+                    ...r,
+                    gap: parseGap(r.time, r.rank === 1)
+                }))
+                .sort((a, b) => a.gap - b.gap);
 
   /* ---------- CHART DATA ---------- */
 
@@ -148,9 +149,10 @@ export default function GcBarChartRace() {
     value: r.gap,
     itemStyle: {
       color: getTeamColor(r.team),
-      shadowBlur: 16,
-      shadowColor: "rgba(0,0,0,0.35)",
-      shadowOffsetX: 4
+      shadowBlur: 6,
+      shadowColor: "rgba(0,0,0,0.18)",
+      shadowOffsetX: 2,
+      opacity: r.opacity ?? 1
     },
     label: {
       show: true,
@@ -169,26 +171,31 @@ export default function GcBarChartRace() {
     },
     grid: { left: 240, right: 40, top: 60, bottom: 20 },
     xAxis: { type: "value", min: 0 },
-    yAxis: { type: "category", data: categories, inverse: true },
-    series: [
-      {
-        type: "bar",
-        data: seriesData,
-        // smoother width animation
-        animationDurationUpdate: FRAME_MS * 1.6,
-        animationEasingUpdate: "cubicInOut",
-
-        // ensure initial render is also smooth
-        animationDuration: 600,
-        animationEasing: "cubicOut"
-      }
-    ]
+    //yAxis: { type: "category", data: categories, inverse: true },
+    yAxis: {
+        type: "category",
+        inverse: true,
+        data: categories,
+        animationDurationUpdate: FRAME_MS * 2,
+        animationEasingUpdate: "cubicInOut"
+      },
+      series: [
+        {
+          type: "bar",
+          data: seriesData,
+          animationDurationUpdate: FRAME_MS * 1.6,
+          animationEasingUpdate: "cubicInOut",
+          animationDuration: 600,
+          animationEasing: "cubicOut"
+        }
+      ]
   };
 
   /* ---------- CONTROLS ---------- */
 
   const maxTick =
     INTRO_FRAMES + (stages.length - 1) * FRAMES;
+    
   const play = () => {
     if (timerRef.current) return;
     timerRef.current = setInterval(() => {
@@ -212,10 +219,26 @@ export default function GcBarChartRace() {
     pause();
     setTick(0); // intro frames will play automatically
   };
+  const progress = Math.min(tick / maxTick, 1);
 
   return (
     <div style={{ maxWidth: 1100, margin: "0 auto" }}>
       <ReactECharts option={option} style={{ height: 620 }} />
+      <div style={{
+        height: 6,
+        background: "#e5e7eb",
+        borderRadius: 3,
+        overflow: "hidden",
+        margin: "12px 40px"
+        }}>
+      <div
+        style={{
+        height: "100%",
+        width: `${progress * 100}%`,
+        background: "#64748b",
+        transition: "width 120ms linear"
+        }}/>
+        </div>
       <div style={{ textAlign: "center", marginTop: 14 }}>
         <button onClick={play}>▶ Play</button>
         <button onClick={pause}>⏸ Pause</button>

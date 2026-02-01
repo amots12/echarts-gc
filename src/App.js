@@ -1,7 +1,22 @@
+// src/App.js
+import React, { useState } from "react";
+import RaceSelector from "./components/RaceSelector";
 import GcBarChartRace from "./components/GcBarChartRace";
 
-function App() {
-  return <GcBarChartRace />;
-}
+export default function App() {
+  const [race, setRace] = useState("tour");
+  const [year, setYear] = useState(2023);
 
-export default App;
+  return (
+    <div style={{ padding: 16 }}>
+      <RaceSelector
+        race={race}
+        year={year}
+        onRaceChange={setRace}
+        onYearChange={setYear}
+      />
+
+      <GcBarChartRace race={race} year={year} />
+    </div>
+  );
+}
