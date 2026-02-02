@@ -5,6 +5,7 @@ import { Stack, IconButton, Tooltip } from "@mui/material";
 import PlayArrowIcon from "@mui/icons-material/PlayArrow";
 import PauseIcon from "@mui/icons-material/Pause";
 import ReplayIcon from "@mui/icons-material/Replay";
+import { useTheme, useMediaQuery } from "@mui/material";
 
 /* ================= TEAM COLORS ================= */
 
@@ -51,20 +52,30 @@ function parseGap(timeStr, isLeader) {
 }
 
 function formatGap(seconds) {
-    if (seconds === 0) return "Leader";
-    const m = Math.floor(seconds / 60);
-    const s = Math.round(seconds % 60);
-    if (m > 0) return `${m}m ${s}s`;
-    return `${s}s`;
-  }
+  if (seconds === 0) return "Leader";
+  const m = Math.floor(seconds / 60);
+  const s = Math.round(seconds % 60);
+  if (m > 0) return `${m}m ${s}s`;
+  return `${s}s`;
+}
+
+function shortTeam(team) {
+  if (!team) return "";
+  return team
+    .replace("Team ", "")
+    .replace("–", "-")
+    .split(" ")
+    .slice(0, 2)
+    .join(" ");
+}
 
 /* ================= INTERPOLATION ================= */
 
-function interpolate(stageA, stageB, t) {
+function interpolate(stageA, stageB, t, visibleCount = 10) {
     const mapB = new Map(stageB.riders.map(r => [r.name, r]));
   
     const base = stageA.riders
-      .slice(0, 10)
+      .slice(0, visibleCount)
       .sort((a, b) => a.rank - b.rank)
       .map(rA => {
         const rB = mapB.get(rA.name);
@@ -90,9 +101,13 @@ function interpolate(stageA, stageB, t) {
   
     // Re-sort dynamically by gap (leader at top)
     return base.sort((a, b) => a.gap - b.gap);
-    }
+}
 
 export default function GcBarChartRace({ race, year }) {
+  const theme = useTheme();
+  const isMobile = useMediaQuery(theme.breakpoints.down("sm"));
+  const isTablet = useMediaQuery(theme.breakpoints.between("sm", "md"));
+  const isDesktop = useMediaQuery(theme.breakpoints.up("md"));
   const [stages, setStages] = useState([]);
   const [tick, setTick] = useState(0);
   const timerRef = useRef(null);
@@ -134,21 +149,24 @@ export default function GcBarChartRace({ race, year }) {
         ? tick / INTRO_FRAMES
         : ((tick - INTRO_FRAMES) % FRAMES) / FRAMES;
 
+        // Determine visible count based on device
+        const visibleCount = isMobile ? 5 : 10;
         const riders = isIntro
         ? interpolate(
             {
-              riders: stages[0].riders.slice(0, 10).map(r => ({
+              riders: stages[0].riders.slice(0, visibleCount).map(r => ({
                 ...r,
                 time: "0\""
               }))
             },
             stages[0],
-            t
+            t,
+            visibleCount
           )
           : stageIndex < stages.length - 1
-            ? interpolate(stages[stageIndex], stages[stageIndex + 1], t)
+            ? interpolate(stages[stageIndex], stages[stageIndex + 1], t, visibleCount)
             : stages[stageIndex].riders
-                .slice(0, 10)
+                .slice(0, visibleCount)
                 .map(r => ({
                     ...r,
                     gap: parseGap(r.time, r.rank === 1)
@@ -162,28 +180,12 @@ export default function GcBarChartRace({ race, year }) {
   const seriesData = riders.map(r => ({
     value: r.gap,
     itemStyle: {
-      color: getTeamColor(r.team),
-      shadowBlur: 6,
-      shadowColor: "rgba(0,0,0,0.18)",
-      shadowOffsetX: 2,
-      opacity: r.opacity ?? 1,
-      borderRadius: [6, 6, 6, 6]
-    },
-    label: {
-      show: true,
-      position: "right",
-      formatter:
-        r.rank === 1
-          ? `{gap|Leader}, {team|${r.team}}`
-          : `{gap|+${formatGap(r.gap)}}, {team|${r.team}}`,
-      rich: {
-        gap: {
-          fontWeight: "bold"
-        },
-        team: {
-          fontWeight: "normal"
-        }
-      }
+        color: getTeamColor(r.team),
+        opacity: 0.82,                // 👈 softer bars (desktop + mobile)
+        shadowBlur: 3,                // 👈 reduce visual noise
+        shadowColor: "rgba(0,0,0,0.12)",
+        shadowOffsetX: 1,
+        borderRadius: [6, 6, 6, 6]
     }
   }));
 
@@ -192,7 +194,12 @@ export default function GcBarChartRace({ race, year }) {
       text: `Stage ${stages[stageIndex].stage} — GC`,
       left: "center"
     },
-    grid: { left: 240, right: 40, top: 60, bottom: 20 },
+    grid: {
+      left: isMobile ? 16 : 240,
+      right: 40,
+      top: 60,
+      bottom: 20
+    },
     xAxis: {
       type: "value",
       min: 0,
@@ -206,9 +213,12 @@ export default function GcBarChartRace({ race, year }) {
       data: categories,
       animationDurationUpdate: FRAME_MS * 2,
       animationEasingUpdate: "cubicInOut",
-      axisLine: { show: false },
       axisTick: { show: false },
+      axisLine: { show: false },
+      boundaryGap: true,
       axisLabel: {
+        show: true,
+        formatter: (value, index) => (isMobile ? index + 1 : value),
         fontWeight: "bold",
         fontSize: 13,
         color: "#111827"
@@ -225,10 +235,37 @@ export default function GcBarChartRace({ race, year }) {
       {
         type: "bar",
         data: seriesData,
+        barWidth: isMobile ? 14 : 22,
         animationDurationUpdate: FRAME_MS * 1.6,
         animationEasingUpdate: "cubicInOut",
         animationDuration: 600,
-        animationEasing: "cubicOut"
+        animationEasing: "cubicOut",
+        label: {
+          show: true,
+          position: "right",
+          distance: isMobile ? 6 : 10,
+          fontSize: isMobile ? 11 : 13,
+          formatter: ({ dataIndex }) => {
+            const r = riders[dataIndex];
+            if (!r) return "";
+            if (r.rank === 1) {
+              return isMobile
+                ? `{name|${r.name}}\n{gap|Leader}`
+                : `{gap|Leader}, {team|${r.team}}`;
+            }
+            return isMobile
+              ? `{name|${r.name}}\n{gap|+${formatGap(r.gap)}}`
+              : `{gap|+${formatGap(r.gap)}}, {team|${r.team}}`;
+          },
+          rich: {
+            gap: { fontWeight: "bold" },
+            team: { fontWeight: "normal" },
+            name: {
+              fontWeight: "bold",
+              fontSize: 12
+            }
+          }
+        }
       }
     ]
   };
@@ -290,7 +327,7 @@ export default function GcBarChartRace({ race, year }) {
                 </IconButton>
             </Tooltip>
       </Stack>
-      
+
       <ReactECharts option={option} style={{ height: 620 }} />
       <div style={{
         height: 6,
