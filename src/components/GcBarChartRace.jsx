@@ -265,6 +265,32 @@ export default function GcBarChartRace({ race, year }) {
 
   return (
     <div style={{ maxWidth: 1100, margin: "0 auto" }}>
+      <Stack
+            direction="row"
+            spacing={2}
+            justifyContent="center"
+            alignItems="center"
+            sx={{ mt: 2 }}
+        >
+            <Tooltip title="Play">
+                <IconButton onClick={play}>
+                <PlayArrowIcon />
+                </IconButton>
+            </Tooltip>
+
+            <Tooltip title="Pause">
+                <IconButton onClick={pause}>
+                <PauseIcon />
+                </IconButton>
+            </Tooltip>
+
+            <Tooltip title="Restart">
+                <IconButton onClick={restart}>
+                <ReplayIcon />
+                </IconButton>
+            </Tooltip>
+      </Stack>
+      
       <ReactECharts option={option} style={{ height: 620 }} />
       <div style={{
         height: 6,
@@ -281,31 +307,7 @@ export default function GcBarChartRace({ race, year }) {
         transition: "width 120ms linear"
         }}/>
         </div>
-        <Stack
-  direction="row"
-  spacing={2}
-  justifyContent="center"
-  alignItems="center"
-  sx={{ mt: 2 }}
->
-  <Tooltip title="Play">
-    <IconButton onClick={play}>
-      <PlayArrowIcon />
-    </IconButton>
-  </Tooltip>
-
-  <Tooltip title="Pause">
-    <IconButton onClick={pause}>
-      <PauseIcon />
-    </IconButton>
-  </Tooltip>
-
-  <Tooltip title="Restart">
-    <IconButton onClick={restart}>
-      <ReplayIcon />
-    </IconButton>
-  </Tooltip>
-</Stack>
+        
     </div>
   );
 }
