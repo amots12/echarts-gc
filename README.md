@@ -1,18 +1,21 @@
-# Animate The Race — GC Animation
+# Animate the Race — Grand Tour GC Animation
 
-An interactive, animated visualization of the **General Classification (GC)** during the **2022 Tour de France**.
+🔗 **Live Demo:** https://amots12.github.io/echarts-gc
 
-▶ **Watch how the race evolves stage by stage**  
-See time gaps grow, riders change rank, and contenders drop out — all through a smooth bar chart race.
+An interactive, animated visualization of **General Classification (GC)** dynamics  
+across cycling **Grand Tours** (Tour de France, Giro d’Italia, Vuelta a España).
+
+Users select the race and year edition before playback to explore different editions and races.
 
 ---
 
 ## 🚴 What You’re Seeing
 
-- The **top 10 riders** in the General Classification
-- **Bar length** = time gap to the race leader
-- **Colors** = teams
-- **Motion** = changes in rank and performance over time
+- The **top 10 riders** in the General Classification  
+- **Bar length** = time gap to the race leader  
+- **Colors** = teams  
+- **Order** = current GC ranking  
+- A **clean initial view** before animation begins  
 
 Each frame represents a moment in the race as it unfolds from Stage 1 to the final stage.
 
@@ -20,9 +23,14 @@ Each frame represents a moment in the race as it unfolds from Stage 1 to the fin
 
 ## 🕹 How to Use
 
-- ▶ **Play** — start the animation  
-- ⏸ **Pause** — stop at any moment  
-- ⟲ **Restart** — replay from the beginning  
+1. Select a **race** (Tour, Giro, Vuelta)  
+2. Select a **year edition**  
+3. Press ▶ **Play** to start the animation  
+
+Controls:  
+- ▶ Play — start the animation  
+- ⏸ Pause — stop at any moment  
+- ⟲ Restart — replay from the beginning  
 
 A progress bar shows how far along the race you are.
 
@@ -33,9 +41,9 @@ A progress bar shows how far along the race you are.
 Cycling GC standings are usually shown as static tables.  
 This project explores a different approach:
 
-- Make **race dynamics** easier to understand
-- Show **how gaps change**, not just final results
-- Use animation to support insight, not distract from it
+- Make **race dynamics** easier to understand  
+- Show **how gaps change**, not just final results  
+- Use animation to support insight, not distract from it  
 
 The focus is clarity, calm motion, and data storytelling.
 
@@ -43,37 +51,40 @@ The focus is clarity, calm motion, and data storytelling.
 
 ## 🧠 Design Notes
 
-- Motion is intentional and restrained
-- Eliminated riders fade and drop naturally
-- The chart is the main focus — UI stays minimal
-- Inspired by data journalism and sports analytics
+- Motion is intentional and restrained  
+- Eliminated riders fade and drop naturally  
+- The chart is the main focus — UI stays minimal  
+- Inspired by data journalism and sports analytics  
+- Clean initial state with no labels until playback  
+- Selector-first flow to set context before animation  
 
 ---
 
 ## 🧪 Data Source
 
-All data is based on publicly available information from **Wikipedia**  
-
+Data is scraped from publicly available **Wikipedia** pages  
+and stored as static JSON files per race and year.
 
 ---
 
 ## 🛠 Built With
 
-- React
-- Apache ECharts
-- Static JSON data
-- No backend — runs entirely in the browser
+- React  
+- Apache ECharts  
+- Static JSON data  
+- No backend — runs entirely in the browser  
 
 ---
 
 ## 📌 Project Status
 
-- ✔ Core visualization complete
-- ✔ Stable and usable
-- 🔜 Future updates may include:
-  - More races (Giro, Vuelta)
-  - Year selection
-  - Additional visual polish
+- ✔ Core visualization complete  
+- ✔ Multi-race / multi-year support  
+- ✔ Desktop-focused, responsive-ready  
+- 🔜 Planned improvements:  
+  - Mobile-first refinements  
+  - Additional races and editions  
+  - Map-based stage context  
 
 ---
 
