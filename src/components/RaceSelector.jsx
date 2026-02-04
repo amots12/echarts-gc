@@ -23,26 +23,28 @@ export default function RaceSelector({
     <Box
       sx={{
         borderRadius: 3,
-        border: "1px solid #e5e7eb",
         px: 3,
         py: 2,
         mb: 3,
-        backgroundColor: "#fff"
+        backgroundColor: "#ffffff",
+        boxShadow: "0 4px 16px rgba(0,0,0,0.04)",
+        maxWidth: 1200,
+        mx: "auto"
       }}
     >
       <Stack
         direction="row"
         alignItems="center"
         justifyContent="space-between"
-        spacing={2}
+        spacing={3}
       >
         {/* Title */}
         <Box>
-          <Typography variant="h6" fontWeight={600}>
+          <Typography variant="h6" fontWeight={700} color="#111827">
             Cycling GC Bar Chart Race
           </Typography>
           <Typography variant="body2" color="text.secondary">
-            General Classification standings across stages
+            How the race evolves, stage by stage
           </Typography>
         </Box>
 
@@ -52,7 +54,12 @@ export default function RaceSelector({
             <Select
               value={race}
               onChange={e => onRaceChange(e.target.value)}
-              sx={{ borderRadius: 2, minWidth: 180 }}
+              sx={{
+                borderRadius: 2,
+                minWidth: 140,
+                backgroundColor: "#f9fafb",
+                "& fieldset": { border: "none" }
+              }}
             >
               {raceOptions.map(([id, cfg]) => (
                 <MenuItem key={id} value={id}>
@@ -66,7 +73,12 @@ export default function RaceSelector({
             <Select
               value={year}
               onChange={e => onYearChange(Number(e.target.value))}
-              sx={{ borderRadius: 2, minWidth: 110 }}
+              sx={{
+                borderRadius: 2,
+                minWidth: 90,
+                backgroundColor: "#f9fafb",
+                "& fieldset": { border: "none" }
+              }}
             >
               {yearOptions.map(y => (
                 <MenuItem key={y} value={y}>
