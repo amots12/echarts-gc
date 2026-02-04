@@ -5,7 +5,6 @@ import { Stack, IconButton, Tooltip } from "@mui/material";
 import PlayArrowIcon from "@mui/icons-material/PlayArrow";
 import PauseIcon from "@mui/icons-material/Pause";
 import ReplayIcon from "@mui/icons-material/Replay";
-import { useTheme, useMediaQuery } from "@mui/material";
 
 /* ================= TEAM COLORS ================= */
 
@@ -35,7 +34,7 @@ function getTeamColor(team) {
   return FALLBACK_COLORS[h % FALLBACK_COLORS.length];
 }
 
-/* ================= TIME PARSER ================= */
+/* ================= TIME ================= */
 
 function parseGap(timeStr, isLeader) {
   if (isLeader) return 0;
@@ -55,63 +54,39 @@ function formatGap(seconds) {
   if (seconds === 0) return "Leader";
   const m = Math.floor(seconds / 60);
   const s = Math.round(seconds % 60);
-  if (m > 0) return `${m}m ${s}s`;
-  return `${s}s`;
-}
-
-function shortTeam(team) {
-  if (!team) return "";
-  return team
-    .replace("Team ", "")
-    .replace("–", "-")
-    .split(" ")
-    .slice(0, 2)
-    .join(" ");
+  return m > 0 ? `${m}m ${s}s` : `${s}s`;
 }
 
 /* ================= INTERPOLATION ================= */
 
-function interpolate(stageA, stageB, t, visibleCount = 10) {
-    const mapB = new Map(stageB.riders.map(r => [r.name, r]));
-  
-    const base = stageA.riders
-      .slice(0, visibleCount)
-      .sort((a, b) => a.rank - b.rank)
-      .map(rA => {
-        const rB = mapB.get(rA.name);
-  
-        const gapA = parseGap(rA.time, rA.rank === 1);
-  
-        // Rider still exists → normal interpolation
-        if (rB) {
-          const gapB = parseGap(rB.time, rB.rank === 1);
-          return {
-            ...rA,
-            gap: gapA + (gapB - gapA) * t
-          };
-        }
-  
-        // Rider eliminated → gradually increase gap
-        const ELIMINATION_PENALTY = 30; // seconds
-        return {
-          ...rA,
-          gap: gapA + ELIMINATION_PENALTY * t
-        };
-      });
-  
-    // Re-sort dynamically by gap (leader at top)
-    return base.sort((a, b) => a.gap - b.gap);
+function interpolate(stageA, stageB, t) {
+  const mapB = new Map(stageB.riders.map(r => [r.name, r]));
+
+  const base = stageA.riders
+    .slice(0, 10)
+    .sort((a, b) => a.rank - b.rank)
+    .map(rA => {
+      const rB = mapB.get(rA.name);
+      const gapA = parseGap(rA.time, rA.rank === 1);
+
+      if (rB) {
+        const gapB = parseGap(rB.time, rB.rank === 1);
+        return { ...rA, gap: gapA + (gapB - gapA) * t };
+      }
+
+      // eliminated rider → drift down
+      return { ...rA, gap: gapA + 30 * t };
+    });
+
+  return base.sort((a, b) => a.gap - b.gap);
 }
 
+/* ================= COMPONENT ================= */
+
 export default function GcBarChartRace({ race, year }) {
-  const theme = useTheme();
-  const isMobile = useMediaQuery(theme.breakpoints.down("sm"));
-  const isTablet = useMediaQuery(theme.breakpoints.between("sm", "md"));
-  const isDesktop = useMediaQuery(theme.breakpoints.up("md"));
   const [stages, setStages] = useState([]);
   const [tick, setTick] = useState(0);
   const timerRef = useRef(null);
-  
 
   const FRAMES = 30;
   const FRAME_MS = 120;
@@ -122,17 +97,11 @@ export default function GcBarChartRace({ race, year }) {
   useEffect(() => {
     setStages([]);
     setTick(0);
-  
+
     fetch(`${process.env.PUBLIC_URL}/data/${race}-${year}-wikipedia.json`)
-      .then(r => {
-        if (!r.ok) throw new Error("Data not found");
-        return r.json();
-      })
+      .then(r => r.json())
       .then(d => setStages(d.stages))
-      .catch(err => {
-        console.error(err);
-        setStages([]);
-      });
+      .catch(console.error);
   }, [race, year]);
 
   if (!stages.length) return <div>Loading…</div>;
@@ -141,151 +110,103 @@ export default function GcBarChartRace({ race, year }) {
   const stageIndex = isIntro
     ? 0
     : Math.min(
-      Math.floor((tick - INTRO_FRAMES) / FRAMES),
-      stages.length - 1
-    );
+        Math.floor((tick - INTRO_FRAMES) / FRAMES),
+        stages.length - 1
+      );
 
-    const t = isIntro
-        ? tick / INTRO_FRAMES
-        : ((tick - INTRO_FRAMES) % FRAMES) / FRAMES;
+  const t = isIntro
+    ? tick / INTRO_FRAMES
+    : ((tick - INTRO_FRAMES) % FRAMES) / FRAMES;
 
-        // Determine visible count based on device
-        const visibleCount = isMobile ? 5 : 10;
-        const riders = isIntro
-        ? interpolate(
-            {
-              riders: stages[0].riders.slice(0, visibleCount).map(r => ({
-                ...r,
-                time: "0\""
-              }))
-            },
-            stages[0],
-            t,
-            visibleCount
-          )
-          : stageIndex < stages.length - 1
-            ? interpolate(stages[stageIndex], stages[stageIndex + 1], t, visibleCount)
-            : stages[stageIndex].riders
-                .slice(0, visibleCount)
-                .map(r => ({
-                    ...r,
-                    gap: parseGap(r.time, r.rank === 1)
-                }))
-                .sort((a, b) => a.gap - b.gap);
+  const riders =
+    isIntro
+      ? interpolate(
+          {
+            riders: stages[0].riders.slice(0, 10).map(r => ({
+              ...r,
+              time: "0\""
+            }))
+          },
+          stages[0],
+          t
+        )
+      : stageIndex < stages.length - 1
+        ? interpolate(stages[stageIndex], stages[stageIndex + 1], t)
+        : stages[stageIndex].riders
+            .slice(0, 10)
+            .map(r => ({
+              ...r,
+              gap: parseGap(r.time, r.rank === 1)
+            }))
+            .sort((a, b) => a.gap - b.gap);
 
-  /* ---------- CHART DATA ---------- */
-
-  const categories = riders.map(r => r.name);
-
-  const seriesData = riders.map(r => ({
-    value: r.gap,
-    itemStyle: {
-        color: getTeamColor(r.team),
-        opacity: 0.82,                // 👈 softer bars (desktop + mobile)
-        shadowBlur: 3,                // 👈 reduce visual noise
-        shadowColor: "rgba(0,0,0,0.12)",
-        shadowOffsetX: 1,
-        borderRadius: [6, 6, 6, 6]
-    }
-  }));
+  /* ---------- CHART ---------- */
 
   const option = {
     title: {
       text: `Stage ${stages[stageIndex].stage} — GC`,
       left: "center"
     },
-    grid: {
-      left: isMobile ? 16 : 240,
-      right: 40,
-      top: 60,
-      bottom: 20
-    },
+    grid: { left: 240, right: 220, top: 60, bottom: 20 },
     xAxis: {
       type: "value",
       min: 0,
-      splitLine: { show: false },
-      axisLine: { show: false },
-      axisTick: { show: false }
+      splitLine: { show: false }
     },
     yAxis: {
       type: "category",
       inverse: true,
-      data: categories,
-      animationDurationUpdate: FRAME_MS * 2,
-      animationEasingUpdate: "cubicInOut",
+      data: riders.map((_, i) => i + 1),
+        axisLabel: {
+            fontWeight: "bold",
+            fontSize: 13,
+            color: "#111827"
+        },
       axisTick: { show: false },
-      axisLine: { show: false },
-      boundaryGap: true,
-      axisLabel: {
-        show: true,
-        formatter: (value, index) => (isMobile ? index + 1 : value),
-        fontWeight: "bold",
-        fontSize: 13,
-        color: "#111827"
-      },
-      splitLine: {
-        show: true,
-        lineStyle: {
-          color: "rgba(0,0,0,0.14)",
-          width: 1
-        }
-      }
+      axisLine: { show: false }
     },
     series: [
       {
         type: "bar",
-        data: seriesData,
-        barWidth: isMobile ? 14 : 22,
-        animationDurationUpdate: FRAME_MS * 1.6,
-        animationEasingUpdate: "cubicInOut",
-        animationDuration: 600,
-        animationEasing: "cubicOut",
+        barWidth: 32,
+        data: riders.map(r => ({
+          value: r.gap,
+          itemStyle: {
+            color: getTeamColor(r.team),
+            opacity: 0.85,
+            borderRadius: 6
+          }
+        })),
         label: {
           show: true,
           position: "right",
-          distance: isMobile ? 6 : 10,
-          fontSize: isMobile ? 11 : 13,
           formatter: ({ dataIndex }) => {
             const r = riders[dataIndex];
             if (!r) return "";
+          
             if (r.rank === 1) {
-              return isMobile
-                ? `{name|${r.name}}\n{gap|Leader}`
-                : `{gap|Leader}, {team|${r.team}}`;
+              return `${r.name} — Leader (${r.team})`;
             }
-            return isMobile
-              ? `{name|${r.name}}\n{gap|+${formatGap(r.gap)}}`
-              : `{gap|+${formatGap(r.gap)}}, {team|${r.team}}`;
+          
+            return `${r.name}, +${formatGap(r.gap)}, ${r.team}`;
           },
-          rich: {
-            gap: { fontWeight: "bold" },
-            team: { fontWeight: "normal" },
-            name: {
-              fontWeight: "bold",
-              fontSize: 12
-            }
-          }
-        }
+          fontSize: 13,
+          fontWeight: "bold"
+        },
+        animationDurationUpdate: FRAME_MS * 1.6,
+        animationEasingUpdate: "cubicInOut"
       }
     ]
   };
 
   /* ---------- CONTROLS ---------- */
 
-  const maxTick =
-    INTRO_FRAMES + (stages.length - 1) * FRAMES;
-    
+  const maxTick = INTRO_FRAMES + (stages.length - 1) * FRAMES;
+
   const play = () => {
     if (timerRef.current) return;
     timerRef.current = setInterval(() => {
-      setTick(t => {
-        if (t >= maxTick) {
-          clearInterval(timerRef.current);
-          timerRef.current = null;
-          return t;
-        }
-        return t + 1;
-      });
+      setTick(t => (t >= maxTick ? t : t + 1));
     }, FRAME_MS);
   };
 
@@ -296,55 +217,18 @@ export default function GcBarChartRace({ race, year }) {
 
   const restart = () => {
     pause();
-    setTick(0); // intro frames will play automatically
+    setTick(0);
   };
-  const progress = Math.min(tick / maxTick, 1);
 
   return (
-    <div style={{ maxWidth: 1100, margin: "0 auto" }}>
-      <Stack
-            direction="row"
-            spacing={2}
-            justifyContent="center"
-            alignItems="center"
-            sx={{ mt: 2 }}
-        >
-            <Tooltip title="Play">
-                <IconButton onClick={play}>
-                <PlayArrowIcon />
-                </IconButton>
-            </Tooltip>
-
-            <Tooltip title="Pause">
-                <IconButton onClick={pause}>
-                <PauseIcon />
-                </IconButton>
-            </Tooltip>
-
-            <Tooltip title="Restart">
-                <IconButton onClick={restart}>
-                <ReplayIcon />
-                </IconButton>
-            </Tooltip>
+    <div style={{ maxWidth: 1300, margin: "0 auto" }}>
+      <Stack direction="row" spacing={2} justifyContent="center" sx={{ mt: 2 }}>
+        <Tooltip title="Play"><IconButton onClick={play}><PlayArrowIcon /></IconButton></Tooltip>
+        <Tooltip title="Pause"><IconButton onClick={pause}><PauseIcon /></IconButton></Tooltip>
+        <Tooltip title="Restart"><IconButton onClick={restart}><ReplayIcon /></IconButton></Tooltip>
       </Stack>
 
       <ReactECharts option={option} style={{ height: 620 }} />
-      <div style={{
-        height: 6,
-        background: "#e5e7eb",
-        borderRadius: 3,
-        overflow: "hidden",
-        margin: "12px 40px"
-        }}>
-      <div
-        style={{
-        height: "100%",
-        width: `${progress * 100}%`,
-        background: "#64748b",
-        transition: "width 120ms linear"
-        }}/>
-        </div>
-        
     </div>
   );
 }
