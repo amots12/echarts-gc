@@ -1,0 +1,220 @@
+{
+    "race": "tour",
+    "year": 2021,
+    "teams": [
+      { "name": "AG2R Citroën Team", "uci_code": null, "country": null },
+      { "name": "Astana–Premier Tech", "uci_code": null, "country": null },
+      { "name": "Bora–Hansgrohe", "uci_code": null, "country": null },
+      { "name": "Cofidis", "uci_code": null, "country": null },
+      { "name": "Deceuninck–Quick-Step", "uci_code": null, "country": null },
+      { "name": "EF Education–Nippo", "uci_code": null, "country": null },
+      { "name": "Groupama–FDJ", "uci_code": null, "country": null },
+      { "name": "Ineos Grenadiers", "uci_code": null, "country": null },
+      { "name": "Intermarché–Wanty–Gobert Matériaux", "uci_code": null, "country": null },
+      { "name": "Israel Start-Up Nation", "uci_code": null, "country": null },
+      { "name": "Lotto–Soudal", "uci_code": null, "country": null },
+      { "name": "Movistar Team", "uci_code": null, "country": null },
+      { "name": "Team Bahrain Victorious", "uci_code": null, "country": null },
+      { "name": "Team BikeExchange", "uci_code": null, "country": null },
+      { "name": "Team DSM", "uci_code": null, "country": null },
+      { "name": "Team Jumbo–Visma", "uci_code": null, "country": null },
+      { "name": "Team Qhubeka NextHash", "uci_code": null, "country": null },
+      { "name": "Trek–Segafredo", "uci_code": null, "country": null },
+      { "name": "UAE Team Emirates", "uci_code": null, "country": null },
+      { "name": "Alpecin–Fenix", "uci_code": null, "country": null },
+      { "name": "Arkéa–Samsic", "uci_code": null, "country": null },
+      { "name": "B&B Hotels p/b KTM", "uci_code": null, "country": null },
+      { "name": "Team TotalEnergies", "uci_code": null, "country": null }
+    ],
+    "stages": [
+      {
+        "stage": 1,
+        "date": "2021-06-26",
+        "distance_km": 197.8,
+        "accumulated_km": 197.8,
+        "elevation_gain_m": null,
+        "start": { "town": "Brest", "lat": 48.3904, "lon": -4.4861 },
+        "finish": { "town": "Landerneau", "lat": 48.4515, "lon": -4.2516 }
+      },
+      {
+        "stage": 2,
+        "date": "2021-06-27",
+        "distance_km": 183.5,
+        "accumulated_km": 381.3,
+        "elevation_gain_m": null,
+        "start": { "town": "Perros-Guirec", "lat": 48.8146, "lon": -3.4446 },
+        "finish": { "town": "Mûr-de-Bretagne", "lat": 48.2014, "lon": -2.9894 }
+      },
+      {
+        "stage": 3,
+        "date": "2021-06-28",
+        "distance_km": 182.9,
+        "accumulated_km": 564.2,
+        "elevation_gain_m": null,
+        "start": { "town": "Lorient", "lat": 47.7480, "lon": -3.3661 },
+        "finish": { "town": "Pontivy", "lat": 48.0667, "lon": -2.9667 }
+      },
+      {
+        "stage": 4,
+        "date": "2021-06-29",
+        "distance_km": 150.4,
+        "accumulated_km": 714.6,
+        "elevation_gain_m": null,
+        "start": { "town": "Redon", "lat": 47.6519, "lon": -2.0874 },
+        "finish": { "town": "Fougères", "lat": 48.3515, "lon": -1.1997 }
+      },
+      {
+        "stage": 5,
+        "date": "2021-06-30",
+        "distance_km": 27.2,
+        "accumulated_km": 741.8,
+        "elevation_gain_m": null,
+        "start": { "town": "Changé", "lat": 48.0992, "lon": -0.7763 },
+        "finish": { "town": "Laval", "lat": 48.0707, "lon": -0.7731 }
+      },
+      {
+        "stage": 6,
+        "date": "2021-07-01",
+        "distance_km": 160.6,
+        "accumulated_km": 902.4,
+        "elevation_gain_m": null,
+        "start": { "town": "Tours", "lat": 47.3941, "lon": 0.6848 },
+        "finish": { "town": "Châteauroux", "lat": 46.8103, "lon": 1.6910 }
+      },
+      {
+        "stage": 7,
+        "date": "2021-07-02",
+        "distance_km": 249.1,
+        "accumulated_km": 1151.5,
+        "elevation_gain_m": null,
+        "start": { "town": "Vierzon", "lat": 47.2229, "lon": 2.0683 },
+        "finish": { "town": "Le Creusot", "lat": 46.8070, "lon": 4.4284 }
+      },
+      {
+        "stage": 8,
+        "date": "2021-07-03",
+        "distance_km": 150.8,
+        "accumulated_km": 1302.3,
+        "elevation_gain_m": null,
+        "start": { "town": "Oyonnax", "lat": 46.2583, "lon": 5.6576 },
+        "finish": { "town": "Le Grand-Bornand", "lat": 45.9411, "lon": 6.4278 }
+      },
+      {
+        "stage": 9,
+        "date": "2021-07-04",
+        "distance_km": 144.9,
+        "accumulated_km": 1447.2,
+        "elevation_gain_m": null,
+        "start": { "town": "Cluses", "lat": 46.0624, "lon": 6.5746 },
+        "finish": { "town": "Tignes", "lat": 45.4697, "lon": 6.9097 }
+      },
+      {
+        "stage": 10,
+        "date": "2021-07-06",
+        "distance_km": 190.7,
+        "accumulated_km": 1637.9,
+        "elevation_gain_m": null,
+        "start": { "town": "Albertville", "lat": 45.6753, "lon": 6.3926 },
+        "finish": { "town": "Valence", "lat": 44.9334, "lon": 4.8924 }
+      },
+      {
+        "stage": 11,
+        "date": "2021-07-07",
+        "distance_km": 198.9,
+        "accumulated_km": 1836.8,
+        "elevation_gain_m": null,
+        "start": { "town": "Sorgues", "lat": 44.0103, "lon": 4.8731 },
+        "finish": { "town": "Malaucène", "lat": 44.1757, "lon": 5.1310 }
+      },
+      {
+        "stage": 12,
+        "date": "2021-07-08",
+        "distance_km": 159.4,
+        "accumulated_km": 1996.2,
+        "elevation_gain_m": null,
+        "start": { "town": "Saint-Paul-Trois-Châteaux", "lat": 44.3487, "lon": 4.7637 },
+        "finish": { "town": "Nîmes", "lat": 43.8367, "lon": 4.3601 }
+      },
+      {
+        "stage": 13,
+        "date": "2021-07-09",
+        "distance_km": 219.9,
+        "accumulated_km": 2216.1,
+        "elevation_gain_m": null,
+        "start": { "town": "Nîmes", "lat": 43.8367, "lon": 4.3601 },
+        "finish": { "town": "Carcassonne", "lat": 43.2130, "lon": 2.3491 }
+      },
+      {
+        "stage": 14,
+        "date": "2021-07-10",
+        "distance_km": 183.7,
+        "accumulated_km": 2399.8,
+        "elevation_gain_m": null,
+        "start": { "town": "Carcassonne", "lat": 43.2130, "lon": 2.3491 },
+        "finish": { "town": "Quillan", "lat": 42.8756, "lon": 2.1814 }
+      },
+      {
+        "stage": 15,
+        "date": "2021-07-11",
+        "distance_km": 191.3,
+        "accumulated_km": 2591.1,
+        "elevation_gain_m": null,
+        "start": { "town": "Céret", "lat": 42.4860, "lon": 2.7487 },
+        "finish": { "town": "Andorra la Vella", "lat": 42.5078, "lon": 1.5211 }
+      },
+      {
+        "stage": 16,
+        "date": "2021-07-13",
+        "distance_km": 169.0,
+        "accumulated_km": 2760.1,
+        "elevation_gain_m": null,
+        "start": { "town": "El Pas de la Casa", "lat": 42.5425, "lon": 1.7336 },
+        "finish": { "town": "Saint-Gaudens", "lat": 43.1086, "lon": 0.7246 }
+      },
+      {
+        "stage": 17,
+        "date": "2021-07-14",
+        "distance_km": 178.4,
+        "accumulated_km": 2938.5,
+        "elevation_gain_m": null,
+        "start": { "town": "Muret", "lat": 43.4616, "lon": 1.3256 },
+        "finish": { "town": "Saint-Lary-Soulan", "lat": 42.8186, "lon": 0.3246 }
+      },
+      {
+        "stage": 18,
+        "date": "2021-07-15",
+        "distance_km": 129.7,
+        "accumulated_km": 3068.2,
+        "elevation_gain_m": null,
+        "start": { "town": "Pau", "lat": 43.2951, "lon": -0.3708 },
+        "finish": { "town": "Luz Ardiden", "lat": 42.8683, "lon": -0.0194 }
+      },
+      {
+        "stage": 19,
+        "date": "2021-07-16",
+        "distance_km": 207.0,
+        "accumulated_km": 3275.2,
+        "elevation_gain_m": null,
+        "start": { "town": "Mourenx", "lat": 43.3652, "lon": -0.6267 },
+        "finish": { "town": "Libourne", "lat": 44.9141, "lon": -0.2410 }
+      },
+      {
+        "stage": 20,
+        "date": "2021-07-17",
+        "distance_km": 30.8,
+        "accumulated_km": 3306.0,
+        "elevation_gain_m": null,
+        "start": { "town": "Libourne", "lat": 44.9141, "lon": -0.2410 },
+        "finish": { "town": "Saint-Émilion", "lat": 44.8940, "lon": -0.1550 }
+      },
+      {
+        "stage": 21,
+        "date": "2021-07-18",
+        "distance_km": 108.4,
+        "accumulated_km": 3414.4,
+        "elevation_gain_m": null,
+        "start": { "town": "Chatou", "lat": 48.8895, "lon": 2.1583 },
+        "finish": { "town": "Paris", "lat": 48.8566, "lon": 2.3522 }
+      }
+    ]
+  }

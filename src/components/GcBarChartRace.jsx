@@ -92,6 +92,7 @@ export default function GcBarChartRace({ race, year }) {
   const [stages, setStages] = useState([]);
   const [tick, setTick] = useState(0);
   const timerRef = useRef(null);
+  const [stageMeta, setStageMeta] = useState([]);
 
   const FRAMES = 30;
   const FRAME_MS = 120;
@@ -109,9 +110,27 @@ export default function GcBarChartRace({ race, year }) {
       .catch(console.error);
   }, [race, year]);
 
+  useEffect(() => {
+    fetch(
+      `${process.env.PUBLIC_URL}/data/stages/${race}-${year}-stages.json`
+    )
+      .then(r => r.json())
+      .then(d => setStageMeta(d.stages))
+      .catch(err => {
+        console.warn("No stage metadata found", err);
+        setStageMeta([]);
+      });
+  }, [race, year]);
+
   if (!stages.length) return <div>Loading…</div>;
 
   const isIntro = tick < INTRO_FRAMES;
+
+  const t = isIntro
+
+  ? tick / INTRO_FRAMES
+  : ((tick - INTRO_FRAMES) % FRAMES) / FRAMES;
+  
   const stageIndex = isIntro
     ? 0
     : Math.min(
@@ -119,9 +138,38 @@ export default function GcBarChartRace({ race, year }) {
         stages.length - 1
       );
 
-  const t = isIntro
-    ? tick / INTRO_FRAMES
-    : ((tick - INTRO_FRAMES) % FRAMES) / FRAMES;
+    const currentStageNumber = stages[stageIndex]?.stage;
+
+    const currentStageMeta =
+        stageMeta.find(m => m.stage === currentStageNumber) || null;
+    
+    // --- Smooth accumulated km (including Stage 1 from 0) ---
+
+    let smoothKm = null;
+
+    if (stageMeta.length && currentStageMeta) {
+    const prevMeta =
+        stageIndex === 0
+        ? { accumulated_km: 0 }
+        : stageMeta[stageIndex - 1];
+
+    const prevKm =
+        typeof prevMeta?.accumulated_km === "number"
+        ? prevMeta.accumulated_km
+        : 0;
+
+    const currKm =
+        typeof currentStageMeta.accumulated_km === "number"
+        ? currentStageMeta.accumulated_km
+        : prevKm;
+
+    smoothKm = prevKm + (currKm - prevKm) * t;
+        }
+  const weekday = currentStageMeta?.date
+  ? new Date(currentStageMeta.date).toLocaleDateString("en-US", {
+      weekday: "long"
+    })
+  : null;
 
   const riders =
     isIntro
@@ -151,15 +199,24 @@ export default function GcBarChartRace({ race, year }) {
 
   const option = {
     title: {
-      text: `Stage ${stages[stageIndex].stage} — Top 10 General Classification`,
-      left: "center",
-      top: 16,
-      textStyle: {
-        fontSize: 20,
-        fontWeight: 600,
-        color: "#111827"
+        text: currentStageMeta
+          ? `Stage ${stages[stageIndex].stage} — ${currentStageMeta.date} (${weekday})`
+          : `Stage ${stages[stageIndex].stage}`,
+        subtext: smoothKm !== null
+          ? `Total distance: ${smoothKm.toFixed(0)} km`
+          : "",
+        left: "center",
+        top: 12,
+        textStyle: {
+          fontSize: 20,
+          fontWeight: 600,
+          color: "#111827"
+        },
+        subtextStyle: {
+          fontSize: 13,
+          color: "#6b7280"
         }
-    },
+      },
     grid: { left: 240, right: 220, top: 60, bottom: 20 },
     xAxis: {
       type: "value",
