@@ -88,7 +88,7 @@ function interpolate(stageA, stageB, t) {
 
 /* ================= COMPONENT ================= */
 
-export default function GcBarChartRace({ race, year }) {
+export default function GcBarChartRace({ race, year, onStageChange }) {
   const [stages, setStages] = useState([]);
   const [tick, setTick] = useState(0);
   const timerRef = useRef(null);
@@ -122,21 +122,29 @@ export default function GcBarChartRace({ race, year }) {
       });
   }, [race, year]);
 
-  if (!stages.length) return <div>Loading…</div>;
-
   const isIntro = tick < INTRO_FRAMES;
 
-  const t = isIntro
-
-  ? tick / INTRO_FRAMES
-  : ((tick - INTRO_FRAMES) % FRAMES) / FRAMES;
-  
-  const stageIndex = isIntro
+  const stageIndex = !stages.length
     ? 0
-    : Math.min(
-        Math.floor((tick - INTRO_FRAMES) / FRAMES),
-        stages.length - 1
-      );
+    : isIntro
+      ? 0
+      : Math.min(
+          Math.floor((tick - INTRO_FRAMES) / FRAMES),
+          stages.length - 1
+        );
+
+  const t = isIntro
+    ? tick / INTRO_FRAMES
+    : ((tick - INTRO_FRAMES) % FRAMES) / FRAMES;
+
+  // 🔁 Sync current stage with parent (RaceMap)
+  useEffect(() => {
+    if (typeof onStageChange === "function") {
+      onStageChange(stageIndex);
+    }
+  }, [stageIndex, onStageChange]);
+
+  if (!stages.length) return <div>Loading…</div>;
 
     const currentStageNumber = stages[stageIndex]?.stage;
 
@@ -170,6 +178,8 @@ export default function GcBarChartRace({ race, year }) {
       weekday: "long"
     })
   : null;
+
+  
 
   const riders =
     isIntro
