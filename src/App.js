@@ -26,6 +26,62 @@ const AVAILABLE_RACES = {
   }
 };
 
+const styles = {
+  page: {
+    height: "100vh",
+    display: "grid",
+    gridTemplateRows: "auto auto 1fr",
+    overflow: "hidden",
+    background: "#f9fafb"
+  },
+
+  selector: {
+    padding: "12px 24px",
+    borderBottom: "1px solid #e5e7eb"
+  },
+
+  explanation: {
+    padding: "12px 24px",
+    borderBottom: "1px solid #e5e7eb"
+  },
+
+  explanationBox: {
+    fontSize: "14px",
+    color: "#374151"
+  },
+
+  dashboard: {
+    display: "grid",
+    gridTemplateColumns: "1fr 1.2fr",
+    gap: "16px",
+    padding: "16px",
+    overflow: "hidden",
+    minHeight: 0
+  },
+
+  mapContainer: {
+    background: "#ffffff",
+    borderRadius: "8px",
+    padding: "8px",
+    boxShadow: "0 1px 3px rgba(0,0,0,0.05)",
+    minHeight: 0,
+    overflow: "hidden",
+    display: "flex",
+    flexDirection: "column"
+  },
+
+  chartContainer: {
+    background: "#ffffff",
+    borderRadius: "8px",
+    padding: "8px",
+    boxShadow: "0 1px 3px rgba(0,0,0,0.05)",
+    minHeight: 0,
+    overflow: "hidden",
+    display: "flex",
+    flexDirection: "column"
+  }
+};
+
 export default function App() {
   const [race, setRace] = useState("tour");
   const [year, setYear] = useState(2021);
@@ -53,7 +109,8 @@ export default function App() {
   };
 
   return (
-    <div style={{ padding: 16 }}>
+  <div style={styles.page}>
+    <div style={styles.selector}>
       <RaceSelector
         race={race}
         year={year}
@@ -61,14 +118,33 @@ export default function App() {
         onRaceChange={handleRaceChange}
         onYearChange={setYear}
       />
-      <RaceMap
-        race={race}
-        year={year}
-        stageIndex={stageIndex}
-      />
-
-      <GcBarChartRace race={race} year={year} onStageChange={setStageIndex}/>
-
     </div>
-  );
+
+    <div style={styles.explanation}>
+      <div style={styles.explanationBox}>
+        This visualization shows the evolution of General Classification
+        standings over race stages. Bars represent time gap to the leader.
+        The map shows the stage finishing location.
+      </div>
+    </div>
+
+    <div style={styles.dashboard}>
+      <div style={styles.mapContainer}>
+        <RaceMap
+          race={race}
+          year={year}
+          stageIndex={stageIndex}
+        />
+      </div>
+
+      <div style={styles.chartContainer}>
+        <GcBarChartRace
+          race={race}
+          year={year}
+          onStageChange={setStageIndex}
+        />
+      </div>
+    </div>
+  </div>
+);
 }

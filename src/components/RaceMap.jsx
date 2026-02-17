@@ -127,11 +127,13 @@ if (
   };
 
   return (
-    <ReactECharts
-      option={option}
-      style={{ height: 360, width: "100%" }}
-      notMerge
-      lazyUpdate
-    />
+    <div style={{ height: "100%", minHeight: 0 }}>
+      <ReactECharts
+        option={option}
+        style={{ height: "100%", width: "100%" }}
+        notMerge
+        lazyUpdate
+      />
+    </div>
   );
 }

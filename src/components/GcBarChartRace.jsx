@@ -227,7 +227,7 @@ export default function GcBarChartRace({ race, year, onStageChange }) {
           color: "#6b7280"
         }
       },
-    grid: { left: 240, right: 220, top: 60, bottom: 20 },
+    grid: { left: 80, right: 220, top: 60, bottom: 20 },
     xAxis: {
       type: "value",
       min: 0,
@@ -282,12 +282,22 @@ export default function GcBarChartRace({ race, year, onStageChange }) {
   /* ---------- CONTROLS ---------- */
 
   const maxTick = INTRO_FRAMES + (stages.length - 1) * FRAMES;
-  const progress = Math.min(tick / maxTick, 1);
+  const progressPct = maxTick > 0
+  ? Math.min((tick / maxTick) * 100, 100)
+  : 0;
 
   const play = () => {
     if (timerRef.current) return;
+  
     timerRef.current = setInterval(() => {
-      setTick(t => (t >= maxTick ? t : t + 1));
+      setTick(prev => {
+        if (prev >= maxTick) {
+          clearInterval(timerRef.current);
+          timerRef.current = null;
+          return prev;
+        }
+        return prev + 1;
+      });
     }, FRAME_MS);
   };
 
@@ -303,51 +313,54 @@ export default function GcBarChartRace({ race, year, onStageChange }) {
 
   return (
     <div
-        style={{
-            maxWidth: 1200,
-            margin: "16px auto",
-            padding: "20px 20px 12px",
-            background: "#ffffff",
-            borderRadius: 14,
-            boxShadow: "0 6px 24px rgba(0,0,0,0.06)"
-        }}
+      style={{
+        height: "100%",
+        display: "flex",
+        flexDirection: "column",
+        minHeight: 0,
+        padding: 8
+      }}
     >
-  
-      {/* explanation */}
-        <Accordion
+      {/* Explanation */}
+      <Accordion
         elevation={0}
         sx={{
-            mb: 2,
-            background: "#f9fafb",
-            borderRadius: 2,
-            border: "1px solid #e5e7eb"
+          mb: 1,
+          background: "#f9fafb",
+          borderRadius: 2,
+          border: "1px solid #e5e7eb"
         }}
-        >
+      >
         <AccordionSummary expandIcon={<ExpandMoreIcon />}>
-            <Typography fontWeight={600}>
-            How to read this chart
-            </Typography>
+          <Typography fontWeight={600}>How to read this chart</Typography>
         </AccordionSummary>
-
+  
         <AccordionDetails>
-            <Typography variant="body2" color="text.secondary">
+          <Typography variant="body2" color="text.secondary">
             • Each bar represents a rider’s time gap to the race leader<br />
             • Shorter bars mean closer to the leader<br />
             • Bars reorder as rankings change after each stage<br />
             • Colors indicate team affiliation
-            </Typography>
+          </Typography>
         </AccordionDetails>
-        </Accordion>
-
+      </Accordion>
+  
       {/* Controls */}
-      <Stack direction="row" spacing={2} justifyContent="center" sx={{ mt: 2 }}>
+      <Stack direction="row" spacing={1} justifyContent="center" sx={{ mb: 1 }}>
         <IconButton onClick={play}><PlayArrowIcon /></IconButton>
         <IconButton onClick={pause}><PauseIcon /></IconButton>
         <IconButton onClick={restart}><ReplayIcon /></IconButton>
       </Stack>
   
-      {/* Chart */}
-      <ReactECharts option={option} style={{ height: 620 }} />
+      {/* Chart fills remaining space */}
+      <div style={{ flex: 1, minHeight: 0 }}>
+        <ReactECharts
+          option={option}
+          style={{ height: "100%", width: "100%" }}
+          notMerge
+          lazyUpdate
+        />
+      </div>
   
       {/* Progress bar */}
       <div
@@ -356,19 +369,18 @@ export default function GcBarChartRace({ race, year, onStageChange }) {
           background: "#e5e7eb",
           borderRadius: 4,
           overflow: "hidden",
-          margin: "8px 40px 4px"
+          marginTop: 8
         }}
       >
         <div
           style={{
             height: "100%",
-            width: `${progress * 100}%`,
-            background: "#374151",
+            width: `${progressPct}%`,
+            background: "#111827",
             transition: "width 120ms linear"
           }}
         />
       </div>
-  
     </div>
   );
 }
