@@ -1,0 +1,343 @@
+{
+  "race": "vuelta",
+  "year": 2023,
+  "teams": [],
+  "stages": [
+    {
+      "stage": 1,
+      "date": null,
+      "distance_km": null,
+      "elevation_gain_m": null,
+      "start": {
+        "town": null,
+        "lat": null,
+        "lon": null
+      },
+      "finish": {
+        "town": null,
+        "lat": null,
+        "lon": null
+      }
+    },
+    {
+      "stage": 2,
+      "date": null,
+      "distance_km": null,
+      "elevation_gain_m": null,
+      "start": {
+        "town": null,
+        "lat": null,
+        "lon": null
+      },
+      "finish": {
+        "town": null,
+        "lat": null,
+        "lon": null
+      }
+    },
+    {
+      "stage": 3,
+      "date": null,
+      "distance_km": null,
+      "elevation_gain_m": null,
+      "start": {
+        "town": null,
+        "lat": null,
+        "lon": null
+      },
+      "finish": {
+        "town": null,
+        "lat": null,
+        "lon": null
+      }
+    },
+    {
+      "stage": 4,
+      "date": null,
+      "distance_km": null,
+      "elevation_gain_m": null,
+      "start": {
+        "town": null,
+        "lat": null,
+        "lon": null
+      },
+      "finish": {
+        "town": null,
+        "lat": null,
+        "lon": null
+      }
+    },
+    {
+      "stage": 5,
+      "date": null,
+      "distance_km": null,
+      "elevation_gain_m": null,
+      "start": {
+        "town": null,
+        "lat": null,
+        "lon": null
+      },
+      "finish": {
+        "town": null,
+        "lat": null,
+        "lon": null
+      }
+    },
+    {
+      "stage": 6,
+      "date": null,
+      "distance_km": null,
+      "elevation_gain_m": null,
+      "start": {
+        "town": null,
+        "lat": null,
+        "lon": null
+      },
+      "finish": {
+        "town": null,
+        "lat": null,
+        "lon": null
+      }
+    },
+    {
+      "stage": 7,
+      "date": null,
+      "distance_km": null,
+      "elevation_gain_m": null,
+      "start": {
+        "town": null,
+        "lat": null,
+        "lon": null
+      },
+      "finish": {
+        "town": null,
+        "lat": null,
+        "lon": null
+      }
+    },
+    {
+      "stage": 8,
+      "date": null,
+      "distance_km": null,
+      "elevation_gain_m": null,
+      "start": {
+        "town": null,
+        "lat": null,
+        "lon": null
+      },
+      "finish": {
+        "town": null,
+        "lat": null,
+        "lon": null
+      }
+    },
+    {
+      "stage": 9,
+      "date": null,
+      "distance_km": null,
+      "elevation_gain_m": null,
+      "start": {
+        "town": null,
+        "lat": null,
+        "lon": null
+      },
+      "finish": {
+        "town": null,
+        "lat": null,
+        "lon": null
+      }
+    },
+    {
+      "stage": 10,
+      "date": null,
+      "distance_km": null,
+      "elevation_gain_m": null,
+      "start": {
+        "town": null,
+        "lat": null,
+        "lon": null
+      },
+      "finish": {
+        "town": null,
+        "lat": null,
+        "lon": null
+      }
+    },
+    {
+      "stage": 11,
+      "date": null,
+      "distance_km": null,
+      "elevation_gain_m": null,
+      "start": {
+        "town": null,
+        "lat": null,
+        "lon": null
+      },
+      "finish": {
+        "town": null,
+        "lat": null,
+        "lon": null
+      }
+    },
+    {
+      "stage": 12,
+      "date": null,
+      "distance_km": null,
+      "elevation_gain_m": null,
+      "start": {
+        "town": null,
+        "lat": null,
+        "lon": null
+      },
+      "finish": {
+        "town": null,
+        "lat": null,
+        "lon": null
+      }
+    },
+    {
+      "stage": 13,
+      "date": null,
+      "distance_km": null,
+      "elevation_gain_m": null,
+      "start": {
+        "town": null,
+        "lat": null,
+        "lon": null
+      },
+      "finish": {
+        "town": null,
+        "lat": null,
+        "lon": null
+      }
+    },
+    {
+      "stage": 14,
+      "date": null,
+      "distance_km": null,
+      "elevation_gain_m": null,
+      "start": {
+        "town": null,
+        "lat": null,
+        "lon": null
+      },
+      "finish": {
+        "town": null,
+        "lat": null,
+        "lon": null
+      }
+    },
+    {
+      "stage": 15,
+      "date": null,
+      "distance_km": null,
+      "elevation_gain_m": null,
+      "start": {
+        "town": null,
+        "lat": null,
+        "lon": null
+      },
+      "finish": {
+        "town": null,
+        "lat": null,
+        "lon": null
+      }
+    },
+    {
+      "stage": 16,
+      "date": null,
+      "distance_km": null,
+      "elevation_gain_m": null,
+      "start": {
+        "town": null,
+        "lat": null,
+        "lon": null
+      },
+      "finish": {
+        "town": null,
+        "lat": null,
+        "lon": null
+      }
+    },
+    {
+      "stage": 17,
+      "date": null,
+      "distance_km": null,
+      "elevation_gain_m": null,
+      "start": {
+        "town": null,
+        "lat": null,
+        "lon": null
+      },
+      "finish": {
+        "town": null,
+        "lat": null,
+        "lon": null
+      }
+    },
+    {
+      "stage": 18,
+      "date": null,
+      "distance_km": null,
+      "elevation_gain_m": null,
+      "start": {
+        "town": null,
+        "lat": null,
+        "lon": null
+      },
+      "finish": {
+        "town": null,
+        "lat": null,
+        "lon": null
+      }
+    },
+    {
+      "stage": 19,
+      "date": null,
+      "distance_km": null,
+      "elevation_gain_m": null,
+      "start": {
+        "town": null,
+        "lat": null,
+        "lon": null
+      },
+      "finish": {
+        "town": null,
+        "lat": null,
+        "lon": null
+      }
+    },
+    {
+      "stage": 20,
+      "date": null,
+      "distance_km": null,
+      "elevation_gain_m": null,
+      "start": {
+        "town": null,
+        "lat": null,
+        "lon": null
+      },
+      "finish": {
+        "town": null,
+        "lat": null,
+        "lon": null
+      }
+    },
+    {
+      "stage": 21,
+      "date": null,
+      "distance_km": null,
+      "elevation_gain_m": null,
+      "start": {
+        "town": null,
+        "lat": null,
+        "lon": null
+      },
+      "finish": {
+        "town": null,
+        "lat": null,
+        "lon": null
+      }
+    }
+  ]
+}

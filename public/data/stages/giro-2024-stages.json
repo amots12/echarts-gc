@@ -1,0 +1,220 @@
+{
+  "race": "giro",
+  "year": 2024,
+  "teams": [
+    { "name": "AG2R Citroën Team", "uci_code": "ACT", "country": "France" },
+    { "name": "Alpecin–Deceuninck", "uci_code": "ADC", "country": "Belgium" },
+    { "name": "Arkéa–Samsic", "uci_code": "ARK", "country": "France" },
+    { "name": "Astana Qazaqstan Team", "uci_code": "AST", "country": "Kazakhstan" },
+    { "name": "Bahrain Victorious", "uci_code": "TBV", "country": "Bahrain" },
+    { "name": "BORA–hansgrohe", "uci_code": "BOH", "country": "Germany" },
+    { "name": "Cofidis", "uci_code": "COF", "country": "France" },
+    { "name": "EF Education–EasyPost", "uci_code": "EFE", "country": "USA" },
+    { "name": "Groupama–FDJ", "uci_code": "GFD", "country": "France" },
+    { "name": "Ineos Grenadiers", "uci_code": "IGD", "country": "United Kingdom" },
+    { "name": "Intermarché–Circus–Wanty", "uci_code": "ICW", "country": "Belgium" },
+    { "name": "Jayco–AlUla", "uci_code": "JAY", "country": "Australia" },
+    { "name": "Lidl–Trek", "uci_code": "TFS", "country": "USA" },
+    { "name": "Movistar Team", "uci_code": "MOV", "country": "Spain" },
+    { "name": "Soudal–Quick-Step", "uci_code": "SDQ", "country": "Belgium" },
+    { "name": "Team DSM–Firmenich", "uci_code": "DSF", "country": "Netherlands" },
+    { "name": "Tudor Pro Cycling Team", "uci_code": "TUD", "country": "Switzerland" },
+    { "name": "UAE Team Emirates", "uci_code": "UAD", "country": "United Arab Emirates" },
+    { "name": "Uno-X Pro Cycling Team", "uci_code": "UNO", "country": "Norway" },
+    { "name": "TotalEnergies", "uci_code": "TTE", "country": "France" },
+    { "name": "Q36.5 Pro Cycling Team", "uci_code": "Q36", "country": "United Kingdom" },
+    { "name": "Bingoal WB", "uci_code": "BWB", "country": "Belgium" },
+    { "name": "Eolo–Kometa Cycling Team", "uci_code": "EOK", "country": "Italy" }
+  ],
+  "stages": [
+    {
+      "stage": 1,
+      "date": "2024-05-04",
+      "distance_km": 140.0,
+      "accumulated_km": 140.0,
+      "elevation_gain_m": null,
+      "start": { "town": "Venaria Reale", "lat": 45.1256, "lon": 7.6319 },
+      "finish": { "town": "Turin", "lat": 45.0703, "lon": 7.6869 }
+    },
+    {
+      "stage": 2,
+      "date": "2024-05-05",
+      "distance_km": 161.0,
+      "accumulated_km": 301.0,
+      "elevation_gain_m": null,
+      "start": { "town": "San Francesco al Campo", "lat": 45.2225, "lon": 7.6542 },
+      "finish": { "town": "Santuario di Oropa", "lat": 45.6328, "lon": 7.9775 }
+    },
+    {
+      "stage": 3,
+      "date": "2024-05-06",
+      "distance_km": 166.0,
+      "accumulated_km": 467.0,
+      "elevation_gain_m": null,
+      "start": { "town": "Novara", "lat": 45.4450, "lon": 8.6210 },
+      "finish": { "town": "Fossano", "lat": 44.5500, "lon": 7.7269 }
+    },
+    {
+      "stage": 4,
+      "date": "2024-05-07",
+      "distance_km": 190.0,
+      "accumulated_km": 657.0,
+      "elevation_gain_m": null,
+      "start": { "town": "Acqui Terme", "lat": 44.6740, "lon": 8.4670 },
+      "finish": { "town": "Andora", "lat": 43.9533, "lon": 8.1428 }
+    },
+    {
+      "stage": 5,
+      "date": "2024-05-08",
+      "distance_km": 178.0,
+      "accumulated_km": 835.0,
+      "elevation_gain_m": null,
+      "start": { "town": "Genoa", "lat": 44.4056, "lon": 8.9463 },
+      "finish": { "town": "Lucca", "lat": 43.8430, "lon": 10.5050 }
+    },
+    {
+      "stage": 6,
+      "date": "2024-05-09",
+      "distance_km": 180.0,
+      "accumulated_km": 1015.0,
+      "elevation_gain_m": null,
+      "start": { "town": "Viareggio", "lat": 43.8710, "lon": 10.2550 },
+      "finish": { "town": "Rapolano Terme", "lat": 43.2833, "lon": 11.6000 }
+    },
+    {
+      "stage": 7,
+      "date": "2024-05-10",
+      "distance_km": 40.6,
+      "accumulated_km": 1055.6,
+      "elevation_gain_m": null,
+      "start": { "town": "Foligno", "lat": 42.9561, "lon": 12.7036 },
+      "finish": { "town": "Perugia", "lat": 43.1107, "lon": 12.3908 }
+    },
+    {
+      "stage": 8,
+      "date": "2024-05-11",
+      "distance_km": 197.0,
+      "accumulated_km": 1252.6,
+      "elevation_gain_m": null,
+      "start": { "town": "Spoleto", "lat": 42.7400, "lon": 12.7384 },
+      "finish": { "town": "Prati di Tivo", "lat": 42.4850, "lon": 13.5633 }
+    },
+    {
+      "stage": 9,
+      "date": "2024-05-12",
+      "distance_km": 214.0,
+      "accumulated_km": 1466.6,
+      "elevation_gain_m": null,
+      "start": { "town": "Avezzano", "lat": 42.0330, "lon": 13.4260 },
+      "finish": { "town": "Naples", "lat": 40.8518, "lon": 14.2681 }
+    },
+    {
+      "stage": 10,
+      "date": "2024-05-14",
+      "distance_km": 142.0,
+      "accumulated_km": 1608.6,
+      "elevation_gain_m": null,
+      "start": { "town": "Pompei", "lat": 40.7460, "lon": 14.4989 },
+      "finish": { "town": "Cusano Mutri", "lat": 41.3333, "lon": 14.5000 }
+    },
+    {
+      "stage": 11,
+      "date": "2024-05-15",
+      "distance_km": 207.0,
+      "accumulated_km": 1815.6,
+      "elevation_gain_m": null,
+      "start": { "town": "Foiano di Val Fortore", "lat": 41.3544, "lon": 14.9767 },
+      "finish": { "town": "Francavilla al Mare", "lat": 42.4150, "lon": 14.2900 }
+    },
+    {
+      "stage": 12,
+      "date": "2024-05-16",
+      "distance_km": 193.0,
+      "accumulated_km": 2008.6,
+      "elevation_gain_m": null,
+      "start": { "town": "Martinsicuro", "lat": 42.8833, "lon": 13.9167 },
+      "finish": { "town": "Fano", "lat": 43.8430, "lon": 13.0190 }
+    },
+    {
+      "stage": 13,
+      "date": "2024-05-17",
+      "distance_km": 179.0,
+      "accumulated_km": 2187.6,
+      "elevation_gain_m": null,
+      "start": { "town": "Riccione", "lat": 43.9990, "lon": 12.6569 },
+      "finish": { "town": "Cento", "lat": 44.7294, "lon": 11.2908 }
+    },
+    {
+      "stage": 14,
+      "date": "2024-05-18",
+      "distance_km": 31.2,
+      "accumulated_km": 2218.8,
+      "elevation_gain_m": null,
+      "start": { "town": "Castiglione delle Stiviere", "lat": 45.3906, "lon": 10.4878 },
+      "finish": { "town": "Desenzano del Garda", "lat": 45.4717, "lon": 10.5350 }
+    },
+    {
+      "stage": 15,
+      "date": "2024-05-19",
+      "distance_km": 222.0,
+      "accumulated_km": 2440.8,
+      "elevation_gain_m": null,
+      "start": { "town": "Manerba del Garda", "lat": 45.5614, "lon": 10.5517 },
+      "finish": { "town": "Livigno", "lat": 46.5380, "lon": 10.1350 }
+    },
+    {
+      "stage": 16,
+      "date": "2024-05-21",
+      "distance_km": 118.0,
+      "accumulated_km": 2558.8,
+      "elevation_gain_m": null,
+      "start": { "town": "Livigno", "lat": 46.5380, "lon": 10.1350 },
+      "finish": { "town": "Santa Cristina Valgardena", "lat": 46.5578, "lon": 11.7183 }
+    },
+    {
+      "stage": 17,
+      "date": "2024-05-22",
+      "distance_km": 159.0,
+      "accumulated_km": 2717.8,
+      "elevation_gain_m": null,
+      "start": { "town": "Selva di Val Gardena", "lat": 46.5533, "lon": 11.7600 },
+      "finish": { "town": "Passo Brocon", "lat": 46.1090, "lon": 11.7040 }
+    },
+    {
+      "stage": 18,
+      "date": "2024-05-23",
+      "distance_km": 178.0,
+      "accumulated_km": 2895.8,
+      "elevation_gain_m": null,
+      "start": { "town": "Fiera di Primiero", "lat": 46.1764, "lon": 11.8297 },
+      "finish": { "town": "Padua", "lat": 45.4064, "lon": 11.8768 }
+    },
+    {
+      "stage": 19,
+      "date": "2024-05-24",
+      "distance_km": 157.0,
+      "accumulated_km": 3052.8,
+      "elevation_gain_m": null,
+      "start": { "town": "Mortegliano", "lat": 45.9500, "lon": 13.1667 },
+      "finish": { "town": "Sappada", "lat": 46.5650, "lon": 12.6820 }
+    },
+    {
+      "stage": 20,
+      "date": "2024-05-25",
+      "distance_km": 184.0,
+      "accumulated_km": 3236.8,
+      "elevation_gain_m": null,
+      "start": { "town": "Alpago", "lat": 46.1000, "lon": 12.3667 },
+      "finish": { "town": "Bassano del Grappa", "lat": 45.7667, "lon": 11.7333 }
+    },
+    {
+      "stage": 21,
+      "date": "2024-05-26",
+      "distance_km": 125.0,
+      "accumulated_km": 3361.8,
+      "elevation_gain_m": null,
+      "start": { "town": "Rome", "lat": 41.9028, "lon": 12.4964 },
+      "finish": { "town": "Rome", "lat": 41.9028, "lon": 12.4964 }
+    }
+  ]
+}

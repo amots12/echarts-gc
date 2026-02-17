@@ -1,0 +1,198 @@
+{
+    "race": "giro",
+    "year": 2020,
+    "teams": [
+      { "name": "AG2R La Mondiale", "uci_code": null, "country": null },
+      { "name": "Androni Giocattoli–Sidermec", "uci_code": null, "country": null },
+      { "name": "Astana Pro Team", "uci_code": null, "country": null },
+      { "name": "Bahrain–McLaren", "uci_code": null, "country": null },
+      { "name": "Bardiani–CSF–Faizanè", "uci_code": null, "country": null },
+      { "name": "Bora–Hansgrohe", "uci_code": null, "country": null },
+      { "name": "CCC Team", "uci_code": null, "country": null },
+      { "name": "Cofidis", "uci_code": null, "country": null },
+      { "name": "Deceuninck–Quick-Step", "uci_code": null, "country": null },
+      { "name": "EF Pro Cycling", "uci_code": null, "country": null },
+      { "name": "Groupama–FDJ", "uci_code": null, "country": null },
+      { "name": "Ineos Grenadiers", "uci_code": null, "country": null },
+      { "name": "Israel Start-Up Nation", "uci_code": null, "country": null },
+      { "name": "Jumbo–Visma", "uci_code": null, "country": null },
+      { "name": "Lotto–Soudal", "uci_code": null, "country": null },
+      { "name": "Mitchelton–Scott", "uci_code": null, "country": null },
+      { "name": "Movistar Team", "uci_code": null, "country": null },
+      { "name": "NTT Pro Cycling", "uci_code": null, "country": null },
+      { "name": "Team Sunweb", "uci_code": null, "country": null },
+      { "name": "Trek–Segafredo", "uci_code": null, "country": null },
+      { "name": "UAE Team Emirates", "uci_code": null, "country": null },
+      { "name": "Vini Zabù–Brado–KTM", "uci_code": null, "country": null }
+    ],
+    "stages": [
+      {
+        "stage": 1,
+        "date": "2020-10-03",
+        "distance_km": 15.1,
+        "elevation_gain_m": null,
+        "start": { "town": "Monreale", "lat": 38.0817, "lon": 13.2922 },
+        "finish": { "town": "Palermo", "lat": 38.1157, "lon": 13.3615 }
+      },
+      {
+        "stage": 2,
+        "date": "2020-10-04",
+        "distance_km": 149.0,
+        "elevation_gain_m": null,
+        "start": { "town": "Alcamo", "lat": 37.9776, "lon": 12.9647 },
+        "finish": { "town": "Agrigento", "lat": 37.3111, "lon": 13.5765 }
+      },
+      {
+        "stage": 3,
+        "date": "2020-10-05",
+        "distance_km": 150.0,
+        "elevation_gain_m": null,
+        "start": { "town": "Enna", "lat": 37.5679, "lon": 14.2790 },
+        "finish": { "town": "Etna", "lat": 37.7510, "lon": 14.9934 }
+      },
+      {
+        "stage": 4,
+        "date": "2020-10-06",
+        "distance_km": 140.0,
+        "elevation_gain_m": null,
+        "start": { "town": "Catania", "lat": 37.5079, "lon": 15.0830 },
+        "finish": { "town": "Villafranca Tirrena", "lat": 38.2394, "lon": 15.4392 }
+      },
+      {
+        "stage": 5,
+        "date": "2020-10-07",
+        "distance_km": 225.0,
+        "elevation_gain_m": null,
+        "start": { "town": "Mileto", "lat": 38.6080, "lon": 16.0672 },
+        "finish": { "town": "Camigliatello Silano", "lat": 39.3300, "lon": 16.4417 }
+      },
+      {
+        "stage": 6,
+        "date": "2020-10-08",
+        "distance_km": 188.0,
+        "elevation_gain_m": null,
+        "start": { "town": "Castrovillari", "lat": 39.8167, "lon": 16.2000 },
+        "finish": { "town": "Matera", "lat": 40.6667, "lon": 16.6000 }
+      },
+      {
+        "stage": 7,
+        "date": "2020-10-09",
+        "distance_km": 143.0,
+        "elevation_gain_m": null,
+        "start": { "town": "Matera", "lat": 40.6667, "lon": 16.6000 },
+        "finish": { "town": "Brindisi", "lat": 40.6333, "lon": 17.9333 }
+      },
+      {
+        "stage": 8,
+        "date": "2020-10-10",
+        "distance_km": 200.0,
+        "elevation_gain_m": null,
+        "start": { "town": "Giovinazzo", "lat": 41.1867, "lon": 16.6714 },
+        "finish": { "town": "Vieste", "lat": 41.8820, "lon": 16.1806 }
+      },
+      {
+        "stage": 9,
+        "date": "2020-10-11",
+        "distance_km": 208.0,
+        "elevation_gain_m": null,
+        "start": { "town": "San Salvo", "lat": 42.0500, "lon": 14.7333 },
+        "finish": { "town": "Roccaraso", "lat": 41.8470, "lon": 14.0789 }
+      },
+      {
+        "stage": 10,
+        "date": "2020-10-13",
+        "distance_km": 177.0,
+        "elevation_gain_m": null,
+        "start": { "town": "Lanciano", "lat": 42.2283, "lon": 14.3900 },
+        "finish": { "town": "Tortoreto", "lat": 42.8000, "lon": 13.9167 }
+      },
+      {
+        "stage": 11,
+        "date": "2020-10-14",
+        "distance_km": 182.0,
+        "elevation_gain_m": null,
+        "start": { "town": "Porto Sant'Elpidio", "lat": 43.2583, "lon": 13.7500 },
+        "finish": { "town": "Rimini", "lat": 44.0678, "lon": 12.5695 }
+      },
+      {
+        "stage": 12,
+        "date": "2020-10-15",
+        "distance_km": 204.0,
+        "elevation_gain_m": null,
+        "start": { "town": "Cesenatico", "lat": 44.1997, "lon": 12.3997 },
+        "finish": { "town": "Cesenatico", "lat": 44.1997, "lon": 12.3997 }
+      },
+      {
+        "stage": 13,
+        "date": "2020-10-16",
+        "distance_km": 192.0,
+        "elevation_gain_m": null,
+        "start": { "town": "Cervia", "lat": 44.2606, "lon": 12.3486 },
+        "finish": { "town": "Monselice", "lat": 45.2397, "lon": 11.7497 }
+      },
+      {
+        "stage": 14,
+        "date": "2020-10-17",
+        "distance_km": 34.1,
+        "elevation_gain_m": null,
+        "start": { "town": "Conegliano", "lat": 45.8897, "lon": 12.3000 },
+        "finish": { "town": "Valdobbiadene", "lat": 45.9000, "lon": 11.9950 }
+      },
+      {
+        "stage": 15,
+        "date": "2020-10-18",
+        "distance_km": 185.0,
+        "elevation_gain_m": null,
+        "start": { "town": "Base Aerea Rivolto", "lat": 45.9833, "lon": 13.0333 },
+        "finish": { "town": "Piancavallo", "lat": 46.1500, "lon": 12.5000 }
+      },
+      {
+        "stage": 16,
+        "date": "2020-10-20",
+        "distance_km": 229.0,
+        "elevation_gain_m": null,
+        "start": { "town": "Udine", "lat": 46.0667, "lon": 13.2333 },
+        "finish": { "town": "San Daniele del Friuli", "lat": 46.1600, "lon": 13.0000 }
+      },
+      {
+        "stage": 17,
+        "date": "2020-10-21",
+        "distance_km": 203.0,
+        "elevation_gain_m": null,
+        "start": { "town": "Bassano del Grappa", "lat": 45.7667, "lon": 11.7333 },
+        "finish": { "town": "Madonna di Campiglio", "lat": 46.2278, "lon": 10.8264 }
+      },
+      {
+        "stage": 18,
+        "date": "2020-10-22",
+        "distance_km": 207.0,
+        "elevation_gain_m": null,
+        "start": { "town": "Pinzolo", "lat": 46.1597, "lon": 10.7656 },
+        "finish": { "town": "Laghi di Cancano", "lat": 46.4833, "lon": 10.3000 }
+      },
+      {
+        "stage": 19,
+        "date": "2020-10-23",
+        "distance_km": 124.0,
+        "elevation_gain_m": null,
+        "start": { "town": "Morbegno", "lat": 46.1333, "lon": 9.5667 },
+        "finish": { "town": "Asti", "lat": 44.9000, "lon": 8.2067 }
+      },
+      {
+        "stage": 20,
+        "date": "2020-10-24",
+        "distance_km": 198.0,
+        "elevation_gain_m": null,
+        "start": { "town": "Alba", "lat": 44.7000, "lon": 8.0333 },
+        "finish": { "town": "Sestriere", "lat": 44.9572, "lon": 6.8769 }
+      },
+      {
+        "stage": 21,
+        "date": "2020-10-25",
+        "distance_km": 15.7,
+        "elevation_gain_m": null,
+        "start": { "town": "Cernusco sul Naviglio", "lat": 45.5250, "lon": 9.3333 },
+        "finish": { "town": "Milano", "lat": 45.4642, "lon": 9.1900 }
+      }
+    ]
+  }

@@ -1,0 +1,114 @@
+{
+  "race": "tour",
+  "year": 2025,
+  "teams": [
+    { "name": "Alpecin–Deceuninck", "uci_code": null, "country": null },
+    { "name": "Arkéa–B&B Hotels", "uci_code": null, "country": null },
+    { "name": "Cofidis", "uci_code": null, "country": null },
+    { "name": "Decathlon–AG2R La Mondiale", "uci_code": null, "country": null },
+    { "name": "EF Education–EasyPost", "uci_code": null, "country": null },
+    { "name": "Groupama–FDJ", "uci_code": null, "country": null },
+    { "name": "Ineos Grenadiers", "uci_code": null, "country": null },
+    { "name": "Intermarché–Wanty", "uci_code": null, "country": null },
+    { "name": "Lidl–Trek", "uci_code": null, "country": null },
+    { "name": "Movistar Team", "uci_code": null, "country": null },
+    { "name": "Red Bull–Bora–Hansgrohe", "uci_code": null, "country": null },
+    { "name": "Soudal–Quick-Step", "uci_code": null, "country": null },
+    { "name": "Team Bahrain Victorious", "uci_code": null, "country": null },
+    { "name": "Team Picnic–PostNL", "uci_code": null, "country": null },
+    { "name": "Team Jayco–AlUla", "uci_code": null, "country": null },
+    { "name": "UAE Team Emirates XRG", "uci_code": null, "country": null },
+    { "name": "Visma–Lease a Bike", "uci_code": null, "country": null },
+    { "name": "XDS Astana Team", "uci_code": null, "country": null },
+    { "name": "Israel–Premier Tech", "uci_code": null, "country": null },
+    { "name": "Lotto", "uci_code": null, "country": null },
+    { "name": "Team TotalEnergies", "uci_code": null, "country": null },
+    { "name": "Tudor Pro Cycling Team", "uci_code": null, "country": null },
+    { "name": "Uno-X Mobility", "uci_code": null, "country": null }
+  ],
+  "stages": [
+    { "stage": 1, "date": "2025-07-05", "distance_km": 184.9, "accumulated_km": 184.9, "elevation_gain_m": null,
+      "start": { "town": "Lille", "lat": 50.6292, "lon": 3.0573 },
+      "finish": { "town": "Lille", "lat": 50.6292, "lon": 3.0573 } },
+
+    { "stage": 2, "date": "2025-07-06", "distance_km": 209.1, "accumulated_km": 394.0, "elevation_gain_m": null,
+      "start": { "town": "Lauwin-Planque", "lat": 50.3970, "lon": 3.0400 },
+      "finish": { "town": "Boulogne-sur-Mer", "lat": 50.7264, "lon": 1.6147 } },
+
+    { "stage": 3, "date": "2025-07-07", "distance_km": 178.3, "accumulated_km": 572.3, "elevation_gain_m": null,
+      "start": { "town": "Valenciennes", "lat": 50.3570, "lon": 3.5230 },
+      "finish": { "town": "Dunkirk", "lat": 51.0344, "lon": 2.3768 } },
+
+    { "stage": 4, "date": "2025-07-08", "distance_km": 174.2, "accumulated_km": 746.5, "elevation_gain_m": null,
+      "start": { "town": "Amiens", "lat": 49.8941, "lon": 2.2958 },
+      "finish": { "town": "Rouen", "lat": 49.4431, "lon": 1.0993 } },
+
+    { "stage": 5, "date": "2025-07-09", "distance_km": 33.0, "accumulated_km": 779.5, "elevation_gain_m": null,
+      "start": { "town": "Caen", "lat": 49.1829, "lon": -0.3707 },
+      "finish": { "town": "Caen", "lat": 49.1829, "lon": -0.3707 } },
+
+    { "stage": 6, "date": "2025-07-10", "distance_km": 201.5, "accumulated_km": 981.0, "elevation_gain_m": null,
+      "start": { "town": "Bayeux", "lat": 49.2775, "lon": -0.7020 },
+      "finish": { "town": "Vire Normandie", "lat": 48.8380, "lon": -0.8890 } },
+
+    { "stage": 7, "date": "2025-07-11", "distance_km": 197.0, "accumulated_km": 1178.0, "elevation_gain_m": null,
+      "start": { "town": "Saint-Malo", "lat": 48.6493, "lon": -2.0257 },
+      "finish": { "town": "Guerlédan", "lat": 48.2000, "lon": -3.0000 } },
+
+    { "stage": 8, "date": "2025-07-12", "distance_km": 171.4, "accumulated_km": 1349.4, "elevation_gain_m": null,
+      "start": { "town": "Saint-Méen-le-Grand", "lat": 48.1890, "lon": -2.1920 },
+      "finish": { "town": "Laval", "lat": 48.0707, "lon": -0.7731 } },
+
+    { "stage": 9, "date": "2025-07-13", "distance_km": 174.1, "accumulated_km": 1523.5, "elevation_gain_m": null,
+      "start": { "town": "Chinon", "lat": 47.1670, "lon": 0.2420 },
+      "finish": { "town": "Châteauroux", "lat": 46.8103, "lon": 1.6910 } },
+
+    { "stage": 10, "date": "2025-07-14", "distance_km": 165.3, "accumulated_km": 1688.8, "elevation_gain_m": null,
+      "start": { "town": "Ennezat", "lat": 45.9200, "lon": 3.2200 },
+      "finish": { "town": "Mont-Dore", "lat": 45.5760, "lon": 2.8100 } },
+
+    { "stage": 11, "date": "2025-07-16", "distance_km": 156.8, "accumulated_km": 1845.6, "elevation_gain_m": null,
+      "start": { "town": "Toulouse", "lat": 43.6047, "lon": 1.4442 },
+      "finish": { "town": "Toulouse", "lat": 43.6047, "lon": 1.4442 } },
+
+    { "stage": 12, "date": "2025-07-17", "distance_km": 180.6, "accumulated_km": 2026.2, "elevation_gain_m": null,
+      "start": { "town": "Auch", "lat": 43.6460, "lon": 0.5880 },
+      "finish": { "town": "Hautacam", "lat": 42.9750, "lon": -0.0360 } },
+
+    { "stage": 13, "date": "2025-07-18", "distance_km": 10.9, "accumulated_km": 2037.1, "elevation_gain_m": null,
+      "start": { "town": "Loudenvielle", "lat": 42.8000, "lon": 0.4100 },
+      "finish": { "town": "Peyragudes", "lat": 42.7870, "lon": 0.4600 } },
+
+    { "stage": 14, "date": "2025-07-19", "distance_km": 182.6, "accumulated_km": 2219.7, "elevation_gain_m": null,
+      "start": { "town": "Pau", "lat": 43.2951, "lon": -0.3708 },
+      "finish": { "town": "Superbagnères", "lat": 42.7870, "lon": 0.5900 } },
+
+    { "stage": 15, "date": "2025-07-20", "distance_km": 169.3, "accumulated_km": 2389.0, "elevation_gain_m": null,
+      "start": { "town": "Muret", "lat": 43.4616, "lon": 1.3256 },
+      "finish": { "town": "Carcassonne", "lat": 43.2130, "lon": 2.3491 } },
+
+    { "stage": 16, "date": "2025-07-22", "distance_km": 171.5, "accumulated_km": 2560.5, "elevation_gain_m": null,
+      "start": { "town": "Montpellier", "lat": 43.6119, "lon": 3.8772 },
+      "finish": { "town": "Mont Ventoux", "lat": 44.1730, "lon": 5.2780 } },
+
+    { "stage": 17, "date": "2025-07-23", "distance_km": 160.4, "accumulated_km": 2720.9, "elevation_gain_m": null,
+      "start": { "town": "Bollène", "lat": 44.2800, "lon": 4.7500 },
+      "finish": { "town": "Valence", "lat": 44.9334, "lon": 4.8924 } },
+
+    { "stage": 18, "date": "2025-07-24", "distance_km": 171.5, "accumulated_km": 2892.4, "elevation_gain_m": null,
+      "start": { "town": "Vif", "lat": 45.0540, "lon": 5.6730 },
+      "finish": { "town": "Courchevel", "lat": 45.4150, "lon": 6.6340 } },
+
+    { "stage": 19, "date": "2025-07-25", "distance_km": 93.1, "accumulated_km": 2985.5, "elevation_gain_m": null,
+      "start": { "town": "Albertville", "lat": 45.6753, "lon": 6.3926 },
+      "finish": { "town": "La Plagne", "lat": 45.5070, "lon": 6.6780 } },
+
+    { "stage": 20, "date": "2025-07-26", "distance_km": 184.2, "accumulated_km": 3169.7, "elevation_gain_m": null,
+      "start": { "town": "Nantua", "lat": 46.1500, "lon": 5.6000 },
+      "finish": { "town": "Pontarlier", "lat": 46.9030, "lon": 6.3540 } },
+
+    { "stage": 21, "date": "2025-07-27", "distance_km": 132.3, "accumulated_km": 3302.0, "elevation_gain_m": null,
+      "start": { "town": "Mantes-la-Ville", "lat": 48.9730, "lon": 1.7170 },
+      "finish": { "town": "Paris", "lat": 48.8566, "lon": 2.3522 } }
+  ]
+}

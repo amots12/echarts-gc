@@ -1,0 +1,406 @@
+{
+  "race": "vuelta",
+  "year": 2020,
+  "teams": [
+    {
+      "name": "AG2R La Mondiale",
+      "uci_code": null,
+      "country": null
+    },
+    {
+      "name": "Astana Pro Team",
+      "uci_code": null,
+      "country": null
+    },
+    {
+      "name": "Bahrain\u2013McLaren",
+      "uci_code": null,
+      "country": null
+    },
+    {
+      "name": "Bora\u2013Hansgrohe",
+      "uci_code": null,
+      "country": null
+    },
+    {
+      "name": "Burgos-BH",
+      "uci_code": null,
+      "country": null
+    },
+    {
+      "name": "Caja Rural\u2013Seguros RGA",
+      "uci_code": null,
+      "country": null
+    },
+    {
+      "name": "CCC Team",
+      "uci_code": null,
+      "country": null
+    },
+    {
+      "name": "Cofidis",
+      "uci_code": null,
+      "country": null
+    },
+    {
+      "name": "Deceuninck\u2013Quick-Step",
+      "uci_code": null,
+      "country": null
+    },
+    {
+      "name": "EF Pro Cycling",
+      "uci_code": null,
+      "country": null
+    },
+    {
+      "name": "Groupama\u2013FDJ",
+      "uci_code": null,
+      "country": null
+    },
+    {
+      "name": "Israel Start-Up Nation",
+      "uci_code": null,
+      "country": null
+    },
+    {
+      "name": "Jumbo\u2013Visma",
+      "uci_code": null,
+      "country": null
+    },
+    {
+      "name": "Lotto\u2013Soudal",
+      "uci_code": null,
+      "country": null
+    },
+    {
+      "name": "Mitchelton\u2013Scott",
+      "uci_code": null,
+      "country": null
+    },
+    {
+      "name": "Movistar Team",
+      "uci_code": null,
+      "country": null
+    },
+    {
+      "name": "NTT Pro Cycling",
+      "uci_code": null,
+      "country": null
+    },
+    {
+      "name": "Team Ineos",
+      "uci_code": null,
+      "country": null
+    },
+    {
+      "name": "Trek\u2013Segafredo",
+      "uci_code": null,
+      "country": null
+    },
+    {
+      "name": "UAE Team Emirates",
+      "uci_code": null,
+      "country": null
+    },
+    {
+      "name": "Total Direct \u00c9nergie",
+      "uci_code": null,
+      "country": null
+    },
+    {
+      "name": "Androni Giocattoli\u2013Sidermec",
+      "uci_code": null,
+      "country": null
+    }
+  ],
+  "stages": [
+    {
+      "stage": 1,
+      "date": null,
+      "distance_km": null,
+      "elevation_gain_m": null,
+      "start": {
+        "town": null,
+        "lat": null,
+        "lon": null
+      },
+      "finish": {
+        "town": null,
+        "lat": null,
+        "lon": null
+      }
+    },
+    {
+      "stage": 2,
+      "date": null,
+      "distance_km": null,
+      "elevation_gain_m": null,
+      "start": {
+        "town": null,
+        "lat": null,
+        "lon": null
+      },
+      "finish": {
+        "town": null,
+        "lat": null,
+        "lon": null
+      }
+    },
+    {
+      "stage": 3,
+      "date": null,
+      "distance_km": null,
+      "elevation_gain_m": null,
+      "start": {
+        "town": null,
+        "lat": null,
+        "lon": null
+      },
+      "finish": {
+        "town": null,
+        "lat": null,
+        "lon": null
+      }
+    },
+    {
+      "stage": 4,
+      "date": null,
+      "distance_km": null,
+      "elevation_gain_m": null,
+      "start": {
+        "town": null,
+        "lat": null,
+        "lon": null
+      },
+      "finish": {
+        "town": null,
+        "lat": null,
+        "lon": null
+      }
+    },
+    {
+      "stage": 5,
+      "date": null,
+      "distance_km": null,
+      "elevation_gain_m": null,
+      "start": {
+        "town": null,
+        "lat": null,
+        "lon": null
+      },
+      "finish": {
+        "town": null,
+        "lat": null,
+        "lon": null
+      }
+    },
+    {
+      "stage": 6,
+      "date": null,
+      "distance_km": null,
+      "elevation_gain_m": null,
+      "start": {
+        "town": null,
+        "lat": null,
+        "lon": null
+      },
+      "finish": {
+        "town": null,
+        "lat": null,
+        "lon": null
+      }
+    },
+    {
+      "stage": 7,
+      "date": null,
+      "distance_km": null,
+      "elevation_gain_m": null,
+      "start": {
+        "town": null,
+        "lat": null,
+        "lon": null
+      },
+      "finish": {
+        "town": null,
+        "lat": null,
+        "lon": null
+      }
+    },
+    {
+      "stage": 8,
+      "date": null,
+      "distance_km": null,
+      "elevation_gain_m": null,
+      "start": {
+        "town": null,
+        "lat": null,
+        "lon": null
+      },
+      "finish": {
+        "town": null,
+        "lat": null,
+        "lon": null
+      }
+    },
+    {
+      "stage": 9,
+      "date": null,
+      "distance_km": null,
+      "elevation_gain_m": null,
+      "start": {
+        "town": null,
+        "lat": null,
+        "lon": null
+      },
+      "finish": {
+        "town": null,
+        "lat": null,
+        "lon": null
+      }
+    },
+    {
+      "stage": 10,
+      "date": null,
+      "distance_km": null,
+      "elevation_gain_m": null,
+      "start": {
+        "town": null,
+        "lat": null,
+        "lon": null
+      },
+      "finish": {
+        "town": null,
+        "lat": null,
+        "lon": null
+      }
+    },
+    {
+      "stage": 11,
+      "date": null,
+      "distance_km": null,
+      "elevation_gain_m": null,
+      "start": {
+        "town": null,
+        "lat": null,
+        "lon": null
+      },
+      "finish": {
+        "town": null,
+        "lat": null,
+        "lon": null
+      }
+    },
+    {
+      "stage": 12,
+      "date": null,
+      "distance_km": null,
+      "elevation_gain_m": null,
+      "start": {
+        "town": null,
+        "lat": null,
+        "lon": null
+      },
+      "finish": {
+        "town": null,
+        "lat": null,
+        "lon": null
+      }
+    },
+    {
+      "stage": 13,
+      "date": null,
+      "distance_km": null,
+      "elevation_gain_m": null,
+      "start": {
+        "town": null,
+        "lat": null,
+        "lon": null
+      },
+      "finish": {
+        "town": null,
+        "lat": null,
+        "lon": null
+      }
+    },
+    {
+      "stage": 14,
+      "date": null,
+      "distance_km": null,
+      "elevation_gain_m": null,
+      "start": {
+        "town": null,
+        "lat": null,
+        "lon": null
+      },
+      "finish": {
+        "town": null,
+        "lat": null,
+        "lon": null
+      }
+    },
+    {
+      "stage": 15,
+      "date": null,
+      "distance_km": null,
+      "elevation_gain_m": null,
+      "start": {
+        "town": null,
+        "lat": null,
+        "lon": null
+      },
+      "finish": {
+        "town": null,
+        "lat": null,
+        "lon": null
+      }
+    },
+    {
+      "stage": 16,
+      "date": null,
+      "distance_km": null,
+      "elevation_gain_m": null,
+      "start": {
+        "town": null,
+        "lat": null,
+        "lon": null
+      },
+      "finish": {
+        "town": null,
+        "lat": null,
+        "lon": null
+      }
+    },
+    {
+      "stage": 17,
+      "date": null,
+      "distance_km": null,
+      "elevation_gain_m": null,
+      "start": {
+        "town": null,
+        "lat": null,
+        "lon": null
+      },
+      "finish": {
+        "town": null,
+        "lat": null,
+        "lon": null
+      }
+    },
+    {
+      "stage": 18,
+      "date": null,
+      "distance_km": null,
+      "elevation_gain_m": null,
+      "start": {
+        "town": null,
+        "lat": null,
+        "lon": null
+      },
+      "finish": {
+        "town": null,
+        "lat": null,
+        "lon": null
+      }
+    }
+  ]
+}

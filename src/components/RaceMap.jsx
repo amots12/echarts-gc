@@ -2,9 +2,16 @@ import React, { useEffect, useState } from "react";
 import ReactECharts from "echarts-for-react";
 import * as echarts from "echarts";
 
+const RACE_MAPS = {
+  tour: "france",
+  giro: "italy",
+  vuelta: "spain"
+};
+
 export default function RaceMap({ race, year, stageIndex }) {
   const [stages, setStages] = useState([]);
   const [mapReady, setMapReady] = useState(false);
+  const mapKey = RACE_MAPS[race];
 
   /* ---------- LOAD STAGE METADATA ---------- */
   useEffect(() => {
@@ -18,21 +25,34 @@ export default function RaceMap({ race, year, stageIndex }) {
       .catch(() => setStages([]));
   }, [race, year]);
 
-  /* ---------- LOAD + REGISTER MAP ---------- */
   useEffect(() => {
+    if (!mapKey) {
+      setMapReady(false);
+      return;
+    }
+
     setMapReady(false);
 
-    fetch(`${process.env.PUBLIC_URL}/maps/france.geojson`)
-      .then(r => r.json())
+    fetch(`${process.env.PUBLIC_URL}/maps/${mapKey}.geojson`)
+      .then(r => {
+        if (!r.ok) {
+          throw new Error(`Failed to fetch ${mapKey}: ${r.status}`);
+        }
+        return r.json();
+      })
       .then(geoJson => {
-        echarts.registerMap("france", geoJson);
+        if (!geoJson || geoJson.type !== "FeatureCollection") {
+          throw new Error("Invalid GeoJSON structure");
+        }
+
+        echarts.registerMap(mapKey, geoJson);
         setMapReady(true);
       })
       .catch(err => {
-        console.error("Failed to load France map", err);
+        console.error("Map load error:", err);
         setMapReady(false);
       });
-  }, []);
+  }, [mapKey]);
 
   const stage = stages[stageIndex];
 
@@ -45,14 +65,19 @@ export default function RaceMap({ race, year, stageIndex }) {
   }));
 
   /* ---------- GUARDS ---------- */
-  if (!mapReady || !stage) {
-    return <div style={{ height: 360 }} />;
-  }
+if (
+  !mapReady ||
+  !stage ||
+  !stage.finish ||
+  !echarts.getMap(mapKey)
+) {
+  return <div style={{ height: 360 }} />;
+}
 
   /* ---------- ECHART OPTION ---------- */
   const option = {
     geo: {
-      map: "france",
+      map: mapKey,
       roam: false,
       zoom: 1.1,
       itemStyle: {
