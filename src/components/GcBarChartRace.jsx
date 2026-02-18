@@ -179,7 +179,13 @@ export default function GcBarChartRace({ race, year, onStageChange }) {
     })
   : null;
 
-  
+  const formattedDate = currentStageMeta?.date
+  ? new Date(currentStageMeta.date).toLocaleDateString("en-GB", {
+      day: "2-digit",
+      month: "long",
+      year: "numeric"
+    })
+  : null;
 
   const riders =
     isIntro
@@ -209,27 +215,29 @@ export default function GcBarChartRace({ race, year, onStageChange }) {
 
   const option = {
     title: {
-        text: currentStageMeta
-          ? `Stage ${stages[stageIndex].stage} — ${currentStageMeta.date} (${weekday})`
-          : `Stage ${stages[stageIndex].stage}`,
-        subtext: smoothKm !== null
-          ? `Total distance: ${smoothKm.toFixed(0)} km`
-          : "",
-        left: "center",
-        top: 12,
-        textStyle: {
-          fontSize: 20,
-          fontWeight: 600,
-          color: "#111827"
-        },
-        subtextStyle: {
-          fontSize: 13,
-          color: "#6b7280"
-        }
+      left: "center",
+      top: 12,
+      text: `Stage ${stages[stageIndex].stage}`,
+      subtext: currentStageMeta
+        ? `${formattedDate} · ${weekday}
+    ${currentStageMeta.start.town} → ${currentStageMeta.finish.town}
+    ${smoothKm !== null ? smoothKm.toFixed(0) : ""} km covered`
+        : "",
+      textStyle: {
+        fontSize: 22,
+        fontWeight: 700,
+        color: "#111827"
       },
-    grid: { left: 80, right: 220, top: 60, bottom: 20 },
+      subtextStyle: {
+        fontSize: 14,
+        lineHeight: 20,
+        color: "#4b5563"
+      }
+    },
+    grid: { left: 50, right: 200, top: 90, bottom: 10 },
     xAxis: {
       type: "value",
+      show: false,
       min: 0,
       splitLine: { show: false }
     },
@@ -248,7 +256,7 @@ export default function GcBarChartRace({ race, year, onStageChange }) {
     series: [
       {
         type: "bar",
-        barWidth: 32,
+        barWidth: 36,
         data: riders.map(r => ({
           value: r.gap,
           itemStyle: {
@@ -318,7 +326,7 @@ export default function GcBarChartRace({ race, year, onStageChange }) {
         display: "flex",
         flexDirection: "column",
         minHeight: 0,
-        padding: 8
+        padding: 16
       }}
     >
       {/* Explanation */}
@@ -365,7 +373,7 @@ export default function GcBarChartRace({ race, year, onStageChange }) {
       {/* Progress bar */}
       <div
         style={{
-          height: 6,
+          height: 4,
           background: "#e5e7eb",
           borderRadius: 4,
           overflow: "hidden",

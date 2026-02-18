@@ -52,7 +52,7 @@ const styles = {
 
   dashboard: {
     display: "grid",
-    gridTemplateColumns: "1fr 1.2fr",
+    gridTemplateColumns: "1.05fr 1.3fr",
     gap: "16px",
     padding: "16px",
     overflow: "hidden",
@@ -63,7 +63,7 @@ const styles = {
     background: "#ffffff",
     borderRadius: "8px",
     padding: "8px",
-    boxShadow: "0 1px 3px rgba(0,0,0,0.05)",
+    boxShadow: "0 2px 8px rgba(0,0,0,0.06)",
     minHeight: 0,
     overflow: "hidden",
     display: "flex",
@@ -74,7 +74,7 @@ const styles = {
     background: "#ffffff",
     borderRadius: "8px",
     padding: "8px",
-    boxShadow: "0 1px 3px rgba(0,0,0,0.05)",
+    boxShadow: "0 2px 8px rgba(0,0,0,0.06)",
     minHeight: 0,
     overflow: "hidden",
     display: "flex",
@@ -121,12 +121,28 @@ export default function App() {
     </div>
 
     <div style={styles.explanation}>
-      <div style={styles.explanationBox}>
-        This visualization shows the evolution of General Classification
-        standings over race stages. Bars represent time gap to the leader.
-        The map shows the stage finishing location.
-      </div>
+  <div style={{
+    ...styles.explanationBox,
+    fontFamily: "'Inter', sans-serif",
+    lineHeight: 1.5
+  }}>
+    <div style={{
+      fontSize: "20px",
+      fontWeight: 600,
+      marginBottom: "6px"
+    }}>
+      Animate the Race — Replay the GC battle
     </div>
+
+    <div style={{
+      fontSize: "14px",
+      color: "#4b5563"
+    }}>
+      Across mountains, time trials, and sprint finishes, the GC battle evolves.
+    Bar length reflects time behind the leader; the map marks where each chapter concludes.
+    </div>
+    </div>
+  </div>
 
     <div style={styles.dashboard}>
       <div style={styles.mapContainer}>
