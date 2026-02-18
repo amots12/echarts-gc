@@ -1,15 +1,15 @@
 import React, { useEffect, useRef, useState } from "react";
 import ReactECharts from "echarts-for-react";
 
-import { Stack, IconButton, 
-    Accordion,
-    AccordionSummary,
-    AccordionDetails,
-    Typography} from "@mui/material";
+import { Stack, IconButton 
+    /*Accordion,*/
+    /*AccordionSummary,*/
+    /*AccordionDetails,*/
+    /*Typography*/} from "@mui/material";
 import PlayArrowIcon from "@mui/icons-material/PlayArrow";
 import PauseIcon from "@mui/icons-material/Pause";
 import ReplayIcon from "@mui/icons-material/Replay";
-import ExpandMoreIcon from "@mui/icons-material/ExpandMore";
+/*import ExpandMoreIcon from "@mui/icons-material/ExpandMore";*/
 
 /* ================= TEAM COLORS ================= */
 
@@ -214,6 +214,9 @@ export default function GcBarChartRace({ race, year, onStageChange }) {
   const showLabels = tick > 0;
 
   const option = {
+    tooltip: {
+      show: false
+    },
     title: {
       left: "center",
       top: 12,
@@ -234,7 +237,7 @@ export default function GcBarChartRace({ race, year, onStageChange }) {
         color: "#4b5563"
       }
     },
-    grid: { left: 50, right: 200, top: 90, bottom: 10 },
+    grid: { left: 40, right: 220, top: 92, bottom: 10 },
     xAxis: {
       type: "value",
       show: false,
@@ -256,6 +259,7 @@ export default function GcBarChartRace({ race, year, onStageChange }) {
     series: [
       {
         type: "bar",
+        silent: true,
         barWidth: 36,
         data: riders.map(r => ({
           value: r.gap,
@@ -329,29 +333,6 @@ export default function GcBarChartRace({ race, year, onStageChange }) {
         padding: 16
       }}
     >
-      {/* Explanation */}
-      <Accordion
-        elevation={0}
-        sx={{
-          mb: 1,
-          background: "#f9fafb",
-          borderRadius: 2,
-          border: "1px solid #e5e7eb"
-        }}
-      >
-        <AccordionSummary expandIcon={<ExpandMoreIcon />}>
-          <Typography fontWeight={600}>How to read this chart</Typography>
-        </AccordionSummary>
-  
-        <AccordionDetails>
-          <Typography variant="body2" color="text.secondary">
-            • Each bar represents a rider’s time gap to the race leader<br />
-            • Shorter bars mean closer to the leader<br />
-            • Bars reorder as rankings change after each stage<br />
-            • Colors indicate team affiliation
-          </Typography>
-        </AccordionDetails>
-      </Accordion>
   
       {/* Controls */}
       <Stack direction="row" spacing={1} justifyContent="center" sx={{ mb: 1 }}>
