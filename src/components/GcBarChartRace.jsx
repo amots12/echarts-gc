@@ -11,33 +11,12 @@ import PauseIcon from "@mui/icons-material/Pause";
 import ReplayIcon from "@mui/icons-material/Replay";
 /*import ExpandMoreIcon from "@mui/icons-material/ExpandMore";*/
 
-/* ================= TEAM COLORS ================= */
-
-const TEAM_COLORS = {
-  "Quick-Step Alpha Vinyl Team": "#1e3a8a",
-  "Team Jumbo–Visma": "#facc15",
-  "UAE Team Emirates": "#e11d48",
-  "Ineos Grenadiers": "#111827",
-  "Alpecin–Deceuninck": "#2563eb",
-  "Trek–Segafredo": "#dc2626",
-  "Team Bahrain Victorious": "#b91c1c",
-  "EF Education–EasyPost": "#ec4899",
-  "Groupama–FDJ": "#2563eb",
-  "Movistar Team": "#0ea5e9",
-  "Arkéa–Samsic": "#111827",
-  "Team DSM": "#f97316",
-  "Astana Qazaqstan Team": "#38bdf8",
-  "Bora–Hansgrohe": "#22c55e",
-  "Intermarché–Wanty–Gobert Matériaux": "#16a34a"
+const DEFAULT_JERSEY_PRIMARY = "#E5E7EB";
+const DEFAULT_JERSEY_SECONDARY = "#9CA3AF";
+const TEAM_NAME_ALIASES = {
+  "UAE Team Emirates": "UAE Team Emirates XRG",
+  "Alpecin–Deceuninck": "Alpecin–Deceuninck"
 };
-
-const FALLBACK_COLORS = ["#64748b", "#8b5cf6", "#06b6d4", "#84cc16"];
-
-function getTeamColor(team) {
-  if (TEAM_COLORS[team]) return TEAM_COLORS[team];
-  const h = team.split("").reduce((a, c) => a + c.charCodeAt(0), 0);
-  return FALLBACK_COLORS[h % FALLBACK_COLORS.length];
-}
 
 /* ================= TIME ================= */
 
@@ -60,6 +39,22 @@ function formatGap(seconds) {
   const m = Math.floor(seconds / 60);
   const s = Math.round(seconds % 60);
   return m > 0 ? `${m}m ${s}s` : `${s}s`;
+}
+
+function makeJerseyDataUrl(primaryHex, secondaryHex) {
+  const primary = primaryHex || DEFAULT_JERSEY_PRIMARY;
+  const secondary = secondaryHex || DEFAULT_JERSEY_SECONDARY;
+
+  const svg = `
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1152 896">
+      <path d="M 285 309 L 116 415 L 44 225 L 45 221 L 277 60 L 408 61 L 439 81 L 295 306 Z" fill="${secondary}" />
+      <path d="M 740 60 L 871 61 L 1093 216 L 1101 222 L 1101 226 L 1029 415 L 850 305 L 699 85 Z" fill="${secondary}" />
+      <path d="M 569 866 L 338 865 L 295 306 L 439 81 L 485 101 L 533 112 L 569 115 L 583 115 L 625 110 L 666 99 L 699 85 L 806 864 L 773 866 Z" fill="${primary}" />
+      <path d="M 285 309 L 116 415 L 44 225 L 45 221 L 277 60 L 408 61 L 439 81 L 485 101 L 533 112 L 569 115 L 583 115 L 625 110 L 666 99 L 699 85 L 740 60 L 871 61 L 1093 216 L 1101 222 L 1101 226 L 1029 415 L 850 305 L 806 864 L 773 866 L 569 866 L 338 865 Z" fill="none" stroke="#111827" stroke-width="18" stroke-opacity="0.14" />
+    </svg>
+  `;
+
+  return `data:image/svg+xml;base64,${btoa(unescape(encodeURIComponent(svg)))}`;
 }
 
 /* ================= INTERPOLATION ================= */
@@ -93,6 +88,8 @@ export default function GcBarChartRace({ race, year, onStageChange }) {
   const [tick, setTick] = useState(0);
   const timerRef = useRef(null);
   const [stageMeta, setStageMeta] = useState([]);
+  const [teamPaletteByName, setTeamPaletteByName] = useState({});
+  const jerseyCacheRef = useRef(new Map());
 
   const FRAMES = 30;
   const FRAME_MS = 120;
@@ -115,12 +112,31 @@ export default function GcBarChartRace({ race, year, onStageChange }) {
       `${process.env.PUBLIC_URL}/data/stages/${race}-${year}-stages.json`
     )
       .then(r => r.json())
-      .then(d => setStageMeta(d.stages))
+      .then(d => {
+        setStageMeta(d?.stages || []);
+
+        const palettes = {};
+        (d?.teams || []).forEach(team => {
+          if (!team?.name) return;
+          const colours = Array.isArray(team.colours) ? team.colours : [];
+          palettes[team.name] = {
+            primary: colours[0] || DEFAULT_JERSEY_PRIMARY,
+            secondary: colours[1] || DEFAULT_JERSEY_SECONDARY,
+            accent: colours[2] || null
+          };
+        });
+        setTeamPaletteByName(palettes);
+      })
       .catch(err => {
         console.warn("No stage metadata found", err);
         setStageMeta([]);
+        setTeamPaletteByName({});
       });
   }, [race, year]);
+
+  useEffect(() => {
+    jerseyCacheRef.current.clear();
+  }, [race, year, teamPaletteByName]);
 
   const isIntro = tick < INTRO_FRAMES;
 
@@ -213,6 +229,44 @@ export default function GcBarChartRace({ race, year, onStageChange }) {
 
   const showLabels = tick > 0;
 
+  const resolveTeamPalette = (teamName) => {
+    const resolvedTeamName = TEAM_NAME_ALIASES[teamName] || teamName;
+    return teamPaletteByName[resolvedTeamName] || {
+      primary: DEFAULT_JERSEY_PRIMARY,
+      secondary: DEFAULT_JERSEY_SECONDARY
+    };
+  };
+
+  const getJerseyForTeam = (teamName) => {
+    const resolvedTeamName = TEAM_NAME_ALIASES[teamName] || teamName;
+    const palette = resolveTeamPalette(teamName);
+    const key = `${resolvedTeamName || "__fallback__"}|${palette.primary}|${palette.secondary}`;
+    if (jerseyCacheRef.current.has(key)) {
+      return jerseyCacheRef.current.get(key);
+    }
+
+    const dataUrl = makeJerseyDataUrl(palette.primary, palette.secondary);
+    jerseyCacheRef.current.set(key, dataUrl);
+    return dataUrl;
+  };
+
+  const labelRich = riders.reduce(
+    (acc, rider, i) => {
+      acc[`icon_${i}`] = {
+        width: 16,
+        height: 16,
+        align: "center",
+        borderRadius: 2,
+        backgroundColor: { image: getJerseyForTeam(rider.team) }
+      };
+      return acc;
+    },
+    {
+      name: { fontWeight: "bold", color: "#111827", fontSize: 13 },
+      gap: { fontWeight: "bold", color: "#111827", fontSize: 13 }
+    }
+  );
+
   const option = {
     tooltip: {
       show: false
@@ -264,7 +318,7 @@ export default function GcBarChartRace({ race, year, onStageChange }) {
         data: riders.map(r => ({
           value: r.gap,
           itemStyle: {
-            color: getTeamColor(r.team),
+            color: resolveTeamPalette(r.team).primary,
             opacity: 0.85,
             borderRadius: 6
           }
@@ -272,15 +326,17 @@ export default function GcBarChartRace({ race, year, onStageChange }) {
         label: {
           show: showLabels,
           position: "right",
+          rich: labelRich,
           formatter: ({ dataIndex }) => {
             const r = riders[dataIndex];
             if (!r) return "";
-          
+
+            const iconKey = `icon_${dataIndex}`;
             if (r.rank === 1) {
-              return `${r.name} — Leader (${r.team})`;
+              return `{${iconKey}|} {name|${r.name}} {gap|— Leader}`;
             }
-          
-            return `${r.name}, +${formatGap(r.gap)}, ${r.team}`;
+
+            return `{${iconKey}|} {name|${r.name}} {gap|+${formatGap(r.gap)}}`;
           },
           fontSize: 13,
           fontWeight: "bold"

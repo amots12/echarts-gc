@@ -2,112 +2,584 @@
   "race": "giro",
   "year": 2023,
   "teams": [
-    { "name": "AG2R Citroën Team", "uci_code": null, "country": null },
-    { "name": "Alpecin–Deceuninck", "uci_code": null, "country": null },
-    { "name": "Astana Qazaqstan Team", "uci_code": null, "country": null },
-    { "name": "Arkéa–Samsic", "uci_code": null, "country": null },
-    { "name": "Bora–Hansgrohe", "uci_code": null, "country": null },
-    { "name": "Cofidis", "uci_code": null, "country": null },
-    { "name": "EF Education–EasyPost", "uci_code": null, "country": null },
-    { "name": "Groupama–FDJ", "uci_code": null, "country": null },
-    { "name": "Ineos Grenadiers", "uci_code": null, "country": null },
-    { "name": "Intermarché–Circus–Wanty", "uci_code": null, "country": null },
-    { "name": "Movistar Team", "uci_code": null, "country": null },
-    { "name": "Soudal–Quick-Step", "uci_code": null, "country": null },
-    { "name": "Team Bahrain Victorious", "uci_code": null, "country": null },
-    { "name": "Team DSM", "uci_code": null, "country": null },
-    { "name": "Team Jayco–AlUla", "uci_code": null, "country": null },
-    { "name": "Team Jumbo–Visma", "uci_code": null, "country": null },
-    { "name": "Trek–Segafredo", "uci_code": null, "country": null },
-    { "name": "UAE Team Emirates", "uci_code": null, "country": null },
-    { "name": "Eolo–Kometa", "uci_code": null, "country": null },
-    { "name": "Green Project–Bardiani–CSF–Faizanè", "uci_code": null, "country": null },
-    { "name": "Israel–Premier Tech", "uci_code": null, "country": null },
-    { "name": "Team Corratec–Selle Italia", "uci_code": null, "country": null }
+    {
+      "name": "AG2R Citroën Team",
+      "uci_code": null,
+      "country": null,
+      "colours": [
+        "#FFFFFF",
+        "#4A2C2A",
+        "#00A3E0"
+      ]
+    },
+    {
+      "name": "Alpecin–Deceuninck",
+      "uci_code": null,
+      "country": null,
+      "colours": [
+        "#1D4ED8",
+        "#FFFFFF",
+        "#111827"
+      ]
+    },
+    {
+      "name": "Astana Qazaqstan Team",
+      "uci_code": null,
+      "country": null,
+      "colours": [
+        "#00A3E0",
+        "#111827",
+        "#EF4444"
+      ]
+    },
+    {
+      "name": "Arkéa–Samsic",
+      "uci_code": null,
+      "country": null,
+      "colours": [
+        "#E10600",
+        "#111827",
+        "#FFFFFF"
+      ]
+    },
+    {
+      "name": "Bora–Hansgrohe",
+      "uci_code": null,
+      "country": null,
+      "colours": [
+        "#111827",
+        "#16A34A",
+        "#FFFFFF"
+      ]
+    },
+    {
+      "name": "Cofidis",
+      "uci_code": null,
+      "country": null,
+      "colours": [
+        "#E10600",
+        "#FFFFFF",
+        "#111827"
+      ]
+    },
+    {
+      "name": "EF Education–EasyPost",
+      "uci_code": null,
+      "country": null,
+      "colours": [
+        "#FF2D87",
+        "#111827",
+        "#FFFFFF"
+      ]
+    },
+    {
+      "name": "Groupama–FDJ",
+      "uci_code": null,
+      "country": null,
+      "colours": [
+        "#0033A0",
+        "#E10600",
+        "#FFFFFF"
+      ]
+    },
+    {
+      "name": "Ineos Grenadiers",
+      "uci_code": null,
+      "country": null,
+      "colours": [
+        "#111827",
+        "#E10600",
+        "#FFFFFF"
+      ]
+    },
+    {
+      "name": "Intermarché–Circus–Wanty",
+      "uci_code": null,
+      "country": null,
+      "colours": [
+        "#111827",
+        "#C8102E",
+        "#F59E0B"
+      ]
+    },
+    {
+      "name": "Movistar Team",
+      "uci_code": null,
+      "country": null,
+      "colours": [
+        "#0EA5E9",
+        "#002855",
+        "#FFFFFF"
+      ]
+    },
+    {
+      "name": "Soudal–Quick-Step",
+      "uci_code": null,
+      "country": null,
+      "colours": [
+        "#1D4ED8",
+        "#FFFFFF",
+        "#EF4444"
+      ]
+    },
+    {
+      "name": "Team Bahrain Victorious",
+      "uci_code": null,
+      "country": null,
+      "colours": [
+        "#FFFFFF",
+        "#0072CE",
+        "#111827"
+      ]
+    },
+    {
+      "name": "Team DSM",
+      "uci_code": null,
+      "country": null,
+      "colours": [
+        "#111827",
+        "#0EA5E9",
+        "#FFFFFF"
+      ]
+    },
+    {
+      "name": "Team Jayco–AlUla",
+      "uci_code": null,
+      "country": null,
+      "colours": [
+        "#FFFFFF",
+        "#1E3A8A",
+        "#EF4444"
+      ]
+    },
+    {
+      "name": "Team Jumbo–Visma",
+      "uci_code": null,
+      "country": null,
+      "colours": [
+        "#FACC15",
+        "#111827",
+        "#FFFFFF"
+      ]
+    },
+    {
+      "name": "Trek–Segafredo",
+      "uci_code": null,
+      "country": null,
+      "colours": [
+        "#E10600",
+        "#111827",
+        "#FFFFFF"
+      ]
+    },
+    {
+      "name": "UAE Team Emirates",
+      "uci_code": null,
+      "country": null,
+      "colours": [
+        "#FFFFFF",
+        "#EF4444",
+        "#111827"
+      ]
+    },
+    {
+      "name": "Eolo–Kometa",
+      "uci_code": null,
+      "country": null,
+      "colours": [
+        "#0EA5E9",
+        "#1E3A8A",
+        "#FFFFFF"
+      ]
+    },
+    {
+      "name": "Green Project–Bardiani–CSF–Faizanè",
+      "uci_code": null,
+      "country": null,
+      "colours": [
+        "#16A34A",
+        "#FFFFFF",
+        "#EF4444"
+      ]
+    },
+    {
+      "name": "Israel–Premier Tech",
+      "uci_code": null,
+      "country": null,
+      "colours": [
+        "#0070B8",
+        "#B51E8A",
+        "#FFFFFF"
+      ]
+    },
+    {
+      "name": "Team Corratec–Selle Italia",
+      "uci_code": null,
+      "country": null,
+      "colours": [
+        "#1D4ED8",
+        "#EF4444",
+        "#FFFFFF"
+      ]
+    }
   ],
   "stages": [
-    { "stage": 1, "date": "2023-05-06", "distance_km": 19.6, "accumulated_km": 19.6, "elevation_gain_m": null,
-      "start": { "town": "Fossacesia", "lat": 42.2450, "lon": 14.4830 },
-      "finish": { "town": "Ortona", "lat": 42.3500, "lon": 14.4000 } },
-
-    { "stage": 2, "date": "2023-05-07", "distance_km": 202.0, "accumulated_km": 221.6, "elevation_gain_m": null,
-      "start": { "town": "Teramo", "lat": 42.6589, "lon": 13.7044 },
-      "finish": { "town": "San Salvo", "lat": 42.0500, "lon": 14.7330 } },
-
-    { "stage": 3, "date": "2023-05-08", "distance_km": 213.0, "accumulated_km": 434.6, "elevation_gain_m": null,
-      "start": { "town": "Vasto", "lat": 42.1167, "lon": 14.7167 },
-      "finish": { "town": "Melfi", "lat": 40.9950, "lon": 15.6540 } },
-
-    { "stage": 4, "date": "2023-05-09", "distance_km": 175.0, "accumulated_km": 609.6, "elevation_gain_m": null,
-      "start": { "town": "Venosa", "lat": 40.9667, "lon": 15.8167 },
-      "finish": { "town": "Lago Laceno", "lat": 40.8000, "lon": 15.1660 } },
-
-    { "stage": 5, "date": "2023-05-10", "distance_km": 171.0, "accumulated_km": 780.6, "elevation_gain_m": null,
-      "start": { "town": "Atripalda", "lat": 40.9167, "lon": 14.8333 },
-      "finish": { "town": "Salerno", "lat": 40.6824, "lon": 14.7681 } },
-
-    { "stage": 6, "date": "2023-05-11", "distance_km": 162.0, "accumulated_km": 942.6, "elevation_gain_m": null,
-      "start": { "town": "Naples", "lat": 40.8518, "lon": 14.2681 },
-      "finish": { "town": "Naples", "lat": 40.8518, "lon": 14.2681 } },
-
-    { "stage": 7, "date": "2023-05-12", "distance_km": 218.0, "accumulated_km": 1160.6, "elevation_gain_m": null,
-      "start": { "town": "Capua", "lat": 41.1050, "lon": 14.2120 },
-      "finish": { "town": "Gran Sasso d’Italia", "lat": 42.4690, "lon": 13.5650 } },
-
-    { "stage": 8, "date": "2023-05-13", "distance_km": 207.0, "accumulated_km": 1367.6, "elevation_gain_m": null,
-      "start": { "town": "Terni", "lat": 42.5636, "lon": 12.6433 },
-      "finish": { "town": "Fossombrone", "lat": 43.6880, "lon": 12.8130 } },
-
-    { "stage": 9, "date": "2023-05-14", "distance_km": 35.0, "accumulated_km": 1402.6, "elevation_gain_m": null,
-      "start": { "town": "Savignano sul Rubicone", "lat": 44.0900, "lon": 12.3990 },
-      "finish": { "town": "Cesena", "lat": 44.1391, "lon": 12.2464 } },
-
-    { "stage": 10, "date": "2023-05-16", "distance_km": 196.0, "accumulated_km": 1598.6, "elevation_gain_m": null,
-      "start": { "town": "Scandiano", "lat": 44.5980, "lon": 10.6900 },
-      "finish": { "town": "Viareggio", "lat": 43.8710, "lon": 10.2550 } },
-
-    { "stage": 11, "date": "2023-05-17", "distance_km": 219.0, "accumulated_km": 1817.6, "elevation_gain_m": null,
-      "start": { "town": "Camaiore", "lat": 43.9420, "lon": 10.3010 },
-      "finish": { "town": "Tortona", "lat": 44.8940, "lon": 8.8640 } },
-
-    { "stage": 12, "date": "2023-05-18", "distance_km": 185.0, "accumulated_km": 2002.6, "elevation_gain_m": null,
-      "start": { "town": "Bra", "lat": 44.6980, "lon": 7.8540 },
-      "finish": { "town": "Rivoli", "lat": 45.0700, "lon": 7.5230 } },
-
-    { "stage": 13, "date": "2023-05-19", "distance_km": 74.6, "accumulated_km": 2077.2, "elevation_gain_m": null,
-      "start": { "town": "Borgofranco d’Ivrea", "lat": 45.5150, "lon": 7.8600 },
-      "finish": { "town": "Crans-Montana", "lat": 46.3080, "lon": 7.4810 } },
-
-    { "stage": 14, "date": "2023-05-20", "distance_km": 194.0, "accumulated_km": 2271.2, "elevation_gain_m": null,
-      "start": { "town": "Sierre", "lat": 46.2910, "lon": 7.5350 },
-      "finish": { "town": "Cassano Magnago", "lat": 45.6720, "lon": 8.8260 } },
-
-    { "stage": 15, "date": "2023-05-21", "distance_km": 195.0, "accumulated_km": 2466.2, "elevation_gain_m": null,
-      "start": { "town": "Seregno", "lat": 45.6520, "lon": 9.2040 },
-      "finish": { "town": "Bergamo", "lat": 45.6983, "lon": 9.6773 } },
-
-    { "stage": 16, "date": "2023-05-23", "distance_km": 203.0, "accumulated_km": 2669.2, "elevation_gain_m": null,
-      "start": { "town": "Sabbio Chiese", "lat": 45.6100, "lon": 10.5000 },
-      "finish": { "town": "Monte Bondone", "lat": 46.0200, "lon": 11.0200 } },
-
-    { "stage": 17, "date": "2023-05-24", "distance_km": 197.0, "accumulated_km": 2866.2, "elevation_gain_m": null,
-      "start": { "town": "Pergine Valsugana", "lat": 46.0600, "lon": 11.2400 },
-      "finish": { "town": "Caorle", "lat": 45.5960, "lon": 12.8760 } },
-
-    { "stage": 18, "date": "2023-05-25", "distance_km": 161.0, "accumulated_km": 3027.2, "elevation_gain_m": null,
-      "start": { "town": "Oderzo", "lat": 45.7830, "lon": 12.4880 },
-      "finish": { "town": "Zoldo Alto", "lat": 46.3800, "lon": 12.1000 } },
-
-    { "stage": 19, "date": "2023-05-26", "distance_km": 183.0, "accumulated_km": 3210.2, "elevation_gain_m": null,
-      "start": { "town": "Longarone", "lat": 46.2700, "lon": 12.3000 },
-      "finish": { "town": "Tre Cime di Lavaredo", "lat": 46.6180, "lon": 12.3000 } },
-
-    { "stage": 20, "date": "2023-05-27", "distance_km": 18.6, "accumulated_km": 3228.8, "elevation_gain_m": null,
-      "start": { "town": "Tarvisio", "lat": 46.5050, "lon": 13.5750 },
-      "finish": { "town": "Monte Lussari", "lat": 46.5050, "lon": 13.5000 } },
-
-    { "stage": 21, "date": "2023-05-28", "distance_km": 126.0, "accumulated_km": 3354.8, "elevation_gain_m": null,
-      "start": { "town": "Rome", "lat": 41.9028, "lon": 12.4964 },
-      "finish": { "town": "Rome", "lat": 41.9028, "lon": 12.4964 } }
+    {
+      "stage": 1,
+      "date": "2023-05-06",
+      "distance_km": 19.6,
+      "accumulated_km": 19.6,
+      "elevation_gain_m": null,
+      "start": {
+        "town": "Fossacesia",
+        "lat": 42.245,
+        "lon": 14.483
+      },
+      "finish": {
+        "town": "Ortona",
+        "lat": 42.35,
+        "lon": 14.4
+      }
+    },
+    {
+      "stage": 2,
+      "date": "2023-05-07",
+      "distance_km": 202,
+      "accumulated_km": 221.6,
+      "elevation_gain_m": null,
+      "start": {
+        "town": "Teramo",
+        "lat": 42.6589,
+        "lon": 13.7044
+      },
+      "finish": {
+        "town": "San Salvo",
+        "lat": 42.05,
+        "lon": 14.733
+      }
+    },
+    {
+      "stage": 3,
+      "date": "2023-05-08",
+      "distance_km": 213,
+      "accumulated_km": 434.6,
+      "elevation_gain_m": null,
+      "start": {
+        "town": "Vasto",
+        "lat": 42.1167,
+        "lon": 14.7167
+      },
+      "finish": {
+        "town": "Melfi",
+        "lat": 40.995,
+        "lon": 15.654
+      }
+    },
+    {
+      "stage": 4,
+      "date": "2023-05-09",
+      "distance_km": 175,
+      "accumulated_km": 609.6,
+      "elevation_gain_m": null,
+      "start": {
+        "town": "Venosa",
+        "lat": 40.9667,
+        "lon": 15.8167
+      },
+      "finish": {
+        "town": "Lago Laceno",
+        "lat": 40.8,
+        "lon": 15.166
+      }
+    },
+    {
+      "stage": 5,
+      "date": "2023-05-10",
+      "distance_km": 171,
+      "accumulated_km": 780.6,
+      "elevation_gain_m": null,
+      "start": {
+        "town": "Atripalda",
+        "lat": 40.9167,
+        "lon": 14.8333
+      },
+      "finish": {
+        "town": "Salerno",
+        "lat": 40.6824,
+        "lon": 14.7681
+      }
+    },
+    {
+      "stage": 6,
+      "date": "2023-05-11",
+      "distance_km": 162,
+      "accumulated_km": 942.6,
+      "elevation_gain_m": null,
+      "start": {
+        "town": "Naples",
+        "lat": 40.8518,
+        "lon": 14.2681
+      },
+      "finish": {
+        "town": "Naples",
+        "lat": 40.8518,
+        "lon": 14.2681
+      }
+    },
+    {
+      "stage": 7,
+      "date": "2023-05-12",
+      "distance_km": 218,
+      "accumulated_km": 1160.6,
+      "elevation_gain_m": null,
+      "start": {
+        "town": "Capua",
+        "lat": 41.105,
+        "lon": 14.212
+      },
+      "finish": {
+        "town": "Gran Sasso d’Italia",
+        "lat": 42.469,
+        "lon": 13.565
+      }
+    },
+    {
+      "stage": 8,
+      "date": "2023-05-13",
+      "distance_km": 207,
+      "accumulated_km": 1367.6,
+      "elevation_gain_m": null,
+      "start": {
+        "town": "Terni",
+        "lat": 42.5636,
+        "lon": 12.6433
+      },
+      "finish": {
+        "town": "Fossombrone",
+        "lat": 43.688,
+        "lon": 12.813
+      }
+    },
+    {
+      "stage": 9,
+      "date": "2023-05-14",
+      "distance_km": 35,
+      "accumulated_km": 1402.6,
+      "elevation_gain_m": null,
+      "start": {
+        "town": "Savignano sul Rubicone",
+        "lat": 44.09,
+        "lon": 12.399
+      },
+      "finish": {
+        "town": "Cesena",
+        "lat": 44.1391,
+        "lon": 12.2464
+      }
+    },
+    {
+      "stage": 10,
+      "date": "2023-05-16",
+      "distance_km": 196,
+      "accumulated_km": 1598.6,
+      "elevation_gain_m": null,
+      "start": {
+        "town": "Scandiano",
+        "lat": 44.598,
+        "lon": 10.69
+      },
+      "finish": {
+        "town": "Viareggio",
+        "lat": 43.871,
+        "lon": 10.255
+      }
+    },
+    {
+      "stage": 11,
+      "date": "2023-05-17",
+      "distance_km": 219,
+      "accumulated_km": 1817.6,
+      "elevation_gain_m": null,
+      "start": {
+        "town": "Camaiore",
+        "lat": 43.942,
+        "lon": 10.301
+      },
+      "finish": {
+        "town": "Tortona",
+        "lat": 44.894,
+        "lon": 8.864
+      }
+    },
+    {
+      "stage": 12,
+      "date": "2023-05-18",
+      "distance_km": 185,
+      "accumulated_km": 2002.6,
+      "elevation_gain_m": null,
+      "start": {
+        "town": "Bra",
+        "lat": 44.698,
+        "lon": 7.854
+      },
+      "finish": {
+        "town": "Rivoli",
+        "lat": 45.07,
+        "lon": 7.523
+      }
+    },
+    {
+      "stage": 13,
+      "date": "2023-05-19",
+      "distance_km": 74.6,
+      "accumulated_km": 2077.2,
+      "elevation_gain_m": null,
+      "start": {
+        "town": "Borgofranco d’Ivrea",
+        "lat": 45.515,
+        "lon": 7.86
+      },
+      "finish": {
+        "town": "Crans-Montana",
+        "lat": 46.308,
+        "lon": 7.481
+      }
+    },
+    {
+      "stage": 14,
+      "date": "2023-05-20",
+      "distance_km": 194,
+      "accumulated_km": 2271.2,
+      "elevation_gain_m": null,
+      "start": {
+        "town": "Sierre",
+        "lat": 46.291,
+        "lon": 7.535
+      },
+      "finish": {
+        "town": "Cassano Magnago",
+        "lat": 45.672,
+        "lon": 8.826
+      }
+    },
+    {
+      "stage": 15,
+      "date": "2023-05-21",
+      "distance_km": 195,
+      "accumulated_km": 2466.2,
+      "elevation_gain_m": null,
+      "start": {
+        "town": "Seregno",
+        "lat": 45.652,
+        "lon": 9.204
+      },
+      "finish": {
+        "town": "Bergamo",
+        "lat": 45.6983,
+        "lon": 9.6773
+      }
+    },
+    {
+      "stage": 16,
+      "date": "2023-05-23",
+      "distance_km": 203,
+      "accumulated_km": 2669.2,
+      "elevation_gain_m": null,
+      "start": {
+        "town": "Sabbio Chiese",
+        "lat": 45.61,
+        "lon": 10.5
+      },
+      "finish": {
+        "town": "Monte Bondone",
+        "lat": 46.02,
+        "lon": 11.02
+      }
+    },
+    {
+      "stage": 17,
+      "date": "2023-05-24",
+      "distance_km": 197,
+      "accumulated_km": 2866.2,
+      "elevation_gain_m": null,
+      "start": {
+        "town": "Pergine Valsugana",
+        "lat": 46.06,
+        "lon": 11.24
+      },
+      "finish": {
+        "town": "Caorle",
+        "lat": 45.596,
+        "lon": 12.876
+      }
+    },
+    {
+      "stage": 18,
+      "date": "2023-05-25",
+      "distance_km": 161,
+      "accumulated_km": 3027.2,
+      "elevation_gain_m": null,
+      "start": {
+        "town": "Oderzo",
+        "lat": 45.783,
+        "lon": 12.488
+      },
+      "finish": {
+        "town": "Zoldo Alto",
+        "lat": 46.38,
+        "lon": 12.1
+      }
+    },
+    {
+      "stage": 19,
+      "date": "2023-05-26",
+      "distance_km": 183,
+      "accumulated_km": 3210.2,
+      "elevation_gain_m": null,
+      "start": {
+        "town": "Longarone",
+        "lat": 46.27,
+        "lon": 12.3
+      },
+      "finish": {
+        "town": "Tre Cime di Lavaredo",
+        "lat": 46.618,
+        "lon": 12.3
+      }
+    },
+    {
+      "stage": 20,
+      "date": "2023-05-27",
+      "distance_km": 18.6,
+      "accumulated_km": 3228.8,
+      "elevation_gain_m": null,
+      "start": {
+        "town": "Tarvisio",
+        "lat": 46.505,
+        "lon": 13.575
+      },
+      "finish": {
+        "town": "Monte Lussari",
+        "lat": 46.505,
+        "lon": 13.5
+      }
+    },
+    {
+      "stage": 21,
+      "date": "2023-05-28",
+      "distance_km": 126,
+      "accumulated_km": 3354.8,
+      "elevation_gain_m": null,
+      "start": {
+        "town": "Rome",
+        "lat": 41.9028,
+        "lon": 12.4964
+      },
+      "finish": {
+        "town": "Rome",
+        "lat": 41.9028,
+        "lon": 12.4964
+      }
+    }
   ]
 }

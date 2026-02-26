@@ -1,0 +1,219 @@
+{
+  "race": "tour",
+  "year": 2020,
+  "teams": [
+    { "name": "AG2R La Mondiale", "uci_code": null, "country": null, "colours": ["#4A2C2A", "#00A3E0", "#FFFFFF"] },
+    { "name": "Astana Pro Team", "uci_code": null, "country": null, "colours": ["#00A3E0", "#111827", "#EF4444"] },
+    { "name": "Bahrain McLaren", "uci_code": null, "country": null, "colours": ["#111827", "#F97316", "#EF4444"] },
+    { "name": "Bora–Hansgrohe", "uci_code": null, "country": null, "colours": ["#111827", "#16A34A", "#FFFFFF"] },
+    { "name": "CCC Team", "uci_code": null, "country": null, "colours": ["#F97316", "#111827", "#FFFFFF"] },
+    { "name": "Cofidis", "uci_code": null, "country": null, "colours": ["#E10600", "#FFFFFF", "#111827"] },
+    { "name": "Deceuninck–Quick-Step", "uci_code": null, "country": null, "colours": ["#1D4ED8", "#FFFFFF", "#EF4444"] },
+    { "name": "EF Pro Cycling", "uci_code": null, "country": null, "colours": ["#FF2D87", "#111827", "#FFFFFF"] },
+    { "name": "Groupama–FDJ", "uci_code": null, "country": null, "colours": ["#0033A0", "#E10600", "#FFFFFF"] },
+    { "name": "Israel Start-Up Nation", "uci_code": null, "country": null, "colours": ["#0070B8", "#FFFFFF", "#111827"] },
+    { "name": "Lotto–Soudal", "uci_code": null, "country": null, "colours": ["#E10600", "#111827", "#FFFFFF"] },
+    { "name": "Mitchelton–Scott", "uci_code": null, "country": null, "colours": ["#111827", "#FACC15", "#FFFFFF"] },
+    { "name": "Movistar Team", "uci_code": null, "country": null, "colours": ["#0EA5E9", "#002855", "#FFFFFF"] },
+    { "name": "NTT Pro Cycling", "uci_code": null, "country": null, "colours": ["#111827", "#00A3E0", "#FFFFFF"] },
+    { "name": "Team Ineos", "uci_code": null, "country": null, "colours": ["#111827", "#E10600", "#FFFFFF"] },
+    { "name": "Team Jumbo–Visma", "uci_code": null, "country": null, "colours": ["#FACC15", "#111827", "#FFFFFF"] },
+    { "name": "Team Sunweb", "uci_code": null, "country": null, "colours": ["#FFFFFF", "#111827", "#EF4444"] },
+    { "name": "Trek–Segafredo", "uci_code": null, "country": null, "colours": ["#E10600", "#111827", "#FFFFFF"] },
+    { "name": "UAE Team Emirates", "uci_code": null, "country": null, "colours": ["#FFFFFF", "#EF4444", "#111827"] },
+    { "name": "Arkéa–Samsic", "uci_code": null, "country": null, "colours": ["#E10600", "#111827", "#FFFFFF"] },
+    { "name": "B&B Hotels–Vital Concept p/b KTM", "uci_code": null, "country": null, "colours": ["#00AFAF", "#111827", "#F97316"] },
+    { "name": "Total Direct Energie", "uci_code": null, "country": null, "colours": ["#FFFFFF", "#FF8200", "#0057B8"] }
+  ],
+  "stages": [
+    {
+      "stage": 1,
+      "date": "2020-08-29",
+      "distance_km": 156.0,
+      "accumulated_km": 156.0,
+      "elevation_gain_m": null,
+      "start": { "town": "Nice", "lat": 43.7102, "lon": 7.2620 },
+      "finish": { "town": "Nice", "lat": 43.7102, "lon": 7.2620 }
+    },
+    {
+      "stage": 2,
+      "date": "2020-08-30",
+      "distance_km": 186.0,
+      "accumulated_km": 342.0,
+      "elevation_gain_m": null,
+      "start": { "town": "Nice", "lat": 43.7102, "lon": 7.2620 },
+      "finish": { "town": "Nice", "lat": 43.7102, "lon": 7.2620 }
+    },
+    {
+      "stage": 3,
+      "date": "2020-08-31",
+      "distance_km": 198.0,
+      "accumulated_km": 540.0,
+      "elevation_gain_m": null,
+      "start": { "town": "Nice", "lat": 43.7102, "lon": 7.2620 },
+      "finish": { "town": "Sisteron", "lat": 44.1964, "lon": 5.9458 }
+    },
+    {
+      "stage": 4,
+      "date": "2020-09-01",
+      "distance_km": 160.5,
+      "accumulated_km": 700.5,
+      "elevation_gain_m": null,
+      "start": { "town": "Sisteron", "lat": 44.1964, "lon": 5.9458 },
+      "finish": { "town": "Orcières-Merlette", "lat": 44.6968, "lon": 6.3253 }
+    },
+    {
+      "stage": 5,
+      "date": "2020-09-02",
+      "distance_km": 183.0,
+      "accumulated_km": 883.5,
+      "elevation_gain_m": null,
+      "start": { "town": "Gap", "lat": 44.5590, "lon": 6.0790 },
+      "finish": { "town": "Privas", "lat": 44.7354, "lon": 4.5994 }
+    },
+    {
+      "stage": 6,
+      "date": "2020-09-03",
+      "distance_km": 191.0,
+      "accumulated_km": 1074.5,
+      "elevation_gain_m": null,
+      "start": { "town": "Le Teil", "lat": 44.5454, "lon": 4.6823 },
+      "finish": { "town": "Mont Aigoual", "lat": 44.1208, "lon": 3.5813 }
+    },
+    {
+      "stage": 7,
+      "date": "2020-09-04",
+      "distance_km": 168.0,
+      "accumulated_km": 1242.5,
+      "elevation_gain_m": null,
+      "start": { "town": "Millau", "lat": 44.0997, "lon": 3.0785 },
+      "finish": { "town": "Lavaur", "lat": 43.6980, "lon": 1.8169 }
+    },
+    {
+      "stage": 8,
+      "date": "2020-09-05",
+      "distance_km": 141.0,
+      "accumulated_km": 1383.5,
+      "elevation_gain_m": null,
+      "start": { "town": "Cazères-sur-Garonne", "lat": 43.2084, "lon": 1.0851 },
+      "finish": { "town": "Loudenvielle", "lat": 42.8000, "lon": 0.4100 }
+    },
+    {
+      "stage": 9,
+      "date": "2020-09-06",
+      "distance_km": 153.0,
+      "accumulated_km": 1536.5,
+      "elevation_gain_m": null,
+      "start": { "town": "Pau", "lat": 43.2951, "lon": -0.3708 },
+      "finish": { "town": "Laruns", "lat": 42.9888, "lon": -0.4264 }
+    },
+    {
+      "stage": 10,
+      "date": "2020-09-08",
+      "distance_km": 170.0,
+      "accumulated_km": 1706.5,
+      "elevation_gain_m": null,
+      "start": { "town": "Le Château-d'Oléron", "lat": 45.8870, "lon": -1.1961 },
+      "finish": { "town": "Saint-Martin-de-Ré", "lat": 46.2032, "lon": -1.3671 }
+    },
+    {
+      "stage": 11,
+      "date": "2020-09-09",
+      "distance_km": 167.5,
+      "accumulated_km": 1874.0,
+      "elevation_gain_m": null,
+      "start": { "town": "Châtelaillon-Plage", "lat": 46.0679, "lon": -1.0899 },
+      "finish": { "town": "Poitiers", "lat": 46.5802, "lon": 0.3404 }
+    },
+    {
+      "stage": 12,
+      "date": "2020-09-10",
+      "distance_km": 218.0,
+      "accumulated_km": 2092.0,
+      "elevation_gain_m": null,
+      "start": { "town": "Chauvigny", "lat": 46.5700, "lon": 0.6500 },
+      "finish": { "town": "Sarran", "lat": 45.3981, "lon": 1.8492 }
+    },
+    {
+      "stage": 13,
+      "date": "2020-09-11",
+      "distance_km": 191.5,
+      "accumulated_km": 2283.5,
+      "elevation_gain_m": null,
+      "start": { "town": "Châtel-Guyon", "lat": 45.9216, "lon": 3.0627 },
+      "finish": { "town": "Puy Mary", "lat": 45.1063, "lon": 2.6820 }
+    },
+    {
+      "stage": 14,
+      "date": "2020-09-12",
+      "distance_km": 194.0,
+      "accumulated_km": 2477.5,
+      "elevation_gain_m": null,
+      "start": { "town": "Clermont-Ferrand", "lat": 45.7772, "lon": 3.0870 },
+      "finish": { "town": "Lyon", "lat": 45.7640, "lon": 4.8357 }
+    },
+    {
+      "stage": 15,
+      "date": "2020-09-13",
+      "distance_km": 174.5,
+      "accumulated_km": 2652.0,
+      "elevation_gain_m": null,
+      "start": { "town": "Lyon", "lat": 45.7640, "lon": 4.8357 },
+      "finish": { "town": "Grand Colombier", "lat": 45.9000, "lon": 5.6100 }
+    },
+    {
+      "stage": 16,
+      "date": "2020-09-15",
+      "distance_km": 164.0,
+      "accumulated_km": 2816.0,
+      "elevation_gain_m": null,
+      "start": { "town": "La Tour-du-Pin", "lat": 45.5668, "lon": 5.4445 },
+      "finish": { "town": "Villard-de-Lans", "lat": 45.0698, "lon": 5.5512 }
+    },
+    {
+      "stage": 17,
+      "date": "2020-09-16",
+      "distance_km": 170.0,
+      "accumulated_km": 2986.0,
+      "elevation_gain_m": null,
+      "start": { "town": "Grenoble", "lat": 45.1885, "lon": 5.7245 },
+      "finish": { "town": "Méribel", "lat": 45.3980, "lon": 6.5650 }
+    },
+    {
+      "stage": 18,
+      "date": "2020-09-17",
+      "distance_km": 175.0,
+      "accumulated_km": 3161.0,
+      "elevation_gain_m": null,
+      "start": { "town": "Méribel", "lat": 45.3980, "lon": 6.5650 },
+      "finish": { "town": "La Roche-sur-Foron", "lat": 46.0676, "lon": 6.3114 }
+    },
+    {
+      "stage": 19,
+      "date": "2020-09-18",
+      "distance_km": 166.5,
+      "accumulated_km": 3327.5,
+      "elevation_gain_m": null,
+      "start": { "town": "Bourg-en-Bresse", "lat": 46.2052, "lon": 5.2250 },
+      "finish": { "town": "Champagnole", "lat": 46.7447, "lon": 5.9148 }
+    },
+    {
+      "stage": 20,
+      "date": "2020-09-19",
+      "distance_km": 36.2,
+      "accumulated_km": 3363.7,
+      "elevation_gain_m": null,
+      "start": { "town": "Lure", "lat": 47.6842, "lon": 6.4960 },
+      "finish": { "town": "La Planche des Belles Filles", "lat": 47.7800, "lon": 6.7800 }
+    },
+    {
+      "stage": 21,
+      "date": "2020-09-20",
+      "distance_km": 122.0,
+      "accumulated_km": 3485.7,
+      "elevation_gain_m": null,
+      "start": { "town": "Mantes-la-Jolie", "lat": 48.9905, "lon": 1.7169 },
+      "finish": { "town": "Paris", "lat": 48.8566, "lon": 2.3522 }
+    }
+  ]
+}
