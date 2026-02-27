@@ -1,7 +1,8 @@
 import React, { useEffect, useRef, useState } from "react";
 import ReactECharts from "echarts-for-react";
 
-import { Stack, IconButton, Slider } from "@mui/material";
+import { Stack, IconButton, Slider, useMediaQuery } from "@mui/material";
+import { useTheme } from "@mui/material/styles";
 import PlayArrowIcon from "@mui/icons-material/PlayArrow";
 import PauseIcon from "@mui/icons-material/Pause";
 import ReplayIcon from "@mui/icons-material/Replay";
@@ -87,8 +88,11 @@ function interpolate(stageA, stageB, t) {
 /* ================= COMPONENT ================= */
 
 export default function GcBarChartRace({ race, year, onStageChange }) {
+  const theme = useTheme();
+  const isMobile = useMediaQuery(theme.breakpoints.down("sm"));
   const [stages, setStages] = useState([]);
   const [tick, setTick] = useState(0);
+  const [hasStarted, setHasStarted] = useState(false);
   const timerRef = useRef(null);
   const [stageMeta, setStageMeta] = useState([]);
   const [teamPaletteByName, setTeamPaletteByName] = useState({});
@@ -103,6 +107,7 @@ export default function GcBarChartRace({ race, year, onStageChange }) {
   useEffect(() => {
     setStages([]);
     setTick(0);
+    setHasStarted(false);
 
     fetch(`${process.env.PUBLIC_URL}/data/${race}-${year}-wikipedia.json`)
       .then(r => r.json())
@@ -229,8 +234,6 @@ export default function GcBarChartRace({ race, year, onStageChange }) {
 
   /* ---------- CHART ---------- */
 
-  const showLabels = tick > 0;
-
   const resolveTeamPalette = (teamName) => {
     const resolvedTeamName = TEAM_NAME_ALIASES[teamName] || teamName;
     return teamPaletteByName[resolvedTeamName] || {
@@ -263,7 +266,7 @@ export default function GcBarChartRace({ race, year, onStageChange }) {
       };
       acc[`name_${i}`] = {
         fontWeight: 700,
-        color: rider.gap === 0 ? LINE_CHARCOAL : "#FFFFFF",
+        color: rider.rank === 1 ? LINE_CHARCOAL : "#FFFFFF",
         fontSize: 13,
         padding: [0, 0, 0, 8]
       };
@@ -276,6 +279,15 @@ export default function GcBarChartRace({ race, year, onStageChange }) {
         fontSize: 13,
         fontFamily: TABULAR_FONT,
         fontVariant: "tabular-nums"
+      },
+      outside: {
+        fontWeight: 700,
+        color: LINE_CHARCOAL,
+        fontSize: 12.5,
+        fontFamily: TABULAR_FONT,
+        fontVariant: "tabular-nums",
+        textBorderColor: "#FFFFFF",
+        textBorderWidth: 4
       }
     }
   );
@@ -285,17 +297,26 @@ export default function GcBarChartRace({ race, year, onStageChange }) {
   const leaderColor = race === "giro" ? GIRO_PINK : VIBRANT_GOLD;
 
   const barRows = riders.map(rider => {
-    const value = rider.gap === 0 ? leaderAnchorValue : rider.gap;
+    const isLeader = rider.rank === 1;
+    const value = isLeader ? leaderAnchorValue : rider.gap;
     const ratio = leaderAnchorValue > 0 ? value / leaderAnchorValue : 0;
-    const isShort = ratio < 0.22 && rider.gap !== 0;
-    return { rider, value, isShort };
+    const isShort = ratio < 0.4 && rider.gap !== 0;
+    return { rider, value, isShort, isLeader };
   });
+  const visibleRows = (isMobile ? barRows.slice(0, 12) : barRows.slice(0, 10));
+  const activeRows = hasStarted ? visibleRows : [];
 
   const option = {
     tooltip: {
       show: false
     },
-    grid: { left: 40, right: 220, top: 8, bottom: 10 },
+    grid: {
+      left: 40,
+      right: isMobile ? 165 : 220,
+      top: 8,
+      bottom: 10,
+      height: isMobile ? "70%" : undefined
+    },
     xAxis: {
       type: "value",
       show: false,
@@ -305,7 +326,7 @@ export default function GcBarChartRace({ race, year, onStageChange }) {
     yAxis: {
       type: "category",
       inverse: true,
-      data: riders.map((_, i) => i + 1),
+      data: activeRows.map((_, i) => i + 1),
         axisLabel: {
             fontWeight: "bold",
             fontSize: 13,
@@ -320,23 +341,27 @@ export default function GcBarChartRace({ race, year, onStageChange }) {
       {
         type: "bar",
         silent: true,
-        barWidth: "65%",
-        data: barRows.map(({ rider, value, isShort }) => ({
+        barWidth: isMobile ? "74%" : "65%",
+        data: activeRows.map(({ rider, value, isShort, isLeader }) => ({
           value,
           isShort,
           itemStyle: {
-            color: rider.gap === 0 ? leaderColor : DEEP_SLATE,
+            color: isLeader ? leaderColor : DEEP_SLATE,
             opacity: isShort ? 0.6 : 1,
-            borderRadius: 6
+            borderRadius: 6,
+            shadowBlur: isLeader ? 10 : 8,
+            shadowColor: isLeader ? "rgba(0, 0, 0, 0.2)" : "rgba(0, 0, 0, 0.15)",
+            shadowOffsetY: isLeader ? 5 : 4
           }
         })),
         label: {
-          show: showLabels,
+          show: true,
+          opacity: 1,
           position: "insideLeft",
           distance: 10,
           rich: labelRich,
           formatter: ({ dataIndex }) => {
-            const row = barRows[dataIndex];
+            const row = activeRows[dataIndex];
             const r = row?.rider;
             if (!r) return "";
             if (row?.isShort) return "";
@@ -354,9 +379,9 @@ export default function GcBarChartRace({ race, year, onStageChange }) {
       {
         type: "bar",
         silent: true,
-        barWidth: "65%",
+        barWidth: isMobile ? "74%" : "65%",
         barGap: "-100%",
-        data: barRows.map(({ value, isShort }) => ({
+        data: activeRows.map(({ value, isShort }) => ({
           value,
           isShort,
           itemStyle: {
@@ -364,16 +389,31 @@ export default function GcBarChartRace({ race, year, onStageChange }) {
           }
         })),
         label: {
-          show: showLabels,
+          show: true,
+          opacity: 1,
           position: "right",
-          distance: 8,
+          distance: 10,
+          color: LINE_CHARCOAL,
+          textBorderColor: "#FFFFFF",
+          textBorderWidth: 4,
+          fontWeight: "bold",
           rich: labelRich,
           formatter: ({ dataIndex }) => {
-            const row = barRows[dataIndex];
+            const row = activeRows[dataIndex];
             const rider = row?.rider;
             if (!rider) return "";
-            if (rider.gap === 0) return "{gap|Leader}";
-            if (row?.isShort) return `{gap|${rider.name} +${formatGap(rider.gap)}}`;
+            if (row?.isLeader && rider.gap === 0) return "{gap|Leader}";
+            if (!row?.isLeader && rider.gap === 0) {
+              if (row?.isShort) {
+                const iconKey = `icon_${dataIndex}`;
+                return `{${iconKey}|} {outside|${rider.name}}`;
+              }
+              return "{gap|}";
+            }
+            if (row?.isShort) {
+              const iconKey = `icon_${dataIndex}`;
+              return `{${iconKey}|} {outside|${rider.name} +${formatGap(rider.gap)}}`;
+            }
             return `{gap|+${formatGap(rider.gap)}}`;
           }
         },
@@ -388,6 +428,7 @@ export default function GcBarChartRace({ race, year, onStageChange }) {
   const maxTick = INTRO_FRAMES + (stages.length - 1) * FRAMES;
 
   const play = () => {
+    setHasStarted(true);
     if (timerRef.current) return;
   
     timerRef.current = setInterval(() => {
@@ -410,6 +451,7 @@ export default function GcBarChartRace({ race, year, onStageChange }) {
   const restart = () => {
     pause();
     setTick(0);
+    setHasStarted(false);
   };
 
   const marks = Array.from({ length: stages.length }, (_, i) => ({
@@ -421,6 +463,7 @@ export default function GcBarChartRace({ race, year, onStageChange }) {
     const nextStage = Array.isArray(value) ? value[0] : value;
     if (typeof nextStage !== "number") return;
     pause();
+    setHasStarted(true);
     const bounded = Math.max(1, Math.min(stages.length, Math.round(nextStage)));
     setTick(INTRO_FRAMES + (bounded - 1) * FRAMES);
   };
@@ -432,10 +475,27 @@ export default function GcBarChartRace({ race, year, onStageChange }) {
         display: "flex",
         flexDirection: "column",
         minHeight: 0,
-        padding: 16
+        padding: isMobile ? 24 : 16,
+        position: "relative",
+        zIndex: 10
       }}
     >
-      <div style={{ marginBottom: 14, paddingBottom: 6 }}>
+      <div
+        style={{
+          marginBottom: isMobile ? 22 : 14,
+          paddingBottom: 10,
+          display: "flex",
+          flexDirection: "column",
+          alignItems: isMobile ? "center" : "flex-start",
+          textAlign: isMobile ? "center" : "left",
+          background: isMobile ? "rgba(255, 255, 255, 0.7)" : "transparent",
+          backdropFilter: isMobile ? "blur(12px) brightness(1.05)" : "none",
+          WebkitBackdropFilter: isMobile ? "blur(12px) brightness(1.05)" : "none",
+          borderBottom: isMobile ? "1px solid rgba(0, 0, 0, 0.05)" : "none",
+          borderRadius: isMobile ? 12 : 0,
+          padding: isMobile ? 16 : 0
+        }}
+      >
         <div
           style={{
             fontFamily: "\"Source Serif 4\", \"Lora\", serif",
@@ -470,7 +530,8 @@ export default function GcBarChartRace({ race, year, onStageChange }) {
         <div
           style={{
             fontSize: "0.85rem",
-            color: SLATE_GRAY
+            color: SLATE_GRAY,
+            marginBottom: isMobile ? 24 : 0
           }}
         >
           {currentStageMeta ? `${currentStageMeta.start.town} → ${currentStageMeta.finish.town}` : ""}
@@ -479,14 +540,24 @@ export default function GcBarChartRace({ race, year, onStageChange }) {
 
   
       {/* Controls */}
-      <Stack direction="row" spacing={1} justifyContent="center" sx={{ mb: 1 }}>
-        <IconButton onClick={play} sx={{ color: STEEL_GRAY }}><PlayArrowIcon /></IconButton>
-        <IconButton onClick={pause} sx={{ color: STEEL_GRAY }}><PauseIcon /></IconButton>
-        <IconButton onClick={restart} sx={{ color: STEEL_GRAY }}><ReplayIcon /></IconButton>
-      </Stack>
+      <div
+        style={{
+          background: isMobile ? "rgba(255, 255, 255, 0.6)" : "transparent",
+          backdropFilter: isMobile ? "blur(12px) brightness(1.1)" : "none",
+          WebkitBackdropFilter: isMobile ? "blur(12px) brightness(1.1)" : "none",
+          borderBottom: isMobile ? "1px solid rgba(0, 0, 0, 0.05)" : "none",
+          borderRadius: isMobile ? 10 : 0
+        }}
+      >
+        <Stack direction="row" spacing={1} justifyContent="center" sx={{ mb: 1 }}>
+          <IconButton onClick={play} sx={{ color: STEEL_GRAY }}><PlayArrowIcon /></IconButton>
+          <IconButton onClick={pause} sx={{ color: STEEL_GRAY }}><PauseIcon /></IconButton>
+          <IconButton onClick={restart} sx={{ color: STEEL_GRAY }}><ReplayIcon /></IconButton>
+        </Stack>
+      </div>
   
       {/* Chart fills remaining space */}
-      <div style={{ flex: 1, minHeight: 0 }}>
+      <div style={{ flex: isMobile ? "0 0 65vh" : 1, minHeight: 0 }}>
         <ReactECharts
           option={option}
           style={{ height: "100%", width: "100%" }}
@@ -495,31 +566,33 @@ export default function GcBarChartRace({ race, year, onStageChange }) {
         />
       </div>
   
-      <Slider
-        min={1}
-        max={stages.length}
-        step={1}
-        value={stageIndex + 1}
-        onChange={handleSliderChange}
-        marks={marks}
-        sx={{
-          mt: 1.5,
-          color: "#1A1A1A",
-          "& .MuiSlider-rail": { backgroundColor: "#E0E0E0", opacity: 1 },
-          "& .MuiSlider-track": { backgroundColor: "#1A1A1A", border: "none" },
-          "& .MuiSlider-mark": { display: "none" },
-          "& .MuiSlider-markLabel": {
-            fontFamily: TABULAR_FONT,
-            fontSize: 10,
-            color: SLATE_GRAY
-          },
-          "& .MuiSlider-thumb": {
-            width: 12,
-            height: 12,
-            backgroundColor: "#1A1A1A"
-          }
-        }}
-      />
+      <div style={{ padding: "15px 0" }}>
+        <Slider
+          min={1}
+          max={stages.length}
+          step={1}
+          value={stageIndex + 1}
+          onChange={handleSliderChange}
+          marks={marks}
+          sx={{
+            mt: 1.5,
+            color: "#1A1A1A",
+            "& .MuiSlider-rail": { backgroundColor: "#E0E0E0", opacity: 1 },
+            "& .MuiSlider-track": { backgroundColor: "#1A1A1A", border: "none" },
+            "& .MuiSlider-mark": { display: "none" },
+            "& .MuiSlider-markLabel": {
+              fontFamily: TABULAR_FONT,
+              fontSize: 10,
+              color: SLATE_GRAY
+            },
+            "& .MuiSlider-thumb": {
+              width: 12,
+              height: 12,
+              backgroundColor: "#1A1A1A"
+            }
+          }}
+        />
+      </div>
     </div>
   );
 }

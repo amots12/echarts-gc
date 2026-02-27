@@ -1,6 +1,8 @@
 import React, { useEffect, useState } from "react";
 import ReactECharts from "echarts-for-react";
 import * as echarts from "echarts";
+import { useMediaQuery } from "@mui/material";
+import { useTheme } from "@mui/material/styles";
 
 const RACE_MAPS = {
   tour: "france",
@@ -8,7 +10,9 @@ const RACE_MAPS = {
   vuelta: "spain"
 };
 
-export default function RaceMap({ race, year, stageIndex }) {
+export default function RaceMap({ race, year, stageIndex, mobileBackground = false }) {
+  const theme = useTheme();
+  const isMobile = useMediaQuery(theme.breakpoints.down("sm"));
   const [stages, setStages] = useState([]);
   const [mapReady, setMapReady] = useState(false);
   const mapKey = RACE_MAPS[race];
@@ -71,7 +75,7 @@ if (
   !stage.finish ||
   !echarts.getMap(mapKey)
 ) {
-  return <div style={{ height: 360 }} />;
+  return <div style={{ height: "100%", minHeight: 0 }} />;
 }
 
   /* ---------- ECHART OPTION ---------- */
@@ -81,12 +85,13 @@ if (
       roam: false,
       zoom: 1.1,
       itemStyle: {
-        areaColor: "#F5F5F5",
-        borderColor: "#E0E0E0"
+        areaColor: mobileBackground ? "#FFFFFF" : "#F5F5F5",
+        borderColor: mobileBackground ? "#D1D1D1" : "#E0E0E0",
+        borderWidth: mobileBackground ? 1.1 : 1
       },
       emphasis: {
         itemStyle: {
-          areaColor: "#F5F5F5"
+          areaColor: mobileBackground ? "#FFFFFF" : "#F5F5F5"
         }
       }
     },
@@ -96,9 +101,9 @@ if (
           type: "scatter",
           coordinateSystem: "geo",
           data: trailPoints,
-          symbolSize: 6,
+          symbolSize: mobileBackground ? 8 : 6,
           itemStyle: {
-            color: "rgba(239,68,68,0.35)"
+            color: mobileBackground ? "rgba(255,0,0,0.45)" : "rgba(239,68,68,0.35)"
           },
           silent: true
         },
@@ -113,21 +118,22 @@ if (
               value: [stage.finish.lon, stage.finish.lat]
             }
           ],
-          symbolSize: 14,
+          symbolSize: mobileBackground ? 18 : 14,
           rippleEffect: {
             period: 3,
-            scale: 3,
+            scale: mobileBackground ? 3.8 : 3,
             brushType: "stroke"
           },
           itemStyle: {
-            color: "#ef4444"
-          }
+            color: mobileBackground ? "#FF0000" : "#ef4444"
+          },
+          silent: isMobile
         }
       ]
   };
 
   return (
-    <div style={{ height: "100%", minHeight: 0 }}>
+    <div style={{ height: "100%", minHeight: 0, pointerEvents: isMobile ? "none" : "auto" }}>
       <ReactECharts
         option={option}
         style={{ height: "100%", width: "100%" }}
