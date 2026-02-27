@@ -1,5 +1,7 @@
 // src/App.js
 import React, { useState } from "react";
+import { useMediaQuery } from "@mui/material";
+import { useTheme } from "@mui/material/styles";
 import RaceSelector from "./components/RaceSelector";
 import GcBarChartRace from "./components/GcBarChartRace";
 import RaceMap from "./components/RaceMap";
@@ -58,6 +60,8 @@ const styles = {
 };
 
 export default function App() {
+  const theme = useTheme();
+  const isMobile = useMediaQuery(theme.breakpoints.down("sm"));
   const [race, setRace] = useState("tour");
   const [year, setYear] = useState(2022);
   const [stageIndex, setStageIndex] = useState(0);
@@ -68,6 +72,55 @@ export default function App() {
     const years = AVAILABLE_RACES[newRace]?.years || [];
     if (years.length) setYear(years[years.length - 1]);
   };
+
+  if (isMobile) {
+    return (
+      <div
+        style={{
+          height: "100vh",
+          background: "#FDFDFB",
+          position: "relative",
+          overflow: "hidden"
+        }}
+      >
+        <div
+          style={{
+            position: "fixed",
+            inset: 0,
+            width: "100vw",
+            height: "100vh",
+            zIndex: 0,
+            pointerEvents: "none"
+          }}
+        >
+          <RaceMap race={race} year={year} stageIndex={stageIndex} mobileBackground />
+        </div>
+
+        <div
+          style={{
+            position: "relative",
+            zIndex: 10,
+            height: "100%",
+            display: "grid",
+            gridTemplateRows: "auto 1fr"
+          }}
+        >
+          <div style={{ padding: "18px 24px 8px 24px" }}>
+            <RaceSelector
+              race={race}
+              year={year}
+              races={AVAILABLE_RACES}
+              onRaceChange={handleRaceChange}
+              onYearChange={setYear}
+            />
+          </div>
+          <div style={{ minHeight: 0 }}>
+            <GcBarChartRace race={race} year={year} onStageChange={setStageIndex} />
+          </div>
+        </div>
+      </div>
+    );
+  }
 
   return (
     <div style={styles.page}>
