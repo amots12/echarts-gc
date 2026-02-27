@@ -2,39 +2,304 @@
   "race": "giro",
   "year": 2025,
   "teams": [
-    { "name": "Alpecin–Deceuninck", "uci_code": null, "country": null },
-    { "name": "Arkéa–B&B Hotels", "uci_code": null, "country": null },
-    { "name": "Cofidis", "uci_code": null, "country": null },
-    { "name": "Decathlon–AG2R La Mondiale", "uci_code": null, "country": null },
-    { "name": "EF Education–EasyPost", "uci_code": null, "country": null },
-    { "name": "Groupama–FDJ", "uci_code": null, "country": null },
-    { "name": "Ineos Grenadiers", "uci_code": null, "country": null },
-    { "name": "Intermarché–Wanty–Gobert Matériaux", "uci_code": null, "country": null },
-    { "name": "Israel–Premier Tech", "uci_code": null, "country": null },
-    { "name": "Jayco–AlUla", "uci_code": null, "country": null },
-    { "name": "Lidl–Trek", "uci_code": null, "country": null },
-    { "name": "Lotto–Dstny", "uci_code": null, "country": null },
-    { "name": "Movistar Team", "uci_code": null, "country": null },
-    { "name": "Soudal Quick-Step", "uci_code": null, "country": null },
-    { "name": "Tudor Pro Cycling", "uci_code": null, "country": null },
-    { "name": "UAE Team Emirates", "uci_code": null, "country": null },
-    { "name": "Visma–Lease a Bike", "uci_code": null, "country": null },
-    { "name": "TotalEnergies", "uci_code": null, "country": null },
-    { "name": "Uno-X Mobility Pro Cycling Team", "uci_code": null, "country": null },
-    { "name": "Q36.5 Pro Cycling Team", "uci_code": null, "country": null },
-    { "name": "Bingoal WB", "uci_code": null, "country": null },
-    { "name": "Bardiani–CSF–Faizanè", "uci_code": null, "country": null },
-    { "name": "Eolo–Kometa Cycling Team", "uci_code": null, "country": null }
+    {
+      "name": "Alpecin–Deceuninck",
+      "uci_code": null,
+      "country": null,
+      "colours": [
+        "#1D4ED8",
+        "#FFFFFF",
+        "#111827"
+      ]
+    },
+    {
+      "name": "Arkéa–B&B Hotels",
+      "uci_code": null,
+      "country": null,
+      "colours": [
+        "#E10600",
+        "#000000",
+        "#FFFFFF"
+      ]
+    },
+    {
+      "name": "Cofidis",
+      "uci_code": null,
+      "country": null,
+      "colours": [
+        "#E10600",
+        "#FFFFFF",
+        "#111827"
+      ]
+    },
+    {
+      "name": "Decathlon–AG2R La Mondiale",
+      "uci_code": null,
+      "country": null,
+      "colours": [
+        "#1E3A8A",
+        "#FDE047",
+        "#FFFFFF"
+      ]
+    },
+    {
+      "name": "EF Education–EasyPost",
+      "uci_code": null,
+      "country": null,
+      "colours": [
+        "#FF2D87",
+        "#111827",
+        "#FFFFFF"
+      ]
+    },
+    {
+      "name": "Groupama–FDJ",
+      "uci_code": null,
+      "country": null,
+      "colours": [
+        "#0033A0",
+        "#E10600",
+        "#FFFFFF"
+      ]
+    },
+    {
+      "name": "Ineos Grenadiers",
+      "uci_code": null,
+      "country": null,
+      "colours": [
+        "#111827",
+        "#E10600",
+        "#FFFFFF"
+      ]
+    },
+    {
+      "name": "Intermarché–Wanty–Gobert Matériaux",
+      "uci_code": null,
+      "country": null,
+      "colours": [
+        "#111827",
+        "#C8102E",
+        "#F59E0B"
+      ]
+    },
+    {
+      "name": "Israel–Premier Tech",
+      "uci_code": null,
+      "country": null,
+      "colours": [
+        "#0070B8",
+        "#B51E8A",
+        "#FFFFFF"
+      ]
+    },
+    {
+      "name": "Jayco–AlUla",
+      "uci_code": null,
+      "country": null,
+      "colours": [
+        "#FFFFFF",
+        "#1E3A8A",
+        "#EF4444"
+      ]
+    },
+    {
+      "name": "Lidl–Trek",
+      "uci_code": null,
+      "country": null,
+      "colours": [
+        "#E10600",
+        "#111827",
+        "#FFFFFF"
+      ]
+    },
+    {
+      "name": "Lotto–Dstny",
+      "uci_code": null,
+      "country": null,
+      "colours": [
+        "#E10600",
+        "#FFFFFF",
+        "#111827"
+      ]
+    },
+    {
+      "name": "Movistar Team",
+      "uci_code": null,
+      "country": null,
+      "colours": [
+        "#0EA5E9",
+        "#002855",
+        "#FFFFFF"
+      ]
+    },
+    {
+      "name": "Soudal Quick-Step",
+      "uci_code": null,
+      "country": null,
+      "colours": [
+        "#1D4ED8",
+        "#FFFFFF",
+        "#EF4444"
+      ]
+    },
+    {
+      "name": "Tudor Pro Cycling",
+      "uci_code": null,
+      "country": null,
+      "colours": [
+        "#111827",
+        "#E10600",
+        "#FFFFFF"
+      ]
+    },
+    {
+      "name": "UAE Team Emirates",
+      "uci_code": null,
+      "country": null,
+      "colours": [
+        "#FFFFFF",
+        "#EF4444",
+        "#111827"
+      ]
+    },
+    {
+      "name": "Visma–Lease a Bike",
+      "uci_code": null,
+      "country": null,
+      "colours": [
+        "#FACC15",
+        "#111827",
+        "#FFFFFF"
+      ]
+    },
+    {
+      "name": "TotalEnergies",
+      "uci_code": null,
+      "country": null,
+      "colours": [
+        "#FFFFFF",
+        "#FF8200",
+        "#0057B8"
+      ]
+    },
+    {
+      "name": "Uno-X Mobility Pro Cycling Team",
+      "uci_code": null,
+      "country": null,
+      "colours": [
+        "#E03A3E",
+        "#111827",
+        "#FFFFFF"
+      ]
+    },
+    {
+      "name": "Q36.5 Pro Cycling Team",
+      "uci_code": null,
+      "country": null,
+      "colours": [
+        "#111827",
+        "#FFFFFF",
+        "#EF4444"
+      ]
+    },
+    {
+      "name": "Bingoal WB",
+      "uci_code": null,
+      "country": null,
+      "colours": [
+        "#F97316",
+        "#111827",
+        "#FFFFFF"
+      ]
+    },
+    {
+      "name": "Bardiani–CSF–Faizanè",
+      "uci_code": null,
+      "country": null,
+      "colours": [
+        "#16A34A",
+        "#FFFFFF",
+        "#EF4444"
+      ]
+    },
+    {
+      "name": "Eolo–Kometa Cycling Team",
+      "uci_code": null,
+      "country": null,
+      "colours": [
+        "#0EA5E9",
+        "#1E3A8A",
+        "#FFFFFF"
+      ]
+    },
+    {
+      "name": "XDS Astana Team",
+      "uci_code": null,
+      "country": null,
+      "colours": [
+        "#00A3E0",
+        "#111827",
+        "#EF4444"
+      ]
+    },
+    {
+      "name": "Team Picnic–PostNL",
+      "uci_code": null,
+      "country": null,
+      "colours": [
+        "#111827",
+        "#F97316",
+        "#FFFFFF"
+      ]
+    },
+    {
+      "name": "Team Polti VisitMalta",
+      "uci_code": null,
+      "country": null,
+      "colours": [
+        "#1E3A8A",
+        "#00A3E0",
+        "#FFFFFF"
+      ]
+    },
+    {
+      "name": "Red Bull–Bora–Hansgrohe",
+      "uci_code": null,
+      "country": null,
+      "colours": [
+        "#111827",
+        "#16A34A",
+        "#FFFFFF"
+      ]
+    },
+    {
+      "name": "Team Bahrain Victorious",
+      "uci_code": null,
+      "country": null,
+      "colours": [
+        "#FFFFFF",
+        "#0072CE",
+        "#111827"
+      ]
+    }
   ],
   "stages": [
     {
       "stage": 1,
       "date": "2025-05-09",
       "distance_km": 160,
-      "accumulated_km": 160.0,
+      "accumulated_km": 160,
       "elevation_gain_m": null,
-      "start": { "town": "Durrës", "lat": 41.3231, "lon": 19.4414 },
-      "finish": { "town": "Tirana", "lat": 41.3275, "lon": 19.8189 }
+      "start": {
+        "town": "Durrës",
+        "lat": 41.3231,
+        "lon": 19.4414
+      },
+      "finish": {
+        "town": "Tirana",
+        "lat": 41.3275,
+        "lon": 19.8189
+      }
     },
     {
       "stage": 2,
@@ -42,8 +307,16 @@
       "distance_km": 13.7,
       "accumulated_km": 173.7,
       "elevation_gain_m": null,
-      "start": { "town": "Tirana", "lat": 41.3275, "lon": 19.8189 },
-      "finish": { "town": "Tirana", "lat": 41.3275, "lon": 19.8189 }
+      "start": {
+        "town": "Tirana",
+        "lat": 41.3275,
+        "lon": 19.8189
+      },
+      "finish": {
+        "town": "Tirana",
+        "lat": 41.3275,
+        "lon": 19.8189
+      }
     },
     {
       "stage": 3,
@@ -51,8 +324,16 @@
       "distance_km": 160,
       "accumulated_km": 333.7,
       "elevation_gain_m": null,
-      "start": { "town": "Vlorë", "lat": 40.4667, "lon": 19.4833 },
-      "finish": { "town": "Vlorë", "lat": 40.4667, "lon": 19.4833 }
+      "start": {
+        "town": "Vlorë",
+        "lat": 40.4667,
+        "lon": 19.4833
+      },
+      "finish": {
+        "town": "Vlorë",
+        "lat": 40.4667,
+        "lon": 19.4833
+      }
     },
     {
       "stage": 4,
@@ -60,8 +341,16 @@
       "distance_km": 189,
       "accumulated_km": 522.7,
       "elevation_gain_m": null,
-      "start": { "town": "Alberobello", "lat": 40.7850, "lon": 17.2386 },
-      "finish": { "town": "Lecce", "lat": 40.3520, "lon": 18.1744 }
+      "start": {
+        "town": "Alberobello",
+        "lat": 40.785,
+        "lon": 17.2386
+      },
+      "finish": {
+        "town": "Lecce",
+        "lat": 40.352,
+        "lon": 18.1744
+      }
     },
     {
       "stage": 5,
@@ -69,8 +358,16 @@
       "distance_km": 151,
       "accumulated_km": 673.7,
       "elevation_gain_m": null,
-      "start": { "town": "Ceglie Messapica", "lat": 40.5833, "lon": 17.4667 },
-      "finish": { "town": "Matera", "lat": 40.6667, "lon": 16.6000 }
+      "start": {
+        "town": "Ceglie Messapica",
+        "lat": 40.5833,
+        "lon": 17.4667
+      },
+      "finish": {
+        "town": "Matera",
+        "lat": 40.6667,
+        "lon": 16.6
+      }
     },
     {
       "stage": 6,
@@ -78,8 +375,16 @@
       "distance_km": 227,
       "accumulated_km": 900.7,
       "elevation_gain_m": null,
-      "start": { "town": "Potenza", "lat": 40.6397, "lon": 15.8050 },
-      "finish": { "town": "Naples", "lat": 40.8518, "lon": 14.2681 }
+      "start": {
+        "town": "Potenza",
+        "lat": 40.6397,
+        "lon": 15.805
+      },
+      "finish": {
+        "town": "Naples",
+        "lat": 40.8518,
+        "lon": 14.2681
+      }
     },
     {
       "stage": 7,
@@ -87,8 +392,16 @@
       "distance_km": 168,
       "accumulated_km": 1068.7,
       "elevation_gain_m": null,
-      "start": { "town": "Castel di Sangro", "lat": 41.7066, "lon": 14.0723 },
-      "finish": { "town": "Tagliacozzo", "lat": 42.0786, "lon": 13.3066 }
+      "start": {
+        "town": "Castel di Sangro",
+        "lat": 41.7066,
+        "lon": 14.0723
+      },
+      "finish": {
+        "town": "Tagliacozzo",
+        "lat": 42.0786,
+        "lon": 13.3066
+      }
     },
     {
       "stage": 8,
@@ -96,8 +409,16 @@
       "distance_km": 197,
       "accumulated_km": 1265.7,
       "elevation_gain_m": null,
-      "start": { "town": "Giulianova", "lat": 42.7929, "lon": 13.9375 },
-      "finish": { "town": "Castelraimondo", "lat": 43.1833, "lon": 13.1500 }
+      "start": {
+        "town": "Giulianova",
+        "lat": 42.7929,
+        "lon": 13.9375
+      },
+      "finish": {
+        "town": "Castelraimondo",
+        "lat": 43.1833,
+        "lon": 13.15
+      }
     },
     {
       "stage": 9,
@@ -105,8 +426,16 @@
       "distance_km": 181,
       "accumulated_km": 1446.7,
       "elevation_gain_m": null,
-      "start": { "town": "Gubbio", "lat": 43.3496, "lon": 12.5778 },
-      "finish": { "town": "Siena", "lat": 43.3188, "lon": 11.3308 }
+      "start": {
+        "town": "Gubbio",
+        "lat": 43.3496,
+        "lon": 12.5778
+      },
+      "finish": {
+        "town": "Siena",
+        "lat": 43.3188,
+        "lon": 11.3308
+      }
     },
     {
       "stage": 10,
@@ -114,8 +443,16 @@
       "distance_km": 28.6,
       "accumulated_km": 1475.3,
       "elevation_gain_m": null,
-      "start": { "town": "Lucca", "lat": 43.8430, "lon": 10.5050 },
-      "finish": { "town": "Pisa", "lat": 43.7228, "lon": 10.4017 }
+      "start": {
+        "town": "Lucca",
+        "lat": 43.843,
+        "lon": 10.505
+      },
+      "finish": {
+        "town": "Pisa",
+        "lat": 43.7228,
+        "lon": 10.4017
+      }
     },
     {
       "stage": 11,
@@ -123,8 +460,16 @@
       "distance_km": 186,
       "accumulated_km": 1661.3,
       "elevation_gain_m": null,
-      "start": { "town": "Viareggio", "lat": 43.8710, "lon": 10.2550 },
-      "finish": { "town": "Castelnovo ne' Monti", "lat": 44.4464, "lon": 10.4875 }
+      "start": {
+        "town": "Viareggio",
+        "lat": 43.871,
+        "lon": 10.255
+      },
+      "finish": {
+        "town": "Castelnovo ne' Monti",
+        "lat": 44.4464,
+        "lon": 10.4875
+      }
     },
     {
       "stage": 12,
@@ -132,8 +477,16 @@
       "distance_km": 172,
       "accumulated_km": 1833.3,
       "elevation_gain_m": null,
-      "start": { "town": "Modena", "lat": 44.6471, "lon": 10.9252 },
-      "finish": { "town": "Viadana", "lat": 45.1726, "lon": 10.5072 }
+      "start": {
+        "town": "Modena",
+        "lat": 44.6471,
+        "lon": 10.9252
+      },
+      "finish": {
+        "town": "Viadana",
+        "lat": 45.1726,
+        "lon": 10.5072
+      }
     },
     {
       "stage": 13,
@@ -141,8 +494,16 @@
       "distance_km": 180,
       "accumulated_km": 2013.3,
       "elevation_gain_m": null,
-      "start": { "town": "Rovigo", "lat": 45.0688, "lon": 11.7943 },
-      "finish": { "town": "Monte Berico", "lat": 45.5647, "lon": 11.5366 }
+      "start": {
+        "town": "Rovigo",
+        "lat": 45.0688,
+        "lon": 11.7943
+      },
+      "finish": {
+        "town": "Monte Berico",
+        "lat": 45.5647,
+        "lon": 11.5366
+      }
     },
     {
       "stage": 14,
@@ -150,8 +511,16 @@
       "distance_km": 195,
       "accumulated_km": 2208.3,
       "elevation_gain_m": null,
-      "start": { "town": "Treviso", "lat": 45.6667, "lon": 12.2442 },
-      "finish": { "town": "Nova Gorica", "lat": 45.9572, "lon": 13.6461 }
+      "start": {
+        "town": "Treviso",
+        "lat": 45.6667,
+        "lon": 12.2442
+      },
+      "finish": {
+        "town": "Nova Gorica",
+        "lat": 45.9572,
+        "lon": 13.6461
+      }
     },
     {
       "stage": 15,
@@ -159,8 +528,16 @@
       "distance_km": 219,
       "accumulated_km": 2427.3,
       "elevation_gain_m": null,
-      "start": { "town": "Fiume Veneto", "lat": 45.9094, "lon": 12.7461 },
-      "finish": { "town": "Asiago", "lat": 45.8667, "lon": 11.5333 }
+      "start": {
+        "town": "Fiume Veneto",
+        "lat": 45.9094,
+        "lon": 12.7461
+      },
+      "finish": {
+        "town": "Asiago",
+        "lat": 45.8667,
+        "lon": 11.5333
+      }
     },
     {
       "stage": 16,
@@ -168,8 +545,16 @@
       "distance_km": 203,
       "accumulated_km": 2630.3,
       "elevation_gain_m": null,
-      "start": { "town": "Piazzola sul Brenta", "lat": 45.5133, "lon": 11.7083 },
-      "finish": { "town": "San Valentino", "lat": 45.9000, "lon": 11.0000 }
+      "start": {
+        "town": "Piazzola sul Brenta",
+        "lat": 45.5133,
+        "lon": 11.7083
+      },
+      "finish": {
+        "town": "San Valentino",
+        "lat": 45.9,
+        "lon": 11
+      }
     },
     {
       "stage": 17,
@@ -177,8 +562,16 @@
       "distance_km": 155,
       "accumulated_km": 2785.3,
       "elevation_gain_m": null,
-      "start": { "town": "San Michele all’Adige", "lat": 46.2400, "lon": 11.1500 },
-      "finish": { "town": "Bormio", "lat": 46.4900, "lon": 10.3725 }
+      "start": {
+        "town": "San Michele all’Adige",
+        "lat": 46.24,
+        "lon": 11.15
+      },
+      "finish": {
+        "town": "Bormio",
+        "lat": 46.49,
+        "lon": 10.3725
+      }
     },
     {
       "stage": 18,
@@ -186,8 +579,16 @@
       "distance_km": 144,
       "accumulated_km": 2929.3,
       "elevation_gain_m": null,
-      "start": { "town": "Morbegno", "lat": 46.1935, "lon": 9.4156 },
-      "finish": { "town": "Cesano Maderno", "lat": 45.6300, "lon": 9.1772 }
+      "start": {
+        "town": "Morbegno",
+        "lat": 46.1935,
+        "lon": 9.4156
+      },
+      "finish": {
+        "town": "Cesano Maderno",
+        "lat": 45.63,
+        "lon": 9.1772
+      }
     },
     {
       "stage": 19,
@@ -195,8 +596,16 @@
       "distance_km": 166,
       "accumulated_km": 3095.3,
       "elevation_gain_m": null,
-      "start": { "town": "Biella", "lat": 45.5678, "lon": 8.0511 },
-      "finish": { "town": "Champoluc", "lat": 45.7370, "lon": 7.6288 }
+      "start": {
+        "town": "Biella",
+        "lat": 45.5678,
+        "lon": 8.0511
+      },
+      "finish": {
+        "town": "Champoluc",
+        "lat": 45.737,
+        "lon": 7.6288
+      }
     },
     {
       "stage": 20,
@@ -204,8 +613,16 @@
       "distance_km": 205,
       "accumulated_km": 3300.3,
       "elevation_gain_m": null,
-      "start": { "town": "Verrès", "lat": 45.6269, "lon": 7.6436 },
-      "finish": { "town": "Sestriere", "lat": 44.9735, "lon": 6.8872 }
+      "start": {
+        "town": "Verrès",
+        "lat": 45.6269,
+        "lon": 7.6436
+      },
+      "finish": {
+        "town": "Sestriere",
+        "lat": 44.9735,
+        "lon": 6.8872
+      }
     },
     {
       "stage": 21,
@@ -213,8 +630,16 @@
       "distance_km": 143,
       "accumulated_km": 3443.3,
       "elevation_gain_m": null,
-      "start": { "town": "Rome", "lat": 41.9028, "lon": 12.4964 },
-      "finish": { "town": "Rome", "lat": 41.9028, "lon": 12.4964 }
+      "start": {
+        "town": "Rome",
+        "lat": 41.9028,
+        "lon": 12.4964
+      },
+      "finish": {
+        "town": "Rome",
+        "lat": 41.9028,
+        "lon": 12.4964
+      }
     }
   ]
 }

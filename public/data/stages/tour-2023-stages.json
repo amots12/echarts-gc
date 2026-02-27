@@ -2,46 +2,261 @@
   "race": "tour",
   "year": 2023,
   "teams": [
-    { "name": "UCI WorldTeam: AG2R Citroën Team", "uci_code": null, "country": null },
-    { "name": "UCI WorldTeam: Alpecin–Deceuninck", "uci_code": null, "country": null },
-    { "name": "UCI WorldTeam: Bahrain Victorious", "uci_code": null, "country": null },
-    { "name": "UCI WorldTeam: Bora–Hansgrohe", "uci_code": null, "country": null },
-    { "name": "UCI WorldTeam: Cofidis", "uci_code": null, "country": null },
-    { "name": "UCI WorldTeam: Decathlon–AG2R La Mondiale", "uci_code": null, "country": null },
-    { "name": "UCI WorldTeam: EF Education–EasyPost", "uci_code": null, "country": null },
-    { "name": "UCI WorldTeam: Groupama–FDJ", "uci_code": null, "country": null },
-    { "name": "UCI WorldTeam: Ineos Grenadiers", "uci_code": null, "country": null },
-    { "name": "UCI WorldTeam: Intermarché–Circus–Wanty", "uci_code": null, "country": null },
-    { "name": "UCI WorldTeam: Jayco–AlUla", "uci_code": null, "country": null },
-    { "name": "UCI WorldTeam: Lidl–Trek", "uci_code": null, "country": null },
-    { "name": "UCI WorldTeam: Movistar Team", "uci_code": null, "country": null },
-    { "name": "UCI WorldTeam: Soudal Quick-Step", "uci_code": null, "country": null },
-    { "name": "UCI WorldTeam: Team dsm–Firmenich PostNL", "uci_code": null, "country": null },
-    { "name": "UCI WorldTeam: Team Jayco AlUla", "uci_code": null, "country": null },
-    { "name": "UCI WorldTeam: UAE Team Emirates", "uci_code": null, "country": null },
-    { "name": "UCI ProTeam: Lotto–Dstny", "uci_code": null, "country": null },
-    { "name": "UCI ProTeam: Uno–X Pro Cycling Team", "uci_code": null, "country": null },
-    { "name": "UCI ProTeam: Team TotalEnergies", "uci_code": null, "country": null },
-    { "name": "UCI ProTeam: Israel–Premier Tech", "uci_code": null, "country": null }
+    {
+      "name": "UCI WorldTeam: AG2R Citroën Team",
+      "uci_code": null,
+      "country": null,
+      "colours": [
+        "#FFFFFF",
+        "#4A2C2A",
+        "#00A3E0"
+      ]
+    },
+    {
+      "name": "UCI WorldTeam: Alpecin–Deceuninck",
+      "uci_code": null,
+      "country": null,
+      "colours": [
+        "#1D4ED8",
+        "#FFFFFF",
+        "#111827"
+      ]
+    },
+    {
+      "name": "UCI WorldTeam: Bahrain Victorious",
+      "uci_code": null,
+      "country": null,
+      "colours": [
+        "#FFFFFF",
+        "#0072CE",
+        "#111827"
+      ]
+    },
+    {
+      "name": "UCI WorldTeam: Bora–Hansgrohe",
+      "uci_code": null,
+      "country": null,
+      "colours": [
+        "#111827",
+        "#16A34A",
+        "#FFFFFF"
+      ]
+    },
+    {
+      "name": "UCI WorldTeam: Cofidis",
+      "uci_code": null,
+      "country": null,
+      "colours": [
+        "#E10600",
+        "#FFFFFF",
+        "#111827"
+      ]
+    },
+    {
+      "name": "UCI WorldTeam: Decathlon–AG2R La Mondiale",
+      "uci_code": null,
+      "country": null,
+      "colours": [
+        "#1E3A8A",
+        "#FDE047",
+        "#FFFFFF"
+      ]
+    },
+    {
+      "name": "UCI WorldTeam: EF Education–EasyPost",
+      "uci_code": null,
+      "country": null,
+      "colours": [
+        "#FF2D87",
+        "#111827",
+        "#FFFFFF"
+      ]
+    },
+    {
+      "name": "UCI WorldTeam: Groupama–FDJ",
+      "uci_code": null,
+      "country": null,
+      "colours": [
+        "#0033A0",
+        "#E10600",
+        "#FFFFFF"
+      ]
+    },
+    {
+      "name": "UCI WorldTeam: Ineos Grenadiers",
+      "uci_code": null,
+      "country": null,
+      "colours": [
+        "#111827",
+        "#E10600",
+        "#FFFFFF"
+      ]
+    },
+    {
+      "name": "UCI WorldTeam: Intermarché–Circus–Wanty",
+      "uci_code": null,
+      "country": null,
+      "colours": [
+        "#111827",
+        "#C8102E",
+        "#F59E0B"
+      ]
+    },
+    {
+      "name": "UCI WorldTeam: Jayco–AlUla",
+      "uci_code": null,
+      "country": null,
+      "colours": [
+        "#FFFFFF",
+        "#1E3A8A",
+        "#EF4444"
+      ]
+    },
+    {
+      "name": "UCI WorldTeam: Lidl–Trek",
+      "uci_code": null,
+      "country": null,
+      "colours": [
+        "#E10600",
+        "#111827",
+        "#FFFFFF"
+      ]
+    },
+    {
+      "name": "UCI WorldTeam: Movistar Team",
+      "uci_code": null,
+      "country": null,
+      "colours": [
+        "#0EA5E9",
+        "#002855",
+        "#FFFFFF"
+      ]
+    },
+    {
+      "name": "UCI WorldTeam: Soudal Quick-Step",
+      "uci_code": null,
+      "country": null,
+      "colours": [
+        "#1D4ED8",
+        "#FFFFFF",
+        "#EF4444"
+      ]
+    },
+    {
+      "name": "UCI WorldTeam: Team dsm–Firmenich PostNL",
+      "uci_code": null,
+      "country": null,
+      "colours": [
+        "#111827",
+        "#F97316",
+        "#FFFFFF"
+      ]
+    },
+    {
+      "name": "UCI WorldTeam: Team Jayco AlUla",
+      "uci_code": null,
+      "country": null,
+      "colours": [
+        "#FFFFFF",
+        "#1E3A8A",
+        "#EF4444"
+      ]
+    },
+    {
+      "name": "UCI WorldTeam: UAE Team Emirates",
+      "uci_code": null,
+      "country": null,
+      "colours": [
+        "#FFFFFF",
+        "#EF4444",
+        "#111827"
+      ]
+    },
+    {
+      "name": "UCI ProTeam: Lotto–Dstny",
+      "uci_code": null,
+      "country": null,
+      "colours": [
+        "#E10600",
+        "#FFFFFF",
+        "#111827"
+      ]
+    },
+    {
+      "name": "UCI ProTeam: Uno–X Pro Cycling Team",
+      "uci_code": null,
+      "country": null,
+      "colours": [
+        "#E03A3E",
+        "#111827",
+        "#FFFFFF"
+      ]
+    },
+    {
+      "name": "UCI ProTeam: Team TotalEnergies",
+      "uci_code": null,
+      "country": null,
+      "colours": [
+        "#FFFFFF",
+        "#FF8200",
+        "#0057B8"
+      ]
+    },
+    {
+      "name": "UCI ProTeam: Israel–Premier Tech",
+      "uci_code": null,
+      "country": null,
+      "colours": [
+        "#0070B8",
+        "#B51E8A",
+        "#FFFFFF"
+      ]
+    },
+    {
+      "name": "Team Jumbo–Visma",
+      "uci_code": null,
+      "country": null,
+      "colours": [
+        "#FACC15",
+        "#111827",
+        "#FFFFFF"
+      ]
+    }
   ],
   "stages": [
     {
       "stage": 1,
       "date": "2023-07-01",
-      "distance_km": 182.0,
-      "accumulated_km": 182.0,
+      "distance_km": 182,
+      "accumulated_km": 182,
       "elevation_gain_m": null,
-      "start": { "town": "Bilbao", "lat": null, "lon": null },
-      "finish": { "town": "Bilbao", "lat": null, "lon": null }
+      "start": {
+        "town": "Bilbao",
+        "lat": null,
+        "lon": null
+      },
+      "finish": {
+        "town": "Bilbao",
+        "lat": null,
+        "lon": null
+      }
     },
     {
       "stage": 2,
       "date": "2023-07-02",
-      "distance_km": 209.0,
-      "accumulated_km": 391.0,
+      "distance_km": 209,
+      "accumulated_km": 391,
       "elevation_gain_m": null,
-      "start": { "town": "Vitoria-Gasteiz", "lat": null, "lon": null },
-      "finish": { "town": "San Sebastián", "lat": null, "lon": null }
+      "start": {
+        "town": "Vitoria-Gasteiz",
+        "lat": null,
+        "lon": null
+      },
+      "finish": {
+        "town": "San Sebastián",
+        "lat": null,
+        "lon": null
+      }
     },
     {
       "stage": 3,
@@ -49,8 +264,16 @@
       "distance_km": 193.5,
       "accumulated_km": 584.5,
       "elevation_gain_m": null,
-      "start": { "town": "Amorebieta-Etxano", "lat": null, "lon": null },
-      "finish": { "town": "Bayonne", "lat": null, "lon": null }
+      "start": {
+        "town": "Amorebieta-Etxano",
+        "lat": null,
+        "lon": null
+      },
+      "finish": {
+        "town": "Bayonne",
+        "lat": null,
+        "lon": null
+      }
     },
     {
       "stage": 4,
@@ -58,17 +281,33 @@
       "distance_km": 181.8,
       "accumulated_km": 766.3,
       "elevation_gain_m": null,
-      "start": { "town": "Dax", "lat": null, "lon": null },
-      "finish": { "town": "Nogaro", "lat": null, "lon": null }
+      "start": {
+        "town": "Dax",
+        "lat": null,
+        "lon": null
+      },
+      "finish": {
+        "town": "Nogaro",
+        "lat": null,
+        "lon": null
+      }
     },
     {
       "stage": 5,
       "date": "2023-07-05",
       "distance_km": 162.7,
-      "accumulated_km": 929.0,
+      "accumulated_km": 929,
       "elevation_gain_m": null,
-      "start": { "town": "Pau", "lat": null, "lon": null },
-      "finish": { "town": "Laruns", "lat": null, "lon": null }
+      "start": {
+        "town": "Pau",
+        "lat": null,
+        "lon": null
+      },
+      "finish": {
+        "town": "Laruns",
+        "lat": null,
+        "lon": null
+      }
     },
     {
       "stage": 6,
@@ -76,8 +315,16 @@
       "distance_km": 144.9,
       "accumulated_km": 1073.9,
       "elevation_gain_m": null,
-      "start": { "town": "Tarbes", "lat": null, "lon": null },
-      "finish": { "town": "Cauterets-Cambasque", "lat": null, "lon": null }
+      "start": {
+        "town": "Tarbes",
+        "lat": null,
+        "lon": null
+      },
+      "finish": {
+        "town": "Cauterets-Cambasque",
+        "lat": null,
+        "lon": null
+      }
     },
     {
       "stage": 7,
@@ -85,8 +332,16 @@
       "distance_km": 169.9,
       "accumulated_km": 1243.8,
       "elevation_gain_m": null,
-      "start": { "town": "Mont-de-Marsan", "lat": null, "lon": null },
-      "finish": { "town": "Bordeaux", "lat": null, "lon": null }
+      "start": {
+        "town": "Mont-de-Marsan",
+        "lat": null,
+        "lon": null
+      },
+      "finish": {
+        "town": "Bordeaux",
+        "lat": null,
+        "lon": null
+      }
     },
     {
       "stage": 8,
@@ -94,8 +349,16 @@
       "distance_km": 200.7,
       "accumulated_km": 1444.5,
       "elevation_gain_m": null,
-      "start": { "town": "Libourne", "lat": null, "lon": null },
-      "finish": { "town": "Limoges", "lat": null, "lon": null }
+      "start": {
+        "town": "Libourne",
+        "lat": null,
+        "lon": null
+      },
+      "finish": {
+        "town": "Limoges",
+        "lat": null,
+        "lon": null
+      }
     },
     {
       "stage": 9,
@@ -103,8 +366,16 @@
       "distance_km": 182.4,
       "accumulated_km": 1626.9,
       "elevation_gain_m": null,
-      "start": { "town": "Saint-Léonard-de-Noblat", "lat": null, "lon": null },
-      "finish": { "town": "Puy de Dôme", "lat": null, "lon": null }
+      "start": {
+        "town": "Saint-Léonard-de-Noblat",
+        "lat": null,
+        "lon": null
+      },
+      "finish": {
+        "town": "Puy de Dôme",
+        "lat": null,
+        "lon": null
+      }
     },
     {
       "stage": 10,
@@ -112,8 +383,16 @@
       "distance_km": 167.2,
       "accumulated_km": 1794.1,
       "elevation_gain_m": null,
-      "start": { "town": "Vulcania", "lat": null, "lon": null },
-      "finish": { "town": "Issoire", "lat": null, "lon": null }
+      "start": {
+        "town": "Vulcania",
+        "lat": null,
+        "lon": null
+      },
+      "finish": {
+        "town": "Issoire",
+        "lat": null,
+        "lon": null
+      }
     },
     {
       "stage": 11,
@@ -121,8 +400,16 @@
       "distance_km": 179.8,
       "accumulated_km": 1973.9,
       "elevation_gain_m": null,
-      "start": { "town": "Clermont-Ferrand", "lat": null, "lon": null },
-      "finish": { "town": "Moulins", "lat": null, "lon": null }
+      "start": {
+        "town": "Clermont-Ferrand",
+        "lat": null,
+        "lon": null
+      },
+      "finish": {
+        "town": "Moulins",
+        "lat": null,
+        "lon": null
+      }
     },
     {
       "stage": 12,
@@ -130,8 +417,16 @@
       "distance_km": 168.8,
       "accumulated_km": 2142.7,
       "elevation_gain_m": null,
-      "start": { "town": "Roanne", "lat": null, "lon": null },
-      "finish": { "town": "Belleville-en-Beaujolais", "lat": null, "lon": null }
+      "start": {
+        "town": "Roanne",
+        "lat": null,
+        "lon": null
+      },
+      "finish": {
+        "town": "Belleville-en-Beaujolais",
+        "lat": null,
+        "lon": null
+      }
     },
     {
       "stage": 13,
@@ -139,8 +434,16 @@
       "distance_km": 137.8,
       "accumulated_km": 2280.5,
       "elevation_gain_m": null,
-      "start": { "town": "Châtillon-sur-Chalaronne", "lat": null, "lon": null },
-      "finish": { "town": "Grand Colombier", "lat": null, "lon": null }
+      "start": {
+        "town": "Châtillon-sur-Chalaronne",
+        "lat": null,
+        "lon": null
+      },
+      "finish": {
+        "town": "Grand Colombier",
+        "lat": null,
+        "lon": null
+      }
     },
     {
       "stage": 14,
@@ -148,17 +451,33 @@
       "distance_km": 151.8,
       "accumulated_km": 2432.3,
       "elevation_gain_m": null,
-      "start": { "town": "Annemasse", "lat": null, "lon": null },
-      "finish": { "town": "Morzine", "lat": null, "lon": null }
+      "start": {
+        "town": "Annemasse",
+        "lat": null,
+        "lon": null
+      },
+      "finish": {
+        "town": "Morzine",
+        "lat": null,
+        "lon": null
+      }
     },
     {
       "stage": 15,
       "date": "2023-07-16",
-      "distance_km": 179.0,
+      "distance_km": 179,
       "accumulated_km": 2611.3,
       "elevation_gain_m": null,
-      "start": { "town": "Les Gets", "lat": null, "lon": null },
-      "finish": { "town": "Saint-Gervais Mont-Blanc", "lat": null, "lon": null }
+      "start": {
+        "town": "Les Gets",
+        "lat": null,
+        "lon": null
+      },
+      "finish": {
+        "town": "Saint-Gervais Mont-Blanc",
+        "lat": null,
+        "lon": null
+      }
     },
     {
       "stage": 16,
@@ -166,8 +485,16 @@
       "distance_km": 22.4,
       "accumulated_km": 2633.7,
       "elevation_gain_m": null,
-      "start": { "town": "Passy", "lat": null, "lon": null },
-      "finish": { "town": "Combloux", "lat": null, "lon": null }
+      "start": {
+        "town": "Passy",
+        "lat": null,
+        "lon": null
+      },
+      "finish": {
+        "town": "Combloux",
+        "lat": null,
+        "lon": null
+      }
     },
     {
       "stage": 17,
@@ -175,8 +502,16 @@
       "distance_km": 165.7,
       "accumulated_km": 2799.4,
       "elevation_gain_m": null,
-      "start": { "town": "Saint-Gervais Mont-Blanc", "lat": null, "lon": null },
-      "finish": { "town": "Courchevel", "lat": null, "lon": null }
+      "start": {
+        "town": "Saint-Gervais Mont-Blanc",
+        "lat": null,
+        "lon": null
+      },
+      "finish": {
+        "town": "Courchevel",
+        "lat": null,
+        "lon": null
+      }
     },
     {
       "stage": 18,
@@ -184,8 +519,16 @@
       "distance_km": 184.9,
       "accumulated_km": 2984.3,
       "elevation_gain_m": null,
-      "start": { "town": "Moûtiers", "lat": null, "lon": null },
-      "finish": { "town": "Bourg-en-Bresse", "lat": null, "lon": null }
+      "start": {
+        "town": "Moûtiers",
+        "lat": null,
+        "lon": null
+      },
+      "finish": {
+        "town": "Bourg-en-Bresse",
+        "lat": null,
+        "lon": null
+      }
     },
     {
       "stage": 19,
@@ -193,8 +536,16 @@
       "distance_km": 172.8,
       "accumulated_km": 3157.1,
       "elevation_gain_m": null,
-      "start": { "town": "Moirans-en-Montagne", "lat": null, "lon": null },
-      "finish": { "town": "Poligny", "lat": null, "lon": null }
+      "start": {
+        "town": "Moirans-en-Montagne",
+        "lat": null,
+        "lon": null
+      },
+      "finish": {
+        "town": "Poligny",
+        "lat": null,
+        "lon": null
+      }
     },
     {
       "stage": 20,
@@ -202,8 +553,16 @@
       "distance_km": 133.5,
       "accumulated_km": 3290.6,
       "elevation_gain_m": null,
-      "start": { "town": "Belfort", "lat": null, "lon": null },
-      "finish": { "town": "Le Markstein", "lat": null, "lon": null }
+      "start": {
+        "town": "Belfort",
+        "lat": null,
+        "lon": null
+      },
+      "finish": {
+        "town": "Le Markstein",
+        "lat": null,
+        "lon": null
+      }
     },
     {
       "stage": 21,
@@ -211,8 +570,16 @@
       "distance_km": 115.1,
       "accumulated_km": 3405.7,
       "elevation_gain_m": null,
-      "start": { "town": "Saint-Quentin-en-Yvelines", "lat": null, "lon": null },
-      "finish": { "town": "Paris", "lat": null, "lon": null }
+      "start": {
+        "town": "Saint-Quentin-en-Yvelines",
+        "lat": null,
+        "lon": null
+      },
+      "finish": {
+        "town": "Paris",
+        "lat": null,
+        "lon": null
+      }
     }
   ]
 }

@@ -2,38 +2,244 @@
   "race": "giro",
   "year": 2022,
   "teams": [
-    { "name": "AG2R Citroën Team", "uci_code": null, "country": null },
-    { "name": "Astana Qazaqstan Team", "uci_code": null, "country": null },
-    { "name": "Bora–Hansgrohe", "uci_code": null, "country": null },
-    { "name": "Cofidis", "uci_code": null, "country": null },
-    { "name": "EF Education–EasyPost", "uci_code": null, "country": null },
-    { "name": "Groupama–FDJ", "uci_code": null, "country": null },
-    { "name": "Ineos Grenadiers", "uci_code": null, "country": null },
-    { "name": "Intermarché–Wanty–Gobert Matériaux", "uci_code": null, "country": null },
-    { "name": "Israel–Premier Tech", "uci_code": null, "country": null },
-    { "name": "Lotto–Soudal", "uci_code": null, "country": null },
-    { "name": "Movistar Team", "uci_code": null, "country": null },
-    { "name": "Quick-Step Alpha Vinyl Team", "uci_code": null, "country": null },
-    { "name": "Team Bahrain Victorious", "uci_code": null, "country": null },
-    { "name": "Team BikeExchange–Jayco", "uci_code": null, "country": null },
-    { "name": "Team DSM", "uci_code": null, "country": null },
-    { "name": "Team Jumbo–Visma", "uci_code": null, "country": null },
-    { "name": "Trek–Segafredo", "uci_code": null, "country": null },
-    { "name": "UAE Team Emirates", "uci_code": null, "country": null },
-    { "name": "Bardiani–CSF–Faizanè", "uci_code": null, "country": null },
-    { "name": "Drone Hopper–Androni Giocattoli", "uci_code": null, "country": null },
-    { "name": "Eolo–Kometa", "uci_code": null, "country": null },
-    { "name": "Alpecin–Fenix", "uci_code": null, "country": null }
+    {
+      "name": "AG2R Citroën Team",
+      "uci_code": null,
+      "country": null,
+      "colours": [
+        "#FFFFFF",
+        "#4A2C2A",
+        "#00A3E0"
+      ]
+    },
+    {
+      "name": "Astana Qazaqstan Team",
+      "uci_code": null,
+      "country": null,
+      "colours": [
+        "#00A3E0",
+        "#111827",
+        "#EF4444"
+      ]
+    },
+    {
+      "name": "Bora–Hansgrohe",
+      "uci_code": null,
+      "country": null,
+      "colours": [
+        "#111827",
+        "#16A34A",
+        "#FFFFFF"
+      ]
+    },
+    {
+      "name": "Cofidis",
+      "uci_code": null,
+      "country": null,
+      "colours": [
+        "#E10600",
+        "#FFFFFF",
+        "#111827"
+      ]
+    },
+    {
+      "name": "EF Education–EasyPost",
+      "uci_code": null,
+      "country": null,
+      "colours": [
+        "#FF2D87",
+        "#111827",
+        "#FFFFFF"
+      ]
+    },
+    {
+      "name": "Groupama–FDJ",
+      "uci_code": null,
+      "country": null,
+      "colours": [
+        "#0033A0",
+        "#E10600",
+        "#FFFFFF"
+      ]
+    },
+    {
+      "name": "Ineos Grenadiers",
+      "uci_code": null,
+      "country": null,
+      "colours": [
+        "#111827",
+        "#E10600",
+        "#FFFFFF"
+      ]
+    },
+    {
+      "name": "Intermarché–Wanty–Gobert Matériaux",
+      "uci_code": null,
+      "country": null,
+      "colours": [
+        "#111827",
+        "#C8102E",
+        "#F59E0B"
+      ]
+    },
+    {
+      "name": "Israel–Premier Tech",
+      "uci_code": null,
+      "country": null,
+      "colours": [
+        "#0070B8",
+        "#B51E8A",
+        "#FFFFFF"
+      ]
+    },
+    {
+      "name": "Lotto–Soudal",
+      "uci_code": null,
+      "country": null,
+      "colours": [
+        "#E10600",
+        "#111827",
+        "#FFFFFF"
+      ]
+    },
+    {
+      "name": "Movistar Team",
+      "uci_code": null,
+      "country": null,
+      "colours": [
+        "#0EA5E9",
+        "#002855",
+        "#FFFFFF"
+      ]
+    },
+    {
+      "name": "Quick-Step Alpha Vinyl Team",
+      "uci_code": null,
+      "country": null,
+      "colours": [
+        "#1D4ED8",
+        "#FFFFFF",
+        "#EF4444"
+      ]
+    },
+    {
+      "name": "Team Bahrain Victorious",
+      "uci_code": null,
+      "country": null,
+      "colours": [
+        "#FFFFFF",
+        "#0072CE",
+        "#111827"
+      ]
+    },
+    {
+      "name": "Team BikeExchange–Jayco",
+      "uci_code": null,
+      "country": null,
+      "colours": [
+        "#1E3A8A",
+        "#FFFFFF",
+        "#EF4444"
+      ]
+    },
+    {
+      "name": "Team DSM",
+      "uci_code": null,
+      "country": null,
+      "colours": [
+        "#111827",
+        "#0EA5E9",
+        "#FFFFFF"
+      ]
+    },
+    {
+      "name": "Team Jumbo–Visma",
+      "uci_code": null,
+      "country": null,
+      "colours": [
+        "#FACC15",
+        "#111827",
+        "#FFFFFF"
+      ]
+    },
+    {
+      "name": "Trek–Segafredo",
+      "uci_code": null,
+      "country": null,
+      "colours": [
+        "#E10600",
+        "#111827",
+        "#FFFFFF"
+      ]
+    },
+    {
+      "name": "UAE Team Emirates",
+      "uci_code": null,
+      "country": null,
+      "colours": [
+        "#FFFFFF",
+        "#EF4444",
+        "#111827"
+      ]
+    },
+    {
+      "name": "Bardiani–CSF–Faizanè",
+      "uci_code": null,
+      "country": null,
+      "colours": [
+        "#16A34A",
+        "#FFFFFF",
+        "#EF4444"
+      ]
+    },
+    {
+      "name": "Drone Hopper–Androni Giocattoli",
+      "uci_code": null,
+      "country": null,
+      "colours": [
+        "#16A34A",
+        "#111827",
+        "#F59E0B"
+      ]
+    },
+    {
+      "name": "Eolo–Kometa",
+      "uci_code": null,
+      "country": null,
+      "colours": [
+        "#0EA5E9",
+        "#1E3A8A",
+        "#FFFFFF"
+      ]
+    },
+    {
+      "name": "Alpecin–Fenix",
+      "uci_code": null,
+      "country": null,
+      "colours": [
+        "#1D4ED8",
+        "#FFFFFF",
+        "#111827"
+      ]
+    }
   ],
   "stages": [
     {
       "stage": 1,
       "date": "2022-05-06",
-      "distance_km": 195.0,
-      "accumulated_km": 195.0,
+      "distance_km": 195,
+      "accumulated_km": 195,
       "elevation_gain_m": null,
-      "start": { "town": "Budapest", "lat": 47.4979, "lon": 19.0402 },
-      "finish": { "town": "Visegrád", "lat": 47.7853, "lon": 18.9709 }
+      "start": {
+        "town": "Budapest",
+        "lat": 47.4979,
+        "lon": 19.0402
+      },
+      "finish": {
+        "town": "Visegrád",
+        "lat": 47.7853,
+        "lon": 18.9709
+      }
     },
     {
       "stage": 2,
@@ -41,170 +247,322 @@
       "distance_km": 9.2,
       "accumulated_km": 204.2,
       "elevation_gain_m": null,
-      "start": { "town": "Budapest", "lat": 47.4979, "lon": 19.0402 },
-      "finish": { "town": "Budapest", "lat": 47.4979, "lon": 19.0402 }
+      "start": {
+        "town": "Budapest",
+        "lat": 47.4979,
+        "lon": 19.0402
+      },
+      "finish": {
+        "town": "Budapest",
+        "lat": 47.4979,
+        "lon": 19.0402
+      }
     },
     {
       "stage": 3,
       "date": "2022-05-08",
-      "distance_km": 201.0,
+      "distance_km": 201,
       "accumulated_km": 405.2,
       "elevation_gain_m": null,
-      "start": { "town": "Kaposvár", "lat": 46.3594, "lon": 17.7968 },
-      "finish": { "town": "Balatonfüred", "lat": 46.9600, "lon": 17.8850 }
+      "start": {
+        "town": "Kaposvár",
+        "lat": 46.3594,
+        "lon": 17.7968
+      },
+      "finish": {
+        "town": "Balatonfüred",
+        "lat": 46.96,
+        "lon": 17.885
+      }
     },
     {
       "stage": 4,
       "date": "2022-05-10",
-      "distance_km": 172.0,
+      "distance_km": 172,
       "accumulated_km": 577.2,
       "elevation_gain_m": null,
-      "start": { "town": "Avola", "lat": 36.9081, "lon": 15.1394 },
-      "finish": { "town": "Mount Etna", "lat": 37.7510, "lon": 14.9934 }
+      "start": {
+        "town": "Avola",
+        "lat": 36.9081,
+        "lon": 15.1394
+      },
+      "finish": {
+        "town": "Mount Etna",
+        "lat": 37.751,
+        "lon": 14.9934
+      }
     },
     {
       "stage": 5,
       "date": "2022-05-11",
-      "distance_km": 174.0,
+      "distance_km": 174,
       "accumulated_km": 751.2,
       "elevation_gain_m": null,
-      "start": { "town": "Catania", "lat": 37.5079, "lon": 15.0830 },
-      "finish": { "town": "Messina", "lat": 38.1938, "lon": 15.5540 }
+      "start": {
+        "town": "Catania",
+        "lat": 37.5079,
+        "lon": 15.083
+      },
+      "finish": {
+        "town": "Messina",
+        "lat": 38.1938,
+        "lon": 15.554
+      }
     },
     {
       "stage": 6,
       "date": "2022-05-12",
-      "distance_km": 192.0,
+      "distance_km": 192,
       "accumulated_km": 943.2,
       "elevation_gain_m": null,
-      "start": { "town": "Palmi", "lat": 38.3597, "lon": 15.8475 },
-      "finish": { "town": "Scalea", "lat": 39.8140, "lon": 15.7920 }
+      "start": {
+        "town": "Palmi",
+        "lat": 38.3597,
+        "lon": 15.8475
+      },
+      "finish": {
+        "town": "Scalea",
+        "lat": 39.814,
+        "lon": 15.792
+      }
     },
     {
       "stage": 7,
       "date": "2022-05-13",
-      "distance_km": 196.0,
+      "distance_km": 196,
       "accumulated_km": 1139.2,
       "elevation_gain_m": null,
-      "start": { "town": "Diamante", "lat": 39.6785, "lon": 15.8227 },
-      "finish": { "town": "Potenza", "lat": 40.6397, "lon": 15.8050 }
+      "start": {
+        "town": "Diamante",
+        "lat": 39.6785,
+        "lon": 15.8227
+      },
+      "finish": {
+        "town": "Potenza",
+        "lat": 40.6397,
+        "lon": 15.805
+      }
     },
     {
       "stage": 8,
       "date": "2022-05-14",
-      "distance_km": 153.0,
+      "distance_km": 153,
       "accumulated_km": 1292.2,
       "elevation_gain_m": null,
-      "start": { "town": "Naples", "lat": 40.8518, "lon": 14.2681 },
-      "finish": { "town": "Naples", "lat": 40.8518, "lon": 14.2681 }
+      "start": {
+        "town": "Naples",
+        "lat": 40.8518,
+        "lon": 14.2681
+      },
+      "finish": {
+        "town": "Naples",
+        "lat": 40.8518,
+        "lon": 14.2681
+      }
     },
     {
       "stage": 9,
       "date": "2022-05-15",
-      "distance_km": 191.0,
+      "distance_km": 191,
       "accumulated_km": 1483.2,
       "elevation_gain_m": null,
-      "start": { "town": "Isernia", "lat": 41.5957, "lon": 14.2331 },
-      "finish": { "town": "Blockhaus", "lat": 42.2086, "lon": 14.1075 }
+      "start": {
+        "town": "Isernia",
+        "lat": 41.5957,
+        "lon": 14.2331
+      },
+      "finish": {
+        "town": "Blockhaus",
+        "lat": 42.2086,
+        "lon": 14.1075
+      }
     },
     {
       "stage": 10,
       "date": "2022-05-17",
-      "distance_km": 196.0,
+      "distance_km": 196,
       "accumulated_km": 1679.2,
       "elevation_gain_m": null,
-      "start": { "town": "Pescara", "lat": 42.4618, "lon": 14.2161 },
-      "finish": { "town": "Jesi", "lat": 43.5216, "lon": 13.2430 }
+      "start": {
+        "town": "Pescara",
+        "lat": 42.4618,
+        "lon": 14.2161
+      },
+      "finish": {
+        "town": "Jesi",
+        "lat": 43.5216,
+        "lon": 13.243
+      }
     },
     {
       "stage": 11,
       "date": "2022-05-18",
-      "distance_km": 203.0,
+      "distance_km": 203,
       "accumulated_km": 1882.2,
       "elevation_gain_m": null,
-      "start": { "town": "Santarcangelo di Romagna", "lat": 44.0636, "lon": 12.4461 },
-      "finish": { "town": "Reggio Emilia", "lat": 44.6983, "lon": 10.6312 }
+      "start": {
+        "town": "Santarcangelo di Romagna",
+        "lat": 44.0636,
+        "lon": 12.4461
+      },
+      "finish": {
+        "town": "Reggio Emilia",
+        "lat": 44.6983,
+        "lon": 10.6312
+      }
     },
     {
       "stage": 12,
       "date": "2022-05-19",
-      "distance_km": 204.0,
+      "distance_km": 204,
       "accumulated_km": 2086.2,
       "elevation_gain_m": null,
-      "start": { "town": "Parma", "lat": 44.8015, "lon": 10.3279 },
-      "finish": { "town": "Genoa", "lat": 44.4056, "lon": 8.9463 }
+      "start": {
+        "town": "Parma",
+        "lat": 44.8015,
+        "lon": 10.3279
+      },
+      "finish": {
+        "town": "Genoa",
+        "lat": 44.4056,
+        "lon": 8.9463
+      }
     },
     {
       "stage": 13,
       "date": "2022-05-20",
-      "distance_km": 150.0,
+      "distance_km": 150,
       "accumulated_km": 2236.2,
       "elevation_gain_m": null,
-      "start": { "town": "Sanremo", "lat": 43.8170, "lon": 7.7770 },
-      "finish": { "town": "Cuneo", "lat": 44.3845, "lon": 7.5427 }
+      "start": {
+        "town": "Sanremo",
+        "lat": 43.817,
+        "lon": 7.777
+      },
+      "finish": {
+        "town": "Cuneo",
+        "lat": 44.3845,
+        "lon": 7.5427
+      }
     },
     {
       "stage": 14,
       "date": "2022-05-21",
-      "distance_km": 147.0,
+      "distance_km": 147,
       "accumulated_km": 2383.2,
       "elevation_gain_m": null,
-      "start": { "town": "Santena", "lat": 44.9447, "lon": 7.7728 },
-      "finish": { "town": "Turin", "lat": 45.0703, "lon": 7.6869 }
+      "start": {
+        "town": "Santena",
+        "lat": 44.9447,
+        "lon": 7.7728
+      },
+      "finish": {
+        "town": "Turin",
+        "lat": 45.0703,
+        "lon": 7.6869
+      }
     },
     {
       "stage": 15,
       "date": "2022-05-22",
-      "distance_km": 178.0,
+      "distance_km": 178,
       "accumulated_km": 2561.2,
       "elevation_gain_m": null,
-      "start": { "town": "Rivarolo Canavese", "lat": 45.3330, "lon": 7.7220 },
-      "finish": { "town": "Cogne", "lat": 45.6100, "lon": 7.3560 }
+      "start": {
+        "town": "Rivarolo Canavese",
+        "lat": 45.333,
+        "lon": 7.722
+      },
+      "finish": {
+        "town": "Cogne",
+        "lat": 45.61,
+        "lon": 7.356
+      }
     },
     {
       "stage": 16,
       "date": "2022-05-24",
-      "distance_km": 202.0,
+      "distance_km": 202,
       "accumulated_km": 2763.2,
       "elevation_gain_m": null,
-      "start": { "town": "Salò", "lat": 45.6070, "lon": 10.5200 },
-      "finish": { "town": "Aprica", "lat": 46.1540, "lon": 10.1520 }
+      "start": {
+        "town": "Salò",
+        "lat": 45.607,
+        "lon": 10.52
+      },
+      "finish": {
+        "town": "Aprica",
+        "lat": 46.154,
+        "lon": 10.152
+      }
     },
     {
       "stage": 17,
       "date": "2022-05-25",
-      "distance_km": 168.0,
+      "distance_km": 168,
       "accumulated_km": 2931.2,
       "elevation_gain_m": null,
-      "start": { "town": "Ponte di Legno", "lat": 46.2580, "lon": 10.5110 },
-      "finish": { "town": "Lavarone", "lat": 45.9390, "lon": 11.2660 }
+      "start": {
+        "town": "Ponte di Legno",
+        "lat": 46.258,
+        "lon": 10.511
+      },
+      "finish": {
+        "town": "Lavarone",
+        "lat": 45.939,
+        "lon": 11.266
+      }
     },
     {
       "stage": 18,
       "date": "2022-05-26",
-      "distance_km": 156.0,
+      "distance_km": 156,
       "accumulated_km": 3087.2,
       "elevation_gain_m": null,
-      "start": { "town": "Borgo Valsugana", "lat": 46.0510, "lon": 11.4540 },
-      "finish": { "town": "Treviso", "lat": 45.6667, "lon": 12.2442 }
+      "start": {
+        "town": "Borgo Valsugana",
+        "lat": 46.051,
+        "lon": 11.454
+      },
+      "finish": {
+        "town": "Treviso",
+        "lat": 45.6667,
+        "lon": 12.2442
+      }
     },
     {
       "stage": 19,
       "date": "2022-05-27",
-      "distance_km": 177.0,
+      "distance_km": 177,
       "accumulated_km": 3264.2,
       "elevation_gain_m": null,
-      "start": { "town": "Marano Lagunare", "lat": 45.7600, "lon": 13.1700 },
-      "finish": { "town": "Santuario di Castelmonte", "lat": 46.0910, "lon": 13.4500 }
+      "start": {
+        "town": "Marano Lagunare",
+        "lat": 45.76,
+        "lon": 13.17
+      },
+      "finish": {
+        "town": "Santuario di Castelmonte",
+        "lat": 46.091,
+        "lon": 13.45
+      }
     },
     {
       "stage": 20,
       "date": "2022-05-28",
-      "distance_km": 168.0,
+      "distance_km": 168,
       "accumulated_km": 3432.2,
       "elevation_gain_m": null,
-      "start": { "town": "Belluno", "lat": 46.1420, "lon": 12.2150 },
-      "finish": { "town": "Marmolada", "lat": 46.4340, "lon": 11.8610 }
+      "start": {
+        "town": "Belluno",
+        "lat": 46.142,
+        "lon": 12.215
+      },
+      "finish": {
+        "town": "Marmolada",
+        "lat": 46.434,
+        "lon": 11.861
+      }
     },
     {
       "stage": 21,
@@ -212,8 +570,16 @@
       "distance_km": 17.4,
       "accumulated_km": 3449.6,
       "elevation_gain_m": null,
-      "start": { "town": "Verona", "lat": 45.4384, "lon": 10.9916 },
-      "finish": { "town": "Verona", "lat": 45.4384, "lon": 10.9916 }
+      "start": {
+        "town": "Verona",
+        "lat": 45.4384,
+        "lon": 10.9916
+      },
+      "finish": {
+        "town": "Verona",
+        "lat": 45.4384,
+        "lon": 10.9916
+      }
     }
   ]
 }

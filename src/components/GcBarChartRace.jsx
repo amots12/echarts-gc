@@ -1,43 +1,25 @@
 import React, { useEffect, useRef, useState } from "react";
 import ReactECharts from "echarts-for-react";
 
-import { Stack, IconButton 
-    /*Accordion,*/
-    /*AccordionSummary,*/
-    /*AccordionDetails,*/
-    /*Typography*/} from "@mui/material";
+import { Stack, IconButton, Slider } from "@mui/material";
 import PlayArrowIcon from "@mui/icons-material/PlayArrow";
 import PauseIcon from "@mui/icons-material/Pause";
 import ReplayIcon from "@mui/icons-material/Replay";
 /*import ExpandMoreIcon from "@mui/icons-material/ExpandMore";*/
 
-/* ================= TEAM COLORS ================= */
-
-const TEAM_COLORS = {
-  "Quick-Step Alpha Vinyl Team": "#1e3a8a",
-  "Team Jumbo–Visma": "#facc15",
-  "UAE Team Emirates": "#e11d48",
-  "Ineos Grenadiers": "#111827",
-  "Alpecin–Deceuninck": "#2563eb",
-  "Trek–Segafredo": "#dc2626",
-  "Team Bahrain Victorious": "#b91c1c",
-  "EF Education–EasyPost": "#ec4899",
-  "Groupama–FDJ": "#2563eb",
-  "Movistar Team": "#0ea5e9",
-  "Arkéa–Samsic": "#111827",
-  "Team DSM": "#f97316",
-  "Astana Qazaqstan Team": "#38bdf8",
-  "Bora–Hansgrohe": "#22c55e",
-  "Intermarché–Wanty–Gobert Matériaux": "#16a34a"
+const DEFAULT_JERSEY_PRIMARY = "#E5E7EB";
+const DEFAULT_JERSEY_SECONDARY = "#9CA3AF";
+const VIBRANT_GOLD = "#FFD700";
+const GIRO_PINK = "#EF94B4";
+const DEEP_SLATE = "#37474F";
+const LINE_CHARCOAL = "#1A1A1A";
+const SLATE_GRAY = "#666666";
+const STEEL_GRAY = "#455A64";
+const TABULAR_FONT = "\"Roboto Mono\", ui-monospace, SFMono-Regular, Menlo, monospace";
+const TEAM_NAME_ALIASES = {
+  "UAE Team Emirates": "UAE Team Emirates XRG",
+  "Alpecin–Deceuninck": "Alpecin–Deceuninck"
 };
-
-const FALLBACK_COLORS = ["#64748b", "#8b5cf6", "#06b6d4", "#84cc16"];
-
-function getTeamColor(team) {
-  if (TEAM_COLORS[team]) return TEAM_COLORS[team];
-  const h = team.split("").reduce((a, c) => a + c.charCodeAt(0), 0);
-  return FALLBACK_COLORS[h % FALLBACK_COLORS.length];
-}
 
 /* ================= TIME ================= */
 
@@ -60,6 +42,22 @@ function formatGap(seconds) {
   const m = Math.floor(seconds / 60);
   const s = Math.round(seconds % 60);
   return m > 0 ? `${m}m ${s}s` : `${s}s`;
+}
+
+function makeJerseyDataUrl(primaryHex, secondaryHex) {
+  const primary = primaryHex || DEFAULT_JERSEY_PRIMARY;
+  const secondary = secondaryHex || DEFAULT_JERSEY_SECONDARY;
+
+  const svg = `
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
+      <circle cx="12" cy="12" r="12" fill="#F2F2F2" />
+      <path d="M9 5.4L6.2 7L5.2 10l2 1.2.9-2 1.2 8.4h5.5l1.2-8.4.9 2 2-1.2-1-3-2.8-1.6-1.8.8-1.8.5-1.8-.5z" fill="${primary}" />
+      <path d="M9 5.4L6.2 7L5.2 10l2 1.2.9-2L9 5.4zm6 0L17.8 7l1 3-2 1.2-.9-2L15 5.4z" fill="${secondary}" />
+      <path d="M9 5.4L6.2 7L5.2 10l2 1.2.9-2 1.2 8.4h5.5l1.2-8.4.9 2 2-1.2-1-3-2.8-1.6-1.8.8-1.8.5-1.8-.5z" fill="none" stroke="#111827" stroke-width=".45" stroke-opacity=".18" />
+    </svg>
+  `;
+
+  return `data:image/svg+xml;base64,${btoa(unescape(encodeURIComponent(svg)))}`;
 }
 
 /* ================= INTERPOLATION ================= */
@@ -93,6 +91,8 @@ export default function GcBarChartRace({ race, year, onStageChange }) {
   const [tick, setTick] = useState(0);
   const timerRef = useRef(null);
   const [stageMeta, setStageMeta] = useState([]);
+  const [teamPaletteByName, setTeamPaletteByName] = useState({});
+  const jerseyCacheRef = useRef(new Map());
 
   const FRAMES = 30;
   const FRAME_MS = 120;
@@ -115,12 +115,31 @@ export default function GcBarChartRace({ race, year, onStageChange }) {
       `${process.env.PUBLIC_URL}/data/stages/${race}-${year}-stages.json`
     )
       .then(r => r.json())
-      .then(d => setStageMeta(d.stages))
+      .then(d => {
+        setStageMeta(d?.stages || []);
+
+        const palettes = {};
+        (d?.teams || []).forEach(team => {
+          if (!team?.name) return;
+          const colours = Array.isArray(team.colours) ? team.colours : [];
+          palettes[team.name] = {
+            primary: colours[0] || DEFAULT_JERSEY_PRIMARY,
+            secondary: colours[1] || DEFAULT_JERSEY_SECONDARY,
+            accent: colours[2] || null
+          };
+        });
+        setTeamPaletteByName(palettes);
+      })
       .catch(err => {
         console.warn("No stage metadata found", err);
         setStageMeta([]);
+        setTeamPaletteByName({});
       });
   }, [race, year]);
+
+  useEffect(() => {
+    jerseyCacheRef.current.clear();
+  }, [race, year, teamPaletteByName]);
 
   const isIntro = tick < INTRO_FRAMES;
 
@@ -182,8 +201,7 @@ export default function GcBarChartRace({ race, year, onStageChange }) {
   const formattedDate = currentStageMeta?.date
   ? new Date(currentStageMeta.date).toLocaleDateString("en-GB", {
       day: "2-digit",
-      month: "long",
-      year: "numeric"
+      month: "short"
     })
   : null;
 
@@ -213,31 +231,71 @@ export default function GcBarChartRace({ race, year, onStageChange }) {
 
   const showLabels = tick > 0;
 
+  const resolveTeamPalette = (teamName) => {
+    const resolvedTeamName = TEAM_NAME_ALIASES[teamName] || teamName;
+    return teamPaletteByName[resolvedTeamName] || {
+      primary: DEFAULT_JERSEY_PRIMARY,
+      secondary: DEFAULT_JERSEY_SECONDARY
+    };
+  };
+
+  const getJerseyForTeam = (teamName) => {
+    const resolvedTeamName = TEAM_NAME_ALIASES[teamName] || teamName;
+    const palette = resolveTeamPalette(teamName);
+    const key = `${resolvedTeamName || "__fallback__"}|${palette.primary}|${palette.secondary}`;
+    if (jerseyCacheRef.current.has(key)) {
+      return jerseyCacheRef.current.get(key);
+    }
+
+    const dataUrl = makeJerseyDataUrl(palette.primary, palette.secondary);
+    jerseyCacheRef.current.set(key, dataUrl);
+    return dataUrl;
+  };
+
+  const labelRich = riders.reduce(
+    (acc, rider, i) => {
+      acc[`icon_${i}`] = {
+        width: 24,
+        height: 24,
+        align: "center",
+        borderRadius: 12,
+        backgroundColor: { image: getJerseyForTeam(rider.team) }
+      };
+      acc[`name_${i}`] = {
+        fontWeight: 700,
+        color: rider.gap === 0 ? LINE_CHARCOAL : "#FFFFFF",
+        fontSize: 13,
+        padding: [0, 0, 0, 8]
+      };
+      return acc;
+    },
+    {
+      gap: {
+        fontWeight: "bold",
+        color: SLATE_GRAY,
+        fontSize: 13,
+        fontFamily: TABULAR_FONT,
+        fontVariant: "tabular-nums"
+      }
+    }
+  );
+
+  const maxGap = riders.reduce((max, rider) => Math.max(max, rider.gap || 0), 0);
+  const leaderAnchorValue = Math.max(maxGap + 10, 10);
+  const leaderColor = race === "giro" ? GIRO_PINK : VIBRANT_GOLD;
+
+  const barRows = riders.map(rider => {
+    const value = rider.gap === 0 ? leaderAnchorValue : rider.gap;
+    const ratio = leaderAnchorValue > 0 ? value / leaderAnchorValue : 0;
+    const isShort = ratio < 0.22 && rider.gap !== 0;
+    return { rider, value, isShort };
+  });
+
   const option = {
     tooltip: {
       show: false
     },
-    title: {
-      left: "center",
-      top: 12,
-      text: `Stage ${stages[stageIndex].stage}`,
-      subtext: currentStageMeta
-        ? `${formattedDate} · ${weekday}
-    ${currentStageMeta.start.town} → ${currentStageMeta.finish.town}
-    ${smoothKm !== null ? smoothKm.toFixed(0) : ""} km covered`
-        : "",
-      textStyle: {
-        fontSize: 22,
-        fontWeight: 700,
-        color: "#111827"
-      },
-      subtextStyle: {
-        fontSize: 14,
-        lineHeight: 20,
-        color: "#4b5563"
-      }
-    },
-    grid: { left: 40, right: 220, top: 92, bottom: 10 },
+    grid: { left: 40, right: 220, top: 8, bottom: 10 },
     xAxis: {
       type: "value",
       show: false,
@@ -251,7 +309,9 @@ export default function GcBarChartRace({ race, year, onStageChange }) {
         axisLabel: {
             fontWeight: "bold",
             fontSize: 13,
-            color: "#111827"
+            color: LINE_CHARCOAL,
+            fontFamily: TABULAR_FONT,
+            fontVariant: "tabular-nums"
         },
       axisTick: { show: false },
       axisLine: { show: false }
@@ -260,30 +320,62 @@ export default function GcBarChartRace({ race, year, onStageChange }) {
       {
         type: "bar",
         silent: true,
-        barWidth: 36,
-        data: riders.map(r => ({
-          value: r.gap,
+        barWidth: "65%",
+        data: barRows.map(({ rider, value, isShort }) => ({
+          value,
+          isShort,
           itemStyle: {
-            color: getTeamColor(r.team),
-            opacity: 0.85,
+            color: rider.gap === 0 ? leaderColor : DEEP_SLATE,
+            opacity: isShort ? 0.6 : 1,
             borderRadius: 6
           }
         })),
         label: {
           show: showLabels,
-          position: "right",
+          position: "insideLeft",
+          distance: 10,
+          rich: labelRich,
           formatter: ({ dataIndex }) => {
-            const r = riders[dataIndex];
+            const row = barRows[dataIndex];
+            const r = row?.rider;
             if (!r) return "";
-          
-            if (r.rank === 1) {
-              return `${r.name} — Leader (${r.team})`;
-            }
-          
-            return `${r.name}, +${formatGap(r.gap)}, ${r.team}`;
+            if (row?.isShort) return "";
+
+            const iconKey = `icon_${dataIndex}`;
+            const nameKey = `name_${dataIndex}`;
+            return `{${iconKey}|} {${nameKey}|${r.name}}`;
           },
           fontSize: 13,
           fontWeight: "bold"
+        },
+        animationDurationUpdate: FRAME_MS * 1.6,
+        animationEasingUpdate: "cubicInOut"
+      },
+      {
+        type: "bar",
+        silent: true,
+        barWidth: "65%",
+        barGap: "-100%",
+        data: barRows.map(({ value, isShort }) => ({
+          value,
+          isShort,
+          itemStyle: {
+            color: "transparent"
+          }
+        })),
+        label: {
+          show: showLabels,
+          position: "right",
+          distance: 8,
+          rich: labelRich,
+          formatter: ({ dataIndex }) => {
+            const row = barRows[dataIndex];
+            const rider = row?.rider;
+            if (!rider) return "";
+            if (rider.gap === 0) return "{gap|Leader}";
+            if (row?.isShort) return `{gap|${rider.name} +${formatGap(rider.gap)}}`;
+            return `{gap|+${formatGap(rider.gap)}}`;
+          }
         },
         animationDurationUpdate: FRAME_MS * 1.6,
         animationEasingUpdate: "cubicInOut"
@@ -294,9 +386,6 @@ export default function GcBarChartRace({ race, year, onStageChange }) {
   /* ---------- CONTROLS ---------- */
 
   const maxTick = INTRO_FRAMES + (stages.length - 1) * FRAMES;
-  const progressPct = maxTick > 0
-  ? Math.min((tick / maxTick) * 100, 100)
-  : 0;
 
   const play = () => {
     if (timerRef.current) return;
@@ -323,6 +412,19 @@ export default function GcBarChartRace({ race, year, onStageChange }) {
     setTick(0);
   };
 
+  const marks = Array.from({ length: stages.length }, (_, i) => ({
+    value: i + 1,
+    label: `${i + 1}`
+  }));
+
+  const handleSliderChange = (_, value) => {
+    const nextStage = Array.isArray(value) ? value[0] : value;
+    if (typeof nextStage !== "number") return;
+    pause();
+    const bounded = Math.max(1, Math.min(stages.length, Math.round(nextStage)));
+    setTick(INTRO_FRAMES + (bounded - 1) * FRAMES);
+  };
+
   return (
     <div
       style={{
@@ -333,12 +435,54 @@ export default function GcBarChartRace({ race, year, onStageChange }) {
         padding: 16
       }}
     >
+      <div style={{ marginBottom: 14, paddingBottom: 6 }}>
+        <div
+          style={{
+            fontFamily: "\"Source Serif 4\", \"Lora\", serif",
+            fontSize: "1.8rem",
+            fontWeight: 600,
+            color: LINE_CHARCOAL,
+            lineHeight: 1.15
+          }}
+        >
+          {`Stage ${stages[stageIndex].stage}`}
+        </div>
+        <div
+          style={{
+            fontFamily: TABULAR_FONT,
+            fontVariantNumeric: "tabular-nums",
+            fontSize: "0.9rem",
+            color: SLATE_GRAY,
+            marginTop: 2
+          }}
+        >
+          {smoothKm !== null ? `${smoothKm.toFixed(0)} km covered` : ""}
+        </div>
+        <div
+          style={{
+            fontSize: "0.85rem",
+            color: SLATE_GRAY,
+            marginTop: 6
+          }}
+        >
+          {currentStageMeta ? `${formattedDate} · ${weekday}` : ""}
+        </div>
+        <div
+          style={{
+            fontSize: "0.85rem",
+            color: SLATE_GRAY
+          }}
+        >
+          {currentStageMeta ? `${currentStageMeta.start.town} → ${currentStageMeta.finish.town}` : ""}
+        </div>
+      </div>
+
   
       {/* Controls */}
       <Stack direction="row" spacing={1} justifyContent="center" sx={{ mb: 1 }}>
-        <IconButton onClick={play}><PlayArrowIcon /></IconButton>
-        <IconButton onClick={pause}><PauseIcon /></IconButton>
-        <IconButton onClick={restart}><ReplayIcon /></IconButton>
+        <IconButton onClick={play} sx={{ color: STEEL_GRAY }}><PlayArrowIcon /></IconButton>
+        <IconButton onClick={pause} sx={{ color: STEEL_GRAY }}><PauseIcon /></IconButton>
+        <IconButton onClick={restart} sx={{ color: STEEL_GRAY }}><ReplayIcon /></IconButton>
       </Stack>
   
       {/* Chart fills remaining space */}
@@ -351,25 +495,31 @@ export default function GcBarChartRace({ race, year, onStageChange }) {
         />
       </div>
   
-      {/* Progress bar */}
-      <div
-        style={{
-          height: 4,
-          background: "#e5e7eb",
-          borderRadius: 4,
-          overflow: "hidden",
-          marginTop: 8
+      <Slider
+        min={1}
+        max={stages.length}
+        step={1}
+        value={stageIndex + 1}
+        onChange={handleSliderChange}
+        marks={marks}
+        sx={{
+          mt: 1.5,
+          color: "#1A1A1A",
+          "& .MuiSlider-rail": { backgroundColor: "#E0E0E0", opacity: 1 },
+          "& .MuiSlider-track": { backgroundColor: "#1A1A1A", border: "none" },
+          "& .MuiSlider-mark": { display: "none" },
+          "& .MuiSlider-markLabel": {
+            fontFamily: TABULAR_FONT,
+            fontSize: 10,
+            color: SLATE_GRAY
+          },
+          "& .MuiSlider-thumb": {
+            width: 12,
+            height: 12,
+            backgroundColor: "#1A1A1A"
+          }
         }}
-      >
-        <div
-          style={{
-            height: "100%",
-            width: `${progressPct}%`,
-            background: "#111827",
-            transition: "width 120ms linear"
-          }}
-        />
-      </div>
+      />
     </div>
   );
 }
