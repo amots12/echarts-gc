@@ -27,35 +27,29 @@ const styles = {
     height: "100vh",
     display: "grid",
     gridTemplateRows: "auto 1fr",
-    background: "#f9fafb",
+    background: "#FDFDFB",
     overflow: "hidden"
   },
 
   mastheadWrap: {
-    padding: "18px 24px 12px 24px"
+    padding: "18px 24px 8px 24px"
   },
 
-  // a single calm “card” for the header row
   mastheadCard: {
-    background: "#ffffff",
-    borderRadius: 14,
-    padding: "14px 16px",
-    boxShadow: "0 2px 10px rgba(0,0,0,0.05)"
+    padding: "4px 0"
   },
 
   dashboard: {
     display: "grid",
-    gridTemplateColumns: "1fr 1.4fr",
-    gap: 18,
-    padding: "12px 24px 18px 24px",
+    gridTemplateColumns: "3.5fr 8.5fr",
+    gap: 28,
+    padding: "8px 24px 20px 24px",
     overflow: "hidden",
     minHeight: 0
   },
 
   card: {
-    background: "#ffffff",
-    borderRadius: 14,
-    boxShadow: "0 2px 10px rgba(0,0,0,0.05)",
+    background: "transparent",
     overflow: "hidden",
     minHeight: 0,
     display: "flex",

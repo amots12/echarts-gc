@@ -81,12 +81,12 @@ if (
       roam: false,
       zoom: 1.1,
       itemStyle: {
-        areaColor: "#f3f4f6",
-        borderColor: "#9ca3af"
+        areaColor: "#F5F5F5",
+        borderColor: "#E0E0E0"
       },
       emphasis: {
         itemStyle: {
-          areaColor: "#e5e7eb"
+          areaColor: "#F5F5F5"
         }
       }
     },

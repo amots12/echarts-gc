@@ -19,7 +19,7 @@ export default function RaceSelector({ race, year, races, onRaceChange, onYearCh
           sx={{
             fontSize: 22,
             fontWeight: 700,
-            color: "#111827",
+            color: "#1A1A1A",
             letterSpacing: 0.2,
             lineHeight: 1.2
           }}
@@ -31,7 +31,7 @@ export default function RaceSelector({ race, year, races, onRaceChange, onYearCh
           sx={{
             mt: 0.6,
             fontSize: 13.5,
-            color: "#6b7280",
+            color: "#666666",
             lineHeight: 1.55,
             maxWidth: 720
           }}
@@ -45,13 +45,23 @@ export default function RaceSelector({ race, year, races, onRaceChange, onYearCh
       <Stack direction="row" spacing={1.5} sx={{ alignItems: "center" }}>
         <FormControl size="small">
           <Select
+            variant="outlined"
             value={race}
             onChange={(e) => onRaceChange(e.target.value)}
             sx={{
-              borderRadius: 2,
               minWidth: 170,
-              backgroundColor: "#f9fafb",
-              "& fieldset": { border: "1px solid #e5e7eb" }
+              color: "#1A1A1A",
+              "& .MuiOutlinedInput-notchedOutline": {
+                borderColor: "#D0D0D0",
+                borderWidth: "1.5px"
+              },
+              "&:hover .MuiOutlinedInput-notchedOutline": {
+                borderColor: "#1A1A1A"
+              },
+              "&.Mui-focused .MuiOutlinedInput-notchedOutline": {
+                borderColor: "#1A1A1A"
+              },
+              ".MuiSelect-icon": { color: "#455A64" }
             }}
           >
             {raceOptions.map(([id, cfg]) => (
@@ -64,13 +74,23 @@ export default function RaceSelector({ race, year, races, onRaceChange, onYearCh
 
         <FormControl size="small">
           <Select
+            variant="outlined"
             value={year}
             onChange={(e) => onYearChange(Number(e.target.value))}
             sx={{
-              borderRadius: 2,
               minWidth: 110,
-              backgroundColor: "#f9fafb",
-              "& fieldset": { border: "1px solid #e5e7eb" }
+              color: "#1A1A1A",
+              "& .MuiOutlinedInput-notchedOutline": {
+                borderColor: "#D0D0D0",
+                borderWidth: "1.5px"
+              },
+              "&:hover .MuiOutlinedInput-notchedOutline": {
+                borderColor: "#1A1A1A"
+              },
+              "&.Mui-focused .MuiOutlinedInput-notchedOutline": {
+                borderColor: "#1A1A1A"
+              },
+              ".MuiSelect-icon": { color: "#455A64" }
             }}
           >
             {yearOptions.map((y) => (
