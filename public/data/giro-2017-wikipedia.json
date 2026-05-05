@@ -1,0 +1,1371 @@
+{
+  "race": "Giro d%27Italia",
+  "year": 2017,
+  "stages": [
+    {
+      "stage": 1,
+      "riders": [
+        {
+          "rank": 3,
+          "name": "]",
+          "team": "Rank",
+          "time": "Rider"
+        },
+        {
+          "rank": 1,
+          "name": "Lukas Pöstlberger",
+          "team": "(",
+          "time": "AUT"
+        },
+        {
+          "rank": 2,
+          "name": "Caleb Ewan",
+          "team": "(",
+          "time": "AUS"
+        },
+        {
+          "rank": 3,
+          "name": "André Greipel",
+          "team": "(",
+          "time": "GER"
+        },
+        {
+          "rank": 4,
+          "name": "Pavel Brutt",
+          "team": "(",
+          "time": "RUS"
+        },
+        {
+          "rank": 5,
+          "name": "Giacomo Nizzolo",
+          "team": "(",
+          "time": "ITA"
+        },
+        {
+          "rank": 6,
+          "name": "Sacha Modolo",
+          "team": "(",
+          "time": "ITA"
+        },
+        {
+          "rank": 7,
+          "name": "Kristian Sbaragli",
+          "team": "(",
+          "time": "ITA"
+        },
+        {
+          "rank": 8,
+          "name": "Jasper Stuyven",
+          "team": "(",
+          "time": "BEL"
+        },
+        {
+          "rank": 9,
+          "name": "Ryan Gibbons",
+          "team": "(",
+          "time": "RSA"
+        }
+      ]
+    },
+    {
+      "stage": 2,
+      "riders": [
+        {
+          "rank": 1,
+          "name": "André Greipel (GER)",
+          "team": "Lotto–Soudal",
+          "time": "11h 18' 39\""
+        },
+        {
+          "rank": 2,
+          "name": "Lukas Pöstlberger (AUT)",
+          "team": "Bora–Hansgrohe",
+          "time": "+ 4\""
+        },
+        {
+          "rank": 3,
+          "name": "Caleb Ewan (AUS)",
+          "team": "Orica–Scott",
+          "time": "+ 8\""
+        },
+        {
+          "rank": 4,
+          "name": "Roberto Ferrari (ITA)",
+          "team": "UAE Team Emirates",
+          "time": "+ 8\""
+        },
+        {
+          "rank": 5,
+          "name": "Jasper Stuyven (BEL)",
+          "team": "Trek–Segafredo",
+          "time": "+ 10\""
+        },
+        {
+          "rank": 6,
+          "name": "Pavel Brutt (RUS)",
+          "team": "Gazprom–RusVelo",
+          "time": "+ 12\""
+        },
+        {
+          "rank": 7,
+          "name": "Kristian Sbaragli (ITA)",
+          "team": "Team Dimension Data",
+          "time": "+ 14\""
+        },
+        {
+          "rank": 8,
+          "name": "Ryan Gibbons (RSA)",
+          "team": "Team Dimension Data",
+          "time": "+ 14\""
+        },
+        {
+          "rank": 9,
+          "name": "Fernando Gaviria (COL)",
+          "team": "Quick-Step Floors",
+          "time": "+ 14\""
+        },
+        {
+          "rank": 10,
+          "name": "Enrico Battaglin (ITA)",
+          "team": "LottoNL–Jumbo",
+          "time": "+ 14\""
+        }
+      ]
+    },
+    {
+      "stage": 3,
+      "riders": [
+        {
+          "rank": 1,
+          "name": "Fernando Gaviria (COL)",
+          "team": "Quick-Step Floors",
+          "time": "14h 45' 16\""
+        },
+        {
+          "rank": 2,
+          "name": "André Greipel (GER)",
+          "team": "Lotto–Soudal",
+          "time": "+ 9\""
+        },
+        {
+          "rank": 3,
+          "name": "Lukas Pöstlberger (AUT)",
+          "team": "Bora–Hansgrohe",
+          "time": "+ 13\""
+        },
+        {
+          "rank": 4,
+          "name": "Bob Jungels (LUX)",
+          "team": "Quick-Step Floors",
+          "time": "+ 13\""
+        },
+        {
+          "rank": 5,
+          "name": "Kanstantsin Sivtsov (BLR)",
+          "team": "Bahrain–Merida",
+          "time": "+ 13\""
+        },
+        {
+          "rank": 6,
+          "name": "Caleb Ewan (AUS)",
+          "team": "Orica–Scott",
+          "time": "+ 17\""
+        },
+        {
+          "rank": 7,
+          "name": "Roberto Ferrari (ITA)",
+          "team": "UAE Team Emirates",
+          "time": "+ 17\""
+        },
+        {
+          "rank": 8,
+          "name": "Ryan Gibbons (RSA)",
+          "team": "Team Dimension Data",
+          "time": "+ 23\""
+        },
+        {
+          "rank": 9,
+          "name": "Enrico Battaglin (ITA)",
+          "team": "LottoNL–Jumbo",
+          "time": "+ 23\""
+        },
+        {
+          "rank": 10,
+          "name": "Sacha Modolo (ITA)",
+          "team": "UAE Team Emirates",
+          "time": "+ 23\""
+        }
+      ]
+    },
+    {
+      "stage": 4,
+      "riders": [
+        {
+          "rank": 1,
+          "name": "Bob Jungels (LUX)",
+          "team": "Quick-Step Floors",
+          "time": "19h 41' 56\""
+        },
+        {
+          "rank": 2,
+          "name": "Geraint Thomas (GBR)",
+          "team": "Team Sky",
+          "time": "+ 6\""
+        },
+        {
+          "rank": 3,
+          "name": "Adam Yates (GBR)",
+          "team": "Orica–Scott",
+          "time": "+ 10\""
+        },
+        {
+          "rank": 4,
+          "name": "Vincenzo Nibali (ITA)",
+          "team": "Bahrain–Merida",
+          "time": "+ 10\""
+        },
+        {
+          "rank": 5,
+          "name": "Domenico Pozzovivo (ITA)",
+          "team": "AG2R La Mondiale",
+          "time": "+ 10\""
+        },
+        {
+          "rank": 6,
+          "name": "Nairo Quintana (COL)",
+          "team": "Movistar Team",
+          "time": "+ 10\""
+        },
+        {
+          "rank": 7,
+          "name": "Tom Dumoulin (NED)",
+          "team": "Team Sunweb",
+          "time": "+ 10\""
+        },
+        {
+          "rank": 8,
+          "name": "Bauke Mollema (NED)",
+          "team": "Trek–Segafredo",
+          "time": "+ 10\""
+        },
+        {
+          "rank": 9,
+          "name": "Mikel Landa (ESP)",
+          "team": "Team Sky",
+          "time": "+ 10\""
+        },
+        {
+          "rank": 10,
+          "name": "Thibaut Pinot (FRA)",
+          "team": "FDJ",
+          "time": "+ 10\""
+        }
+      ]
+    },
+    {
+      "stage": 5,
+      "riders": [
+        {
+          "rank": 1,
+          "name": "Bob Jungels (LUX)",
+          "team": "Quick-Step Floors",
+          "time": "23h 22' 07\""
+        },
+        {
+          "rank": 2,
+          "name": "Geraint Thomas (GBR)",
+          "team": "Team Sky",
+          "time": "+ 6\""
+        },
+        {
+          "rank": 3,
+          "name": "Adam Yates (GBR)",
+          "team": "Orica–Scott",
+          "time": "+ 10\""
+        },
+        {
+          "rank": 4,
+          "name": "Domenico Pozzovivo (ITA)",
+          "team": "AG2R La Mondiale",
+          "time": "+ 10\""
+        },
+        {
+          "rank": 5,
+          "name": "Vincenzo Nibali (ITA)",
+          "team": "Bahrain–Merida",
+          "time": "+ 10\""
+        },
+        {
+          "rank": 6,
+          "name": "Tom Dumoulin (NED)",
+          "team": "Team Sunweb",
+          "time": "+ 10\""
+        },
+        {
+          "rank": 7,
+          "name": "Nairo Quintana (COL)",
+          "team": "Movistar Team",
+          "time": "+ 10\""
+        },
+        {
+          "rank": 8,
+          "name": "Bauke Mollema (NED)",
+          "team": "Trek–Segafredo",
+          "time": "+ 10\""
+        },
+        {
+          "rank": 9,
+          "name": "Tejay van Garderen (USA)",
+          "team": "BMC Racing Team",
+          "time": "+ 10\""
+        },
+        {
+          "rank": 10,
+          "name": "Andrey Amador (CRC)",
+          "team": "Movistar Team",
+          "time": "+ 10\""
+        }
+      ]
+    },
+    {
+      "stage": 6,
+      "riders": [
+        {
+          "rank": 1,
+          "name": "Bob Jungels (LUX)",
+          "team": "Quick-Step Floors",
+          "time": "28h 20' 47\""
+        },
+        {
+          "rank": 2,
+          "name": "Geraint Thomas (GBR)",
+          "team": "Team Sky",
+          "time": "+ 6\""
+        },
+        {
+          "rank": 3,
+          "name": "Adam Yates (GBR)",
+          "team": "Orica–Scott",
+          "time": "+ 10\""
+        },
+        {
+          "rank": 4,
+          "name": "Vincenzo Nibali (ITA)",
+          "team": "Bahrain–Merida",
+          "time": "+ 10\""
+        },
+        {
+          "rank": 5,
+          "name": "Domenico Pozzovivo (ITA)",
+          "team": "AG2R La Mondiale",
+          "time": "+ 10\""
+        },
+        {
+          "rank": 6,
+          "name": "Nairo Quintana (COL)",
+          "team": "Movistar Team",
+          "time": "+ 10\""
+        },
+        {
+          "rank": 7,
+          "name": "Tom Dumoulin (NED)",
+          "team": "Team Sunweb",
+          "time": "+ 10\""
+        },
+        {
+          "rank": 8,
+          "name": "Bauke Mollema (NED)",
+          "team": "Trek–Segafredo",
+          "time": "+ 10\""
+        },
+        {
+          "rank": 9,
+          "name": "Tejay van Garderen (USA)",
+          "team": "BMC Racing Team",
+          "time": "+ 10\""
+        },
+        {
+          "rank": 10,
+          "name": "Andrey Amador (CRC)",
+          "team": "Movistar Team",
+          "time": "+ 10\""
+        }
+      ]
+    },
+    {
+      "stage": 7,
+      "riders": [
+        {
+          "rank": 1,
+          "name": "Bob Jungels (LUX)",
+          "team": "Quick-Step Floors",
+          "time": "33h 56' 07\""
+        },
+        {
+          "rank": 2,
+          "name": "Geraint Thomas (GBR)",
+          "team": "Team Sky",
+          "time": "+ 6\""
+        },
+        {
+          "rank": 3,
+          "name": "Adam Yates (GBR)",
+          "team": "Orica–Scott",
+          "time": "+ 10\""
+        },
+        {
+          "rank": 4,
+          "name": "Vincenzo Nibali (ITA)",
+          "team": "Bahrain–Merida",
+          "time": "+ 10\""
+        },
+        {
+          "rank": 5,
+          "name": "Domenico Pozzovivo (ITA)",
+          "team": "AG2R La Mondiale",
+          "time": "+ 10\""
+        },
+        {
+          "rank": 6,
+          "name": "Tom Dumoulin (NED)",
+          "team": "Team Sunweb",
+          "time": "+ 10\""
+        },
+        {
+          "rank": 7,
+          "name": "Nairo Quintana (COL)",
+          "team": "Movistar Team",
+          "time": "+ 10\""
+        },
+        {
+          "rank": 8,
+          "name": "Bauke Mollema (NED)",
+          "team": "Trek–Segafredo",
+          "time": "+ 10\""
+        },
+        {
+          "rank": 9,
+          "name": "Andrey Amador (CRC)",
+          "team": "Movistar Team",
+          "time": "+ 10\""
+        },
+        {
+          "rank": 10,
+          "name": "Tejay van Garderen (USA)",
+          "team": "BMC Racing Team",
+          "time": "+ 10\""
+        }
+      ]
+    },
+    {
+      "stage": 8,
+      "riders": [
+        {
+          "rank": 1,
+          "name": "Bob Jungels (LUX)",
+          "team": "Quick-Step Floors",
+          "time": "38h 21' 18\""
+        },
+        {
+          "rank": 2,
+          "name": "Geraint Thomas (GBR)",
+          "team": "Team Sky",
+          "time": "+ 6\""
+        },
+        {
+          "rank": 3,
+          "name": "Adam Yates (GBR)",
+          "team": "Orica–Scott",
+          "time": "+ 10\""
+        },
+        {
+          "rank": 4,
+          "name": "Vincenzo Nibali (ITA)",
+          "team": "Bahrain–Merida",
+          "time": "+ 10\""
+        },
+        {
+          "rank": 5,
+          "name": "Domenico Pozzovivo (ITA)",
+          "team": "AG2R La Mondiale",
+          "time": "+ 10\""
+        },
+        {
+          "rank": 6,
+          "name": "Tom Dumoulin (NED)",
+          "team": "Team Sunweb",
+          "time": "+ 10\""
+        },
+        {
+          "rank": 7,
+          "name": "Nairo Quintana (COL)",
+          "team": "Movistar Team",
+          "time": "+ 10\""
+        },
+        {
+          "rank": 8,
+          "name": "Bauke Mollema (NED)",
+          "team": "Trek–Segafredo",
+          "time": "+ 10\""
+        },
+        {
+          "rank": 9,
+          "name": "Thibaut Pinot (FRA)",
+          "team": "FDJ",
+          "time": "+ 10\""
+        },
+        {
+          "rank": 10,
+          "name": "Andrey Amador (CRC)",
+          "team": "Movistar Team",
+          "time": "+ 10\""
+        }
+      ]
+    },
+    {
+      "stage": 9,
+      "riders": [
+        {
+          "rank": 1,
+          "name": "Nairo Quintana (COL)",
+          "team": "Movistar Team",
+          "time": "42h 06' 09\""
+        },
+        {
+          "rank": 2,
+          "name": "Thibaut Pinot (FRA)",
+          "team": "FDJ",
+          "time": "+ 28\""
+        },
+        {
+          "rank": 3,
+          "name": "Tom Dumoulin (NED)",
+          "team": "Team Sunweb",
+          "time": "+ 30\""
+        },
+        {
+          "rank": 4,
+          "name": "Bauke Mollema (NED)",
+          "team": "Trek–Segafredo",
+          "time": "+ 51\""
+        },
+        {
+          "rank": 5,
+          "name": "Vincenzo Nibali (ITA)",
+          "team": "Bahrain–Merida",
+          "time": "+ 1' 10\""
+        },
+        {
+          "rank": 6,
+          "name": "Domenico Pozzovivo (ITA)",
+          "team": "AG2R La Mondiale",
+          "time": "+ 1' 28\""
+        },
+        {
+          "rank": 7,
+          "name": "Ilnur Zakarin (RUS)",
+          "team": "Team Katusha–Alpecin",
+          "time": "+ 2' 28\""
+        },
+        {
+          "rank": 8,
+          "name": "Davide Formolo (ITA)",
+          "team": "Cannondale–Drapac",
+          "time": "+ 2' 45\""
+        },
+        {
+          "rank": 9,
+          "name": "Andrey Amador (CRC)",
+          "team": "Movistar Team",
+          "time": "+ 2' 53\""
+        },
+        {
+          "rank": 10,
+          "name": "Steven Kruijswijk (NED)",
+          "team": "LottoNL–Jumbo",
+          "time": "+ 3' 06\""
+        }
+      ]
+    },
+    {
+      "stage": 10,
+      "riders": [
+        {
+          "rank": 1,
+          "name": "Tom Dumoulin (NED)",
+          "team": "Team Sunweb",
+          "time": "42h 57' 16\""
+        },
+        {
+          "rank": 2,
+          "name": "Nairo Quintana (COL)",
+          "team": "Movistar Team",
+          "time": "+ 2' 23\""
+        },
+        {
+          "rank": 3,
+          "name": "Bauke Mollema (NED)",
+          "team": "Trek–Segafredo",
+          "time": "+ 2' 38\""
+        },
+        {
+          "rank": 4,
+          "name": "Thibaut Pinot (FRA)",
+          "team": "FDJ",
+          "time": "+ 2' 40\""
+        },
+        {
+          "rank": 5,
+          "name": "Vincenzo Nibali (ITA)",
+          "team": "Bahrain–Merida",
+          "time": "+ 2' 47\""
+        },
+        {
+          "rank": 6,
+          "name": "Bob Jungels (LUX)",
+          "team": "Quick-Step Floors",
+          "time": "+ 3' 56\""
+        },
+        {
+          "rank": 7,
+          "name": "Domenico Pozzovivo (ITA)",
+          "team": "AG2R La Mondiale",
+          "time": "+ 4' 05\""
+        },
+        {
+          "rank": 8,
+          "name": "Ilnur Zakarin (RUS)",
+          "team": "Team Katusha–Alpecin",
+          "time": "+ 4' 17\""
+        },
+        {
+          "rank": 9,
+          "name": "Andrey Amador (CRC)",
+          "team": "Movistar Team",
+          "time": "+ 4' 39\""
+        },
+        {
+          "rank": 10,
+          "name": "Steven Kruijswijk (NED)",
+          "team": "LottoNL–Jumbo",
+          "time": "+ 5' 19\""
+        }
+      ]
+    },
+    {
+      "stage": 11,
+      "riders": [
+        {
+          "rank": 1,
+          "name": "Tom Dumoulin (NED)",
+          "team": "Team Sunweb",
+          "time": "47h 22' 07\""
+        },
+        {
+          "rank": 2,
+          "name": "Nairo Quintana (COL)",
+          "team": "Movistar Team",
+          "time": "+ 2' 23\""
+        },
+        {
+          "rank": 3,
+          "name": "Bauke Mollema (NED)",
+          "team": "Trek–Segafredo",
+          "time": "+ 2' 38\""
+        },
+        {
+          "rank": 4,
+          "name": "Thibaut Pinot (FRA)",
+          "team": "FDJ",
+          "time": "+ 2' 40\""
+        },
+        {
+          "rank": 5,
+          "name": "Vincenzo Nibali (ITA)",
+          "team": "Bahrain–Merida",
+          "time": "+ 2' 47\""
+        },
+        {
+          "rank": 6,
+          "name": "Andrey Amador (CRI)",
+          "team": "Movistar Team",
+          "time": "+ 3' 05\""
+        },
+        {
+          "rank": 7,
+          "name": "Bob Jungels (LUX)",
+          "team": "Quick-Step Floors",
+          "time": "+ 3' 56\""
+        },
+        {
+          "rank": 8,
+          "name": "Tanel Kangert (EST)",
+          "team": "Astana",
+          "time": "+ 3' 59\""
+        },
+        {
+          "rank": 9,
+          "name": "Domenico Pozzovivo (ITA)",
+          "team": "AG2R La Mondiale",
+          "time": "+ 4' 05\""
+        },
+        {
+          "rank": 10,
+          "name": "Ilnur Zakarin (RUS)",
+          "team": "Team Katusha–Alpecin",
+          "time": "+ 4' 17\""
+        }
+      ]
+    },
+    {
+      "stage": 12,
+      "riders": [
+        {
+          "rank": 1,
+          "name": "Tom Dumoulin (NED)",
+          "team": "Team Sunweb",
+          "time": "52h 41' 08\""
+        },
+        {
+          "rank": 2,
+          "name": "Nairo Quintana (COL)",
+          "team": "Movistar Team",
+          "time": "+ 2' 23\""
+        },
+        {
+          "rank": 3,
+          "name": "Bauke Mollema (NED)",
+          "team": "Trek–Segafredo",
+          "time": "+ 2' 38\""
+        },
+        {
+          "rank": 4,
+          "name": "Thibaut Pinot (FRA)",
+          "team": "FDJ",
+          "time": "+ 2' 40\""
+        },
+        {
+          "rank": 5,
+          "name": "Vincenzo Nibali (ITA)",
+          "team": "Bahrain–Merida",
+          "time": "+ 2' 47\""
+        },
+        {
+          "rank": 6,
+          "name": "Andrey Amador (CRC)",
+          "team": "Movistar Team",
+          "time": "+ 3' 05\""
+        },
+        {
+          "rank": 7,
+          "name": "Bob Jungels (LUX)",
+          "team": "Quick-Step Floors",
+          "time": "+ 3' 56\""
+        },
+        {
+          "rank": 8,
+          "name": "Domenico Pozzovivo (ITA)",
+          "team": "AG2R La Mondiale",
+          "time": "+ 3' 59\""
+        },
+        {
+          "rank": 9,
+          "name": "Tanel Kangert (EST)",
+          "team": "Astana",
+          "time": "+ 3' 59\""
+        },
+        {
+          "rank": 10,
+          "name": "Ilnur Zakarin (RUS)",
+          "team": "Team Katusha–Alpecin",
+          "time": "+ 4' 17\""
+        }
+      ]
+    },
+    {
+      "stage": 13,
+      "riders": [
+        {
+          "rank": 1,
+          "name": "Tom Dumoulin (NED)",
+          "team": "Team Sunweb",
+          "time": "56h 28' 53\""
+        },
+        {
+          "rank": 2,
+          "name": "Nairo Quintana (COL)",
+          "team": "Movistar Team",
+          "time": "+ 2' 23\""
+        },
+        {
+          "rank": 3,
+          "name": "Bauke Mollema (NED)",
+          "team": "Trek–Segafredo",
+          "time": "+ 2' 38\""
+        },
+        {
+          "rank": 4,
+          "name": "Thibaut Pinot (FRA)",
+          "team": "FDJ",
+          "time": "+ 2' 40\""
+        },
+        {
+          "rank": 5,
+          "name": "Vincenzo Nibali (ITA)",
+          "team": "Bahrain–Merida",
+          "time": "+ 2' 47\""
+        },
+        {
+          "rank": 6,
+          "name": "Andrey Amador (CRC)",
+          "team": "Movistar Team",
+          "time": "+ 3' 05\""
+        },
+        {
+          "rank": 7,
+          "name": "Bob Jungels (LUX)",
+          "team": "Quick-Step Floors",
+          "time": "+ 3' 56\""
+        },
+        {
+          "rank": 8,
+          "name": "Domenico Pozzovivo (ITA)",
+          "team": "AG2R La Mondiale",
+          "time": "+ 3' 59\""
+        },
+        {
+          "rank": 9,
+          "name": "Tanel Kangert (EST)",
+          "team": "Astana",
+          "time": "+ 3' 59\""
+        },
+        {
+          "rank": 10,
+          "name": "Ilnur Zakarin (RUS)",
+          "team": "Team Katusha–Alpecin",
+          "time": "+ 4' 17\""
+        }
+      ]
+    },
+    {
+      "stage": 14,
+      "riders": [
+        {
+          "rank": 1,
+          "name": "Tom Dumoulin (NED)",
+          "team": "Team Sunweb",
+          "time": "59h 31' 17\""
+        },
+        {
+          "rank": 2,
+          "name": "Nairo Quintana (COL)",
+          "team": "Movistar Team",
+          "time": "+ 2' 47\""
+        },
+        {
+          "rank": 3,
+          "name": "Thibaut Pinot (FRA)",
+          "team": "FDJ",
+          "time": "+ 3' 25\""
+        },
+        {
+          "rank": 4,
+          "name": "Vincenzo Nibali (ITA)",
+          "team": "Bahrain–Merida",
+          "time": "+ 3' 40\""
+        },
+        {
+          "rank": 5,
+          "name": "Ilnur Zakarin (RUS)",
+          "team": "Team Katusha–Alpecin",
+          "time": "+ 4' 24\""
+        },
+        {
+          "rank": 6,
+          "name": "Bauke Mollema (NED)",
+          "team": "Trek–Segafredo",
+          "time": "+ 4' 32\""
+        },
+        {
+          "rank": 7,
+          "name": "Tanel Kangert (EST)",
+          "team": "Astana",
+          "time": "+ 4' 55\""
+        },
+        {
+          "rank": 8,
+          "name": "Domenico Pozzovivo (ITA)",
+          "team": "AG2R La Mondiale",
+          "time": "+ 4' 59\""
+        },
+        {
+          "rank": 9,
+          "name": "Bob Jungels (LUX)",
+          "team": "Quick-Step Floors",
+          "time": "+ 5' 28\""
+        },
+        {
+          "rank": 10,
+          "name": "Andrey Amador (CRC)",
+          "team": "Movistar Team",
+          "time": "+ 5' 36\""
+        }
+      ]
+    },
+    {
+      "stage": 15,
+      "riders": [
+        {
+          "rank": 1,
+          "name": "Tom Dumoulin (NED)",
+          "team": "Team Sunweb",
+          "time": "63h 48' 08\""
+        },
+        {
+          "rank": 2,
+          "name": "Nairo Quintana (COL)",
+          "team": "Movistar Team",
+          "time": "+ 2' 41\""
+        },
+        {
+          "rank": 3,
+          "name": "Thibaut Pinot (FRA)",
+          "team": "FDJ",
+          "time": "+ 3' 21\""
+        },
+        {
+          "rank": 4,
+          "name": "Vincenzo Nibali (ITA)",
+          "team": "Bahrain–Merida",
+          "time": "+ 3' 40\""
+        },
+        {
+          "rank": 5,
+          "name": "Ilnur Zakarin (RUS)",
+          "team": "Team Katusha–Alpecin",
+          "time": "+ 4' 24\""
+        },
+        {
+          "rank": 6,
+          "name": "Bauke Mollema (NED)",
+          "team": "Trek–Segafredo",
+          "time": "+ 4' 32\""
+        },
+        {
+          "rank": 7,
+          "name": "Domenico Pozzovivo (ITA)",
+          "team": "AG2R La Mondiale",
+          "time": "+ 4' 59\""
+        },
+        {
+          "rank": 8,
+          "name": "Bob Jungels (LUX)",
+          "team": "Quick-Step Floors",
+          "time": "+ 5' 18\""
+        },
+        {
+          "rank": 9,
+          "name": "Andrey Amador (CRC)",
+          "team": "Movistar Team",
+          "time": "+ 6' 01\""
+        },
+        {
+          "rank": 10,
+          "name": "Steven Kruijswijk (NED)",
+          "team": "LottoNL–Jumbo",
+          "time": "+ 7' 03\""
+        }
+      ]
+    },
+    {
+      "stage": 16,
+      "riders": [
+        {
+          "rank": 1,
+          "name": "Tom Dumoulin (NED)",
+          "team": "Team Sunweb",
+          "time": "70h 14' 48\""
+        },
+        {
+          "rank": 2,
+          "name": "Nairo Quintana (COL)",
+          "team": "Movistar Team",
+          "time": "+ 31\""
+        },
+        {
+          "rank": 3,
+          "name": "Vincenzo Nibali (ITA)",
+          "team": "Bahrain–Merida",
+          "time": "+ 1' 12\""
+        },
+        {
+          "rank": 4,
+          "name": "Thibaut Pinot (FRA)",
+          "team": "FDJ",
+          "time": "+ 2' 38\""
+        },
+        {
+          "rank": 5,
+          "name": "Ilnur Zakarin (RUS)",
+          "team": "Team Katusha–Alpecin",
+          "time": "+ 2' 40\""
+        },
+        {
+          "rank": 6,
+          "name": "Domenico Pozzovivo (ITA)",
+          "team": "AG2R La Mondiale",
+          "time": "+ 3' 05\""
+        },
+        {
+          "rank": 7,
+          "name": "Bauke Mollema (NED)",
+          "team": "Trek–Segafredo",
+          "time": "+ 3' 49\""
+        },
+        {
+          "rank": 8,
+          "name": "Bob Jungels (LUX)",
+          "team": "Quick-Step Floors",
+          "time": "+ 4' 35\""
+        },
+        {
+          "rank": 9,
+          "name": "Steven Kruijswijk (NED)",
+          "team": "LottoNL–Jumbo",
+          "time": "+ 6' 20\""
+        },
+        {
+          "rank": 10,
+          "name": "Adam Yates (GBR)",
+          "team": "Orica–Scott",
+          "time": "+ 7' 00\""
+        }
+      ]
+    },
+    {
+      "stage": 17,
+      "riders": [
+        {
+          "rank": 1,
+          "name": "Tom Dumoulin (NED)",
+          "team": "Team Sunweb",
+          "time": "76h 05' 38\""
+        },
+        {
+          "rank": 2,
+          "name": "Nairo Quintana (COL)",
+          "team": "Movistar Team",
+          "time": "+ 31\""
+        },
+        {
+          "rank": 3,
+          "name": "Vincenzo Nibali (ITA)",
+          "team": "Bahrain–Merida",
+          "time": "+ 1' 12\""
+        },
+        {
+          "rank": 4,
+          "name": "Thibaut Pinot (FRA)",
+          "team": "FDJ",
+          "time": "+ 2' 38\""
+        },
+        {
+          "rank": 5,
+          "name": "Ilnur Zakarin (RUS)",
+          "team": "Team Katusha–Alpecin",
+          "time": "+ 2' 40\""
+        },
+        {
+          "rank": 6,
+          "name": "Domenico Pozzovivo (ITA)",
+          "team": "AG2R La Mondiale",
+          "time": "+ 3' 05\""
+        },
+        {
+          "rank": 7,
+          "name": "Bauke Mollema (NED)",
+          "team": "Trek–Segafredo",
+          "time": "+ 3' 49\""
+        },
+        {
+          "rank": 8,
+          "name": "Bob Jungels (LUX)",
+          "team": "Quick-Step Floors",
+          "time": "+ 4' 35\""
+        },
+        {
+          "rank": 9,
+          "name": "Steven Kruijswijk (NED)",
+          "team": "LottoNL–Jumbo",
+          "time": "+ 6' 20\""
+        },
+        {
+          "rank": 10,
+          "name": "Jan Polanc (SLO)",
+          "team": "UAE Team Emirates",
+          "time": "+ 6' 33\""
+        }
+      ]
+    },
+    {
+      "stage": 18,
+      "riders": [
+        {
+          "rank": 1,
+          "name": "Tom Dumoulin (NED)",
+          "team": "Team Sunweb",
+          "time": "80h 00' 48\""
+        },
+        {
+          "rank": 2,
+          "name": "Nairo Quintana (COL)",
+          "team": "Movistar Team",
+          "time": "+ 31\""
+        },
+        {
+          "rank": 3,
+          "name": "Vincenzo Nibali (ITA)",
+          "team": "Bahrain–Merida",
+          "time": "+ 1' 12\""
+        },
+        {
+          "rank": 4,
+          "name": "Thibaut Pinot (FRA)",
+          "team": "FDJ",
+          "time": "+ 1' 36\""
+        },
+        {
+          "rank": 5,
+          "name": "Ilnur Zakarin (RUS)",
+          "team": "Team Katusha–Alpecin",
+          "time": "+ 1' 58\""
+        },
+        {
+          "rank": 6,
+          "name": "Domenico Pozzovivo (ITA)",
+          "team": "AG2R La Mondiale",
+          "time": "+ 2' 07\""
+        },
+        {
+          "rank": 7,
+          "name": "Bauke Mollema (NED)",
+          "team": "Trek–Segafredo",
+          "time": "+ 3' 17\""
+        },
+        {
+          "rank": 8,
+          "name": "Steven Kruijswijk (NED)",
+          "team": "LottoNL–Jumbo",
+          "time": "+ 5' 48\""
+        },
+        {
+          "rank": 9,
+          "name": "Adam Yates (GBR)",
+          "team": "Orica–Scott",
+          "time": "+ 7' 06\""
+        },
+        {
+          "rank": 10,
+          "name": "Bob Jungels (LUX)",
+          "team": "Quick-Step Floors",
+          "time": "+ 7' 34\""
+        }
+      ]
+    },
+    {
+      "stage": 19,
+      "riders": [
+        {
+          "rank": 1,
+          "name": "Nairo Quintana (COL)",
+          "team": "Movistar Team",
+          "time": "85h 02' 40\""
+        },
+        {
+          "rank": 2,
+          "name": "Tom Dumoulin (NED)",
+          "team": "Team Sunweb",
+          "time": "+ 38\""
+        },
+        {
+          "rank": 3,
+          "name": "Vincenzo Nibali (ITA)",
+          "team": "Bahrain–Merida",
+          "time": "+ 43\""
+        },
+        {
+          "rank": 4,
+          "name": "Thibaut Pinot (FRA)",
+          "team": "FDJ",
+          "time": "+ 53\""
+        },
+        {
+          "rank": 5,
+          "name": "Ilnur Zakarin (RUS)",
+          "team": "Team Katusha–Alpecin",
+          "time": "+ 1' 21\""
+        },
+        {
+          "rank": 6,
+          "name": "Domenico Pozzovivo (ITA)",
+          "team": "AG2R La Mondiale",
+          "time": "+ 1' 30\""
+        },
+        {
+          "rank": 7,
+          "name": "Bauke Mollema (NED)",
+          "team": "Trek–Segafredo",
+          "time": "+ 2' 48\""
+        },
+        {
+          "rank": 8,
+          "name": "Adam Yates (GBR)",
+          "team": "Orica–Scott",
+          "time": "+ 6' 35\""
+        },
+        {
+          "rank": 9,
+          "name": "Bob Jungels (LUX)",
+          "team": "Quick-Step Floors",
+          "time": "+ 7' 03\""
+        },
+        {
+          "rank": 10,
+          "name": "Steven Kruijswijk (NED)",
+          "team": "LottoNL–Jumbo",
+          "time": "+ 7' 37\""
+        }
+      ]
+    },
+    {
+      "stage": 20,
+      "riders": [
+        {
+          "rank": 1,
+          "name": "Nairo Quintana (COL)",
+          "team": "Movistar Team",
+          "time": "90h 00' 38\""
+        },
+        {
+          "rank": 2,
+          "name": "Vincenzo Nibali (ITA)",
+          "team": "Bahrain–Merida",
+          "time": "+ 39\""
+        },
+        {
+          "rank": 3,
+          "name": "Thibaut Pinot (FRA)",
+          "team": "FDJ",
+          "time": "+ 43\""
+        },
+        {
+          "rank": 4,
+          "name": "Tom Dumoulin (NED)",
+          "team": "Team Sunweb",
+          "time": "+ 53\""
+        },
+        {
+          "rank": 5,
+          "name": "Ilnur Zakarin (RUS)",
+          "team": "Team Katusha–Alpecin",
+          "time": "+ 1' 15\""
+        },
+        {
+          "rank": 6,
+          "name": "Domenico Pozzovivo (ITA)",
+          "team": "AG2R La Mondiale",
+          "time": "+ 1' 30\""
+        },
+        {
+          "rank": 7,
+          "name": "Bauke Mollema (NED)",
+          "team": "Trek–Segafredo",
+          "time": "+ 3' 03\""
+        },
+        {
+          "rank": 8,
+          "name": "Adam Yates (GBR)",
+          "team": "Orica–Scott",
+          "time": "+ 6' 50\""
+        },
+        {
+          "rank": 9,
+          "name": "Bob Jungels (LUX)",
+          "team": "Quick-Step Floors",
+          "time": "+ 7' 18\""
+        },
+        {
+          "rank": 10,
+          "name": "Davide Formolo (ITA)",
+          "team": "Cannondale–Drapac",
+          "time": "+ 12' 55\""
+        }
+      ]
+    },
+    {
+      "stage": 21,
+      "riders": [
+        {
+          "rank": 1,
+          "name": "Tom Dumoulin (NED)",
+          "team": "Team Sunweb",
+          "time": "90h 34' 54\""
+        },
+        {
+          "rank": 2,
+          "name": "Nairo Quintana (COL)",
+          "team": "Movistar Team",
+          "time": "+ 31\""
+        },
+        {
+          "rank": 3,
+          "name": "Vincenzo Nibali (ITA)",
+          "team": "Bahrain–Merida",
+          "time": "+ 40\""
+        },
+        {
+          "rank": 4,
+          "name": "Thibaut Pinot (FRA)",
+          "team": "FDJ",
+          "time": "+ 1' 17\""
+        },
+        {
+          "rank": 5,
+          "name": "Ilnur Zakarin (RUS)",
+          "team": "Team Katusha–Alpecin",
+          "time": "+ 1' 56\""
+        },
+        {
+          "rank": 6,
+          "name": "Domenico Pozzovivo (ITA)",
+          "team": "AG2R La Mondiale",
+          "time": "+ 3' 11\""
+        },
+        {
+          "rank": 7,
+          "name": "Bauke Mollema (NED)",
+          "team": "Trek–Segafredo",
+          "time": "+ 3' 41\""
+        },
+        {
+          "rank": 8,
+          "name": "Bob Jungels (LUX)",
+          "team": "Quick-Step Floors",
+          "time": "+ 7' 04\""
+        },
+        {
+          "rank": 9,
+          "name": "Adam Yates (GBR)",
+          "team": "Orica–Scott",
+          "time": "+ 8' 10\""
+        },
+        {
+          "rank": 10,
+          "name": "Davide Formolo (ITA)",
+          "team": "Cannondale–Drapac",
+          "time": "+ 15' 17\""
+        }
+      ]
+    }
+  ]
+}

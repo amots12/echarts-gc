@@ -1,0 +1,1371 @@
+{
+  "race": "Giro d%27Italia",
+  "year": 2015,
+  "stages": [
+    {
+      "stage": 1,
+      "riders": [
+        {
+          "rank": 1,
+          "name": "Simon Gerrans (AUS)",
+          "team": "Orica–GreenEDGE",
+          "time": "19' 26\""
+        },
+        {
+          "rank": 2,
+          "name": "Michael Matthews (AUS)",
+          "team": "Orica–GreenEDGE",
+          "time": "+ 0\""
+        },
+        {
+          "rank": 3,
+          "name": "Michael Hepburn (AUS)",
+          "team": "Orica–GreenEDGE",
+          "time": "+ 0\""
+        },
+        {
+          "rank": 4,
+          "name": "Pieter Weening (NED)",
+          "team": "Orica–GreenEDGE",
+          "time": "+ 0\""
+        },
+        {
+          "rank": 5,
+          "name": "Simon Clarke (AUS)",
+          "team": "Orica–GreenEDGE",
+          "time": "+ 0\""
+        },
+        {
+          "rank": 6,
+          "name": "Esteban Chaves (COL)",
+          "team": "Orica–GreenEDGE",
+          "time": "+ 0\""
+        },
+        {
+          "rank": 7,
+          "name": "Manuele Boaro (ITA)",
+          "team": "Tinkoff–Saxo",
+          "time": "+ 7\""
+        },
+        {
+          "rank": 8,
+          "name": "Roman Kreuziger (CZE)",
+          "team": "Tinkoff–Saxo",
+          "time": "+ 7\""
+        },
+        {
+          "rank": 9,
+          "name": "Michael Rogers (AUS)",
+          "team": "Tinkoff–Saxo",
+          "time": "+ 7\""
+        },
+        {
+          "rank": 10,
+          "name": "Alberto Contador (ESP)",
+          "team": "Tinkoff–Saxo",
+          "time": "+ 7\""
+        }
+      ]
+    },
+    {
+      "stage": 2,
+      "riders": [
+        {
+          "rank": 1,
+          "name": "Michael Matthews (AUS)",
+          "team": "Orica–GreenEDGE",
+          "time": "4h 32' 44\""
+        },
+        {
+          "rank": 2,
+          "name": "Simon Gerrans (AUS)",
+          "team": "Orica–GreenEDGE",
+          "time": "+ 0\""
+        },
+        {
+          "rank": 3,
+          "name": "Simon Clarke (AUS)",
+          "team": "Orica–GreenEDGE",
+          "time": "+ 0\""
+        },
+        {
+          "rank": 4,
+          "name": "Esteban Chaves (COL)",
+          "team": "Orica–GreenEDGE",
+          "time": "+ 0\""
+        },
+        {
+          "rank": 5,
+          "name": "Roman Kreuziger (CZE)",
+          "team": "Tinkoff–Saxo",
+          "time": "+ 7\""
+        },
+        {
+          "rank": 6,
+          "name": "Alberto Contador (ESP)",
+          "team": "Tinkoff–Saxo",
+          "time": "+ 7\""
+        },
+        {
+          "rank": 7,
+          "name": "Michael Rogers (AUS)",
+          "team": "Tinkoff–Saxo",
+          "time": "+ 7\""
+        },
+        {
+          "rank": 8,
+          "name": "Manuele Boaro (ITA)",
+          "team": "Tinkoff–Saxo",
+          "time": "+ 7\""
+        },
+        {
+          "rank": 9,
+          "name": "Ivan Rovny (RUS)",
+          "team": "Tinkoff–Saxo",
+          "time": "+ 7\""
+        },
+        {
+          "rank": 10,
+          "name": "Paolo Tiralongo (ITA)",
+          "team": "Astana",
+          "time": "+ 13\""
+        }
+      ]
+    },
+    {
+      "stage": 3,
+      "riders": [
+        {
+          "rank": 1,
+          "name": "Michael Matthews (AUS)",
+          "team": "Orica–GreenEDGE",
+          "time": "8h 06' 27\""
+        },
+        {
+          "rank": 2,
+          "name": "Simon Clarke (AUS)",
+          "team": "Orica–GreenEDGE",
+          "time": "+ 6\""
+        },
+        {
+          "rank": 3,
+          "name": "Simon Gerrans (AUS)",
+          "team": "Orica–GreenEDGE",
+          "time": "+ 10\""
+        },
+        {
+          "rank": 4,
+          "name": "Esteban Chaves (COL)",
+          "team": "Orica–GreenEDGE",
+          "time": "+ 10\""
+        },
+        {
+          "rank": 5,
+          "name": "Roman Kreuziger (CZE)",
+          "team": "Tinkoff–Saxo",
+          "time": "+ 17\""
+        },
+        {
+          "rank": 6,
+          "name": "Alberto Contador (ESP)",
+          "team": "Tinkoff–Saxo",
+          "time": "+ 17\""
+        },
+        {
+          "rank": 7,
+          "name": "Michael Rogers (AUS)",
+          "team": "Tinkoff–Saxo",
+          "time": "+ 17\""
+        },
+        {
+          "rank": 8,
+          "name": "Paolo Tiralongo (ITA)",
+          "team": "Astana",
+          "time": "+ 23\""
+        },
+        {
+          "rank": 9,
+          "name": "Fabio Aru (ITA)",
+          "team": "Astana",
+          "time": "+ 23\""
+        },
+        {
+          "rank": 10,
+          "name": "Diego Rosa (ITA)",
+          "team": "Astana",
+          "time": "+ 23\""
+        }
+      ]
+    },
+    {
+      "stage": 4,
+      "riders": [
+        {
+          "rank": 1,
+          "name": "Simon Clarke (AUS)",
+          "team": "Orica–GreenEDGE",
+          "time": "11h 54' 48\""
+        },
+        {
+          "rank": 2,
+          "name": "Esteban Chaves (COL)",
+          "team": "Orica–GreenEDGE",
+          "time": "+ 10\""
+        },
+        {
+          "rank": 3,
+          "name": "Roman Kreuziger (CZE)",
+          "team": "Tinkoff–Saxo",
+          "time": "+ 17\""
+        },
+        {
+          "rank": 4,
+          "name": "Alberto Contador (ESP)",
+          "team": "Tinkoff–Saxo",
+          "time": "+ 17\""
+        },
+        {
+          "rank": 5,
+          "name": "Fabio Aru (ITA)",
+          "team": "Astana",
+          "time": "+ 23\""
+        },
+        {
+          "rank": 6,
+          "name": "Dario Cataldo (ITA)",
+          "team": "Astana",
+          "time": "+ 23\""
+        },
+        {
+          "rank": 7,
+          "name": "Giovanni Visconti (ITA)",
+          "team": "Movistar Team",
+          "time": "+ 29\""
+        },
+        {
+          "rank": 8,
+          "name": "Amaël Moinard (FRA)",
+          "team": "BMC Racing Team",
+          "time": "+ 31\""
+        },
+        {
+          "rank": 9,
+          "name": "Davide Formolo (ITA)",
+          "team": "Cannondale–Garmin",
+          "time": "+ 31\""
+        },
+        {
+          "rank": 10,
+          "name": "Richie Porte (AUS)",
+          "team": "Team Sky",
+          "time": "+ 37\""
+        }
+      ]
+    },
+    {
+      "stage": 5,
+      "riders": [
+        {
+          "rank": 1,
+          "name": "Alberto Contador (ESP)",
+          "team": "Tinkoff–Saxo",
+          "time": "16h 05' 54\""
+        },
+        {
+          "rank": 2,
+          "name": "Fabio Aru (ITA)",
+          "team": "Astana",
+          "time": "+ 2\""
+        },
+        {
+          "rank": 3,
+          "name": "Richie Porte (AUS)",
+          "team": "Team Sky",
+          "time": "+ 20\""
+        },
+        {
+          "rank": 4,
+          "name": "Roman Kreuziger (CZE)",
+          "team": "Tinkoff–Saxo",
+          "time": "+ 22\""
+        },
+        {
+          "rank": 5,
+          "name": "Dario Cataldo (ITA)",
+          "team": "Astana",
+          "time": "+ 28\""
+        },
+        {
+          "rank": 6,
+          "name": "Esteban Chaves (COL)",
+          "team": "Orica–GreenEDGE",
+          "time": "+ 37\""
+        },
+        {
+          "rank": 7,
+          "name": "Giovanni Visconti (ITA)",
+          "team": "Movistar Team",
+          "time": "+ 56\""
+        },
+        {
+          "rank": 8,
+          "name": "Mikel Landa (ESP)",
+          "team": "Astana",
+          "time": "+ 1' 01\""
+        },
+        {
+          "rank": 9,
+          "name": "Davide Formolo (ITA)",
+          "team": "Cannondale–Garmin",
+          "time": "+ 1' 15\""
+        },
+        {
+          "rank": 10,
+          "name": "Andrey Amador (CRC)",
+          "team": "Movistar Team",
+          "time": "+ 1' 18\""
+        }
+      ]
+    },
+    {
+      "stage": 6,
+      "riders": [
+        {
+          "rank": 1,
+          "name": "Alberto Contador (ESP)",
+          "team": "Tinkoff–Saxo",
+          "time": "20h 25' 36\""
+        },
+        {
+          "rank": 2,
+          "name": "Fabio Aru (ITA)",
+          "team": "Astana",
+          "time": "+ 2\""
+        },
+        {
+          "rank": 3,
+          "name": "Richie Porte (AUS)",
+          "team": "Team Sky",
+          "time": "+ 20\""
+        },
+        {
+          "rank": 4,
+          "name": "Roman Kreuziger (CZE)",
+          "team": "Tinkoff–Saxo",
+          "time": "+ 22\""
+        },
+        {
+          "rank": 5,
+          "name": "Dario Cataldo (ITA)",
+          "team": "Astana",
+          "time": "+ 28\""
+        },
+        {
+          "rank": 6,
+          "name": "Esteban Chaves (COL)",
+          "team": "Orica–GreenEDGE",
+          "time": "+ 37\""
+        },
+        {
+          "rank": 7,
+          "name": "Giovanni Visconti (ITA)",
+          "team": "Movistar Team",
+          "time": "+ 56\""
+        },
+        {
+          "rank": 8,
+          "name": "Mikel Landa (ESP)",
+          "team": "Astana",
+          "time": "+ 1' 01\""
+        },
+        {
+          "rank": 9,
+          "name": "Davide Formolo (ITA)",
+          "team": "Cannondale–Garmin",
+          "time": "+ 1' 15\""
+        },
+        {
+          "rank": 10,
+          "name": "Andrey Amador (CRC)",
+          "team": "Movistar Team",
+          "time": "+ 1' 18\""
+        }
+      ]
+    },
+    {
+      "stage": 7,
+      "riders": [
+        {
+          "rank": 1,
+          "name": "Alberto Contador (ESP)",
+          "team": "Tinkoff–Saxo",
+          "time": "27h 48' 00\""
+        },
+        {
+          "rank": 2,
+          "name": "Fabio Aru (ITA)",
+          "team": "Astana",
+          "time": "+ 2\""
+        },
+        {
+          "rank": 3,
+          "name": "Richie Porte (AUS)",
+          "team": "Team Sky",
+          "time": "+ 20\""
+        },
+        {
+          "rank": 4,
+          "name": "Roman Kreuziger (CZE)",
+          "team": "Tinkoff–Saxo",
+          "time": "+ 22\""
+        },
+        {
+          "rank": 5,
+          "name": "Dario Cataldo (ITA)",
+          "team": "Astana",
+          "time": "+ 28\""
+        },
+        {
+          "rank": 6,
+          "name": "Esteban Chaves (COL)",
+          "team": "Orica–GreenEDGE",
+          "time": "+ 37\""
+        },
+        {
+          "rank": 7,
+          "name": "Giovanni Visconti (ITA)",
+          "team": "Movistar Team",
+          "time": "+ 56\""
+        },
+        {
+          "rank": 8,
+          "name": "Mikel Landa (ESP)",
+          "team": "Astana",
+          "time": "+ 1' 01\""
+        },
+        {
+          "rank": 9,
+          "name": "Davide Formolo (ITA)",
+          "team": "Cannondale–Garmin",
+          "time": "+ 1' 15\""
+        },
+        {
+          "rank": 10,
+          "name": "Andrey Amador (CRC)",
+          "team": "Movistar Team",
+          "time": "+ 1' 18\""
+        }
+      ]
+    },
+    {
+      "stage": 8,
+      "riders": [
+        {
+          "rank": 1,
+          "name": "Alberto Contador (ESP)",
+          "team": "Tinkoff–Saxo",
+          "time": "32h 40' 07\""
+        },
+        {
+          "rank": 2,
+          "name": "Fabio Aru (ITA)",
+          "team": "Astana",
+          "time": "+ 4\""
+        },
+        {
+          "rank": 3,
+          "name": "Richie Porte (AUS)",
+          "team": "Team Sky",
+          "time": "+ 22\""
+        },
+        {
+          "rank": 4,
+          "name": "Dario Cataldo (ITA)",
+          "team": "Astana",
+          "time": "+ 30\""
+        },
+        {
+          "rank": 5,
+          "name": "Mikel Landa (ESP)",
+          "team": "Astana",
+          "time": "+ 42\""
+        },
+        {
+          "rank": 6,
+          "name": "Roman Kreuziger (CZE)",
+          "team": "Tinkoff–Saxo",
+          "time": "+ 1' 00\""
+        },
+        {
+          "rank": 7,
+          "name": "Giovanni Visconti (ITA)",
+          "team": "Movistar Team",
+          "time": "+ 1' 16\""
+        },
+        {
+          "rank": 8,
+          "name": "Rigoberto Urán (COL)",
+          "team": "Etixx–Quick-Step",
+          "time": "+ 1' 24\""
+        },
+        {
+          "rank": 9,
+          "name": "Damiano Caruso (ITA)",
+          "team": "BMC Racing Team",
+          "time": "+ 1' 34\""
+        },
+        {
+          "rank": 10,
+          "name": "Andrey Amador (CRC)",
+          "team": "Movistar Team",
+          "time": "+ 1' 38\""
+        }
+      ]
+    },
+    {
+      "stage": 9,
+      "riders": [
+        {
+          "rank": 1,
+          "name": "Alberto Contador (ESP)",
+          "team": "Tinkoff–Saxo",
+          "time": "38h 31' 35\""
+        },
+        {
+          "rank": 2,
+          "name": "Fabio Aru (ITA)",
+          "team": "Astana",
+          "time": "+ 3\""
+        },
+        {
+          "rank": 3,
+          "name": "Richie Porte (AUS)",
+          "team": "Team Sky",
+          "time": "+ 22\""
+        },
+        {
+          "rank": 4,
+          "name": "Mikel Landa (ESP)",
+          "team": "Astana",
+          "time": "+ 46\""
+        },
+        {
+          "rank": 5,
+          "name": "Dario Cataldo (ITA)",
+          "team": "Astana",
+          "time": "+ 1' 16\""
+        },
+        {
+          "rank": 6,
+          "name": "Roman Kreuziger (CZE)",
+          "team": "Tinkoff–Saxo",
+          "time": "+ 1' 46\""
+        },
+        {
+          "rank": 7,
+          "name": "Giovanni Visconti (ITA)",
+          "team": "Movistar Team",
+          "time": "+ 2' 02\""
+        },
+        {
+          "rank": 8,
+          "name": "Rigoberto Urán (COL)",
+          "team": "Etixx–Quick-Step",
+          "time": "+ 2' 10\""
+        },
+        {
+          "rank": 9,
+          "name": "Damiano Caruso (ITA)",
+          "team": "BMC Racing Team",
+          "time": "+ 2' 20\""
+        },
+        {
+          "rank": 10,
+          "name": "Andrey Amador (CRC)",
+          "team": "Movistar Team",
+          "time": "+ 2' 24\""
+        }
+      ]
+    },
+    {
+      "stage": 10,
+      "riders": [
+        {
+          "rank": 1,
+          "name": "Alberto Contador (ESP)",
+          "team": "Tinkoff–Saxo",
+          "time": "42h 58' 09\""
+        },
+        {
+          "rank": 2,
+          "name": "Fabio Aru (ITA)",
+          "team": "Astana",
+          "time": "+ 3\""
+        },
+        {
+          "rank": 3,
+          "name": "Mikel Landa (ESP)",
+          "team": "Astana",
+          "time": "+ 46\""
+        },
+        {
+          "rank": 4,
+          "name": "Dario Cataldo (ITA)",
+          "team": "Astana",
+          "time": "+ 1' 16\""
+        },
+        {
+          "rank": 5,
+          "name": "Roman Kreuziger (CZE)",
+          "team": "Tinkoff–Saxo",
+          "time": "+ 1' 46\""
+        },
+        {
+          "rank": 6,
+          "name": "Rigoberto Urán (COL)",
+          "team": "Etixx–Quick-Step",
+          "time": "+ 2' 10\""
+        },
+        {
+          "rank": 7,
+          "name": "Giovanni Visconti (ITA)",
+          "team": "Movistar Team",
+          "time": "+ 2' 12\""
+        },
+        {
+          "rank": 8,
+          "name": "Damiano Caruso (ITA)",
+          "team": "BMC Racing Team",
+          "time": "+ 2' 20\""
+        },
+        {
+          "rank": 9,
+          "name": "Andrey Amador (CRC)",
+          "team": "Movistar Team",
+          "time": "+ 2' 24\""
+        },
+        {
+          "rank": 10,
+          "name": "Leopold König (CZE)",
+          "team": "Team Sky",
+          "time": "+ 2' 30\""
+        }
+      ]
+    },
+    {
+      "stage": 11,
+      "riders": [
+        {
+          "rank": 1,
+          "name": "Alberto Contador (ESP)",
+          "team": "Tinkoff–Saxo",
+          "time": "46h 54' 19\""
+        },
+        {
+          "rank": 2,
+          "name": "Fabio Aru (ITA)",
+          "team": "Astana",
+          "time": "+ 3\""
+        },
+        {
+          "rank": 3,
+          "name": "Mikel Landa (ESP)",
+          "team": "Astana",
+          "time": "+ 46\""
+        },
+        {
+          "rank": 4,
+          "name": "Dario Cataldo (ITA)",
+          "team": "Astana",
+          "time": "+ 1' 16\""
+        },
+        {
+          "rank": 5,
+          "name": "Roman Kreuziger (CZE)",
+          "team": "Tinkoff–Saxo",
+          "time": "+ 1' 46\""
+        },
+        {
+          "rank": 6,
+          "name": "Rigoberto Urán (COL)",
+          "team": "Etixx–Quick-Step",
+          "time": "+ 2' 10\""
+        },
+        {
+          "rank": 7,
+          "name": "Giovanni Visconti (ITA)",
+          "team": "Movistar Team",
+          "time": "+ 2' 12\""
+        },
+        {
+          "rank": 8,
+          "name": "Damiano Caruso (ITA)",
+          "team": "BMC Racing Team",
+          "time": "+ 2' 20\""
+        },
+        {
+          "rank": 9,
+          "name": "Andrey Amador (CRC)",
+          "team": "Movistar Team",
+          "time": "+ 2' 24\""
+        },
+        {
+          "rank": 10,
+          "name": "Leopold König (CZE)",
+          "team": "Team Sky",
+          "time": "+ 2' 30\""
+        }
+      ]
+    },
+    {
+      "stage": 12,
+      "riders": [
+        {
+          "rank": 1,
+          "name": "Alberto Contador (ESP)",
+          "team": "Tinkoff–Saxo",
+          "time": "51h 17' 06\""
+        },
+        {
+          "rank": 2,
+          "name": "Fabio Aru (ITA)",
+          "team": "Astana",
+          "time": "+ 17\""
+        },
+        {
+          "rank": 3,
+          "name": "Mikel Landa (ESP)",
+          "team": "Astana",
+          "time": "+ 55\""
+        },
+        {
+          "rank": 4,
+          "name": "Dario Cataldo (ITA)",
+          "team": "Astana",
+          "time": "+ 1' 30\""
+        },
+        {
+          "rank": 5,
+          "name": "Roman Kreuziger (CZE)",
+          "team": "Tinkoff–Saxo",
+          "time": "+ 1' 55\""
+        },
+        {
+          "rank": 6,
+          "name": "Rigoberto Urán (COL)",
+          "team": "Etixx–Quick-Step",
+          "time": "+ 2' 19\""
+        },
+        {
+          "rank": 7,
+          "name": "Giovanni Visconti (ITA)",
+          "team": "Movistar Team",
+          "time": "+ 2' 21\""
+        },
+        {
+          "rank": 8,
+          "name": "Damiano Caruso (ITA)",
+          "team": "BMC Racing Team",
+          "time": "+ 2' 29\""
+        },
+        {
+          "rank": 9,
+          "name": "Andrey Amador (CRC)",
+          "team": "Movistar Team",
+          "time": "+ 2' 38\""
+        },
+        {
+          "rank": 10,
+          "name": "Leopold König (CZE)",
+          "team": "Team Sky",
+          "time": "+ 2' 44\""
+        }
+      ]
+    },
+    {
+      "stage": 13,
+      "riders": [
+        {
+          "rank": 1,
+          "name": "Fabio Aru (ITA)",
+          "team": "Astana",
+          "time": "54h 20' 35\""
+        },
+        {
+          "rank": 2,
+          "name": "Alberto Contador (ESP)",
+          "team": "Tinkoff–Saxo",
+          "time": "+ 19\""
+        },
+        {
+          "rank": 3,
+          "name": "Mikel Landa (ESP)",
+          "team": "Astana",
+          "time": "+ 1' 14\""
+        },
+        {
+          "rank": 4,
+          "name": "Roman Kreuziger (CZE)",
+          "team": "Tinkoff–Saxo",
+          "time": "+ 1' 38\""
+        },
+        {
+          "rank": 5,
+          "name": "Dario Cataldo (ITA)",
+          "team": "Astana",
+          "time": "+ 1' 49\""
+        },
+        {
+          "rank": 6,
+          "name": "Rigoberto Urán (COL)",
+          "team": "Etixx–Quick-Step",
+          "time": "+ 2' 02\""
+        },
+        {
+          "rank": 7,
+          "name": "Damiano Caruso (ITA)",
+          "team": "BMC Racing Team",
+          "time": "+ 2' 12\""
+        },
+        {
+          "rank": 8,
+          "name": "Andrey Amador (CRC)",
+          "team": "Movistar Team",
+          "time": "+ 2' 21\""
+        },
+        {
+          "rank": 9,
+          "name": "Giovanni Visconti (ITA)",
+          "team": "Movistar Team",
+          "time": "+ 2' 40\""
+        },
+        {
+          "rank": 10,
+          "name": "Yuri Trofimov (RUS)",
+          "team": "Team Katusha",
+          "time": "+ 3' 15\""
+        }
+      ]
+    },
+    {
+      "stage": 14,
+      "riders": [
+        {
+          "rank": 1,
+          "name": "Alberto Contador (ESP)",
+          "team": "Tinkoff–Saxo",
+          "time": "55h 39' 00\""
+        },
+        {
+          "rank": 2,
+          "name": "Fabio Aru (ITA)",
+          "team": "Astana",
+          "time": "+ 2' 28\""
+        },
+        {
+          "rank": 3,
+          "name": "Andrey Amador (CRC)",
+          "team": "Movistar Team",
+          "time": "+ 3' 36\""
+        },
+        {
+          "rank": 4,
+          "name": "Rigoberto Urán (COL)",
+          "team": "Etixx–Quick-Step",
+          "time": "+ 4' 14\""
+        },
+        {
+          "rank": 5,
+          "name": "Jurgen Van den Broeck (BEL)",
+          "team": "Lotto–Soudal",
+          "time": "+ 4' 17\""
+        },
+        {
+          "rank": 6,
+          "name": "Dario Cataldo (ITA)",
+          "team": "Astana",
+          "time": "+ 4' 50\""
+        },
+        {
+          "rank": 7,
+          "name": "Mikel Landa (ESP)",
+          "team": "Astana",
+          "time": "+ 4' 55\""
+        },
+        {
+          "rank": 8,
+          "name": "Damiano Caruso (ITA)",
+          "team": "BMC Racing Team",
+          "time": "+ 4' 56\""
+        },
+        {
+          "rank": 9,
+          "name": "Roman Kreuziger (CZE)",
+          "team": "Tinkoff–Saxo",
+          "time": "+ 4' 57\""
+        },
+        {
+          "rank": 10,
+          "name": "Leopold König (CZE)",
+          "team": "Team Sky",
+          "time": "+ 5' 35\""
+        }
+      ]
+    },
+    {
+      "stage": 15,
+      "riders": [
+        {
+          "rank": 1,
+          "name": "Alberto Contador (ESP)",
+          "team": "Tinkoff–Saxo",
+          "time": "60h 01' 34\""
+        },
+        {
+          "rank": 2,
+          "name": "Fabio Aru (ITA)",
+          "team": "Astana",
+          "time": "+ 2' 35\""
+        },
+        {
+          "rank": 3,
+          "name": "Andrey Amador (CRC)",
+          "team": "Movistar Team",
+          "time": "+ 4' 19\""
+        },
+        {
+          "rank": 4,
+          "name": "Mikel Landa (ESP)",
+          "team": "Astana",
+          "time": "+ 4' 46\""
+        },
+        {
+          "rank": 5,
+          "name": "Leopold König (CZE)",
+          "team": "Team Sky",
+          "time": "+ 6' 36\""
+        },
+        {
+          "rank": 6,
+          "name": "Yuri Trofimov (RUS)",
+          "team": "Team Katusha",
+          "time": "+ 6' 58\""
+        },
+        {
+          "rank": 7,
+          "name": "Damiano Caruso (ITA)",
+          "team": "BMC Racing Team",
+          "time": "+ 7' 10\""
+        },
+        {
+          "rank": 8,
+          "name": "Maxime Monfort (BEL)",
+          "team": "Lotto–Soudal",
+          "time": "+ 8' 20\""
+        },
+        {
+          "rank": 9,
+          "name": "Giovanni Visconti (ITA)",
+          "team": "Movistar Team",
+          "time": "+ 9' 53\""
+        },
+        {
+          "rank": 10,
+          "name": "Alexandre Geniez (FRA)",
+          "team": "FDJ",
+          "time": "+ 10' 03\""
+        }
+      ]
+    },
+    {
+      "stage": 16,
+      "riders": [
+        {
+          "rank": 1,
+          "name": "Alberto Contador (ESP)",
+          "team": "Tinkoff–Saxo",
+          "time": "65h 04' 59\""
+        },
+        {
+          "rank": 2,
+          "name": "Mikel Landa (ESP)",
+          "team": "Astana",
+          "time": "+ 4' 02\""
+        },
+        {
+          "rank": 3,
+          "name": "Fabio Aru (ITA)",
+          "team": "Astana",
+          "time": "+ 4' 52\""
+        },
+        {
+          "rank": 4,
+          "name": "Andrey Amador (CRC)",
+          "team": "Movistar Team",
+          "time": "+ 5' 48\""
+        },
+        {
+          "rank": 5,
+          "name": "Yuri Trofimov (RUS)",
+          "team": "Team Katusha",
+          "time": "+ 8' 27\""
+        },
+        {
+          "rank": 6,
+          "name": "Leopold König (CZE)",
+          "team": "Team Sky",
+          "time": "+ 9' 31\""
+        },
+        {
+          "rank": 7,
+          "name": "Damiano Caruso (ITA)",
+          "team": "BMC Racing Team",
+          "time": "+ 9' 52\""
+        },
+        {
+          "rank": 8,
+          "name": "Steven Kruijswijk (NED)",
+          "team": "LottoNL–Jumbo",
+          "time": "+ 11' 40\""
+        },
+        {
+          "rank": 9,
+          "name": "Alexandre Geniez (FRA)",
+          "team": "FDJ",
+          "time": "+ 12' 48\""
+        },
+        {
+          "rank": 10,
+          "name": "Ryder Hesjedal (CAN)",
+          "team": "Cannondale–Garmin",
+          "time": "+ 12' 49\""
+        }
+      ]
+    },
+    {
+      "stage": 17,
+      "riders": [
+        {
+          "rank": 1,
+          "name": "Alberto Contador (ESP)",
+          "team": "Tinkoff–Saxo",
+          "time": "68h 12' 50\""
+        },
+        {
+          "rank": 2,
+          "name": "Mikel Landa (ESP)",
+          "team": "Astana",
+          "time": "+ 4' 02\""
+        },
+        {
+          "rank": 3,
+          "name": "Fabio Aru (ITA)",
+          "team": "Astana",
+          "time": "+ 4' 52\""
+        },
+        {
+          "rank": 4,
+          "name": "Andrey Amador (CRC)",
+          "team": "Movistar Team",
+          "time": "+ 5' 48\""
+        },
+        {
+          "rank": 5,
+          "name": "Yuri Trofimov (RUS)",
+          "team": "Team Katusha",
+          "time": "+ 8' 27\""
+        },
+        {
+          "rank": 6,
+          "name": "Leopold König (CZE)",
+          "team": "Team Sky",
+          "time": "+ 9' 31\""
+        },
+        {
+          "rank": 7,
+          "name": "Damiano Caruso (ITA)",
+          "team": "BMC Racing Team",
+          "time": "+ 9' 52\""
+        },
+        {
+          "rank": 8,
+          "name": "Steven Kruijswijk (NED)",
+          "team": "LottoNL–Jumbo",
+          "time": "+ 11' 40\""
+        },
+        {
+          "rank": 9,
+          "name": "Alexandre Geniez (FRA)",
+          "team": "FDJ",
+          "time": "+ 12' 48\""
+        },
+        {
+          "rank": 10,
+          "name": "Ryder Hesjedal (CAN)",
+          "team": "Cannondale–Garmin",
+          "time": "+ 13' 01\""
+        }
+      ]
+    },
+    {
+      "stage": 18,
+      "riders": [
+        {
+          "rank": 1,
+          "name": "Alberto Contador (ESP)",
+          "team": "Tinkoff–Saxo",
+          "time": "72h 23' 09\""
+        },
+        {
+          "rank": 2,
+          "name": "Mikel Landa (ESP)",
+          "team": "Astana",
+          "time": "+ 5' 15\""
+        },
+        {
+          "rank": 3,
+          "name": "Fabio Aru (ITA)",
+          "team": "Astana",
+          "time": "+ 6' 05\""
+        },
+        {
+          "rank": 4,
+          "name": "Andrey Amador (CRC)",
+          "team": "Movistar Team",
+          "time": "+ 7' 01\""
+        },
+        {
+          "rank": 5,
+          "name": "Yuri Trofimov (RUS)",
+          "team": "Team Katusha",
+          "time": "+ 9' 40\""
+        },
+        {
+          "rank": 6,
+          "name": "Leopold König (CZE)",
+          "team": "Team Sky",
+          "time": "+ 10' 44\""
+        },
+        {
+          "rank": 7,
+          "name": "Damiano Caruso (ITA)",
+          "team": "BMC Racing Team",
+          "time": "+ 11' 05\""
+        },
+        {
+          "rank": 8,
+          "name": "Steven Kruijswijk (NED)",
+          "team": "LottoNL–Jumbo",
+          "time": "+ 12' 53\""
+        },
+        {
+          "rank": 9,
+          "name": "Ryder Hesjedal (CAN)",
+          "team": "Cannondale–Garmin",
+          "time": "+ 13' 01\""
+        },
+        {
+          "rank": 10,
+          "name": "Alexandre Geniez (FRA)",
+          "team": "FDJ",
+          "time": "+ 14' 01\""
+        }
+      ]
+    },
+    {
+      "stage": 19,
+      "riders": [
+        {
+          "rank": 1,
+          "name": "Alberto Contador (ESP)",
+          "team": "Tinkoff–Saxo",
+          "time": "78h 48' 40\""
+        },
+        {
+          "rank": 2,
+          "name": "Fabio Aru (ITA)",
+          "team": "Astana",
+          "time": "+ 4' 37\""
+        },
+        {
+          "rank": 3,
+          "name": "Mikel Landa (ESP)",
+          "team": "Astana",
+          "time": "+ 5' 15\""
+        },
+        {
+          "rank": 4,
+          "name": "Andrey Amador (CRC)",
+          "team": "Movistar Team",
+          "time": "+ 8' 10\""
+        },
+        {
+          "rank": 5,
+          "name": "Leopold König (CZE)",
+          "team": "Team Sky",
+          "time": "+ 10' 47\""
+        },
+        {
+          "rank": 6,
+          "name": "Yuri Trofimov (RUS)",
+          "team": "Team Katusha",
+          "time": "+ 11' 11\""
+        },
+        {
+          "rank": 7,
+          "name": "Ryder Hesjedal (CAN)",
+          "team": "Cannondale–Garmin",
+          "time": "+ 12' 05\""
+        },
+        {
+          "rank": 8,
+          "name": "Damiano Caruso (ITA)",
+          "team": "BMC Racing Team",
+          "time": "+ 12' 14\""
+        },
+        {
+          "rank": 9,
+          "name": "Steven Kruijswijk (NED)",
+          "team": "LottoNL–Jumbo",
+          "time": "+ 12' 53\""
+        },
+        {
+          "rank": 10,
+          "name": "Alexandre Geniez (FRA)",
+          "team": "FDJ",
+          "time": "+ 15' 07\""
+        }
+      ]
+    },
+    {
+      "stage": 20,
+      "riders": [
+        {
+          "rank": 1,
+          "name": "Alberto Contador (ESP)",
+          "team": "Tinkoff–Saxo",
+          "time": "84h 03' 30\""
+        },
+        {
+          "rank": 2,
+          "name": "Fabio Aru (ITA)",
+          "team": "Astana",
+          "time": "+ 2' 02\""
+        },
+        {
+          "rank": 3,
+          "name": "Mikel Landa (ESP)",
+          "team": "Astana",
+          "time": "+ 3' 14\""
+        },
+        {
+          "rank": 4,
+          "name": "Andrey Amador (CRC)",
+          "team": "Movistar Team",
+          "time": "+ 8' 19\""
+        },
+        {
+          "rank": 5,
+          "name": "Ryder Hesjedal (CAN)",
+          "team": "Cannondale–Garmin",
+          "time": "+ 9' 52\""
+        },
+        {
+          "rank": 6,
+          "name": "Leopold König (CZE)",
+          "team": "Team Sky",
+          "time": "+ 10' 50\""
+        },
+        {
+          "rank": 7,
+          "name": "Steven Kruijswijk (NED)",
+          "team": "LottoNL–Jumbo",
+          "time": "+ 11' 02\""
+        },
+        {
+          "rank": 8,
+          "name": "Damiano Caruso (ITA)",
+          "team": "BMC Racing Team",
+          "time": "+ 12' 17\""
+        },
+        {
+          "rank": 9,
+          "name": "Alexandre Geniez (FRA)",
+          "team": "FDJ",
+          "time": "+ 16' 00\""
+        },
+        {
+          "rank": 10,
+          "name": "Yuri Trofimov (RUS)",
+          "team": "Team Katusha",
+          "time": "+ 16' 23\""
+        }
+      ]
+    },
+    {
+      "stage": 21,
+      "riders": [
+        {
+          "rank": 1,
+          "name": "Alberto Contador (ESP)",
+          "team": "Tinkoff–Saxo",
+          "time": "88h 22' 25\""
+        },
+        {
+          "rank": 2,
+          "name": "Fabio Aru (ITA)",
+          "team": "Astana",
+          "time": "+ 1' 53\""
+        },
+        {
+          "rank": 3,
+          "name": "Mikel Landa (ESP)",
+          "team": "Astana",
+          "time": "+ 3' 05\""
+        },
+        {
+          "rank": 4,
+          "name": "Andrey Amador (CRC)",
+          "team": "Movistar Team",
+          "time": "+ 8' 10\""
+        },
+        {
+          "rank": 5,
+          "name": "Ryder Hesjedal (CAN)",
+          "team": "Cannondale–Garmin",
+          "time": "+ 9' 52\""
+        },
+        {
+          "rank": 6,
+          "name": "Leopold König (CZE)",
+          "team": "Team Sky",
+          "time": "+ 10' 41\""
+        },
+        {
+          "rank": 7,
+          "name": "Steven Kruijswijk (NED)",
+          "team": "LottoNL–Jumbo",
+          "time": "+ 10' 53\""
+        },
+        {
+          "rank": 8,
+          "name": "Damiano Caruso (ITA)",
+          "team": "BMC Racing Team",
+          "time": "+ 12' 08\""
+        },
+        {
+          "rank": 9,
+          "name": "Alexandre Geniez (FRA)",
+          "team": "FDJ",
+          "time": "+ 15' 51\""
+        },
+        {
+          "rank": 10,
+          "name": "Yuri Trofimov (RUS)",
+          "team": "Team Katusha",
+          "time": "+ 16' 14\""
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "race": "giro",
+  "years": [
+    2010,
+    2011,
+    2012,
+    2013,
+    2014,
+    2015,
+    2016,
+    2017,
+    2018,
+    2019
+  ],
+  "generated_from": [
+    "public/data/stages/giro-2016-stages.json",
+    "public/data/stages/giro-2017-stages.json",
+    "public/data/stages/giro-2018-stages.json",
+    "public/data/stages/giro-2019-stages.json",
+    "public/data/stages/giro-2014-stages.json",
+    "public/data/stages/giro-2015-stages.json",
+    "public/data/stages/giro-2012-stages.json",
+    "public/data/stages/giro-2013-stages.json",
+    "public/data/stages/giro-2010-stages.json",
+    "public/data/stages/giro-2011-stages.json"
+  ],
+  "missing_coordinates": {
+    "2010": [],
+    "2011": [],
+    "2012": [],
+    "2013": [],
+    "2014": [],
+    "2015": [],
+    "2016": [],
+    "2017": [],
+    "2018": [],
+    "2019": []
+  }
+}

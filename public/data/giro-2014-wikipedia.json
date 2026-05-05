@@ -1,0 +1,1371 @@
+{
+  "race": "Giro d%27Italia",
+  "year": 2014,
+  "stages": [
+    {
+      "stage": 1,
+      "riders": [
+        {
+          "rank": 1,
+          "name": "Svein Tuft (CAN)",
+          "team": "Orica–GreenEDGE",
+          "time": "24' 42\""
+        },
+        {
+          "rank": 2,
+          "name": "Luke Durbridge (AUS)",
+          "team": "Orica–GreenEDGE",
+          "time": "+ 0\""
+        },
+        {
+          "rank": 3,
+          "name": "Pieter Weening (NED)",
+          "team": "Orica–GreenEDGE",
+          "time": "+ 0\""
+        },
+        {
+          "rank": 4,
+          "name": "Cameron Meyer (AUS)",
+          "team": "Orica–GreenEDGE",
+          "time": "+ 0\""
+        },
+        {
+          "rank": 5,
+          "name": "Michael Matthews (AUS)",
+          "team": "Orica–GreenEDGE",
+          "time": "+ 0\""
+        },
+        {
+          "rank": 6,
+          "name": "Ivan Santaromita (ITA)",
+          "team": "Orica–GreenEDGE",
+          "time": "+ 0\""
+        },
+        {
+          "rank": 7,
+          "name": "Pieter Serry (BEL)",
+          "team": "Omega Pharma–Quick-Step",
+          "time": "+ 5\""
+        },
+        {
+          "rank": 8,
+          "name": "Gianluca Brambilla (ITA)",
+          "team": "Omega Pharma–Quick-Step",
+          "time": "+ 5\""
+        },
+        {
+          "rank": 9,
+          "name": "Rigoberto Urán (COL)",
+          "team": "Omega Pharma–Quick-Step",
+          "time": "+ 5\""
+        },
+        {
+          "rank": 10,
+          "name": "Serge Pauwels (BEL)",
+          "team": "Omega Pharma–Quick-Step",
+          "time": "+ 5\""
+        }
+      ]
+    },
+    {
+      "stage": 2,
+      "riders": [
+        {
+          "rank": 1,
+          "name": "Michael Matthews (AUS)",
+          "team": "Orica–GreenEDGE",
+          "time": "5h 37' 54\""
+        },
+        {
+          "rank": 2,
+          "name": "Luke Durbridge (AUS)",
+          "team": "Orica–GreenEDGE",
+          "time": "+ 3\""
+        },
+        {
+          "rank": 3,
+          "name": "Ivan Santaromita (ITA)",
+          "team": "Orica–GreenEDGE",
+          "time": "+ 3\""
+        },
+        {
+          "rank": 4,
+          "name": "Svein Tuft (CAN)",
+          "team": "Orica–GreenEDGE",
+          "time": "+ 3\""
+        },
+        {
+          "rank": 5,
+          "name": "Pieter Weening (NED)",
+          "team": "Orica–GreenEDGE",
+          "time": "+ 3\""
+        },
+        {
+          "rank": 6,
+          "name": "Cameron Meyer (AUS)",
+          "team": "Orica–GreenEDGE",
+          "time": "+ 3\""
+        },
+        {
+          "rank": 7,
+          "name": "Rigoberto Urán (COL)",
+          "team": "Omega Pharma–Quick-Step",
+          "time": "+ 8\""
+        },
+        {
+          "rank": 8,
+          "name": "Gianluca Brambilla (ITA)",
+          "team": "Omega Pharma–Quick-Step",
+          "time": "+ 8\""
+        },
+        {
+          "rank": 9,
+          "name": "Pieter Serry (BEL)",
+          "team": "Omega Pharma–Quick-Step",
+          "time": "+ 8\""
+        },
+        {
+          "rank": 10,
+          "name": "Alessandro Petacchi (ITA)",
+          "team": "Omega Pharma–Quick-Step",
+          "time": "+ 8\""
+        }
+      ]
+    },
+    {
+      "stage": 3,
+      "riders": [
+        {
+          "rank": 1,
+          "name": "Michael Matthews (AUS)",
+          "team": "Orica–GreenEDGE",
+          "time": "10h 06' 37\""
+        },
+        {
+          "rank": 2,
+          "name": "Alessandro Petacchi (ITA)",
+          "team": "Omega Pharma–Quick-Step",
+          "time": "+ 8\""
+        },
+        {
+          "rank": 3,
+          "name": "Daniel Oss (ITA)",
+          "team": "BMC Racing Team",
+          "time": "+ 10\""
+        },
+        {
+          "rank": 4,
+          "name": "Luke Durbridge (AUS)",
+          "team": "Orica–GreenEDGE",
+          "time": "+ 14\""
+        },
+        {
+          "rank": 5,
+          "name": "Ivan Santaromita (ITA)",
+          "team": "Orica–GreenEDGE",
+          "time": "+ 14\""
+        },
+        {
+          "rank": 6,
+          "name": "Svein Tuft (CAN)",
+          "team": "Orica–GreenEDGE",
+          "time": "+ 14\""
+        },
+        {
+          "rank": 7,
+          "name": "Pieter Weening (NED)",
+          "team": "Orica–GreenEDGE",
+          "time": "+ 14\""
+        },
+        {
+          "rank": 8,
+          "name": "Rigoberto Urán (COL)",
+          "team": "Omega Pharma–Quick-Step",
+          "time": "+ 19\""
+        },
+        {
+          "rank": 9,
+          "name": "Pieter Serry (BEL)",
+          "team": "Omega Pharma–Quick-Step",
+          "time": "+ 19\""
+        },
+        {
+          "rank": 10,
+          "name": "Serge Pauwels (BEL)",
+          "team": "Omega Pharma–Quick-Step",
+          "time": "+ 19\""
+        }
+      ]
+    },
+    {
+      "stage": 4,
+      "riders": [
+        {
+          "rank": 1,
+          "name": "Michael Matthews (AUS)",
+          "team": "Orica–GreenEDGE",
+          "time": "12h 28' 43\""
+        },
+        {
+          "rank": 2,
+          "name": "Alessandro Petacchi (ITA)",
+          "team": "Omega Pharma–Quick-Step",
+          "time": "+ 8\""
+        },
+        {
+          "rank": 3,
+          "name": "Daniel Oss (ITA)",
+          "team": "BMC Racing Team",
+          "time": "+ 10\""
+        },
+        {
+          "rank": 4,
+          "name": "Ivan Santaromita (ITA)",
+          "team": "Orica–GreenEDGE",
+          "time": "+ 14\""
+        },
+        {
+          "rank": 5,
+          "name": "Pieter Weening (NED)",
+          "team": "Orica–GreenEDGE",
+          "time": "+ 14\""
+        },
+        {
+          "rank": 6,
+          "name": "Luke Durbridge (AUS)",
+          "team": "Orica–GreenEDGE",
+          "time": "+ 14\""
+        },
+        {
+          "rank": 7,
+          "name": "Svein Tuft (CAN)",
+          "team": "Orica–GreenEDGE",
+          "time": "+ 14\""
+        },
+        {
+          "rank": 8,
+          "name": "Serge Pauwels (BEL)",
+          "team": "Omega Pharma–Quick-Step",
+          "time": "+ 19\""
+        },
+        {
+          "rank": 9,
+          "name": "Rigoberto Urán (COL)",
+          "team": "Omega Pharma–Quick-Step",
+          "time": "+ 19\""
+        },
+        {
+          "rank": 10,
+          "name": "Julien Vermote (BEL)",
+          "team": "Omega Pharma–Quick-Step",
+          "time": "+ 19\""
+        }
+      ]
+    },
+    {
+      "stage": 5,
+      "riders": [
+        {
+          "rank": 1,
+          "name": "Michael Matthews (AUS)",
+          "team": "Orica–GreenEDGE",
+          "time": "17h 41' 23\""
+        },
+        {
+          "rank": 2,
+          "name": "Pieter Weening (NED)",
+          "team": "Orica–GreenEDGE",
+          "time": "+ 14\""
+        },
+        {
+          "rank": 3,
+          "name": "Cadel Evans (AUS)",
+          "team": "BMC Racing Team",
+          "time": "+ 15\""
+        },
+        {
+          "rank": 4,
+          "name": "Rigoberto Urán (COL)",
+          "team": "Omega Pharma–Quick-Step",
+          "time": "+ 19\""
+        },
+        {
+          "rank": 5,
+          "name": "Rafał Majka (POL)",
+          "team": "Tinkoff–Saxo",
+          "time": "+ 26\""
+        },
+        {
+          "rank": 6,
+          "name": "Edvald Boasson Hagen (NOR)",
+          "team": "Team Sky",
+          "time": "+ 35\""
+        },
+        {
+          "rank": 7,
+          "name": "Nicolas Roche (IRL)",
+          "team": "Tinkoff–Saxo",
+          "time": "+ 37\""
+        },
+        {
+          "rank": 8,
+          "name": "Michele Scarponi (ITA)",
+          "team": "Astana",
+          "time": "+ 41\""
+        },
+        {
+          "rank": 9,
+          "name": "Dario Cataldo (ITA)",
+          "team": "Team Sky",
+          "time": "+ 49\""
+        },
+        {
+          "rank": 10,
+          "name": "Fabio Aru (ITA)",
+          "team": "Astana",
+          "time": "+ 52\""
+        }
+      ]
+    },
+    {
+      "stage": 6,
+      "riders": [
+        {
+          "rank": 1,
+          "name": "Michael Matthews (AUS)",
+          "team": "Orica–GreenEDGE",
+          "time": "24h 18' 14\""
+        },
+        {
+          "rank": 2,
+          "name": "Cadel Evans (AUS)",
+          "team": "BMC Racing Team",
+          "time": "+ 21\""
+        },
+        {
+          "rank": 3,
+          "name": "Rigoberto Urán (COL)",
+          "team": "Omega Pharma–Quick-Step",
+          "time": "+ 1' 18\""
+        },
+        {
+          "rank": 4,
+          "name": "Rafał Majka (POL)",
+          "team": "Tinkoff–Saxo",
+          "time": "+ 1' 25\""
+        },
+        {
+          "rank": 5,
+          "name": "Steve Morabito (SUI)",
+          "team": "BMC Racing Team",
+          "time": "+ 1' 25\""
+        },
+        {
+          "rank": 6,
+          "name": "Matteo Rabottini (ITA)",
+          "team": "Neri Sottoli",
+          "time": "+ 1' 25\""
+        },
+        {
+          "rank": 7,
+          "name": "Ivan Santaromita (ITA)",
+          "team": "Orica–GreenEDGE",
+          "time": "+ 1' 47\""
+        },
+        {
+          "rank": 8,
+          "name": "Fabio Aru (ITA)",
+          "team": "Astana",
+          "time": "+ 1' 51\""
+        },
+        {
+          "rank": 9,
+          "name": "Tim Wellens (BEL)",
+          "team": "Lotto–Belisol",
+          "time": "+ 1' 52\""
+        },
+        {
+          "rank": 10,
+          "name": "Ivan Basso (ITA)",
+          "team": "Cannondale",
+          "time": "+ 2' 06\""
+        }
+      ]
+    },
+    {
+      "stage": 7,
+      "riders": [
+        {
+          "rank": 1,
+          "name": "Michael Matthews (AUS)",
+          "team": "Orica–GreenEDGE",
+          "time": "29h 34' 19\""
+        },
+        {
+          "rank": 2,
+          "name": "Cadel Evans (AUS)",
+          "team": "BMC Racing Team",
+          "time": "+ 21\""
+        },
+        {
+          "rank": 3,
+          "name": "Rigoberto Urán (COL)",
+          "team": "Omega Pharma–Quick-Step",
+          "time": "+ 1' 18\""
+        },
+        {
+          "rank": 4,
+          "name": "Rafał Majka (POL)",
+          "team": "Tinkoff–Saxo",
+          "time": "+ 1' 25\""
+        },
+        {
+          "rank": 5,
+          "name": "Steve Morabito (SUI)",
+          "team": "BMC Racing Team",
+          "time": "+ 1' 25\""
+        },
+        {
+          "rank": 6,
+          "name": "Matteo Rabottini (ITA)",
+          "team": "Neri Sottoli",
+          "time": "+ 1' 25\""
+        },
+        {
+          "rank": 7,
+          "name": "Ivan Santaromita (ITA)",
+          "team": "Orica–GreenEDGE",
+          "time": "+ 1' 47\""
+        },
+        {
+          "rank": 8,
+          "name": "Fabio Aru (ITA)",
+          "team": "Astana",
+          "time": "+ 1' 51\""
+        },
+        {
+          "rank": 9,
+          "name": "Tim Wellens (BEL)",
+          "team": "Lotto–Belisol",
+          "time": "+ 1' 52\""
+        },
+        {
+          "rank": 10,
+          "name": "Ivan Basso (ITA)",
+          "team": "Cannondale",
+          "time": "+ 2' 06\""
+        }
+      ]
+    },
+    {
+      "stage": 8,
+      "riders": [
+        {
+          "rank": 1,
+          "name": "Cadel Evans (AUS)",
+          "team": "BMC Racing Team",
+          "time": "34h 22' 35\""
+        },
+        {
+          "rank": 2,
+          "name": "Rigoberto Urán (COL)",
+          "team": "Omega Pharma–Quick-Step",
+          "time": "+ 57\""
+        },
+        {
+          "rank": 3,
+          "name": "Rafał Majka (POL)",
+          "team": "Tinkoff–Saxo",
+          "time": "+ 1' 10\""
+        },
+        {
+          "rank": 4,
+          "name": "Steve Morabito (SUI)",
+          "team": "BMC Racing Team",
+          "time": "+ 1' 31\""
+        },
+        {
+          "rank": 5,
+          "name": "Fabio Aru (ITA)",
+          "team": "Astana",
+          "time": "+ 1' 39\""
+        },
+        {
+          "rank": 6,
+          "name": "Diego Ulissi (ITA)",
+          "team": "Lampre–Merida",
+          "time": "+ 1' 43\""
+        },
+        {
+          "rank": 7,
+          "name": "Wilco Kelderman (NED)",
+          "team": "Belkin Pro Cycling",
+          "time": "+ 1' 44\""
+        },
+        {
+          "rank": 8,
+          "name": "Nairo Quintana (COL)",
+          "team": "Movistar Team",
+          "time": "+ 1' 45\""
+        },
+        {
+          "rank": 9,
+          "name": "Robert Kišerlovski (CRO)",
+          "team": "Trek Factory Racing",
+          "time": "+ 1' 49\""
+        },
+        {
+          "rank": 10,
+          "name": "Domenico Pozzovivo (ITA)",
+          "team": "Ag2r–La Mondiale",
+          "time": "+ 1' 50\""
+        }
+      ]
+    },
+    {
+      "stage": 9,
+      "riders": [
+        {
+          "rank": 1,
+          "name": "Cadel Evans (AUS)",
+          "team": "BMC Racing Team",
+          "time": "38h 49' 34\""
+        },
+        {
+          "rank": 2,
+          "name": "Rigoberto Urán (COL)",
+          "team": "Omega Pharma–Quick-Step",
+          "time": "+ 57\""
+        },
+        {
+          "rank": 3,
+          "name": "Rafał Majka (POL)",
+          "team": "Tinkoff–Saxo",
+          "time": "+ 1' 10\""
+        },
+        {
+          "rank": 4,
+          "name": "Domenico Pozzovivo (ITA)",
+          "team": "Ag2r–La Mondiale",
+          "time": "+ 1' 20\""
+        },
+        {
+          "rank": 5,
+          "name": "Steve Morabito (SUI)",
+          "team": "BMC Racing Team",
+          "time": "+ 1' 31\""
+        },
+        {
+          "rank": 6,
+          "name": "Fabio Aru (ITA)",
+          "team": "Astana",
+          "time": "+ 1' 39\""
+        },
+        {
+          "rank": 7,
+          "name": "Diego Ulissi (ITA)",
+          "team": "Lampre–Merida",
+          "time": "+ 1' 43\""
+        },
+        {
+          "rank": 8,
+          "name": "Wilco Kelderman (NED)",
+          "team": "Belkin Pro Cycling",
+          "time": "+ 1' 44\""
+        },
+        {
+          "rank": 9,
+          "name": "Nairo Quintana (COL)",
+          "team": "Movistar Team",
+          "time": "+ 1' 45\""
+        },
+        {
+          "rank": 10,
+          "name": "Robert Kišerlovski (CRO)",
+          "team": "Trek Factory Racing",
+          "time": "+ 1' 49\""
+        }
+      ]
+    },
+    {
+      "stage": 10,
+      "riders": [
+        {
+          "rank": 1,
+          "name": "Cadel Evans (AUS)",
+          "team": "BMC Racing Team",
+          "time": "42h 50' 47\""
+        },
+        {
+          "rank": 2,
+          "name": "Rigoberto Urán (COL)",
+          "team": "Omega Pharma–Quick-Step",
+          "time": "+ 57\""
+        },
+        {
+          "rank": 3,
+          "name": "Rafał Majka (POL)",
+          "team": "Tinkoff–Saxo",
+          "time": "+ 1' 10\""
+        },
+        {
+          "rank": 4,
+          "name": "Domenico Pozzovivo (ITA)",
+          "team": "Ag2r–La Mondiale",
+          "time": "+ 1' 20\""
+        },
+        {
+          "rank": 5,
+          "name": "Steve Morabito (SUI)",
+          "team": "BMC Racing Team",
+          "time": "+ 1' 31\""
+        },
+        {
+          "rank": 6,
+          "name": "Fabio Aru (ITA)",
+          "team": "Astana",
+          "time": "+ 1' 39\""
+        },
+        {
+          "rank": 7,
+          "name": "Diego Ulissi (ITA)",
+          "team": "Lampre–Merida",
+          "time": "+ 1' 43\""
+        },
+        {
+          "rank": 8,
+          "name": "Wilco Kelderman (NED)",
+          "team": "Belkin Pro Cycling",
+          "time": "+ 1' 44\""
+        },
+        {
+          "rank": 9,
+          "name": "Nairo Quintana (COL)",
+          "team": "Movistar Team",
+          "time": "+ 1' 45\""
+        },
+        {
+          "rank": 10,
+          "name": "Robert Kišerlovski (CRO)",
+          "team": "Trek Factory Racing",
+          "time": "+ 1' 49\""
+        }
+      ]
+    },
+    {
+      "stage": 11,
+      "riders": [
+        {
+          "rank": 1,
+          "name": "Cadel Evans (AUS)",
+          "team": "BMC Racing Team",
+          "time": "48h 39' 04\""
+        },
+        {
+          "rank": 2,
+          "name": "Rigoberto Urán (COL)",
+          "team": "Omega Pharma–Quick-Step",
+          "time": "+ 57\""
+        },
+        {
+          "rank": 3,
+          "name": "Rafał Majka (POL)",
+          "team": "Tinkoff–Saxo",
+          "time": "+ 1' 10\""
+        },
+        {
+          "rank": 4,
+          "name": "Domenico Pozzovivo (ITA)",
+          "team": "Ag2r–La Mondiale",
+          "time": "+ 1' 20\""
+        },
+        {
+          "rank": 5,
+          "name": "Steve Morabito (SUI)",
+          "team": "BMC Racing Team",
+          "time": "+ 1' 31\""
+        },
+        {
+          "rank": 6,
+          "name": "Fabio Aru (ITA)",
+          "team": "Astana",
+          "time": "+ 1' 39\""
+        },
+        {
+          "rank": 7,
+          "name": "Wilco Kelderman (NED)",
+          "team": "Belkin Pro Cycling",
+          "time": "+ 1' 44\""
+        },
+        {
+          "rank": 8,
+          "name": "Nairo Quintana (COL)",
+          "team": "Movistar Team",
+          "time": "+ 1' 45\""
+        },
+        {
+          "rank": 9,
+          "name": "Robert Kišerlovski (CRO)",
+          "team": "Trek Factory Racing",
+          "time": "+ 1' 49\""
+        },
+        {
+          "rank": 10,
+          "name": "Ivan Basso (ITA)",
+          "team": "Cannondale",
+          "time": "+ 2' 01\""
+        }
+      ]
+    },
+    {
+      "stage": 12,
+      "riders": [
+        {
+          "rank": 1,
+          "name": "Rigoberto Urán (COL)",
+          "team": "Omega Pharma–Quick-Step",
+          "time": "49h 37' 35\""
+        },
+        {
+          "rank": 2,
+          "name": "Cadel Evans (AUS)",
+          "team": "BMC Racing Team",
+          "time": "+ 37\""
+        },
+        {
+          "rank": 3,
+          "name": "Rafał Majka (POL)",
+          "team": "Tinkoff–Saxo",
+          "time": "+ 1' 52\""
+        },
+        {
+          "rank": 4,
+          "name": "Domenico Pozzovivo (ITA)",
+          "team": "Ag2r–La Mondiale",
+          "time": "+ 2' 32\""
+        },
+        {
+          "rank": 5,
+          "name": "Wilco Kelderman (NED)",
+          "team": "Belkin Pro Cycling",
+          "time": "+ 2' 50\""
+        },
+        {
+          "rank": 6,
+          "name": "Nairo Quintana (COL)",
+          "team": "Movistar Team",
+          "time": "+ 3' 29\""
+        },
+        {
+          "rank": 7,
+          "name": "Fabio Aru (ITA)",
+          "team": "Astana",
+          "time": "+ 3' 37\""
+        },
+        {
+          "rank": 8,
+          "name": "Wout Poels (NED)",
+          "team": "Omega Pharma–Quick-Step",
+          "time": "+ 4' 06\""
+        },
+        {
+          "rank": 9,
+          "name": "Steve Morabito (SUI)",
+          "team": "BMC Racing Team",
+          "time": "+ 4' 20\""
+        },
+        {
+          "rank": 10,
+          "name": "Robert Kišerlovski (CRO)",
+          "team": "Trek Factory Racing",
+          "time": "+ 4' 41\""
+        }
+      ]
+    },
+    {
+      "stage": 13,
+      "riders": [
+        {
+          "rank": 1,
+          "name": "Rigoberto Urán (COL)",
+          "team": "Omega Pharma–Quick-Step",
+          "time": "53h 15' 06\""
+        },
+        {
+          "rank": 2,
+          "name": "Cadel Evans (AUS)",
+          "team": "BMC Racing Team",
+          "time": "+ 37\""
+        },
+        {
+          "rank": 3,
+          "name": "Rafał Majka (POL)",
+          "team": "Tinkoff–Saxo",
+          "time": "+ 1' 52\""
+        },
+        {
+          "rank": 4,
+          "name": "Domenico Pozzovivo (ITA)",
+          "team": "Ag2r–La Mondiale",
+          "time": "+ 2' 32\""
+        },
+        {
+          "rank": 5,
+          "name": "Wilco Kelderman (NED)",
+          "team": "Belkin Pro Cycling",
+          "time": "+ 2' 50\""
+        },
+        {
+          "rank": 6,
+          "name": "Nairo Quintana (COL)",
+          "team": "Movistar Team",
+          "time": "+ 3' 29\""
+        },
+        {
+          "rank": 7,
+          "name": "Fabio Aru (ITA)",
+          "team": "Astana",
+          "time": "+ 3' 37\""
+        },
+        {
+          "rank": 8,
+          "name": "Wout Poels (NED)",
+          "team": "Omega Pharma–Quick-Step",
+          "time": "+ 4' 06\""
+        },
+        {
+          "rank": 9,
+          "name": "Steve Morabito (SUI)",
+          "team": "BMC Racing Team",
+          "time": "+ 4' 20\""
+        },
+        {
+          "rank": 10,
+          "name": "Robert Kišerlovski (CRO)",
+          "team": "Trek Factory Racing",
+          "time": "+ 4' 41\""
+        }
+      ]
+    },
+    {
+      "stage": 14,
+      "riders": [
+        {
+          "rank": 1,
+          "name": "Rigoberto Urán (COL)",
+          "team": "Omega Pharma–Quick-Step",
+          "time": "57h 52' 51\""
+        },
+        {
+          "rank": 2,
+          "name": "Cadel Evans (AUS)",
+          "team": "BMC Racing Team",
+          "time": "+ 32\""
+        },
+        {
+          "rank": 3,
+          "name": "Rafał Majka (POL)",
+          "team": "Tinkoff–Saxo",
+          "time": "+ 1' 35\""
+        },
+        {
+          "rank": 4,
+          "name": "Domenico Pozzovivo (ITA)",
+          "team": "Ag2r–La Mondiale",
+          "time": "+ 2' 11\""
+        },
+        {
+          "rank": 5,
+          "name": "Wilco Kelderman (NED)",
+          "team": "Belkin Pro Cycling",
+          "time": "+ 2' 33\""
+        },
+        {
+          "rank": 6,
+          "name": "Nairo Quintana (COL)",
+          "team": "Movistar Team",
+          "time": "+ 3' 04\""
+        },
+        {
+          "rank": 7,
+          "name": "Fabio Aru (ITA)",
+          "team": "Astana",
+          "time": "+ 3' 16\""
+        },
+        {
+          "rank": 8,
+          "name": "Wout Poels (NED)",
+          "team": "Omega Pharma–Quick-Step",
+          "time": "+ 4' 01\""
+        },
+        {
+          "rank": 9,
+          "name": "Pierre Rolland (FRA)",
+          "team": "Team Europcar",
+          "time": "+ 5' 07\""
+        },
+        {
+          "rank": 10,
+          "name": "Robert Kišerlovski (CRO)",
+          "team": "Trek Factory Racing",
+          "time": "+ 5' 13\""
+        }
+      ]
+    },
+    {
+      "stage": 15,
+      "riders": [
+        {
+          "rank": 1,
+          "name": "Rigoberto Urán (COL)",
+          "team": "Omega Pharma–Quick-Step",
+          "time": "63h 26' 39\""
+        },
+        {
+          "rank": 2,
+          "name": "Cadel Evans (AUS)",
+          "team": "BMC Racing Team",
+          "time": "+ 1' 03\""
+        },
+        {
+          "rank": 3,
+          "name": "Rafał Majka (POL)",
+          "team": "Tinkoff–Saxo",
+          "time": "+ 1' 50\""
+        },
+        {
+          "rank": 4,
+          "name": "Fabio Aru (ITA)",
+          "team": "Astana",
+          "time": "+ 2' 24\""
+        },
+        {
+          "rank": 5,
+          "name": "Nairo Quintana (COL)",
+          "team": "Movistar Team",
+          "time": "+ 2' 40\""
+        },
+        {
+          "rank": 6,
+          "name": "Domenico Pozzovivo (ITA)",
+          "team": "Ag2r–La Mondiale",
+          "time": "+ 2' 42\""
+        },
+        {
+          "rank": 7,
+          "name": "Wilco Kelderman (NED)",
+          "team": "Belkin Pro Cycling",
+          "time": "+ 3' 04\""
+        },
+        {
+          "rank": 8,
+          "name": "Pierre Rolland (FRA)",
+          "team": "Team Europcar",
+          "time": "+ 4' 47\""
+        },
+        {
+          "rank": 9,
+          "name": "Robert Kišerlovski (CRO)",
+          "team": "Trek Factory Racing",
+          "time": "+ 5' 44\""
+        },
+        {
+          "rank": 10,
+          "name": "Wout Poels (NED)",
+          "team": "Omega Pharma–Quick-Step",
+          "time": "+ 6' 32\""
+        }
+      ]
+    },
+    {
+      "stage": 16,
+      "riders": [
+        {
+          "rank": 1,
+          "name": "Nairo Quintana (COL)",
+          "team": "Movistar Team",
+          "time": "68h 11' 44\""
+        },
+        {
+          "rank": 2,
+          "name": "Rigoberto Urán (COL)",
+          "team": "Omega Pharma–Quick-Step",
+          "time": "+ 1' 41\""
+        },
+        {
+          "rank": 3,
+          "name": "Cadel Evans (AUS)",
+          "team": "BMC Racing Team",
+          "time": "+ 3' 21\""
+        },
+        {
+          "rank": 4,
+          "name": "Pierre Rolland (FRA)",
+          "team": "Team Europcar",
+          "time": "+ 3' 26\""
+        },
+        {
+          "rank": 5,
+          "name": "Rafał Majka (POL)",
+          "team": "Tinkoff–Saxo",
+          "time": "+ 3' 28\""
+        },
+        {
+          "rank": 6,
+          "name": "Fabio Aru (ITA)",
+          "team": "Astana",
+          "time": "+ 3' 34\""
+        },
+        {
+          "rank": 7,
+          "name": "Domenico Pozzovivo (ITA)",
+          "team": "Ag2r–La Mondiale",
+          "time": "+ 3' 49\""
+        },
+        {
+          "rank": 8,
+          "name": "Wilco Kelderman (NED)",
+          "team": "Belkin Pro Cycling",
+          "time": "+ 4' 06\""
+        },
+        {
+          "rank": 9,
+          "name": "Ryder Hesjedal (CAN)",
+          "team": "Garmin–Sharp",
+          "time": "+ 4' 16\""
+        },
+        {
+          "rank": 10,
+          "name": "Robert Kišerlovski (CRO)",
+          "team": "Trek Factory Racing",
+          "time": "+ 8' 02\""
+        }
+      ]
+    },
+    {
+      "stage": 17,
+      "riders": [
+        {
+          "rank": 1,
+          "name": "Nairo Quintana (COL)",
+          "team": "Movistar Team",
+          "time": "73h 05' 31\""
+        },
+        {
+          "rank": 2,
+          "name": "Rigoberto Urán (COL)",
+          "team": "Omega Pharma–Quick-Step",
+          "time": "+ 1' 41\""
+        },
+        {
+          "rank": 3,
+          "name": "Cadel Evans (AUS)",
+          "team": "BMC Racing Team",
+          "time": "+ 3' 21\""
+        },
+        {
+          "rank": 4,
+          "name": "Pierre Rolland (FRA)",
+          "team": "Team Europcar",
+          "time": "+ 3' 26\""
+        },
+        {
+          "rank": 5,
+          "name": "Rafał Majka (POL)",
+          "team": "Tinkoff–Saxo",
+          "time": "+ 3' 28\""
+        },
+        {
+          "rank": 6,
+          "name": "Fabio Aru (ITA)",
+          "team": "Astana",
+          "time": "+ 3' 34\""
+        },
+        {
+          "rank": 7,
+          "name": "Domenico Pozzovivo (ITA)",
+          "team": "Ag2r–La Mondiale",
+          "time": "+ 3' 49\""
+        },
+        {
+          "rank": 8,
+          "name": "Wilco Kelderman (NED)",
+          "team": "Belkin Pro Cycling",
+          "time": "+ 4' 06\""
+        },
+        {
+          "rank": 9,
+          "name": "Ryder Hesjedal (CAN)",
+          "team": "Garmin–Sharp",
+          "time": "+ 4' 16\""
+        },
+        {
+          "rank": 10,
+          "name": "Robert Kišerlovski (CRO)",
+          "team": "Trek Factory Racing",
+          "time": "+ 8' 02\""
+        }
+      ]
+    },
+    {
+      "stage": 18,
+      "riders": [
+        {
+          "rank": 1,
+          "name": "Nairo Quintana (COL)",
+          "team": "Movistar Team",
+          "time": "77h 58' 08\""
+        },
+        {
+          "rank": 2,
+          "name": "Rigoberto Urán (COL)",
+          "team": "Omega Pharma–Quick-Step",
+          "time": "+ 1' 41\""
+        },
+        {
+          "rank": 3,
+          "name": "Pierre Rolland (FRA)",
+          "team": "Team Europcar",
+          "time": "+ 3' 29\""
+        },
+        {
+          "rank": 4,
+          "name": "Fabio Aru (ITA)",
+          "team": "Astana",
+          "time": "+ 3' 31\""
+        },
+        {
+          "rank": 5,
+          "name": "Rafał Majka (POL)",
+          "team": "Tinkoff–Saxo",
+          "time": "+ 3' 31\""
+        },
+        {
+          "rank": 6,
+          "name": "Domenico Pozzovivo (ITA)",
+          "team": "Ag2r–La Mondiale",
+          "time": "+ 3' 52\""
+        },
+        {
+          "rank": 7,
+          "name": "Ryder Hesjedal (CAN)",
+          "team": "Garmin–Sharp",
+          "time": "+ 4' 32\""
+        },
+        {
+          "rank": 8,
+          "name": "Wilco Kelderman (NED)",
+          "team": "Belkin Pro Cycling",
+          "time": "+ 4' 37\""
+        },
+        {
+          "rank": 9,
+          "name": "Cadel Evans (AUS)",
+          "team": "BMC Racing Team",
+          "time": "+ 4' 59\""
+        },
+        {
+          "rank": 10,
+          "name": "Robert Kišerlovski (CRO)",
+          "team": "Trek Factory Racing",
+          "time": "+ 8' 33\""
+        }
+      ]
+    },
+    {
+      "stage": 19,
+      "riders": [
+        {
+          "rank": 1,
+          "name": "Nairo Quintana (COL)",
+          "team": "Movistar Team",
+          "time": "79h 03' 45\""
+        },
+        {
+          "rank": 2,
+          "name": "Rigoberto Urán (COL)",
+          "team": "Omega Pharma–Quick-Step",
+          "time": "+ 3' 07\""
+        },
+        {
+          "rank": 3,
+          "name": "Fabio Aru (ITA)",
+          "team": "Astana",
+          "time": "+ 3' 48\""
+        },
+        {
+          "rank": 4,
+          "name": "Pierre Rolland (FRA)",
+          "team": "Team Europcar",
+          "time": "+ 5' 26\""
+        },
+        {
+          "rank": 5,
+          "name": "Domenico Pozzovivo (ITA)",
+          "team": "Ag2r–La Mondiale",
+          "time": "+ 6' 16\""
+        },
+        {
+          "rank": 6,
+          "name": "Rafał Majka (POL)",
+          "team": "Tinkoff–Saxo",
+          "time": "+ 6' 59\""
+        },
+        {
+          "rank": 7,
+          "name": "Cadel Evans (AUS)",
+          "team": "BMC Racing Team",
+          "time": "+ 9' 25\""
+        },
+        {
+          "rank": 8,
+          "name": "Wilco Kelderman (NED)",
+          "team": "Belkin Pro Cycling",
+          "time": "+ 9' 29\""
+        },
+        {
+          "rank": 9,
+          "name": "Ryder Hesjedal (CAN)",
+          "team": "Garmin–Sharp",
+          "time": "+ 10' 11\""
+        },
+        {
+          "rank": 10,
+          "name": "Robert Kišerlovski (CRO)",
+          "team": "Trek Factory Racing",
+          "time": "+ 13' 59\""
+        }
+      ]
+    },
+    {
+      "stage": 20,
+      "riders": [
+        {
+          "rank": 1,
+          "name": "Nairo Quintana (COL)",
+          "team": "Movistar Team",
+          "time": "83h 50' 25\""
+        },
+        {
+          "rank": 2,
+          "name": "Rigoberto Urán (COL)",
+          "team": "Omega Pharma–Quick-Step",
+          "time": "+ 3' 07\""
+        },
+        {
+          "rank": 3,
+          "name": "Fabio Aru (ITA)",
+          "team": "Astana",
+          "time": "+ 4' 04\""
+        },
+        {
+          "rank": 4,
+          "name": "Pierre Rolland (FRA)",
+          "team": "Team Europcar",
+          "time": "+ 5' 46\""
+        },
+        {
+          "rank": 5,
+          "name": "Domenico Pozzovivo (ITA)",
+          "team": "Ag2r–La Mondiale",
+          "time": "+ 6' 41\""
+        },
+        {
+          "rank": 6,
+          "name": "Rafał Majka (POL)",
+          "team": "Tinkoff–Saxo",
+          "time": "+ 7' 13\""
+        },
+        {
+          "rank": 7,
+          "name": "Wilco Kelderman (NED)",
+          "team": "Belkin Pro Cycling",
+          "time": "+ 11' 09\""
+        },
+        {
+          "rank": 8,
+          "name": "Cadel Evans (AUS)",
+          "team": "BMC Racing Team",
+          "time": "+ 12' 00\""
+        },
+        {
+          "rank": 9,
+          "name": "Ryder Hesjedal (CAN)",
+          "team": "Garmin–Sharp",
+          "time": "+ 13' 35\""
+        },
+        {
+          "rank": 10,
+          "name": "Robert Kišerlovski (CRO)",
+          "team": "Trek Factory Racing",
+          "time": "+ 15' 49\""
+        }
+      ]
+    },
+    {
+      "stage": 21,
+      "riders": [
+        {
+          "rank": 1,
+          "name": "Nairo Quintana (COL)",
+          "team": "Movistar Team",
+          "time": "88h 14' 32\""
+        },
+        {
+          "rank": 2,
+          "name": "Rigoberto Urán (COL)",
+          "team": "Omega Pharma–Quick-Step",
+          "time": "+ 2' 58\""
+        },
+        {
+          "rank": 3,
+          "name": "Fabio Aru (ITA)",
+          "team": "Astana",
+          "time": "+ 4' 04\""
+        },
+        {
+          "rank": 4,
+          "name": "Pierre Rolland (FRA)",
+          "team": "Team Europcar",
+          "time": "+ 5' 46\""
+        },
+        {
+          "rank": 5,
+          "name": "Domenico Pozzovivo (ITA)",
+          "team": "Ag2r–La Mondiale",
+          "time": "+ 6' 32\""
+        },
+        {
+          "rank": 6,
+          "name": "Rafał Majka (POL)",
+          "team": "Tinkoff–Saxo",
+          "time": "+ 7' 04\""
+        },
+        {
+          "rank": 7,
+          "name": "Wilco Kelderman (NED)",
+          "team": "Belkin Pro Cycling",
+          "time": "+ 11' 00\""
+        },
+        {
+          "rank": 8,
+          "name": "Cadel Evans (AUS)",
+          "team": "BMC Racing Team",
+          "time": "+ 11' 51\""
+        },
+        {
+          "rank": 9,
+          "name": "Ryder Hesjedal (CAN)",
+          "team": "Garmin–Sharp",
+          "time": "+ 13' 35\""
+        },
+        {
+          "rank": 10,
+          "name": "Robert Kišerlovski (CRO)",
+          "team": "Trek Factory Racing",
+          "time": "+ 15' 49\""
+        }
+      ]
+    }
+  ]
+}

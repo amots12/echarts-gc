@@ -1,0 +1,585 @@
+{
+  "race": "giro",
+  "year": 2018,
+  "teams": [
+    {
+      "name": "AG2R La Mondiale",
+      "uci_code": null,
+      "country": null,
+      "colours": [
+        "#4A2C2A",
+        "#00A3E0",
+        "#FFFFFF"
+      ]
+    },
+    {
+      "name": "Astana",
+      "uci_code": null,
+      "country": null,
+      "colours": [
+        "#00A3E0",
+        "#111827",
+        "#EF4444"
+      ]
+    },
+    {
+      "name": "Bahrain–Merida",
+      "uci_code": null,
+      "country": null,
+      "colours": [
+        "#FFFFFF",
+        "#0072CE",
+        "#111827"
+      ]
+    },
+    {
+      "name": "BMC Racing Team",
+      "uci_code": null,
+      "country": null,
+      "colours": [
+        "#111827",
+        "#E10600",
+        "#FFFFFF"
+      ]
+    },
+    {
+      "name": "Bora–Hansgrohe",
+      "uci_code": null,
+      "country": null,
+      "colours": [
+        "#111827",
+        "#16A34A",
+        "#FFFFFF"
+      ]
+    },
+    {
+      "name": "EF Education First–Drapac p/b Cannondale",
+      "uci_code": null,
+      "country": null,
+      "colours": [
+        "#FF2D87",
+        "#111827",
+        "#FFFFFF"
+      ]
+    },
+    {
+      "name": "Team Dimension Data",
+      "uci_code": null,
+      "country": null,
+      "colours": [
+        "#111827",
+        "#00A3E0",
+        "#FFFFFF"
+      ]
+    },
+    {
+      "name": "Groupama–FDJ",
+      "uci_code": null,
+      "country": null,
+      "colours": [
+        "#0033A0",
+        "#E10600",
+        "#FFFFFF"
+      ]
+    },
+    {
+      "name": "Team Katusha–Alpecin",
+      "uci_code": null,
+      "country": null,
+      "colours": [
+        "#E10600",
+        "#111827",
+        "#FFFFFF"
+      ]
+    },
+    {
+      "name": "LottoNL–Jumbo",
+      "uci_code": null,
+      "country": null,
+      "colours": [
+        "#FACC15",
+        "#111827",
+        "#FFFFFF"
+      ]
+    },
+    {
+      "name": "Lotto Fix ALL",
+      "uci_code": null,
+      "country": null,
+      "colours": [
+        "#E10600",
+        "#111827",
+        "#FFFFFF"
+      ]
+    },
+    {
+      "name": "Movistar Team",
+      "uci_code": null,
+      "country": null,
+      "colours": [
+        "#0EA5E9",
+        "#002855",
+        "#FFFFFF"
+      ]
+    },
+    {
+      "name": "Mitchelton–Scott",
+      "uci_code": null,
+      "country": null,
+      "colours": [
+        "#111827",
+        "#FACC15",
+        "#FFFFFF"
+      ]
+    },
+    {
+      "name": "Quick-Step Floors",
+      "uci_code": null,
+      "country": null,
+      "colours": [
+        "#1D4ED8",
+        "#FFFFFF",
+        "#EF4444"
+      ]
+    },
+    {
+      "name": "Team Sky",
+      "uci_code": null,
+      "country": null,
+      "colours": [
+        "#111827",
+        "#00A3E0",
+        "#FFFFFF"
+      ]
+    },
+    {
+      "name": "Team Sunweb",
+      "uci_code": null,
+      "country": null,
+      "colours": [
+        "#FFFFFF",
+        "#111827",
+        "#EF4444"
+      ]
+    },
+    {
+      "name": "Trek–Segafredo",
+      "uci_code": null,
+      "country": null,
+      "colours": [
+        "#E10600",
+        "#111827",
+        "#FFFFFF"
+      ]
+    },
+    {
+      "name": "UAE Team Emirates",
+      "uci_code": null,
+      "country": null,
+      "colours": [
+        "#FFFFFF",
+        "#EF4444",
+        "#111827"
+      ]
+    },
+    {
+      "name": "Bardiani–CSF",
+      "uci_code": null,
+      "country": null,
+      "colours": [
+        "#E5E7EB",
+        "#9CA3AF",
+        null
+      ]
+    },
+    {
+      "name": "Androni Giocattoli–Sidermec",
+      "uci_code": null,
+      "country": null,
+      "colours": [
+        "#16A34A",
+        "#111827",
+        "#F59E0B"
+      ]
+    },
+    {
+      "name": "Israel Cycling Academy",
+      "uci_code": null,
+      "country": null,
+      "colours": [
+        "#0070B8",
+        "#FFFFFF",
+        "#111827"
+      ]
+    },
+    {
+      "name": "Wilier Triestina–Selle Italia",
+      "uci_code": null,
+      "country": null,
+      "colours": [
+        "#E10600",
+        "#1E3A8A",
+        "#FFFFFF"
+      ]
+    }
+  ],
+  "stages": [
+    {
+      "stage": 1,
+      "date": "2018-05-04",
+      "distance_km": 9.7,
+      "accumulated_km": 9.7,
+      "elevation_gain_m": null,
+      "start": {
+        "town": "Jerusalem",
+        "lat": 31.77888889,
+        "lon": 35.22555556
+      },
+      "finish": {
+        "town": "Jerusalem",
+        "lat": 31.77888889,
+        "lon": 35.22555556
+      }
+    },
+    {
+      "stage": 2,
+      "date": "2018-05-05",
+      "distance_km": 167,
+      "accumulated_km": 176.7,
+      "elevation_gain_m": null,
+      "start": {
+        "town": "Haifa (Israel)",
+        "lat": 32.81916667,
+        "lon": 34.99916667
+      },
+      "finish": {
+        "town": "Tel Aviv (Israel)",
+        "lat": 32.08,
+        "lon": 34.78
+      }
+    },
+    {
+      "stage": 3,
+      "date": "2018-05-06",
+      "distance_km": 229,
+      "accumulated_km": 405.7,
+      "elevation_gain_m": null,
+      "start": {
+        "town": "Beersheba (Israel)",
+        "lat": 31.2522,
+        "lon": 34.7867
+      },
+      "finish": {
+        "town": "Eilat (Israel)",
+        "lat": 29.55694444,
+        "lon": 34.95166667
+      }
+    },
+    {
+      "stage": 4,
+      "date": "2018-05-08",
+      "distance_km": 202,
+      "accumulated_km": 607.7,
+      "elevation_gain_m": null,
+      "start": {
+        "town": "Catania",
+        "lat": 37.5079,
+        "lon": 15.083
+      },
+      "finish": {
+        "town": "Caltagirone",
+        "lat": 37.2375,
+        "lon": 14.5125
+      }
+    },
+    {
+      "stage": 5,
+      "date": "2018-05-09",
+      "distance_km": 153,
+      "accumulated_km": 760.7,
+      "elevation_gain_m": null,
+      "start": {
+        "town": "Agrigento",
+        "lat": 37.3111,
+        "lon": 13.5765
+      },
+      "finish": {
+        "town": "Santa Ninfa (Valle del Belice)",
+        "lat": 37.7667,
+        "lon": 12.8833
+      }
+    },
+    {
+      "stage": 6,
+      "date": "2018-05-10",
+      "distance_km": 169,
+      "accumulated_km": 929.7,
+      "elevation_gain_m": null,
+      "start": {
+        "town": "Caltanissetta",
+        "lat": 37.49027778,
+        "lon": 14.0625
+      },
+      "finish": {
+        "town": "Mount Etna",
+        "lat": 37.751,
+        "lon": 14.9934
+      }
+    },
+    {
+      "stage": 7,
+      "date": "2018-05-11",
+      "distance_km": 159,
+      "accumulated_km": 1088.7,
+      "elevation_gain_m": null,
+      "start": {
+        "town": "Pizzo",
+        "lat": 38.7333,
+        "lon": 16.1667
+      },
+      "finish": {
+        "town": "Praia a Mare",
+        "lat": 39.8979,
+        "lon": 15.8086
+      }
+    },
+    {
+      "stage": 8,
+      "date": "2018-05-12",
+      "distance_km": 209,
+      "accumulated_km": 1297.7,
+      "elevation_gain_m": null,
+      "start": {
+        "town": "Praia a Mare",
+        "lat": 39.8979,
+        "lon": 15.8086
+      },
+      "finish": {
+        "town": "Montevergine",
+        "lat": 40.9394,
+        "lon": 14.7244
+      }
+    },
+    {
+      "stage": 9,
+      "date": "2018-05-13",
+      "distance_km": 225,
+      "accumulated_km": 1522.7,
+      "elevation_gain_m": null,
+      "start": {
+        "town": "Pesco Sannita",
+        "lat": 41.2167,
+        "lon": 14.8167
+      },
+      "finish": {
+        "town": "Gran Sasso (Campo Imperatore)",
+        "lat": 42.44194444,
+        "lon": 13.58777778
+      }
+    },
+    {
+      "stage": 10,
+      "date": "2018-05-15",
+      "distance_km": 244,
+      "accumulated_km": 1766.7,
+      "elevation_gain_m": null,
+      "start": {
+        "town": "Penne",
+        "lat": 42.45,
+        "lon": 13.91666667
+      },
+      "finish": {
+        "town": "Gualdo Tadino",
+        "lat": 43.230929,
+        "lon": 12.784801
+      }
+    },
+    {
+      "stage": 11,
+      "date": "2018-05-16",
+      "distance_km": 156,
+      "accumulated_km": 1922.7,
+      "elevation_gain_m": null,
+      "start": {
+        "town": "Assisi",
+        "lat": 43.0707,
+        "lon": 12.6197
+      },
+      "finish": {
+        "town": "Osimo",
+        "lat": 43.4833,
+        "lon": 13.4833
+      }
+    },
+    {
+      "stage": 12,
+      "date": "2018-05-17",
+      "distance_km": 214,
+      "accumulated_km": 2136.7,
+      "elevation_gain_m": null,
+      "start": {
+        "town": "Osimo",
+        "lat": 43.4833,
+        "lon": 13.4833
+      },
+      "finish": {
+        "town": "Imola",
+        "lat": 44.35305556,
+        "lon": 11.71472222
+      }
+    },
+    {
+      "stage": 13,
+      "date": "2018-05-18",
+      "distance_km": 180,
+      "accumulated_km": 2316.7,
+      "elevation_gain_m": null,
+      "start": {
+        "town": "Ferrara",
+        "lat": 44.8392,
+        "lon": 11.6175
+      },
+      "finish": {
+        "town": "Nervesa della Battaglia",
+        "lat": 45.83333333,
+        "lon": 12.21666667
+      }
+    },
+    {
+      "stage": 14,
+      "date": "2018-05-19",
+      "distance_km": 186,
+      "accumulated_km": 2502.7,
+      "elevation_gain_m": null,
+      "start": {
+        "town": "San Vito al Tagliamento",
+        "lat": 45.9,
+        "lon": 12.86666667
+      },
+      "finish": {
+        "town": "Monte Zoncolan",
+        "lat": 46.51,
+        "lon": 12.98
+      }
+    },
+    {
+      "stage": 15,
+      "date": "2018-05-20",
+      "distance_km": 176,
+      "accumulated_km": 2678.7,
+      "elevation_gain_m": null,
+      "start": {
+        "town": "Tolmezzo",
+        "lat": 46.4,
+        "lon": 13.0167
+      },
+      "finish": {
+        "town": "Sappada",
+        "lat": 46.565,
+        "lon": 12.682
+      }
+    },
+    {
+      "stage": 16,
+      "date": "2018-05-22",
+      "distance_km": 34.2,
+      "accumulated_km": 2712.9,
+      "elevation_gain_m": null,
+      "start": {
+        "town": "Trento",
+        "lat": 46.06666667,
+        "lon": 11.11666667
+      },
+      "finish": {
+        "town": "Rovereto",
+        "lat": 45.89,
+        "lon": 11.04
+      }
+    },
+    {
+      "stage": 17,
+      "date": "2018-05-23",
+      "distance_km": 149.5,
+      "accumulated_km": 2862.4,
+      "elevation_gain_m": null,
+      "start": {
+        "town": "Riva del Garda",
+        "lat": 45.88333333,
+        "lon": 10.85
+      },
+      "finish": {
+        "town": "Iseo",
+        "lat": 45.65,
+        "lon": 10.05
+      }
+    },
+    {
+      "stage": 18,
+      "date": "2018-05-24",
+      "distance_km": 196,
+      "accumulated_km": 3058.4,
+      "elevation_gain_m": null,
+      "start": {
+        "town": "Abbiategrasso",
+        "lat": 45.4,
+        "lon": 8.92
+      },
+      "finish": {
+        "town": "Prato Nevoso",
+        "lat": 44.25669722,
+        "lon": 7.78905
+      }
+    },
+    {
+      "stage": 19,
+      "date": "2018-05-25",
+      "distance_km": 185,
+      "accumulated_km": 3243.4,
+      "elevation_gain_m": null,
+      "start": {
+        "town": "Venaria Reale",
+        "lat": 45.1256,
+        "lon": 7.6319
+      },
+      "finish": {
+        "town": "Bardonecchia (Monte Jafferau)",
+        "lat": 45.0878,
+        "lon": 6.7389
+      }
+    },
+    {
+      "stage": 20,
+      "date": "2018-05-26",
+      "distance_km": 214,
+      "accumulated_km": 3457.4,
+      "elevation_gain_m": null,
+      "start": {
+        "town": "Susa",
+        "lat": 45.13333333,
+        "lon": 7.05
+      },
+      "finish": {
+        "town": "Cervinia",
+        "lat": 45.9367,
+        "lon": 7.6264
+      }
+    },
+    {
+      "stage": 21,
+      "date": "2018-05-27",
+      "distance_km": 115,
+      "accumulated_km": 3572.4,
+      "elevation_gain_m": null,
+      "start": {
+        "town": "Rome",
+        "lat": 41.9028,
+        "lon": 12.4964
+      },
+      "finish": {
+        "town": "Rome",
+        "lat": 41.9028,
+        "lon": 12.4964
+      }
+    }
+  ]
+}

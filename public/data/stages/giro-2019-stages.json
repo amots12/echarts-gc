@@ -1,0 +1,585 @@
+{
+  "race": "giro",
+  "year": 2019,
+  "teams": [
+    {
+      "name": "AG2R La Mondiale",
+      "uci_code": null,
+      "country": null,
+      "colours": [
+        "#4A2C2A",
+        "#00A3E0",
+        "#FFFFFF"
+      ]
+    },
+    {
+      "name": "Astana",
+      "uci_code": null,
+      "country": null,
+      "colours": [
+        "#00A3E0",
+        "#111827",
+        "#EF4444"
+      ]
+    },
+    {
+      "name": "Bahrain–Merida",
+      "uci_code": null,
+      "country": null,
+      "colours": [
+        "#FFFFFF",
+        "#0072CE",
+        "#111827"
+      ]
+    },
+    {
+      "name": "Bora–Hansgrohe",
+      "uci_code": null,
+      "country": null,
+      "colours": [
+        "#111827",
+        "#16A34A",
+        "#FFFFFF"
+      ]
+    },
+    {
+      "name": "CCC Team",
+      "uci_code": null,
+      "country": null,
+      "colours": [
+        "#F97316",
+        "#111827",
+        "#FFFFFF"
+      ]
+    },
+    {
+      "name": "Deceuninck–Quick-Step",
+      "uci_code": null,
+      "country": null,
+      "colours": [
+        "#1D4ED8",
+        "#FFFFFF",
+        "#EF4444"
+      ]
+    },
+    {
+      "name": "EF Education First",
+      "uci_code": null,
+      "country": null,
+      "colours": [
+        "#FF2D87",
+        "#111827",
+        "#FFFFFF"
+      ]
+    },
+    {
+      "name": "Groupama–FDJ",
+      "uci_code": null,
+      "country": null,
+      "colours": [
+        "#0033A0",
+        "#E10600",
+        "#FFFFFF"
+      ]
+    },
+    {
+      "name": "Team Katusha–Alpecin",
+      "uci_code": null,
+      "country": null,
+      "colours": [
+        "#E10600",
+        "#111827",
+        "#FFFFFF"
+      ]
+    },
+    {
+      "name": "Lotto–Soudal",
+      "uci_code": null,
+      "country": null,
+      "colours": [
+        "#E10600",
+        "#111827",
+        "#FFFFFF"
+      ]
+    },
+    {
+      "name": "Mitchelton–Scott",
+      "uci_code": null,
+      "country": null,
+      "colours": [
+        "#111827",
+        "#FACC15",
+        "#FFFFFF"
+      ]
+    },
+    {
+      "name": "Movistar Team",
+      "uci_code": null,
+      "country": null,
+      "colours": [
+        "#0EA5E9",
+        "#002855",
+        "#FFFFFF"
+      ]
+    },
+    {
+      "name": "Team Dimension Data",
+      "uci_code": null,
+      "country": null,
+      "colours": [
+        "#111827",
+        "#00A3E0",
+        "#FFFFFF"
+      ]
+    },
+    {
+      "name": "Team Jumbo–Visma",
+      "uci_code": null,
+      "country": null,
+      "colours": [
+        "#FACC15",
+        "#111827",
+        "#FFFFFF"
+      ]
+    },
+    {
+      "name": "Team Sunweb",
+      "uci_code": null,
+      "country": null,
+      "colours": [
+        "#FFFFFF",
+        "#111827",
+        "#EF4444"
+      ]
+    },
+    {
+      "name": "Trek–Segafredo",
+      "uci_code": null,
+      "country": null,
+      "colours": [
+        "#E10600",
+        "#111827",
+        "#FFFFFF"
+      ]
+    },
+    {
+      "name": "UAE Team Emirates",
+      "uci_code": null,
+      "country": null,
+      "colours": [
+        "#FFFFFF",
+        "#EF4444",
+        "#111827"
+      ]
+    },
+    {
+      "name": "Team INEOS",
+      "uci_code": null,
+      "country": null,
+      "colours": [
+        "#111827",
+        "#E10600",
+        "#FFFFFF"
+      ]
+    },
+    {
+      "name": "Androni Giocattoli–Sidermec",
+      "uci_code": null,
+      "country": null,
+      "colours": [
+        "#16A34A",
+        "#111827",
+        "#F59E0B"
+      ]
+    },
+    {
+      "name": "Bardiani–CSF",
+      "uci_code": null,
+      "country": null,
+      "colours": [
+        "#E5E7EB",
+        "#9CA3AF",
+        null
+      ]
+    },
+    {
+      "name": "Israel Cycling Academy",
+      "uci_code": null,
+      "country": null,
+      "colours": [
+        "#0070B8",
+        "#FFFFFF",
+        "#111827"
+      ]
+    },
+    {
+      "name": "Nippo–Vini Fantini–Faizanè",
+      "uci_code": null,
+      "country": null,
+      "colours": [
+        "#F97316",
+        "#1E3A8A",
+        "#FFFFFF"
+      ]
+    }
+  ],
+  "stages": [
+    {
+      "stage": 1,
+      "date": "2019-05-11",
+      "distance_km": 8,
+      "accumulated_km": 8,
+      "elevation_gain_m": null,
+      "start": {
+        "town": "Bologna",
+        "lat": 44.4949,
+        "lon": 11.3426
+      },
+      "finish": {
+        "town": "Bologna (San Luca)",
+        "lat": 44.4949,
+        "lon": 11.3426
+      }
+    },
+    {
+      "stage": 2,
+      "date": "2019-05-12",
+      "distance_km": 205,
+      "accumulated_km": 213,
+      "elevation_gain_m": null,
+      "start": {
+        "town": "Bologna",
+        "lat": 44.4949,
+        "lon": 11.3426
+      },
+      "finish": {
+        "town": "Fucecchio",
+        "lat": 43.73333333,
+        "lon": 10.8
+      }
+    },
+    {
+      "stage": 3,
+      "date": "2019-05-13",
+      "distance_km": 220,
+      "accumulated_km": 433,
+      "elevation_gain_m": null,
+      "start": {
+        "town": "Vinci",
+        "lat": 43.7833,
+        "lon": 10.925
+      },
+      "finish": {
+        "town": "Orbetello",
+        "lat": 42.4333,
+        "lon": 11.2167
+      }
+    },
+    {
+      "stage": 4,
+      "date": "2019-05-14",
+      "distance_km": 235,
+      "accumulated_km": 668,
+      "elevation_gain_m": null,
+      "start": {
+        "town": "Orbetello",
+        "lat": 42.4333,
+        "lon": 11.2167
+      },
+      "finish": {
+        "town": "Frascati",
+        "lat": 41.81666667,
+        "lon": 12.68333333
+      }
+    },
+    {
+      "stage": 5,
+      "date": "2019-05-15",
+      "distance_km": 140,
+      "accumulated_km": 808,
+      "elevation_gain_m": null,
+      "start": {
+        "town": "Frascati",
+        "lat": 41.81666667,
+        "lon": 12.68333333
+      },
+      "finish": {
+        "town": "Terracina",
+        "lat": 41.2833,
+        "lon": 13.25
+      }
+    },
+    {
+      "stage": 6,
+      "date": "2019-05-16",
+      "distance_km": 238,
+      "accumulated_km": 1046,
+      "elevation_gain_m": null,
+      "start": {
+        "town": "Cassino",
+        "lat": 41.5,
+        "lon": 13.83333333
+      },
+      "finish": {
+        "town": "San Giovanni Rotondo",
+        "lat": 41.7072,
+        "lon": 15.7264
+      }
+    },
+    {
+      "stage": 7,
+      "date": "2019-05-17",
+      "distance_km": 185,
+      "accumulated_km": 1231,
+      "elevation_gain_m": null,
+      "start": {
+        "town": "Vasto",
+        "lat": 42.1167,
+        "lon": 14.7167
+      },
+      "finish": {
+        "town": "L'Aquila",
+        "lat": 42.35,
+        "lon": 13.4
+      }
+    },
+    {
+      "stage": 8,
+      "date": "2019-05-18",
+      "distance_km": 239,
+      "accumulated_km": 1470,
+      "elevation_gain_m": null,
+      "start": {
+        "town": "Tortoreto Lido",
+        "lat": 42.8,
+        "lon": 13.9167
+      },
+      "finish": {
+        "town": "Pesaro",
+        "lat": 43.91666667,
+        "lon": 12.9
+      }
+    },
+    {
+      "stage": 9,
+      "date": "2019-05-19",
+      "distance_km": 34.8,
+      "accumulated_km": 1504.8,
+      "elevation_gain_m": null,
+      "start": {
+        "town": "Riccione",
+        "lat": 43.999,
+        "lon": 12.6569
+      },
+      "finish": {
+        "town": "City of San Marino (San Marino)",
+        "lat": 43.93333333,
+        "lon": 12.43333333
+      }
+    },
+    {
+      "stage": 10,
+      "date": "2019-05-21",
+      "distance_km": 145,
+      "accumulated_km": 1649.8,
+      "elevation_gain_m": null,
+      "start": {
+        "town": "Ravenna",
+        "lat": 44.418,
+        "lon": 12.203
+      },
+      "finish": {
+        "town": "Modena",
+        "lat": 44.6471,
+        "lon": 10.9252
+      }
+    },
+    {
+      "stage": 11,
+      "date": "2019-05-22",
+      "distance_km": 221,
+      "accumulated_km": 1870.8,
+      "elevation_gain_m": null,
+      "start": {
+        "town": "Carpi",
+        "lat": 44.78333333,
+        "lon": 10.88333333
+      },
+      "finish": {
+        "town": "Novi Ligure",
+        "lat": 44.76166667,
+        "lon": 8.79055556
+      }
+    },
+    {
+      "stage": 12,
+      "date": "2019-05-23",
+      "distance_km": 158,
+      "accumulated_km": 2028.8,
+      "elevation_gain_m": null,
+      "start": {
+        "town": "Cuneo",
+        "lat": 44.3845,
+        "lon": 7.5427
+      },
+      "finish": {
+        "town": "Pinerolo",
+        "lat": 44.885,
+        "lon": 7.331
+      }
+    },
+    {
+      "stage": 13,
+      "date": "2019-05-24",
+      "distance_km": 196,
+      "accumulated_km": 2224.8,
+      "elevation_gain_m": null,
+      "start": {
+        "town": "Pinerolo",
+        "lat": 44.885,
+        "lon": 7.331
+      },
+      "finish": {
+        "town": "Ceresole Reale (Serrù Lake)",
+        "lat": 45.459204,
+        "lon": 7.125793
+      }
+    },
+    {
+      "stage": 14,
+      "date": "2019-05-25",
+      "distance_km": 131,
+      "accumulated_km": 2355.8,
+      "elevation_gain_m": null,
+      "start": {
+        "town": "Saint-Vincent",
+        "lat": 45.75,
+        "lon": 7.65
+      },
+      "finish": {
+        "town": "Courmayeur (Skyway Monte Bianco)",
+        "lat": 45.7967,
+        "lon": 6.9697
+      }
+    },
+    {
+      "stage": 15,
+      "date": "2019-05-26",
+      "distance_km": 232,
+      "accumulated_km": 2587.8,
+      "elevation_gain_m": null,
+      "start": {
+        "town": "Ivrea",
+        "lat": 45.46666667,
+        "lon": 7.88333333
+      },
+      "finish": {
+        "town": "Como",
+        "lat": 45.81666667,
+        "lon": 9.08333333
+      }
+    },
+    {
+      "stage": 16,
+      "date": "2019-05-28",
+      "distance_km": 194,
+      "accumulated_km": 2781.8,
+      "elevation_gain_m": null,
+      "start": {
+        "town": "Lovere",
+        "lat": 45.8125,
+        "lon": 10.07
+      },
+      "finish": {
+        "town": "Ponte di Legno",
+        "lat": 46.258,
+        "lon": 10.511
+      }
+    },
+    {
+      "stage": 17,
+      "date": "2019-05-29",
+      "distance_km": 181,
+      "accumulated_km": 2962.8,
+      "elevation_gain_m": null,
+      "start": {
+        "town": "Commezzadura (Val di Sole)",
+        "lat": 46.31666667,
+        "lon": 10.83333333
+      },
+      "finish": {
+        "town": "Anterselva/Antholz",
+        "lat": 46.78333333,
+        "lon": 12.05
+      }
+    },
+    {
+      "stage": 18,
+      "date": "2019-05-30",
+      "distance_km": 222,
+      "accumulated_km": 3184.8,
+      "elevation_gain_m": null,
+      "start": {
+        "town": "Valdaora/Olang",
+        "lat": 46.76666667,
+        "lon": 12.03333333
+      },
+      "finish": {
+        "town": "Santa Maria di Sala",
+        "lat": 45.5167,
+        "lon": 12.0333
+      }
+    },
+    {
+      "stage": 19,
+      "date": "2019-05-31",
+      "distance_km": 151,
+      "accumulated_km": 3335.8,
+      "elevation_gain_m": null,
+      "start": {
+        "town": "Treviso",
+        "lat": 45.6667,
+        "lon": 12.2442
+      },
+      "finish": {
+        "town": "San Martino di Castrozza",
+        "lat": 46.26666667,
+        "lon": 11.8
+      }
+    },
+    {
+      "stage": 20,
+      "date": "2019-06-01",
+      "distance_km": 194,
+      "accumulated_km": 3529.8,
+      "elevation_gain_m": null,
+      "start": {
+        "town": "Feltre",
+        "lat": 46.01861111,
+        "lon": 11.91
+      },
+      "finish": {
+        "town": "Croce d'Aune-Monte Avena",
+        "lat": 46.062,
+        "lon": 11.83
+      }
+    },
+    {
+      "stage": 21,
+      "date": "2019-06-02",
+      "distance_km": 17,
+      "accumulated_km": 3546.8,
+      "elevation_gain_m": null,
+      "start": {
+        "town": "Verona",
+        "lat": 45.4384,
+        "lon": 10.9916
+      },
+      "finish": {
+        "town": "Verona",
+        "lat": 45.4384,
+        "lon": 10.9916
+      }
+    }
+  ]
+}

@@ -1,0 +1,585 @@
+{
+  "race": "giro",
+  "year": 2014,
+  "teams": [
+    {
+      "name": "Ag2r–La Mondiale",
+      "uci_code": null,
+      "country": null,
+      "colours": [
+        "#E5E7EB",
+        "#9CA3AF",
+        null
+      ]
+    },
+    {
+      "name": "Androni Giocattoli–Venezuela*",
+      "uci_code": null,
+      "country": null,
+      "colours": [
+        "#E5E7EB",
+        "#9CA3AF",
+        null
+      ]
+    },
+    {
+      "name": "Astana",
+      "uci_code": null,
+      "country": null,
+      "colours": [
+        "#00A3E0",
+        "#111827",
+        "#EF4444"
+      ]
+    },
+    {
+      "name": "Bardiani–CSF*",
+      "uci_code": null,
+      "country": null,
+      "colours": [
+        "#E5E7EB",
+        "#9CA3AF",
+        null
+      ]
+    },
+    {
+      "name": "Belkin Pro Cycling",
+      "uci_code": null,
+      "country": null,
+      "colours": [
+        "#E5E7EB",
+        "#9CA3AF",
+        null
+      ]
+    },
+    {
+      "name": "BMC Racing Team",
+      "uci_code": null,
+      "country": null,
+      "colours": [
+        "#111827",
+        "#E10600",
+        "#FFFFFF"
+      ]
+    },
+    {
+      "name": "Cannondale",
+      "uci_code": null,
+      "country": null,
+      "colours": [
+        "#E5E7EB",
+        "#9CA3AF",
+        null
+      ]
+    },
+    {
+      "name": "Colombia*",
+      "uci_code": null,
+      "country": null,
+      "colours": [
+        "#E5E7EB",
+        "#9CA3AF",
+        null
+      ]
+    },
+    {
+      "name": "Team Europcar",
+      "uci_code": null,
+      "country": null,
+      "colours": [
+        "#E5E7EB",
+        "#9CA3AF",
+        null
+      ]
+    },
+    {
+      "name": "FDJ.fr",
+      "uci_code": null,
+      "country": null,
+      "colours": [
+        "#E5E7EB",
+        "#9CA3AF",
+        null
+      ]
+    },
+    {
+      "name": "Garmin–Sharp",
+      "uci_code": null,
+      "country": null,
+      "colours": [
+        "#E5E7EB",
+        "#9CA3AF",
+        null
+      ]
+    },
+    {
+      "name": "Giant–Shimano",
+      "uci_code": null,
+      "country": null,
+      "colours": [
+        "#E5E7EB",
+        "#9CA3AF",
+        null
+      ]
+    },
+    {
+      "name": "Team Katusha",
+      "uci_code": null,
+      "country": null,
+      "colours": [
+        "#E5E7EB",
+        "#9CA3AF",
+        null
+      ]
+    },
+    {
+      "name": "Lampre–Merida",
+      "uci_code": null,
+      "country": null,
+      "colours": [
+        "#E5E7EB",
+        "#9CA3AF",
+        null
+      ]
+    },
+    {
+      "name": "Lotto–Belisol",
+      "uci_code": null,
+      "country": null,
+      "colours": [
+        "#E5E7EB",
+        "#9CA3AF",
+        null
+      ]
+    },
+    {
+      "name": "Movistar Team",
+      "uci_code": null,
+      "country": null,
+      "colours": [
+        "#0EA5E9",
+        "#002855",
+        "#FFFFFF"
+      ]
+    },
+    {
+      "name": "Neri Sottoli*",
+      "uci_code": null,
+      "country": null,
+      "colours": [
+        "#E5E7EB",
+        "#9CA3AF",
+        null
+      ]
+    },
+    {
+      "name": "Omega Pharma–Quick-Step",
+      "uci_code": null,
+      "country": null,
+      "colours": [
+        "#E5E7EB",
+        "#9CA3AF",
+        null
+      ]
+    },
+    {
+      "name": "Orica–GreenEDGE",
+      "uci_code": null,
+      "country": null,
+      "colours": [
+        "#E5E7EB",
+        "#9CA3AF",
+        null
+      ]
+    },
+    {
+      "name": "Team Sky",
+      "uci_code": null,
+      "country": null,
+      "colours": [
+        "#111827",
+        "#00A3E0",
+        "#FFFFFF"
+      ]
+    },
+    {
+      "name": "Tinkoff–Saxo",
+      "uci_code": null,
+      "country": null,
+      "colours": [
+        "#E5E7EB",
+        "#9CA3AF",
+        null
+      ]
+    },
+    {
+      "name": "Trek Factory Racing",
+      "uci_code": null,
+      "country": null,
+      "colours": [
+        "#E5E7EB",
+        "#9CA3AF",
+        null
+      ]
+    }
+  ],
+  "stages": [
+    {
+      "stage": 1,
+      "date": "2014-05-09",
+      "distance_km": 21.7,
+      "accumulated_km": 21.7,
+      "elevation_gain_m": null,
+      "start": {
+        "town": "Belfast",
+        "lat": 54.5967,
+        "lon": -5.93
+      },
+      "finish": {
+        "town": "Northern Ireland",
+        "lat": 54.61,
+        "lon": -6.62
+      }
+    },
+    {
+      "stage": 2,
+      "date": "2014-05-10",
+      "distance_km": 219,
+      "accumulated_km": 240.7,
+      "elevation_gain_m": null,
+      "start": {
+        "town": "Belfast (Northern Ireland)",
+        "lat": 54.5967,
+        "lon": -5.93
+      },
+      "finish": {
+        "town": "Belfast (Northern Ireland)",
+        "lat": 54.5967,
+        "lon": -5.93
+      }
+    },
+    {
+      "stage": 3,
+      "date": "2014-05-11",
+      "distance_km": 187,
+      "accumulated_km": 427.7,
+      "elevation_gain_m": null,
+      "start": {
+        "town": "Armagh",
+        "lat": 54.3499,
+        "lon": -6.6546
+      },
+      "finish": {
+        "town": "Dublin",
+        "lat": 53.35,
+        "lon": -6.26027778
+      }
+    },
+    {
+      "stage": 4,
+      "date": "2014-05-13",
+      "distance_km": 112,
+      "accumulated_km": 539.7,
+      "elevation_gain_m": null,
+      "start": {
+        "town": "Giovinazzo",
+        "lat": 41.1867,
+        "lon": 16.6714
+      },
+      "finish": {
+        "town": "Bari",
+        "lat": 41.12527778,
+        "lon": 16.86666667
+      }
+    },
+    {
+      "stage": 5,
+      "date": "2014-05-14",
+      "distance_km": 203,
+      "accumulated_km": 742.7,
+      "elevation_gain_m": null,
+      "start": {
+        "town": "Taranto",
+        "lat": 40.47111111,
+        "lon": 17.24305556
+      },
+      "finish": {
+        "town": "Viggiano",
+        "lat": 40.33333333,
+        "lon": 15.9
+      }
+    },
+    {
+      "stage": 6,
+      "date": "2014-05-15",
+      "distance_km": 257,
+      "accumulated_km": 999.7,
+      "elevation_gain_m": null,
+      "start": {
+        "town": "Sassano",
+        "lat": 40.3333,
+        "lon": 15.5667
+      },
+      "finish": {
+        "town": "Montecassino",
+        "lat": 41.4833,
+        "lon": 13.8167
+      }
+    },
+    {
+      "stage": 7,
+      "date": "2014-05-16",
+      "distance_km": 211,
+      "accumulated_km": 1210.7,
+      "elevation_gain_m": null,
+      "start": {
+        "town": "Frosinone",
+        "lat": 41.6376,
+        "lon": 13.3354
+      },
+      "finish": {
+        "town": "Foligno",
+        "lat": 42.9561,
+        "lon": 12.7036
+      }
+    },
+    {
+      "stage": 8,
+      "date": "2014-05-17",
+      "distance_km": 179,
+      "accumulated_km": 1389.7,
+      "elevation_gain_m": null,
+      "start": {
+        "town": "Montecopiolo",
+        "lat": 43.8833,
+        "lon": 12.35
+      },
+      "finish": {
+        "town": "Montecopiolo",
+        "lat": 43.8833,
+        "lon": 12.35
+      }
+    },
+    {
+      "stage": 9,
+      "date": "2014-05-18",
+      "distance_km": 172,
+      "accumulated_km": 1561.7,
+      "elevation_gain_m": null,
+      "start": {
+        "town": "Lugo",
+        "lat": 44.4167,
+        "lon": 11.9167
+      },
+      "finish": {
+        "town": "Sestola",
+        "lat": 44.23,
+        "lon": 10.77
+      }
+    },
+    {
+      "stage": 10,
+      "date": "2014-05-20",
+      "distance_km": 173,
+      "accumulated_km": 1734.7,
+      "elevation_gain_m": null,
+      "start": {
+        "town": "Modena",
+        "lat": 44.6471,
+        "lon": 10.9252
+      },
+      "finish": {
+        "town": "Salsomaggiore Terme",
+        "lat": 44.81666667,
+        "lon": 9.98333333
+      }
+    },
+    {
+      "stage": 11,
+      "date": "2014-05-21",
+      "distance_km": 249,
+      "accumulated_km": 1983.7,
+      "elevation_gain_m": null,
+      "start": {
+        "town": "Collecchio",
+        "lat": 44.75,
+        "lon": 10.2167
+      },
+      "finish": {
+        "town": "Savona",
+        "lat": 44.30805556,
+        "lon": 8.48111111
+      }
+    },
+    {
+      "stage": 12,
+      "date": "2014-05-22",
+      "distance_km": 41.9,
+      "accumulated_km": 2025.6,
+      "elevation_gain_m": null,
+      "start": {
+        "town": "Barbaresco",
+        "lat": 44.7167,
+        "lon": 8.0833
+      },
+      "finish": {
+        "town": "Barolo",
+        "lat": 44.6078,
+        "lon": 7.9394
+      }
+    },
+    {
+      "stage": 13,
+      "date": "2014-05-23",
+      "distance_km": 157,
+      "accumulated_km": 2182.6,
+      "elevation_gain_m": null,
+      "start": {
+        "town": "Fossano",
+        "lat": 44.55,
+        "lon": 7.7269
+      },
+      "finish": {
+        "town": "Rivarolo Canavese",
+        "lat": 45.333,
+        "lon": 7.722
+      }
+    },
+    {
+      "stage": 14,
+      "date": "2014-05-24",
+      "distance_km": 164,
+      "accumulated_km": 2346.6,
+      "elevation_gain_m": null,
+      "start": {
+        "town": "Agliè",
+        "lat": 45.3667,
+        "lon": 7.7667
+      },
+      "finish": {
+        "town": "Oropa",
+        "lat": 45.6167,
+        "lon": 7.9833
+      }
+    },
+    {
+      "stage": 15,
+      "date": "2014-05-25",
+      "distance_km": 225,
+      "accumulated_km": 2571.6,
+      "elevation_gain_m": null,
+      "start": {
+        "town": "Valdengo",
+        "lat": 45.55,
+        "lon": 8.1
+      },
+      "finish": {
+        "town": "Montecampione",
+        "lat": 45.83027778,
+        "lon": 10.18472222
+      }
+    },
+    {
+      "stage": 16,
+      "date": "2014-05-27",
+      "distance_km": 139,
+      "accumulated_km": 2710.6,
+      "elevation_gain_m": null,
+      "start": {
+        "town": "Ponte di Legno",
+        "lat": 46.258,
+        "lon": 10.511
+      },
+      "finish": {
+        "town": "Val Martello",
+        "lat": 46.55,
+        "lon": 10.78333333
+      }
+    },
+    {
+      "stage": 17,
+      "date": "2014-05-28",
+      "distance_km": 208,
+      "accumulated_km": 2918.6,
+      "elevation_gain_m": null,
+      "start": {
+        "town": "Sarnonico",
+        "lat": 46.41666667,
+        "lon": 11.15
+      },
+      "finish": {
+        "town": "Vittorio Veneto",
+        "lat": 45.98333333,
+        "lon": 12.3
+      }
+    },
+    {
+      "stage": 18,
+      "date": "2014-05-29",
+      "distance_km": 171,
+      "accumulated_km": 3089.6,
+      "elevation_gain_m": null,
+      "start": {
+        "town": "Belluno",
+        "lat": 46.142,
+        "lon": 12.215
+      },
+      "finish": {
+        "town": "Valsugana",
+        "lat": 46.05,
+        "lon": 11.45
+      }
+    },
+    {
+      "stage": 19,
+      "date": "2014-05-30",
+      "distance_km": 26.8,
+      "accumulated_km": 3116.4,
+      "elevation_gain_m": null,
+      "start": {
+        "town": "Bassano del Grappa",
+        "lat": 45.7667,
+        "lon": 11.7333
+      },
+      "finish": {
+        "town": "Crespano del Grappa",
+        "lat": 45.83333333,
+        "lon": 11.83333333
+      }
+    },
+    {
+      "stage": 20,
+      "date": "2014-05-31",
+      "distance_km": 167,
+      "accumulated_km": 3283.4,
+      "elevation_gain_m": null,
+      "start": {
+        "town": "Maniago",
+        "lat": 46.16666667,
+        "lon": 12.71666667
+      },
+      "finish": {
+        "town": "Monte Zoncolan",
+        "lat": 46.51,
+        "lon": 12.98
+      }
+    },
+    {
+      "stage": 21,
+      "date": "2014-06-01",
+      "distance_km": 172,
+      "accumulated_km": 3455.4,
+      "elevation_gain_m": null,
+      "start": {
+        "town": "Gemona del Friuli",
+        "lat": 46.28333333,
+        "lon": 13.13333333
+      },
+      "finish": {
+        "town": "Trieste",
+        "lat": 45.65027778,
+        "lon": 13.77027778
+      }
+    }
+  ]
+}

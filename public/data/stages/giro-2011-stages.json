@@ -1,0 +1,595 @@
+{
+  "race": "giro",
+  "year": 2011,
+  "teams": [
+    {
+      "name": "Acqua & Sapone",
+      "uci_code": null,
+      "country": null,
+      "colours": [
+        "#E5E7EB",
+        "#9CA3AF",
+        null
+      ]
+    },
+    {
+      "name": "Ag2r–La Mondiale",
+      "uci_code": null,
+      "country": null,
+      "colours": [
+        "#E5E7EB",
+        "#9CA3AF",
+        null
+      ]
+    },
+    {
+      "name": "Androni Giocattoli",
+      "uci_code": null,
+      "country": null,
+      "colours": [
+        "#E5E7EB",
+        "#9CA3AF",
+        null
+      ]
+    },
+    {
+      "name": "Astana",
+      "uci_code": null,
+      "country": null,
+      "colours": [
+        "#00A3E0",
+        "#111827",
+        "#EF4444"
+      ]
+    },
+    {
+      "name": "BMC Racing Team",
+      "uci_code": null,
+      "country": null,
+      "colours": [
+        "#111827",
+        "#E10600",
+        "#FFFFFF"
+      ]
+    },
+    {
+      "name": "Colnago–CSF Inox",
+      "uci_code": null,
+      "country": null,
+      "colours": [
+        "#E5E7EB",
+        "#9CA3AF",
+        null
+      ]
+    },
+    {
+      "name": "Euskaltel–Euskadi",
+      "uci_code": null,
+      "country": null,
+      "colours": [
+        "#E5E7EB",
+        "#9CA3AF",
+        null
+      ]
+    },
+    {
+      "name": "Farnese Vini–Neri Sottoli",
+      "uci_code": null,
+      "country": null,
+      "colours": [
+        "#E5E7EB",
+        "#9CA3AF",
+        null
+      ]
+    },
+    {
+      "name": "Garmin–Cervélo",
+      "uci_code": null,
+      "country": null,
+      "colours": [
+        "#E5E7EB",
+        "#9CA3AF",
+        null
+      ]
+    },
+    {
+      "name": "Geox–TMC",
+      "uci_code": null,
+      "country": null,
+      "colours": [
+        "#E5E7EB",
+        "#9CA3AF",
+        null
+      ]
+    },
+    {
+      "name": "HTC–Highroad",
+      "uci_code": null,
+      "country": null,
+      "colours": [
+        "#E5E7EB",
+        "#9CA3AF",
+        null
+      ]
+    },
+    {
+      "name": "Lampre–ISD",
+      "uci_code": null,
+      "country": null,
+      "colours": [
+        "#E5E7EB",
+        "#9CA3AF",
+        null
+      ]
+    },
+    {
+      "name": "Leopard Trek",
+      "uci_code": null,
+      "country": null,
+      "colours": [
+        "#E5E7EB",
+        "#9CA3AF",
+        null
+      ]
+    },
+    {
+      "name": "Liquigas–Cannondale",
+      "uci_code": null,
+      "country": null,
+      "colours": [
+        "#E5E7EB",
+        "#9CA3AF",
+        null
+      ]
+    },
+    {
+      "name": "Omega Pharma–Lotto",
+      "uci_code": null,
+      "country": null,
+      "colours": [
+        "#E5E7EB",
+        "#9CA3AF",
+        null
+      ]
+    },
+    {
+      "name": "Quick-Step",
+      "uci_code": null,
+      "country": null,
+      "colours": [
+        "#E5E7EB",
+        "#9CA3AF",
+        null
+      ]
+    },
+    {
+      "name": "Rabobank",
+      "uci_code": null,
+      "country": null,
+      "colours": [
+        "#E5E7EB",
+        "#9CA3AF",
+        null
+      ]
+    },
+    {
+      "name": "Saxo Bank–SunGard",
+      "uci_code": null,
+      "country": null,
+      "colours": [
+        "#E5E7EB",
+        "#9CA3AF",
+        null
+      ]
+    },
+    {
+      "name": "Team Katusha",
+      "uci_code": null,
+      "country": null,
+      "colours": [
+        "#E5E7EB",
+        "#9CA3AF",
+        null
+      ]
+    },
+    {
+      "name": "Movistar Team",
+      "uci_code": null,
+      "country": null,
+      "colours": [
+        "#0EA5E9",
+        "#002855",
+        "#FFFFFF"
+      ]
+    },
+    {
+      "name": "Team RadioShack",
+      "uci_code": null,
+      "country": null,
+      "colours": [
+        "#E5E7EB",
+        "#9CA3AF",
+        null
+      ]
+    },
+    {
+      "name": "Team Sky",
+      "uci_code": null,
+      "country": null,
+      "colours": [
+        "#111827",
+        "#00A3E0",
+        "#FFFFFF"
+      ]
+    },
+    {
+      "name": "Vacansoleil–DCM",
+      "uci_code": null,
+      "country": null,
+      "colours": [
+        "#E5E7EB",
+        "#9CA3AF",
+        null
+      ]
+    }
+  ],
+  "stages": [
+    {
+      "stage": 1,
+      "date": "2011-05-07",
+      "distance_km": 19.3,
+      "accumulated_km": 19.3,
+      "elevation_gain_m": null,
+      "start": {
+        "town": "Venaria Reale",
+        "lat": 45.1256,
+        "lon": 7.6319
+      },
+      "finish": {
+        "town": "Turin",
+        "lat": 45.0703,
+        "lon": 7.6869
+      }
+    },
+    {
+      "stage": 2,
+      "date": "2011-05-08",
+      "distance_km": 244,
+      "accumulated_km": 263.3,
+      "elevation_gain_m": null,
+      "start": {
+        "town": "Alba",
+        "lat": 44.7,
+        "lon": 8.03333333
+      },
+      "finish": {
+        "town": "Parma",
+        "lat": 44.8015,
+        "lon": 10.3279
+      }
+    },
+    {
+      "stage": 3,
+      "date": "2011-05-09",
+      "distance_km": 173,
+      "accumulated_km": 436.3,
+      "elevation_gain_m": null,
+      "start": {
+        "town": "Reggio Emilia",
+        "lat": 44.6983,
+        "lon": 10.6312
+      },
+      "finish": {
+        "town": "Rapallo",
+        "lat": 44.35,
+        "lon": 9.23333333
+      }
+    },
+    {
+      "stage": 4,
+      "date": "2011-05-10",
+      "distance_km": 216,
+      "accumulated_km": 652.3,
+      "elevation_gain_m": null,
+      "start": {
+        "town": "Quarto dei Mille",
+        "lat": 44.3833,
+        "lon": 8.8333
+      },
+      "finish": {
+        "town": "Livorno",
+        "lat": 43.55194444,
+        "lon": 10.30833333
+      }
+    },
+    {
+      "stage": 5,
+      "date": "2011-05-11",
+      "distance_km": 191,
+      "accumulated_km": 843.3,
+      "elevation_gain_m": null,
+      "start": {
+        "town": "Piombino",
+        "lat": 42.91666667,
+        "lon": 10.53333333
+      },
+      "finish": {
+        "town": "Orvieto",
+        "lat": 42.7182,
+        "lon": 12.108269
+      }
+    },
+    {
+      "stage": 6,
+      "date": "2011-05-12",
+      "distance_km": 216,
+      "accumulated_km": 1059.3,
+      "elevation_gain_m": null,
+      "start": {
+        "town": "Orvieto",
+        "lat": 42.7182,
+        "lon": 12.108269
+      },
+      "finish": {
+        "town": "Fiuggi",
+        "lat": 41.8022,
+        "lon": 13.2225
+      }
+    },
+    {
+      "stage": 7,
+      "date": "2011-05-13",
+      "distance_km": 110,
+      "accumulated_km": 1169.3,
+      "elevation_gain_m": null,
+      "start": {
+        "town": "Maddaloni",
+        "lat": 41.03333333,
+        "lon": 14.38333333
+      },
+      "finish": {
+        "town": "Montevergine di Mercogliano",
+        "lat": 40.9394,
+        "lon": 14.7244
+      }
+    },
+    {
+      "stage": 8,
+      "date": "2011-05-14",
+      "distance_km": 217,
+      "accumulated_km": 1386.3,
+      "elevation_gain_m": null,
+      "start": {
+        "town": "Sapri",
+        "lat": 40.0742,
+        "lon": 15.6333
+      },
+      "finish": {
+        "town": "Tropea",
+        "lat": 38.67538,
+        "lon": 15.89479
+      }
+    },
+    {
+      "stage": 9,
+      "date": "2011-05-15",
+      "distance_km": 169,
+      "accumulated_km": 1555.3,
+      "elevation_gain_m": null,
+      "start": {
+        "town": "Messina",
+        "lat": 38.1938,
+        "lon": 15.554
+      },
+      "finish": {
+        "town": "Etna",
+        "lat": 37.751,
+        "lon": 14.9934
+      }
+    },
+    {
+      "stage": 10,
+      "date": "2011-05-17",
+      "distance_km": 159,
+      "accumulated_km": 1714.3,
+      "elevation_gain_m": null,
+      "start": {
+        "town": "Termoli",
+        "lat": 42,
+        "lon": 14.995
+      },
+      "finish": {
+        "town": "Teramo",
+        "lat": 42.6589,
+        "lon": 13.7044
+      }
+    },
+    {
+      "stage": 11,
+      "date": "2011-05-18",
+      "distance_km": 142,
+      "accumulated_km": 1856.3,
+      "elevation_gain_m": null,
+      "start": {
+        "town": "Teramo",
+        "lat": 42.6589,
+        "lon": 13.7044
+      },
+      "finish": {
+        "town": "Castelfidardo",
+        "lat": 43.4667,
+        "lon": 13.55
+      }
+    },
+    {
+      "stage": 12,
+      "date": "2011-05-19",
+      "distance_km": 184,
+      "accumulated_km": 2040.3,
+      "elevation_gain_m": null,
+      "start": {
+        "town": "Castelfidardo",
+        "lat": 43.4667,
+        "lon": 13.55
+      },
+      "finish": {
+        "town": "Ravenna",
+        "lat": 44.418,
+        "lon": 12.203
+      }
+    },
+    {
+      "stage": 13,
+      "date": "2011-05-20",
+      "distance_km": 167,
+      "accumulated_km": 2207.3,
+      "elevation_gain_m": null,
+      "start": {
+        "town": "Spilimbergo",
+        "lat": 46.1167,
+        "lon": 12.9
+      },
+      "finish": {
+        "town": "Grossglockner",
+        "lat": 47.07486667,
+        "lon": 12.69525
+      }
+    },
+    {
+      "stage": 14,
+      "date": "2011-05-21",
+      "distance_km": 170,
+      "accumulated_km": 2377.3,
+      "elevation_gain_m": null,
+      "start": {
+        "town": "Lienz",
+        "lat": 46.82972222,
+        "lon": 12.76972222
+      },
+      "finish": {
+        "town": "Monte Zoncolan",
+        "lat": 46.51,
+        "lon": 12.98
+      }
+    },
+    {
+      "stage": 15,
+      "date": "2011-05-22",
+      "distance_km": 229,
+      "accumulated_km": 2606.3,
+      "elevation_gain_m": null,
+      "start": {
+        "town": "Conegliano",
+        "lat": 45.8897,
+        "lon": 12.3
+      },
+      "finish": {
+        "town": "Gardeccia-Val di Fassa",
+        "lat": 46.4833,
+        "lon": 11.6167
+      }
+    },
+    {
+      "stage": 16,
+      "date": "2011-05-24",
+      "distance_km": 12.7,
+      "accumulated_km": 2619,
+      "elevation_gain_m": null,
+      "start": {
+        "town": "Belluno",
+        "lat": 46.142,
+        "lon": 12.215
+      },
+      "finish": {
+        "town": "Nevegal",
+        "lat": 46.0927,
+        "lon": 12.281
+      }
+    },
+    {
+      "stage": 17,
+      "date": "2011-05-25",
+      "distance_km": 230,
+      "accumulated_km": 2849,
+      "elevation_gain_m": null,
+      "start": {
+        "town": "Feltre",
+        "lat": 46.01861111,
+        "lon": 11.91
+      },
+      "finish": {
+        "town": "Tirano",
+        "lat": 46.21638889,
+        "lon": 10.16888889
+      }
+    },
+    {
+      "stage": 18,
+      "date": "2011-05-26",
+      "distance_km": 151,
+      "accumulated_km": 3000,
+      "elevation_gain_m": null,
+      "start": {
+        "town": "Morbegno",
+        "lat": 46.1333,
+        "lon": 9.5667
+      },
+      "finish": {
+        "town": "San Pellegrino Terme",
+        "lat": 45.83333333,
+        "lon": 9.66666667
+      }
+    },
+    {
+      "stage": 19,
+      "date": "2011-05-27",
+      "distance_km": 209,
+      "accumulated_km": 3209,
+      "elevation_gain_m": null,
+      "start": {
+        "town": "Bergamo",
+        "lat": 45.6983,
+        "lon": 9.6773
+      },
+      "finish": {
+        "town": "Macugnaga",
+        "lat": 45.96666667,
+        "lon": 7.96666667
+      }
+    },
+    {
+      "stage": 20,
+      "date": "2011-05-28",
+      "distance_km": 242,
+      "accumulated_km": 3451,
+      "elevation_gain_m": null,
+      "start": {
+        "town": "Verbania",
+        "lat": 45.92,
+        "lon": 8.55
+      },
+      "finish": {
+        "town": "Sestriere",
+        "lat": 44.9572,
+        "lon": 6.8769
+      }
+    },
+    {
+      "stage": 21,
+      "date": "2011-05-29",
+      "distance_km": 26,
+      "accumulated_km": 3477,
+      "elevation_gain_m": null,
+      "start": {
+        "town": "Milan",
+        "lat": 45.4642,
+        "lon": 9.19
+      },
+      "finish": {
+        "town": "Milan",
+        "lat": 45.4642,
+        "lon": 9.19
+      }
+    }
+  ]
+}

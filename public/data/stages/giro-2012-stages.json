@@ -1,0 +1,585 @@
+{
+  "race": "giro",
+  "year": 2012,
+  "teams": [
+    {
+      "name": "Ag2r–La Mondiale",
+      "uci_code": null,
+      "country": null,
+      "colours": [
+        "#E5E7EB",
+        "#9CA3AF",
+        null
+      ]
+    },
+    {
+      "name": "Astana",
+      "uci_code": null,
+      "country": null,
+      "colours": [
+        "#00A3E0",
+        "#111827",
+        "#EF4444"
+      ]
+    },
+    {
+      "name": "BMC Racing Team",
+      "uci_code": null,
+      "country": null,
+      "colours": [
+        "#111827",
+        "#E10600",
+        "#FFFFFF"
+      ]
+    },
+    {
+      "name": "Euskaltel–Euskadi",
+      "uci_code": null,
+      "country": null,
+      "colours": [
+        "#E5E7EB",
+        "#9CA3AF",
+        null
+      ]
+    },
+    {
+      "name": "FDJ–BigMat",
+      "uci_code": null,
+      "country": null,
+      "colours": [
+        "#E5E7EB",
+        "#9CA3AF",
+        null
+      ]
+    },
+    {
+      "name": "Garmin–Barracuda",
+      "uci_code": null,
+      "country": null,
+      "colours": [
+        "#E5E7EB",
+        "#9CA3AF",
+        null
+      ]
+    },
+    {
+      "name": "Team Katusha",
+      "uci_code": null,
+      "country": null,
+      "colours": [
+        "#E5E7EB",
+        "#9CA3AF",
+        null
+      ]
+    },
+    {
+      "name": "Lampre–ISD",
+      "uci_code": null,
+      "country": null,
+      "colours": [
+        "#E5E7EB",
+        "#9CA3AF",
+        null
+      ]
+    },
+    {
+      "name": "Liquigas–Cannondale",
+      "uci_code": null,
+      "country": null,
+      "colours": [
+        "#E5E7EB",
+        "#9CA3AF",
+        null
+      ]
+    },
+    {
+      "name": "Lotto–Belisol",
+      "uci_code": null,
+      "country": null,
+      "colours": [
+        "#E5E7EB",
+        "#9CA3AF",
+        null
+      ]
+    },
+    {
+      "name": "Movistar Team",
+      "uci_code": null,
+      "country": null,
+      "colours": [
+        "#0EA5E9",
+        "#002855",
+        "#FFFFFF"
+      ]
+    },
+    {
+      "name": "Omega Pharma–Quick-Step",
+      "uci_code": null,
+      "country": null,
+      "colours": [
+        "#E5E7EB",
+        "#9CA3AF",
+        null
+      ]
+    },
+    {
+      "name": "Orica–GreenEDGE",
+      "uci_code": null,
+      "country": null,
+      "colours": [
+        "#E5E7EB",
+        "#9CA3AF",
+        null
+      ]
+    },
+    {
+      "name": "Rabobank",
+      "uci_code": null,
+      "country": null,
+      "colours": [
+        "#E5E7EB",
+        "#9CA3AF",
+        null
+      ]
+    },
+    {
+      "name": "RadioShack–Nissan",
+      "uci_code": null,
+      "country": null,
+      "colours": [
+        "#E5E7EB",
+        "#9CA3AF",
+        null
+      ]
+    },
+    {
+      "name": "Team Saxo Bank",
+      "uci_code": null,
+      "country": null,
+      "colours": [
+        "#E5E7EB",
+        "#9CA3AF",
+        null
+      ]
+    },
+    {
+      "name": "Team Sky",
+      "uci_code": null,
+      "country": null,
+      "colours": [
+        "#111827",
+        "#00A3E0",
+        "#FFFFFF"
+      ]
+    },
+    {
+      "name": "Vacansoleil–DCM",
+      "uci_code": null,
+      "country": null,
+      "colours": [
+        "#E5E7EB",
+        "#9CA3AF",
+        null
+      ]
+    },
+    {
+      "name": "Androni Giocattoli–Venezuela",
+      "uci_code": null,
+      "country": null,
+      "colours": [
+        "#E5E7EB",
+        "#9CA3AF",
+        null
+      ]
+    },
+    {
+      "name": "Colnago–CSF Bardiani",
+      "uci_code": null,
+      "country": null,
+      "colours": [
+        "#E5E7EB",
+        "#9CA3AF",
+        null
+      ]
+    },
+    {
+      "name": "Farnese Vini–Selle Italia",
+      "uci_code": null,
+      "country": null,
+      "colours": [
+        "#E5E7EB",
+        "#9CA3AF",
+        null
+      ]
+    },
+    {
+      "name": "Team NetApp",
+      "uci_code": null,
+      "country": null,
+      "colours": [
+        "#E5E7EB",
+        "#9CA3AF",
+        null
+      ]
+    }
+  ],
+  "stages": [
+    {
+      "stage": 1,
+      "date": "2012-05-05",
+      "distance_km": 8.7,
+      "accumulated_km": 8.7,
+      "elevation_gain_m": null,
+      "start": {
+        "town": "Herning",
+        "lat": 56.1353,
+        "lon": 8.9768
+      },
+      "finish": {
+        "town": "Herning",
+        "lat": 56.1353,
+        "lon": 8.9768
+      }
+    },
+    {
+      "stage": 2,
+      "date": "2012-05-06",
+      "distance_km": 206,
+      "accumulated_km": 214.7,
+      "elevation_gain_m": null,
+      "start": {
+        "town": "Herning (Denmark)",
+        "lat": 56.1353,
+        "lon": 8.9768
+      },
+      "finish": {
+        "town": "Herning (Denmark)",
+        "lat": 56.1353,
+        "lon": 8.9768
+      }
+    },
+    {
+      "stage": 3,
+      "date": "2012-05-07",
+      "distance_km": 190,
+      "accumulated_km": 404.7,
+      "elevation_gain_m": null,
+      "start": {
+        "town": "Horsens",
+        "lat": 55.85833333,
+        "lon": 9.85
+      },
+      "finish": {
+        "town": "Horsens",
+        "lat": 55.85833333,
+        "lon": 9.85
+      }
+    },
+    {
+      "stage": 4,
+      "date": "2012-05-09",
+      "distance_km": 33.2,
+      "accumulated_km": 437.9,
+      "elevation_gain_m": null,
+      "start": {
+        "town": "Verona",
+        "lat": 45.4384,
+        "lon": 10.9916
+      },
+      "finish": {
+        "town": "Verona",
+        "lat": 45.4384,
+        "lon": 10.9916
+      }
+    },
+    {
+      "stage": 5,
+      "date": "2012-05-10",
+      "distance_km": 209,
+      "accumulated_km": 646.9,
+      "elevation_gain_m": null,
+      "start": {
+        "town": "Modena",
+        "lat": 44.6471,
+        "lon": 10.9252
+      },
+      "finish": {
+        "town": "Fano",
+        "lat": 43.843,
+        "lon": 13.019
+      }
+    },
+    {
+      "stage": 6,
+      "date": "2012-05-11",
+      "distance_km": 210,
+      "accumulated_km": 856.9,
+      "elevation_gain_m": null,
+      "start": {
+        "town": "Urbino",
+        "lat": 43.71666667,
+        "lon": 12.63333333
+      },
+      "finish": {
+        "town": "Porto Sant'Elpidio",
+        "lat": 43.2583,
+        "lon": 13.75
+      }
+    },
+    {
+      "stage": 7,
+      "date": "2012-05-12",
+      "distance_km": 205,
+      "accumulated_km": 1061.9,
+      "elevation_gain_m": null,
+      "start": {
+        "town": "Recanati",
+        "lat": 43.40361111,
+        "lon": 13.54972222
+      },
+      "finish": {
+        "town": "Rocca di Cambio",
+        "lat": 42.2333,
+        "lon": 13.45
+      }
+    },
+    {
+      "stage": 8,
+      "date": "2012-05-13",
+      "distance_km": 229,
+      "accumulated_km": 1290.9,
+      "elevation_gain_m": null,
+      "start": {
+        "town": "Sulmona",
+        "lat": 42.03333333,
+        "lon": 13.93333333
+      },
+      "finish": {
+        "town": "Lago Laceno",
+        "lat": 40.8,
+        "lon": 15.166
+      }
+    },
+    {
+      "stage": 9,
+      "date": "2012-05-14",
+      "distance_km": 166,
+      "accumulated_km": 1456.9,
+      "elevation_gain_m": null,
+      "start": {
+        "town": "San Giorgio del Sannio",
+        "lat": 41.06738889,
+        "lon": 14.85522222
+      },
+      "finish": {
+        "town": "Frosinone",
+        "lat": 41.6376,
+        "lon": 13.3354
+      }
+    },
+    {
+      "stage": 10,
+      "date": "2012-05-15",
+      "distance_km": 186,
+      "accumulated_km": 1642.9,
+      "elevation_gain_m": null,
+      "start": {
+        "town": "Civitavecchia",
+        "lat": 42.1,
+        "lon": 11.8
+      },
+      "finish": {
+        "town": "Assisi",
+        "lat": 43.0707,
+        "lon": 12.6197
+      }
+    },
+    {
+      "stage": 11,
+      "date": "2012-05-16",
+      "distance_km": 255,
+      "accumulated_km": 1897.9,
+      "elevation_gain_m": null,
+      "start": {
+        "town": "Assisi",
+        "lat": 43.0707,
+        "lon": 12.6197
+      },
+      "finish": {
+        "town": "Montecatini Terme",
+        "lat": 43.8809,
+        "lon": 10.7755
+      }
+    },
+    {
+      "stage": 12,
+      "date": "2012-05-17",
+      "distance_km": 155,
+      "accumulated_km": 2052.9,
+      "elevation_gain_m": null,
+      "start": {
+        "town": "Seravezza",
+        "lat": 43.9833,
+        "lon": 10.2333
+      },
+      "finish": {
+        "town": "Sestri Levante",
+        "lat": 44.2697,
+        "lon": 9.3958
+      }
+    },
+    {
+      "stage": 13,
+      "date": "2012-05-18",
+      "distance_km": 121,
+      "accumulated_km": 2173.9,
+      "elevation_gain_m": null,
+      "start": {
+        "town": "Savona",
+        "lat": 44.30805556,
+        "lon": 8.48111111
+      },
+      "finish": {
+        "town": "Cervere",
+        "lat": 44.63333333,
+        "lon": 7.78333333
+      }
+    },
+    {
+      "stage": 14,
+      "date": "2012-05-19",
+      "distance_km": 206,
+      "accumulated_km": 2379.9,
+      "elevation_gain_m": null,
+      "start": {
+        "town": "Cherasco",
+        "lat": 44.65,
+        "lon": 7.86666667
+      },
+      "finish": {
+        "town": "Cervinia",
+        "lat": 45.9367,
+        "lon": 7.6264
+      }
+    },
+    {
+      "stage": 15,
+      "date": "2012-05-20",
+      "distance_km": 169,
+      "accumulated_km": 2548.9,
+      "elevation_gain_m": null,
+      "start": {
+        "town": "Busto Arsizio",
+        "lat": 45.61194444,
+        "lon": 8.85
+      },
+      "finish": {
+        "town": "Pian dei Resinelli",
+        "lat": 45.905,
+        "lon": 9.3925
+      }
+    },
+    {
+      "stage": 16,
+      "date": "2012-05-22",
+      "distance_km": 173,
+      "accumulated_km": 2721.9,
+      "elevation_gain_m": null,
+      "start": {
+        "town": "Limone sul Garda",
+        "lat": 45.80833333,
+        "lon": 10.7875
+      },
+      "finish": {
+        "town": "Pfalzen",
+        "lat": 46.81666667,
+        "lon": 11.88333333
+      }
+    },
+    {
+      "stage": 17,
+      "date": "2012-05-23",
+      "distance_km": 186,
+      "accumulated_km": 2907.9,
+      "elevation_gain_m": null,
+      "start": {
+        "town": "Pfalzen",
+        "lat": 46.81666667,
+        "lon": 11.88333333
+      },
+      "finish": {
+        "town": "Cortina d'Ampezzo",
+        "lat": 46.54,
+        "lon": 12.14
+      }
+    },
+    {
+      "stage": 18,
+      "date": "2012-05-24",
+      "distance_km": 149,
+      "accumulated_km": 3056.9,
+      "elevation_gain_m": null,
+      "start": {
+        "town": "San Vito di Cadore",
+        "lat": 46.45,
+        "lon": 12.21666667
+      },
+      "finish": {
+        "town": "Vedelago",
+        "lat": 45.68333333,
+        "lon": 12.01666667
+      }
+    },
+    {
+      "stage": 19,
+      "date": "2012-05-25",
+      "distance_km": 198,
+      "accumulated_km": 3254.9,
+      "elevation_gain_m": null,
+      "start": {
+        "town": "Treviso",
+        "lat": 45.6667,
+        "lon": 12.2442
+      },
+      "finish": {
+        "town": "Alpe di Pampeago",
+        "lat": 46.3423,
+        "lon": 11.5411
+      }
+    },
+    {
+      "stage": 20,
+      "date": "2012-05-26",
+      "distance_km": 219,
+      "accumulated_km": 3473.9,
+      "elevation_gain_m": null,
+      "start": {
+        "town": "Caldes-Val di Sole",
+        "lat": 46.36666667,
+        "lon": 10.95
+      },
+      "finish": {
+        "town": "Stelvio Pass",
+        "lat": 46.52861111,
+        "lon": 10.45277778
+      }
+    },
+    {
+      "stage": 21,
+      "date": "2012-05-27",
+      "distance_km": 28.2,
+      "accumulated_km": 3502.1,
+      "elevation_gain_m": null,
+      "start": {
+        "town": "Milan",
+        "lat": 45.4642,
+        "lon": 9.19
+      },
+      "finish": {
+        "town": "Milan",
+        "lat": 45.4642,
+        "lon": 9.19
+      }
+    }
+  ]
+}

@@ -1,0 +1,595 @@
+{
+  "race": "giro",
+  "year": 2013,
+  "teams": [
+    {
+      "name": "Ag2r–La Mondiale",
+      "uci_code": null,
+      "country": null,
+      "colours": [
+        "#E5E7EB",
+        "#9CA3AF",
+        null
+      ]
+    },
+    {
+      "name": "Androni Giocattoli–Venezuela*",
+      "uci_code": null,
+      "country": null,
+      "colours": [
+        "#E5E7EB",
+        "#9CA3AF",
+        null
+      ]
+    },
+    {
+      "name": "Argos–Shimano",
+      "uci_code": null,
+      "country": null,
+      "colours": [
+        "#E5E7EB",
+        "#9CA3AF",
+        null
+      ]
+    },
+    {
+      "name": "Astana",
+      "uci_code": null,
+      "country": null,
+      "colours": [
+        "#00A3E0",
+        "#111827",
+        "#EF4444"
+      ]
+    },
+    {
+      "name": "Bardiani Valvole–CSF Inox*",
+      "uci_code": null,
+      "country": null,
+      "colours": [
+        "#E5E7EB",
+        "#9CA3AF",
+        null
+      ]
+    },
+    {
+      "name": "Blanco Pro Cycling",
+      "uci_code": null,
+      "country": null,
+      "colours": [
+        "#E5E7EB",
+        "#9CA3AF",
+        null
+      ]
+    },
+    {
+      "name": "BMC Racing Team",
+      "uci_code": null,
+      "country": null,
+      "colours": [
+        "#111827",
+        "#E10600",
+        "#FFFFFF"
+      ]
+    },
+    {
+      "name": "Cannondale",
+      "uci_code": null,
+      "country": null,
+      "colours": [
+        "#E5E7EB",
+        "#9CA3AF",
+        null
+      ]
+    },
+    {
+      "name": "Colombia*",
+      "uci_code": null,
+      "country": null,
+      "colours": [
+        "#E5E7EB",
+        "#9CA3AF",
+        null
+      ]
+    },
+    {
+      "name": "Euskaltel–Euskadi",
+      "uci_code": null,
+      "country": null,
+      "colours": [
+        "#E5E7EB",
+        "#9CA3AF",
+        null
+      ]
+    },
+    {
+      "name": "FDJ",
+      "uci_code": null,
+      "country": null,
+      "colours": [
+        "#E5E7EB",
+        "#9CA3AF",
+        null
+      ]
+    },
+    {
+      "name": "Garmin–Sharp",
+      "uci_code": null,
+      "country": null,
+      "colours": [
+        "#E5E7EB",
+        "#9CA3AF",
+        null
+      ]
+    },
+    {
+      "name": "Lampre–Merida",
+      "uci_code": null,
+      "country": null,
+      "colours": [
+        "#E5E7EB",
+        "#9CA3AF",
+        null
+      ]
+    },
+    {
+      "name": "Lotto–Belisol",
+      "uci_code": null,
+      "country": null,
+      "colours": [
+        "#E5E7EB",
+        "#9CA3AF",
+        null
+      ]
+    },
+    {
+      "name": "Movistar Team",
+      "uci_code": null,
+      "country": null,
+      "colours": [
+        "#0EA5E9",
+        "#002855",
+        "#FFFFFF"
+      ]
+    },
+    {
+      "name": "Omega Pharma–Quick-Step",
+      "uci_code": null,
+      "country": null,
+      "colours": [
+        "#E5E7EB",
+        "#9CA3AF",
+        null
+      ]
+    },
+    {
+      "name": "Orica–GreenEDGE",
+      "uci_code": null,
+      "country": null,
+      "colours": [
+        "#E5E7EB",
+        "#9CA3AF",
+        null
+      ]
+    },
+    {
+      "name": "RadioShack–Leopard",
+      "uci_code": null,
+      "country": null,
+      "colours": [
+        "#E5E7EB",
+        "#9CA3AF",
+        null
+      ]
+    },
+    {
+      "name": "Team Katusha",
+      "uci_code": null,
+      "country": null,
+      "colours": [
+        "#E5E7EB",
+        "#9CA3AF",
+        null
+      ]
+    },
+    {
+      "name": "Saxo–Tinkoff",
+      "uci_code": null,
+      "country": null,
+      "colours": [
+        "#E5E7EB",
+        "#9CA3AF",
+        null
+      ]
+    },
+    {
+      "name": "Team Sky",
+      "uci_code": null,
+      "country": null,
+      "colours": [
+        "#111827",
+        "#00A3E0",
+        "#FFFFFF"
+      ]
+    },
+    {
+      "name": "Vacansoleil–DCM",
+      "uci_code": null,
+      "country": null,
+      "colours": [
+        "#E5E7EB",
+        "#9CA3AF",
+        null
+      ]
+    },
+    {
+      "name": "Vini Fantini–Selle Italia*",
+      "uci_code": null,
+      "country": null,
+      "colours": [
+        "#E5E7EB",
+        "#9CA3AF",
+        null
+      ]
+    }
+  ],
+  "stages": [
+    {
+      "stage": 1,
+      "date": "2013-05-04",
+      "distance_km": 130,
+      "accumulated_km": 130,
+      "elevation_gain_m": null,
+      "start": {
+        "town": "Naples",
+        "lat": 40.8518,
+        "lon": 14.2681
+      },
+      "finish": {
+        "town": "Naples",
+        "lat": 40.8518,
+        "lon": 14.2681
+      }
+    },
+    {
+      "stage": 2,
+      "date": "2013-05-05",
+      "distance_km": 17.4,
+      "accumulated_km": 147.4,
+      "elevation_gain_m": null,
+      "start": {
+        "town": "Ischia",
+        "lat": 40.73333333,
+        "lon": 13.95
+      },
+      "finish": {
+        "town": "Forio",
+        "lat": 40.7333,
+        "lon": 13.8667
+      }
+    },
+    {
+      "stage": 3,
+      "date": "2013-05-06",
+      "distance_km": 222,
+      "accumulated_km": 369.4,
+      "elevation_gain_m": null,
+      "start": {
+        "town": "Sorrento",
+        "lat": 40.6263,
+        "lon": 14.3753
+      },
+      "finish": {
+        "town": "Marina di Ascea",
+        "lat": 40.1333,
+        "lon": 15.1833
+      }
+    },
+    {
+      "stage": 4,
+      "date": "2013-05-07",
+      "distance_km": 246,
+      "accumulated_km": 615.4,
+      "elevation_gain_m": null,
+      "start": {
+        "town": "Policastro Bussentino",
+        "lat": 40.1167,
+        "lon": 15.5333
+      },
+      "finish": {
+        "town": "Serra San Bruno",
+        "lat": 38.58333333,
+        "lon": 16.33333333
+      }
+    },
+    {
+      "stage": 5,
+      "date": "2013-05-08",
+      "distance_km": 203,
+      "accumulated_km": 818.4,
+      "elevation_gain_m": null,
+      "start": {
+        "town": "Cosenza",
+        "lat": 39.3,
+        "lon": 16.25
+      },
+      "finish": {
+        "town": "Matera",
+        "lat": 40.6667,
+        "lon": 16.6
+      }
+    },
+    {
+      "stage": 6,
+      "date": "2013-05-09",
+      "distance_km": 169,
+      "accumulated_km": 987.4,
+      "elevation_gain_m": null,
+      "start": {
+        "town": "Mola di Bari",
+        "lat": 41.06666667,
+        "lon": 17.08333333
+      },
+      "finish": {
+        "town": "Margherita di Savoia",
+        "lat": 41.36666667,
+        "lon": 16.15
+      }
+    },
+    {
+      "stage": 7,
+      "date": "2013-05-10",
+      "distance_km": 177,
+      "accumulated_km": 1164.4,
+      "elevation_gain_m": null,
+      "start": {
+        "town": "San Salvo",
+        "lat": 42.05,
+        "lon": 14.733
+      },
+      "finish": {
+        "town": "Pescara",
+        "lat": 42.4618,
+        "lon": 14.2161
+      }
+    },
+    {
+      "stage": 8,
+      "date": "2013-05-11",
+      "distance_km": 54.8,
+      "accumulated_km": 1219.2,
+      "elevation_gain_m": null,
+      "start": {
+        "town": "Gabicce Mare",
+        "lat": 43.9667,
+        "lon": 12.7667
+      },
+      "finish": {
+        "town": "Saltara",
+        "lat": 43.75,
+        "lon": 12.9167
+      }
+    },
+    {
+      "stage": 9,
+      "date": "2013-05-12",
+      "distance_km": 170,
+      "accumulated_km": 1389.2,
+      "elevation_gain_m": null,
+      "start": {
+        "town": "Sansepolcro",
+        "lat": 43.57083333,
+        "lon": 12.14027778
+      },
+      "finish": {
+        "town": "Florence",
+        "lat": 43.7696,
+        "lon": 11.2558
+      }
+    },
+    {
+      "stage": 10,
+      "date": "2013-05-14",
+      "distance_km": 167,
+      "accumulated_km": 1556.2,
+      "elevation_gain_m": null,
+      "start": {
+        "town": "Cordenons",
+        "lat": 45.98333333,
+        "lon": 12.7
+      },
+      "finish": {
+        "town": "Altopiano del Montasio",
+        "lat": 46.4,
+        "lon": 13.5167
+      }
+    },
+    {
+      "stage": 11,
+      "date": "2013-05-15",
+      "distance_km": 182,
+      "accumulated_km": 1738.2,
+      "elevation_gain_m": null,
+      "start": {
+        "town": "Cave del Predil",
+        "lat": 46.4167,
+        "lon": 13.5667
+      },
+      "finish": {
+        "town": "Erto e Casso",
+        "lat": 46.27703056,
+        "lon": 12.37198056
+      }
+    },
+    {
+      "stage": 12,
+      "date": "2013-05-16",
+      "distance_km": 134,
+      "accumulated_km": 1872.2,
+      "elevation_gain_m": null,
+      "start": {
+        "town": "Longarone",
+        "lat": 46.27,
+        "lon": 12.3
+      },
+      "finish": {
+        "town": "Treviso",
+        "lat": 45.6667,
+        "lon": 12.2442
+      }
+    },
+    {
+      "stage": 13,
+      "date": "2013-05-17",
+      "distance_km": 254,
+      "accumulated_km": 2126.2,
+      "elevation_gain_m": null,
+      "start": {
+        "town": "Busseto",
+        "lat": 44.98083333,
+        "lon": 10.0425
+      },
+      "finish": {
+        "town": "Cherasco",
+        "lat": 44.65,
+        "lon": 7.86666667
+      }
+    },
+    {
+      "stage": 14,
+      "date": "2013-05-18",
+      "distance_km": 180,
+      "accumulated_km": 2306.2,
+      "elevation_gain_m": null,
+      "start": {
+        "town": "Cervere",
+        "lat": 44.63333333,
+        "lon": 7.78333333
+      },
+      "finish": {
+        "town": "Bardonecchia",
+        "lat": 45.0769,
+        "lon": 6.7025
+      }
+    },
+    {
+      "stage": 15,
+      "date": "2013-05-19",
+      "distance_km": 149,
+      "accumulated_km": 2455.2,
+      "elevation_gain_m": null,
+      "start": {
+        "town": "Cesana Torinese",
+        "lat": 44.95,
+        "lon": 6.8
+      },
+      "finish": {
+        "town": "Valloire",
+        "lat": 45.165,
+        "lon": 6.427
+      }
+    },
+    {
+      "stage": 16,
+      "date": "2013-05-21",
+      "distance_km": 238,
+      "accumulated_km": 2693.2,
+      "elevation_gain_m": null,
+      "start": {
+        "town": "Valloire",
+        "lat": 45.165,
+        "lon": 6.427
+      },
+      "finish": {
+        "town": "Ivrea",
+        "lat": 45.46666667,
+        "lon": 7.88333333
+      }
+    },
+    {
+      "stage": 17,
+      "date": "2013-05-22",
+      "distance_km": 214,
+      "accumulated_km": 2907.2,
+      "elevation_gain_m": null,
+      "start": {
+        "town": "Caravaggio",
+        "lat": 45.4981,
+        "lon": 9.6406
+      },
+      "finish": {
+        "town": "Vicenza",
+        "lat": 45.55,
+        "lon": 11.55
+      }
+    },
+    {
+      "stage": 18,
+      "date": "2013-05-23",
+      "distance_km": 20.6,
+      "accumulated_km": 2927.8,
+      "elevation_gain_m": null,
+      "start": {
+        "town": "Mori",
+        "lat": 45.8564,
+        "lon": 10.9778
+      },
+      "finish": {
+        "town": "Pölsa",
+        "lat": 45.81666667,
+        "lon": 10.95
+      }
+    },
+    {
+      "stage": 19,
+      "date": "2013-05-24",
+      "distance_km": 139,
+      "accumulated_km": 3066.8,
+      "elevation_gain_m": null,
+      "start": {
+        "town": "Ponte di Legno",
+        "lat": 46.258,
+        "lon": 10.511
+      },
+      "finish": {
+        "town": "Martell",
+        "lat": 46.55,
+        "lon": 10.78333333
+      }
+    },
+    {
+      "stage": 20,
+      "date": "2013-05-25",
+      "distance_km": 203,
+      "accumulated_km": 3269.8,
+      "elevation_gain_m": null,
+      "start": {
+        "town": "Schlanders",
+        "lat": 46.63333333,
+        "lon": 10.76666667
+      },
+      "finish": {
+        "town": "Tre Cime di Lavaredo",
+        "lat": 46.618,
+        "lon": 12.3
+      }
+    },
+    {
+      "stage": 21,
+      "date": "2013-05-26",
+      "distance_km": 197,
+      "accumulated_km": 3466.8,
+      "elevation_gain_m": null,
+      "start": {
+        "town": "Riese Pio X",
+        "lat": 45.72777778,
+        "lon": 11.91666667
+      },
+      "finish": {
+        "town": "Brescia",
+        "lat": 45.54166667,
+        "lon": 10.21666667
+      }
+    }
+  ]
+}

@@ -1,0 +1,1371 @@
+{
+  "race": "Giro d%27Italia",
+  "year": 2010,
+  "stages": [
+    {
+      "stage": 1,
+      "riders": [
+        {
+          "rank": 1,
+          "name": "Bradley Wiggins (GBR)",
+          "team": "Team Sky",
+          "time": "10' 18\""
+        },
+        {
+          "rank": 2,
+          "name": "Brent Bookwalter (USA)",
+          "team": "BMC Racing Team",
+          "time": "+ 2\""
+        },
+        {
+          "rank": 3,
+          "name": "Cadel Evans (AUS)",
+          "team": "BMC Racing Team",
+          "time": "+ 2\""
+        },
+        {
+          "rank": 4,
+          "name": "Alexander Vinokourov (KAZ)",
+          "team": "Astana",
+          "time": "+ 5\""
+        },
+        {
+          "rank": 5,
+          "name": "Greg Henderson (NZL)",
+          "team": "Team Sky",
+          "time": "+ 5\""
+        },
+        {
+          "rank": 6,
+          "name": "Richie Porte (AUS)",
+          "team": "Team Saxo Bank",
+          "time": "+ 5\""
+        },
+        {
+          "rank": 7,
+          "name": "David Millar (GBR)",
+          "team": "Garmin–Transitions",
+          "time": "+ 6\""
+        },
+        {
+          "rank": 8,
+          "name": "Gustav Larsson (SWE)",
+          "team": "Team Saxo Bank",
+          "time": "+ 7\""
+        },
+        {
+          "rank": 9,
+          "name": "Jos van Emden (NED)",
+          "team": "Rabobank",
+          "time": "+ 9\""
+        },
+        {
+          "rank": 10,
+          "name": "Marco Pinotti (ITA)",
+          "team": "Team HTC–Columbia",
+          "time": "+ 9\""
+        }
+      ]
+    },
+    {
+      "stage": 2,
+      "riders": [
+        {
+          "rank": 1,
+          "name": "Cadel Evans (AUS)",
+          "team": "BMC Racing Team",
+          "time": "5h 07' 09\""
+        },
+        {
+          "rank": 2,
+          "name": "Tyler Farrar (USA)",
+          "team": "Garmin–Transitions",
+          "time": "+ 1\""
+        },
+        {
+          "rank": 3,
+          "name": "Alexander Vinokourov (KAZ)",
+          "team": "Astana",
+          "time": "+ 3\""
+        },
+        {
+          "rank": 4,
+          "name": "Richie Porte (AUS)",
+          "team": "Team Saxo Bank",
+          "time": "+ 3\""
+        },
+        {
+          "rank": 5,
+          "name": "David Millar (GBR)",
+          "team": "Garmin–Transitions",
+          "time": "+ 4\""
+        },
+        {
+          "rank": 6,
+          "name": "Jos van Emden (NED)",
+          "team": "Rabobank",
+          "time": "+ 7\""
+        },
+        {
+          "rank": 7,
+          "name": "Vincenzo Nibali (ITA)",
+          "team": "Liquigas–Doimo",
+          "time": "+ 8\""
+        },
+        {
+          "rank": 8,
+          "name": "Tom Stamsnijder (NED)",
+          "team": "Rabobank",
+          "time": "+ 9\""
+        },
+        {
+          "rank": 9,
+          "name": "Marcel Sieberg (GER)",
+          "team": "Team HTC–Columbia",
+          "time": "+ 10\""
+        },
+        {
+          "rank": 10,
+          "name": "Matthew Goss (AUS)",
+          "team": "Team HTC–Columbia",
+          "time": "+ 13\""
+        }
+      ]
+    },
+    {
+      "stage": 3,
+      "riders": [
+        {
+          "rank": 1,
+          "name": "Alexander Vinokourov (KAZ)",
+          "team": "Astana",
+          "time": "10h 07' 18\""
+        },
+        {
+          "rank": 2,
+          "name": "Richie Porte (AUS)",
+          "team": "Team Saxo Bank",
+          "time": "+ 0\""
+        },
+        {
+          "rank": 3,
+          "name": "David Millar (GBR)",
+          "team": "Garmin–Transitions",
+          "time": "+ 1\""
+        },
+        {
+          "rank": 4,
+          "name": "Vincenzo Nibali (ITA)",
+          "team": "Liquigas–Doimo",
+          "time": "+ 5\""
+        },
+        {
+          "rank": 5,
+          "name": "Marcel Sieberg (GER)",
+          "team": "Team HTC–Columbia",
+          "time": "+ 7\""
+        },
+        {
+          "rank": 6,
+          "name": "Matthew Goss (AUS)",
+          "team": "Team HTC–Columbia",
+          "time": "+ 10\""
+        },
+        {
+          "rank": 7,
+          "name": "André Greipel (GER)",
+          "team": "Team HTC–Columbia",
+          "time": "+ 10\""
+        },
+        {
+          "rank": 8,
+          "name": "Linus Gerdemann (GER)",
+          "team": "Team Milram",
+          "time": "+ 12\""
+        },
+        {
+          "rank": 9,
+          "name": "Stefano Garzelli (ITA)",
+          "team": "Acqua & Sapone",
+          "time": "+ 15\""
+        },
+        {
+          "rank": 10,
+          "name": "Pieter Weening (NED)",
+          "team": "Rabobank",
+          "time": "+ 16\""
+        }
+      ]
+    },
+    {
+      "stage": 4,
+      "riders": [
+        {
+          "rank": 1,
+          "name": "Vincenzo Nibali (ITA)",
+          "team": "Liquigas–Doimo",
+          "time": "10h 44' 00\""
+        },
+        {
+          "rank": 2,
+          "name": "Ivan Basso (ITA)",
+          "team": "Liquigas–Doimo",
+          "time": "+ 13\""
+        },
+        {
+          "rank": 3,
+          "name": "Valerio Agnoli (ITA)",
+          "team": "Liquigas–Doimo",
+          "time": "+ 20\""
+        },
+        {
+          "rank": 4,
+          "name": "Matthew Goss (AUS)",
+          "team": "Team HTC–Columbia",
+          "time": "+ 26\""
+        },
+        {
+          "rank": 5,
+          "name": "André Greipel (GER)",
+          "team": "Team HTC–Columbia",
+          "time": "+ 26\""
+        },
+        {
+          "rank": 6,
+          "name": "Alexander Vinokourov (KAZ)",
+          "team": "Astana",
+          "time": "+ 33\""
+        },
+        {
+          "rank": 7,
+          "name": "Vladimir Karpets (RUS)",
+          "team": "Team Katusha",
+          "time": "+ 39\""
+        },
+        {
+          "rank": 8,
+          "name": "Richie Porte (AUS)",
+          "team": "Team Saxo Bank",
+          "time": "+ 45\""
+        },
+        {
+          "rank": 9,
+          "name": "David Millar (GBR)",
+          "team": "Garmin–Transitions",
+          "time": "+ 45\""
+        },
+        {
+          "rank": 10,
+          "name": "Paolo Tiralongo (ITA)",
+          "team": "Astana",
+          "time": "+ 59\""
+        }
+      ]
+    },
+    {
+      "stage": 5,
+      "riders": [
+        {
+          "rank": 1,
+          "name": "Vincenzo Nibali (ITA)",
+          "team": "Liquigas–Doimo",
+          "time": "14h 30' 03\""
+        },
+        {
+          "rank": 2,
+          "name": "Ivan Basso (ITA)",
+          "team": "Liquigas–Doimo",
+          "time": "+ 13\""
+        },
+        {
+          "rank": 3,
+          "name": "Valerio Agnoli (ITA)",
+          "team": "Liquigas–Doimo",
+          "time": "+ 20\""
+        },
+        {
+          "rank": 4,
+          "name": "Matthew Goss (AUS)",
+          "team": "Team HTC–Columbia",
+          "time": "+ 26\""
+        },
+        {
+          "rank": 5,
+          "name": "André Greipel (GER)",
+          "team": "Team HTC–Columbia",
+          "time": "+ 26\""
+        },
+        {
+          "rank": 6,
+          "name": "Alexander Vinokourov (KAZ)",
+          "team": "Astana",
+          "time": "+ 33\""
+        },
+        {
+          "rank": 7,
+          "name": "Vladimir Karpets (RUS)",
+          "team": "Team Katusha",
+          "time": "+ 39\""
+        },
+        {
+          "rank": 8,
+          "name": "Richie Porte (AUS)",
+          "team": "Team Saxo Bank",
+          "time": "+ 45\""
+        },
+        {
+          "rank": 9,
+          "name": "David Millar (GBR)",
+          "team": "Garmin–Transitions",
+          "time": "+ 45\""
+        },
+        {
+          "rank": 10,
+          "name": "Paolo Tiralongo (ITA)",
+          "team": "Astana",
+          "time": "+ 59\""
+        }
+      ]
+    },
+    {
+      "stage": 6,
+      "riders": [
+        {
+          "rank": 1,
+          "name": "Vincenzo Nibali (ITA)",
+          "team": "Liquigas–Doimo",
+          "time": "18h 55' 38\""
+        },
+        {
+          "rank": 2,
+          "name": "Ivan Basso (ITA)",
+          "team": "Liquigas–Doimo",
+          "time": "+ 13\""
+        },
+        {
+          "rank": 3,
+          "name": "Valerio Agnoli (ITA)",
+          "team": "Liquigas–Doimo",
+          "time": "+ 20\""
+        },
+        {
+          "rank": 4,
+          "name": "Alexander Vinokourov (KAZ)",
+          "team": "Astana",
+          "time": "+ 33\""
+        },
+        {
+          "rank": 5,
+          "name": "Vladimir Karpets (RUS)",
+          "team": "Team Katusha",
+          "time": "+ 39\""
+        },
+        {
+          "rank": 6,
+          "name": "Richie Porte (AUS)",
+          "team": "Team Saxo Bank",
+          "time": "+ 45\""
+        },
+        {
+          "rank": 7,
+          "name": "David Millar (GBR)",
+          "team": "Garmin–Transitions",
+          "time": "+ 45\""
+        },
+        {
+          "rank": 8,
+          "name": "Baden Cooke (AUS)",
+          "team": "Team Saxo Bank",
+          "time": "+ 1' 03\""
+        },
+        {
+          "rank": 9,
+          "name": "Linus Gerdemann (GER)",
+          "team": "Team Milram",
+          "time": "+ 1' 04\""
+        },
+        {
+          "rank": 10,
+          "name": "Laurent Didier (LUX)",
+          "team": "Team Saxo Bank",
+          "time": "+ 1' 13\""
+        }
+      ]
+    },
+    {
+      "stage": 7,
+      "riders": [
+        {
+          "rank": 1,
+          "name": "Alexander Vinokourov (KAZ)",
+          "team": "Astana",
+          "time": "24h 09' 42\""
+        },
+        {
+          "rank": 2,
+          "name": "Cadel Evans (AUS)",
+          "team": "BMC Racing Team",
+          "time": "+ 1' 12\""
+        },
+        {
+          "rank": 3,
+          "name": "David Millar (GBR)",
+          "team": "Garmin–Transitions",
+          "time": "+ 1' 29\""
+        },
+        {
+          "rank": 4,
+          "name": "Vladimir Karpets (RUS)",
+          "team": "Team Katusha",
+          "time": "+ 1' 30\""
+        },
+        {
+          "rank": 5,
+          "name": "Vincenzo Nibali (ITA)",
+          "team": "Liquigas–Doimo",
+          "time": "+ 1' 33\""
+        },
+        {
+          "rank": 6,
+          "name": "Marco Pinotti (ITA)",
+          "team": "Team HTC–Columbia",
+          "time": "+ 1' 40\""
+        },
+        {
+          "rank": 7,
+          "name": "Linus Gerdemann (GER)",
+          "team": "Team Milram",
+          "time": "+ 1' 48\""
+        },
+        {
+          "rank": 8,
+          "name": "Ivan Basso (ITA)",
+          "team": "Liquigas–Doimo",
+          "time": "+ 1' 51\""
+        },
+        {
+          "rank": 9,
+          "name": "Thomas Rohregger (AUT)",
+          "team": "Team Milram",
+          "time": "+ 1' 54\""
+        },
+        {
+          "rank": 10,
+          "name": "Richie Porte (AUS)",
+          "team": "Team Saxo Bank",
+          "time": "+ 2' 00\""
+        }
+      ]
+    },
+    {
+      "stage": 8,
+      "riders": [
+        {
+          "rank": 1,
+          "name": "Alexander Vinokourov (KAZ)",
+          "team": "Astana",
+          "time": "29h 01' 26\""
+        },
+        {
+          "rank": 2,
+          "name": "Cadel Evans (AUS)",
+          "team": "BMC Racing Team",
+          "time": "+ 1' 12\""
+        },
+        {
+          "rank": 3,
+          "name": "Vincenzo Nibali (ITA)",
+          "team": "Liquigas–Doimo",
+          "time": "+ 1' 33\""
+        },
+        {
+          "rank": 4,
+          "name": "Ivan Basso (ITA)",
+          "team": "Liquigas–Doimo",
+          "time": "+ 1' 51\""
+        },
+        {
+          "rank": 5,
+          "name": "Marco Pinotti (ITA)",
+          "team": "Team HTC–Columbia",
+          "time": "+ 2' 17\""
+        },
+        {
+          "rank": 6,
+          "name": "Richie Porte (AUS)",
+          "team": "Team Saxo Bank",
+          "time": "+ 2' 26\""
+        },
+        {
+          "rank": 7,
+          "name": "Vladimir Karpets (RUS)",
+          "team": "Team Katusha",
+          "time": "+ 2' 34\""
+        },
+        {
+          "rank": 8,
+          "name": "Stefano Garzelli (ITA)",
+          "team": "Acqua & Sapone",
+          "time": "+ 2' 47\""
+        },
+        {
+          "rank": 9,
+          "name": "Damiano Cunego (ITA)",
+          "team": "Lampre–Farnese Vini",
+          "time": "+ 3' 08\""
+        },
+        {
+          "rank": 10,
+          "name": "Michele Scarponi (ITA)",
+          "team": "Androni Giocattoli",
+          "time": "+ 3' 09\""
+        }
+      ]
+    },
+    {
+      "stage": 9,
+      "riders": [
+        {
+          "rank": 1,
+          "name": "Alexander Vinokourov (KAZ)",
+          "team": "Astana",
+          "time": "33h 09' 43\""
+        },
+        {
+          "rank": 2,
+          "name": "Cadel Evans (AUS)",
+          "team": "BMC Racing Team",
+          "time": "+ 1' 12\""
+        },
+        {
+          "rank": 3,
+          "name": "Vincenzo Nibali (ITA)",
+          "team": "Liquigas–Doimo",
+          "time": "+ 1' 33\""
+        },
+        {
+          "rank": 4,
+          "name": "Ivan Basso (ITA)",
+          "team": "Liquigas–Doimo",
+          "time": "+ 1' 51\""
+        },
+        {
+          "rank": 5,
+          "name": "Marco Pinotti (ITA)",
+          "team": "Team HTC–Columbia",
+          "time": "+ 2' 17\""
+        },
+        {
+          "rank": 6,
+          "name": "Richie Porte (AUS)",
+          "team": "Team Saxo Bank",
+          "time": "+ 2' 26\""
+        },
+        {
+          "rank": 7,
+          "name": "Vladimir Karpets (RUS)",
+          "team": "Team Katusha",
+          "time": "+ 2' 34\""
+        },
+        {
+          "rank": 8,
+          "name": "Stefano Garzelli (ITA)",
+          "team": "Acqua & Sapone",
+          "time": "+ 2' 47\""
+        },
+        {
+          "rank": 9,
+          "name": "Damiano Cunego (ITA)",
+          "team": "Lampre–Farnese Vini",
+          "time": "+ 3' 08\""
+        },
+        {
+          "rank": 10,
+          "name": "Michele Scarponi (ITA)",
+          "team": "Androni Giocattoli",
+          "time": "+ 3' 09\""
+        }
+      ]
+    },
+    {
+      "stage": 10,
+      "riders": [
+        {
+          "rank": 1,
+          "name": "Alexander Vinokourov (KAZ)",
+          "team": "Astana",
+          "time": "38h 59' 00\""
+        },
+        {
+          "rank": 2,
+          "name": "Cadel Evans (AUS)",
+          "team": "BMC Racing Team",
+          "time": "+ 1' 12\""
+        },
+        {
+          "rank": 3,
+          "name": "Vincenzo Nibali (ITA)",
+          "team": "Liquigas–Doimo",
+          "time": "+ 1' 33\""
+        },
+        {
+          "rank": 4,
+          "name": "Ivan Basso (ITA)",
+          "team": "Liquigas–Doimo",
+          "time": "+ 1' 51\""
+        },
+        {
+          "rank": 5,
+          "name": "Marco Pinotti (ITA)",
+          "team": "Team HTC–Columbia",
+          "time": "+ 2' 17\""
+        },
+        {
+          "rank": 6,
+          "name": "Richie Porte (AUS)",
+          "team": "Team Saxo Bank",
+          "time": "+ 2' 26\""
+        },
+        {
+          "rank": 7,
+          "name": "Vladimir Karpets (RUS)",
+          "team": "Team Katusha",
+          "time": "+ 2' 34\""
+        },
+        {
+          "rank": 8,
+          "name": "Stefano Garzelli (ITA)",
+          "team": "Acqua & Sapone",
+          "time": "+ 2' 47\""
+        },
+        {
+          "rank": 9,
+          "name": "Damiano Cunego (ITA)",
+          "team": "Lampre–Farnese Vini",
+          "time": "+ 3' 08\""
+        },
+        {
+          "rank": 10,
+          "name": "Michele Scarponi (ITA)",
+          "team": "Androni Giocattoli",
+          "time": "+ 3' 09\""
+        }
+      ]
+    },
+    {
+      "stage": 11,
+      "riders": [
+        {
+          "rank": 1,
+          "name": "Richie Porte (AUS)",
+          "team": "Team Saxo Bank",
+          "time": "45h 30' 16\""
+        },
+        {
+          "rank": 2,
+          "name": "David Arroyo (ESP)",
+          "team": "Caisse d'Epargne",
+          "time": "+ 1' 42\""
+        },
+        {
+          "rank": 3,
+          "name": "Robert Kišerlovski (CRO)",
+          "team": "Liquigas–Doimo",
+          "time": "+ 1' 56\""
+        },
+        {
+          "rank": 4,
+          "name": "Xavier Tondó (ESP)",
+          "team": "Cervélo TestTeam",
+          "time": "+ 3' 54\""
+        },
+        {
+          "rank": 5,
+          "name": "Valerio Agnoli (ITA)",
+          "team": "Liquigas–Doimo",
+          "time": "+ 4' 41\""
+        },
+        {
+          "rank": 6,
+          "name": "Alexander Efimkin (RUS)",
+          "team": "Ag2r–La Mondiale",
+          "time": "+ 5' 16\""
+        },
+        {
+          "rank": 7,
+          "name": "Linus Gerdemann (GER)",
+          "team": "Team Milram",
+          "time": "+ 5' 34\""
+        },
+        {
+          "rank": 8,
+          "name": "Carlos Sastre (ESP)",
+          "team": "Cervélo TestTeam",
+          "time": "+ 7' 09\""
+        },
+        {
+          "rank": 9,
+          "name": "Laurent Didier (LUX)",
+          "team": "Team Saxo Bank",
+          "time": "+ 7' 24\""
+        },
+        {
+          "rank": 10,
+          "name": "Bradley Wiggins (GBR)",
+          "team": "Team Sky",
+          "time": "+ 8' 14\""
+        }
+      ]
+    },
+    {
+      "stage": 12,
+      "riders": [
+        {
+          "rank": 1,
+          "name": "Richie Porte (AUS)",
+          "team": "Team Saxo Bank",
+          "time": "50h 46' 16\""
+        },
+        {
+          "rank": 2,
+          "name": "David Arroyo (ESP)",
+          "team": "Caisse d'Epargne",
+          "time": "+ 1' 42\""
+        },
+        {
+          "rank": 3,
+          "name": "Robert Kišerlovski (CRO)",
+          "team": "Liquigas–Doimo",
+          "time": "+ 1' 56\""
+        },
+        {
+          "rank": 4,
+          "name": "Xavier Tondó (ESP)",
+          "team": "Cervélo TestTeam",
+          "time": "+ 3' 54\""
+        },
+        {
+          "rank": 5,
+          "name": "Valerio Agnoli (ITA)",
+          "team": "Liquigas–Doimo",
+          "time": "+ 4' 41\""
+        },
+        {
+          "rank": 6,
+          "name": "Alexander Efimkin (RUS)",
+          "team": "Ag2r–La Mondiale",
+          "time": "+ 5' 16\""
+        },
+        {
+          "rank": 7,
+          "name": "Linus Gerdemann (GER)",
+          "team": "Team Milram",
+          "time": "+ 5' 34\""
+        },
+        {
+          "rank": 8,
+          "name": "Carlos Sastre (ESP)",
+          "team": "Cervélo TestTeam",
+          "time": "+ 7' 09\""
+        },
+        {
+          "rank": 9,
+          "name": "Laurent Didier (LUX)",
+          "team": "Team Saxo Bank",
+          "time": "+ 7' 24\""
+        },
+        {
+          "rank": 10,
+          "name": "Bradley Wiggins (GBR)",
+          "team": "Team Sky",
+          "time": "+ 8' 14\""
+        }
+      ]
+    },
+    {
+      "stage": 13,
+      "riders": [
+        {
+          "rank": 1,
+          "name": "Richie Porte (AUS)",
+          "team": "Team Saxo Bank",
+          "time": "56h 20' 56\""
+        },
+        {
+          "rank": 2,
+          "name": "David Arroyo (ESP)",
+          "team": "Caisse d'Epargne",
+          "time": "+ 1' 42\""
+        },
+        {
+          "rank": 3,
+          "name": "Robert Kišerlovski (CRO)",
+          "team": "Liquigas–Doimo",
+          "time": "+ 1' 56\""
+        },
+        {
+          "rank": 4,
+          "name": "Xavier Tondó (ESP)",
+          "team": "Cervélo TestTeam",
+          "time": "+ 3' 54\""
+        },
+        {
+          "rank": 5,
+          "name": "Valerio Agnoli (ITA)",
+          "team": "Liquigas–Doimo",
+          "time": "+ 4' 41\""
+        },
+        {
+          "rank": 6,
+          "name": "Alexander Efimkin (RUS)",
+          "team": "Ag2r–La Mondiale",
+          "time": "+ 5' 16\""
+        },
+        {
+          "rank": 7,
+          "name": "Linus Gerdemann (GER)",
+          "team": "Team Milram",
+          "time": "+ 5' 34\""
+        },
+        {
+          "rank": 8,
+          "name": "Carlos Sastre (ESP)",
+          "team": "Cervélo TestTeam",
+          "time": "+ 7' 09\""
+        },
+        {
+          "rank": 9,
+          "name": "Laurent Didier (LUX)",
+          "team": "Team Saxo Bank",
+          "time": "+ 7' 24\""
+        },
+        {
+          "rank": 10,
+          "name": "Bradley Wiggins (GBR)",
+          "team": "Team Sky",
+          "time": "+ 8' 14\""
+        }
+      ]
+    },
+    {
+      "stage": 14,
+      "riders": [
+        {
+          "rank": 1,
+          "name": "David Arroyo (ESP)",
+          "team": "Caisse d'Epargne",
+          "time": "61h 22' 54\""
+        },
+        {
+          "rank": 2,
+          "name": "Richie Porte (AUS)",
+          "team": "Team Saxo Bank",
+          "time": "+ 39\""
+        },
+        {
+          "rank": 3,
+          "name": "Xavier Tondó (ESP)",
+          "team": "Cervélo TestTeam",
+          "time": "+ 2' 12\""
+        },
+        {
+          "rank": 4,
+          "name": "Robert Kišerlovski (CRO)",
+          "team": "Liquigas–Doimo",
+          "time": "+ 2' 35\""
+        },
+        {
+          "rank": 5,
+          "name": "Linus Gerdemann (GER)",
+          "team": "Team Milram",
+          "time": "+ 3' 52\""
+        },
+        {
+          "rank": 6,
+          "name": "Carlos Sastre (ESP)",
+          "team": "Cervélo TestTeam",
+          "time": "+ 5' 27\""
+        },
+        {
+          "rank": 7,
+          "name": "Bradley Wiggins (GBR)",
+          "team": "Team Sky",
+          "time": "+ 6' 32\""
+        },
+        {
+          "rank": 8,
+          "name": "Vincenzo Nibali (ITA)",
+          "team": "Liquigas–Doimo",
+          "time": "+ 6' 51\""
+        },
+        {
+          "rank": 9,
+          "name": "Alexander Vinokourov (KAZ)",
+          "team": "Astana",
+          "time": "+ 7' 15\""
+        },
+        {
+          "rank": 10,
+          "name": "Cadel Evans (AUS)",
+          "team": "BMC Racing Team",
+          "time": "+ 7' 26\""
+        }
+      ]
+    },
+    {
+      "stage": 15,
+      "riders": [
+        {
+          "rank": 1,
+          "name": "David Arroyo (ESP)",
+          "team": "Caisse d'Epargne",
+          "time": "67h 48' 42\""
+        },
+        {
+          "rank": 2,
+          "name": "Richie Porte (AUS)",
+          "team": "Team Saxo Bank",
+          "time": "+ 2' 35\""
+        },
+        {
+          "rank": 3,
+          "name": "Ivan Basso (ITA)",
+          "team": "Liquigas–Doimo",
+          "time": "+ 3' 33\""
+        },
+        {
+          "rank": 4,
+          "name": "Carlos Sastre (ESP)",
+          "team": "Cervélo TestTeam",
+          "time": "+ 4' 21\""
+        },
+        {
+          "rank": 5,
+          "name": "Cadel Evans (AUS)",
+          "team": "BMC Racing Team",
+          "time": "+ 4' 43\""
+        },
+        {
+          "rank": 6,
+          "name": "Alexander Vinokourov (KAZ)",
+          "team": "Astana",
+          "time": "+ 5' 51\""
+        },
+        {
+          "rank": 7,
+          "name": "Vincenzo Nibali (ITA)",
+          "team": "Liquigas–Doimo",
+          "time": "+ 6' 08\""
+        },
+        {
+          "rank": 8,
+          "name": "Michele Scarponi (ITA)",
+          "team": "Androni Giocattoli",
+          "time": "+ 6' 34\""
+        },
+        {
+          "rank": 9,
+          "name": "Linus Gerdemann (GER)",
+          "team": "Team Milram",
+          "time": "+ 7' 12\""
+        },
+        {
+          "rank": 10,
+          "name": "Robert Kišerlovski (CRO)",
+          "team": "Liquigas–Doimo",
+          "time": "+ 8' 13\""
+        }
+      ]
+    },
+    {
+      "stage": 16,
+      "riders": [
+        {
+          "rank": 1,
+          "name": "David Arroyo (ESP)",
+          "team": "Caisse d'Epargne",
+          "time": "68h 32' 26\""
+        },
+        {
+          "rank": 2,
+          "name": "Ivan Basso (ITA)",
+          "team": "Liquigas–Doimo",
+          "time": "+ 2' 27\""
+        },
+        {
+          "rank": 3,
+          "name": "Richie Porte (AUS)",
+          "team": "Team Saxo Bank",
+          "time": "+ 2' 36\""
+        },
+        {
+          "rank": 4,
+          "name": "Cadel Evans (AUS)",
+          "team": "BMC Racing Team",
+          "time": "+ 3' 09\""
+        },
+        {
+          "rank": 5,
+          "name": "Carlos Sastre (ESP)",
+          "team": "Cervélo TestTeam",
+          "time": "+ 4' 36\""
+        },
+        {
+          "rank": 6,
+          "name": "Vincenzo Nibali (ITA)",
+          "team": "Liquigas–Doimo",
+          "time": "+ 4' 53\""
+        },
+        {
+          "rank": 7,
+          "name": "Alexander Vinokourov (KAZ)",
+          "team": "Astana",
+          "time": "+ 5' 12\""
+        },
+        {
+          "rank": 8,
+          "name": "Michele Scarponi (ITA)",
+          "team": "Androni Giocattoli",
+          "time": "+ 5' 25\""
+        },
+        {
+          "rank": 9,
+          "name": "Robert Kišerlovski (CRO)",
+          "team": "Liquigas–Doimo",
+          "time": "+ 8' 57\""
+        },
+        {
+          "rank": 10,
+          "name": "Damiano Cunego (ITA)",
+          "team": "Lampre–Farnese Vini",
+          "time": "+ 9' 13\""
+        }
+      ]
+    },
+    {
+      "stage": 17,
+      "riders": [
+        {
+          "rank": 1,
+          "name": "David Arroyo (ESP)",
+          "team": "Caisse d'Epargne",
+          "time": "73h 11' 38\""
+        },
+        {
+          "rank": 2,
+          "name": "Ivan Basso (ITA)",
+          "team": "Liquigas–Doimo",
+          "time": "+ 2' 27\""
+        },
+        {
+          "rank": 3,
+          "name": "Richie Porte (AUS)",
+          "team": "Team Saxo Bank",
+          "time": "+ 2' 44\""
+        },
+        {
+          "rank": 4,
+          "name": "Cadel Evans (AUS)",
+          "team": "BMC Racing Team",
+          "time": "+ 3' 09\""
+        },
+        {
+          "rank": 5,
+          "name": "Carlos Sastre (ESP)",
+          "team": "Cervélo TestTeam",
+          "time": "+ 4' 41\""
+        },
+        {
+          "rank": 6,
+          "name": "Vincenzo Nibali (ITA)",
+          "team": "Liquigas–Doimo",
+          "time": "+ 4' 53\""
+        },
+        {
+          "rank": 7,
+          "name": "Alexander Vinokourov (KAZ)",
+          "team": "Astana",
+          "time": "+ 5' 12\""
+        },
+        {
+          "rank": 8,
+          "name": "Michele Scarponi (ITA)",
+          "team": "Androni Giocattoli",
+          "time": "+ 5' 24\""
+        },
+        {
+          "rank": 9,
+          "name": "Damiano Cunego (ITA)",
+          "team": "Lampre–Farnese Vini",
+          "time": "+ 9' 21\""
+        },
+        {
+          "rank": 10,
+          "name": "Robert Kišerlovski (CRO)",
+          "team": "Liquigas–Doimo",
+          "time": "+ 9' 32\""
+        }
+      ]
+    },
+    {
+      "stage": 18,
+      "riders": [
+        {
+          "rank": 1,
+          "name": "David Arroyo (ESP)",
+          "team": "Caisse d'Epargne",
+          "time": "76h 26' 37\""
+        },
+        {
+          "rank": 2,
+          "name": "Ivan Basso (ITA)",
+          "team": "Liquigas–Doimo",
+          "time": "+ 2' 27\""
+        },
+        {
+          "rank": 3,
+          "name": "Richie Porte (AUS)",
+          "team": "Team Saxo Bank",
+          "time": "+ 2' 44\""
+        },
+        {
+          "rank": 4,
+          "name": "Cadel Evans (AUS)",
+          "team": "BMC Racing Team",
+          "time": "+ 3' 09\""
+        },
+        {
+          "rank": 5,
+          "name": "Carlos Sastre (ESP)",
+          "team": "Cervélo TestTeam",
+          "time": "+ 4' 41\""
+        },
+        {
+          "rank": 6,
+          "name": "Vincenzo Nibali (ITA)",
+          "team": "Liquigas–Doimo",
+          "time": "+ 4' 53\""
+        },
+        {
+          "rank": 7,
+          "name": "Alexander Vinokourov (KAZ)",
+          "team": "Astana",
+          "time": "+ 5' 12\""
+        },
+        {
+          "rank": 8,
+          "name": "Michele Scarponi (ITA)",
+          "team": "Androni Giocattoli",
+          "time": "+ 5' 24\""
+        },
+        {
+          "rank": 9,
+          "name": "Damiano Cunego (ITA)",
+          "team": "Lampre–Farnese Vini",
+          "time": "+ 9' 21\""
+        },
+        {
+          "rank": 10,
+          "name": "Robert Kišerlovski (CRO)",
+          "team": "Liquigas–Doimo",
+          "time": "+ 9' 32\""
+        }
+      ]
+    },
+    {
+      "stage": 19,
+      "riders": [
+        {
+          "rank": 1,
+          "name": "Ivan Basso (ITA)",
+          "team": "Liquigas–Doimo",
+          "time": "81h 55' 56\""
+        },
+        {
+          "rank": 2,
+          "name": "David Arroyo (ESP)",
+          "team": "Caisse d'Epargne",
+          "time": "+ 51\""
+        },
+        {
+          "rank": 3,
+          "name": "Vincenzo Nibali (ITA)",
+          "team": "Liquigas–Doimo",
+          "time": "+ 2' 30\""
+        },
+        {
+          "rank": 4,
+          "name": "Michele Scarponi (ITA)",
+          "team": "Androni Giocattoli",
+          "time": "+ 2' 49\""
+        },
+        {
+          "rank": 5,
+          "name": "Cadel Evans (AUS)",
+          "team": "BMC Racing Team",
+          "time": "+ 4' 00\""
+        },
+        {
+          "rank": 6,
+          "name": "Carlos Sastre (ESP)",
+          "team": "Cervélo TestTeam",
+          "time": "+ 5' 32\""
+        },
+        {
+          "rank": 7,
+          "name": "Richie Porte (AUS)",
+          "team": "Team Saxo Bank",
+          "time": "+ 6' 00\""
+        },
+        {
+          "rank": 8,
+          "name": "Alexander Vinokourov (KAZ)",
+          "team": "Astana",
+          "time": "+ 6' 22\""
+        },
+        {
+          "rank": 9,
+          "name": "Robert Kišerlovski (CRO)",
+          "team": "Liquigas–Doimo",
+          "time": "+ 12' 44\""
+        },
+        {
+          "rank": 10,
+          "name": "Marco Pinotti (ITA)",
+          "team": "Team HTC–Columbia",
+          "time": "+ 13' 40\""
+        }
+      ]
+    },
+    {
+      "stage": 20,
+      "riders": [
+        {
+          "rank": 1,
+          "name": "Ivan Basso (ITA)",
+          "team": "Liquigas–Doimo",
+          "time": "87h 23' 00\""
+        },
+        {
+          "rank": 2,
+          "name": "David Arroyo (ESP)",
+          "team": "Caisse d'Epargne",
+          "time": "+ 1' 15\""
+        },
+        {
+          "rank": 3,
+          "name": "Vincenzo Nibali (ITA)",
+          "team": "Liquigas–Doimo",
+          "time": "+ 2' 56\""
+        },
+        {
+          "rank": 4,
+          "name": "Michele Scarponi (ITA)",
+          "team": "Androni Giocattoli",
+          "time": "+ 2' 57\""
+        },
+        {
+          "rank": 5,
+          "name": "Cadel Evans (AUS)",
+          "team": "BMC Racing Team",
+          "time": "+ 3' 47\""
+        },
+        {
+          "rank": 6,
+          "name": "Richie Porte (AUS)",
+          "team": "Team Saxo Bank",
+          "time": "+ 7' 25\""
+        },
+        {
+          "rank": 7,
+          "name": "Alexander Vinokourov (KAZ)",
+          "team": "Astana",
+          "time": "+ 7' 31\""
+        },
+        {
+          "rank": 8,
+          "name": "Carlos Sastre (ESP)",
+          "team": "Cervélo TestTeam",
+          "time": "+ 8' 55\""
+        },
+        {
+          "rank": 9,
+          "name": "Robert Kišerlovski (CRO)",
+          "team": "Liquigas–Doimo",
+          "time": "+ 14' 06\""
+        },
+        {
+          "rank": 10,
+          "name": "Marco Pinotti (ITA)",
+          "team": "Team HTC–Columbia",
+          "time": "+ 15' 00\""
+        }
+      ]
+    },
+    {
+      "stage": 21,
+      "riders": [
+        {
+          "rank": 1,
+          "name": "Ivan Basso (ITA)",
+          "team": "Liquigas–Doimo",
+          "time": "87h 44' 01\""
+        },
+        {
+          "rank": 2,
+          "name": "David Arroyo (ESP)",
+          "team": "Caisse d'Epargne",
+          "time": "+ 1' 51\""
+        },
+        {
+          "rank": 3,
+          "name": "Vincenzo Nibali (ITA)",
+          "team": "Liquigas–Doimo",
+          "time": "+ 2' 37\""
+        },
+        {
+          "rank": 4,
+          "name": "Michele Scarponi (ITA)",
+          "team": "Androni Giocattoli",
+          "time": "+ 2' 50\""
+        },
+        {
+          "rank": 5,
+          "name": "Cadel Evans (AUS)",
+          "team": "BMC Racing Team",
+          "time": "+ 3' 27\""
+        },
+        {
+          "rank": 6,
+          "name": "Alexander Vinokourov (KAZ)",
+          "team": "Astana",
+          "time": "+ 7' 06\""
+        },
+        {
+          "rank": 7,
+          "name": "Richie Porte (AUS)",
+          "team": "Team Saxo Bank",
+          "time": "+ 7' 22\""
+        },
+        {
+          "rank": 8,
+          "name": "Carlos Sastre (ESP)",
+          "team": "Cervélo TestTeam",
+          "time": "+ 9' 39\""
+        },
+        {
+          "rank": 9,
+          "name": "Marco Pinotti (ITA)",
+          "team": "Team HTC–Columbia",
+          "time": "+ 14' 20\""
+        },
+        {
+          "rank": 10,
+          "name": "Robert Kišerlovski (CRO)",
+          "team": "Liquigas–Doimo",
+          "time": "+ 14' 51\""
+        }
+      ]
+    }
+  ]
+}

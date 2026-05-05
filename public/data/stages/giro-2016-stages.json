@@ -1,0 +1,585 @@
+{
+  "race": "giro",
+  "year": 2016,
+  "teams": [
+    {
+      "name": "AG2R La Mondiale",
+      "uci_code": null,
+      "country": null,
+      "colours": [
+        "#4A2C2A",
+        "#00A3E0",
+        "#FFFFFF"
+      ]
+    },
+    {
+      "name": "Astana",
+      "uci_code": null,
+      "country": null,
+      "colours": [
+        "#00A3E0",
+        "#111827",
+        "#EF4444"
+      ]
+    },
+    {
+      "name": "BMC Racing Team",
+      "uci_code": null,
+      "country": null,
+      "colours": [
+        "#111827",
+        "#E10600",
+        "#FFFFFF"
+      ]
+    },
+    {
+      "name": "Etixx–Quick-Step",
+      "uci_code": null,
+      "country": null,
+      "colours": [
+        "#E5E7EB",
+        "#9CA3AF",
+        null
+      ]
+    },
+    {
+      "name": "FDJ",
+      "uci_code": null,
+      "country": null,
+      "colours": [
+        "#E5E7EB",
+        "#9CA3AF",
+        null
+      ]
+    },
+    {
+      "name": "IAM Cycling",
+      "uci_code": null,
+      "country": null,
+      "colours": [
+        "#E5E7EB",
+        "#9CA3AF",
+        null
+      ]
+    },
+    {
+      "name": "Lampre–Merida",
+      "uci_code": null,
+      "country": null,
+      "colours": [
+        "#E5E7EB",
+        "#9CA3AF",
+        null
+      ]
+    },
+    {
+      "name": "Lotto–Soudal",
+      "uci_code": null,
+      "country": null,
+      "colours": [
+        "#E10600",
+        "#111827",
+        "#FFFFFF"
+      ]
+    },
+    {
+      "name": "Movistar Team",
+      "uci_code": null,
+      "country": null,
+      "colours": [
+        "#0EA5E9",
+        "#002855",
+        "#FFFFFF"
+      ]
+    },
+    {
+      "name": "Team Giant–Alpecin",
+      "uci_code": null,
+      "country": null,
+      "colours": [
+        "#E5E7EB",
+        "#9CA3AF",
+        null
+      ]
+    },
+    {
+      "name": "Team Katusha",
+      "uci_code": null,
+      "country": null,
+      "colours": [
+        "#E5E7EB",
+        "#9CA3AF",
+        null
+      ]
+    },
+    {
+      "name": "LottoNL–Jumbo",
+      "uci_code": null,
+      "country": null,
+      "colours": [
+        "#FACC15",
+        "#111827",
+        "#FFFFFF"
+      ]
+    },
+    {
+      "name": "Team Dimension Data",
+      "uci_code": null,
+      "country": null,
+      "colours": [
+        "#111827",
+        "#00A3E0",
+        "#FFFFFF"
+      ]
+    },
+    {
+      "name": "Team Sky",
+      "uci_code": null,
+      "country": null,
+      "colours": [
+        "#111827",
+        "#00A3E0",
+        "#FFFFFF"
+      ]
+    },
+    {
+      "name": "Tinkoff",
+      "uci_code": null,
+      "country": null,
+      "colours": [
+        "#E5E7EB",
+        "#9CA3AF",
+        null
+      ]
+    },
+    {
+      "name": "Trek–Segafredo",
+      "uci_code": null,
+      "country": null,
+      "colours": [
+        "#E10600",
+        "#111827",
+        "#FFFFFF"
+      ]
+    },
+    {
+      "name": "Orica–GreenEDGE",
+      "uci_code": null,
+      "country": null,
+      "colours": [
+        "#E5E7EB",
+        "#9CA3AF",
+        null
+      ]
+    },
+    {
+      "name": "Cannondale",
+      "uci_code": null,
+      "country": null,
+      "colours": [
+        "#E5E7EB",
+        "#9CA3AF",
+        null
+      ]
+    },
+    {
+      "name": "Bardiani–CSF",
+      "uci_code": null,
+      "country": null,
+      "colours": [
+        "#E5E7EB",
+        "#9CA3AF",
+        null
+      ]
+    },
+    {
+      "name": "Gazprom–RusVelo",
+      "uci_code": null,
+      "country": null,
+      "colours": [
+        "#E5E7EB",
+        "#9CA3AF",
+        null
+      ]
+    },
+    {
+      "name": "Nippo–Vini Fantini",
+      "uci_code": null,
+      "country": null,
+      "colours": [
+        "#E5E7EB",
+        "#9CA3AF",
+        null
+      ]
+    },
+    {
+      "name": "Wilier Triestina–Southeast",
+      "uci_code": null,
+      "country": null,
+      "colours": [
+        "#E5E7EB",
+        "#9CA3AF",
+        null
+      ]
+    }
+  ],
+  "stages": [
+    {
+      "stage": 1,
+      "date": "2016-05-06",
+      "distance_km": 9.8,
+      "accumulated_km": 9.8,
+      "elevation_gain_m": null,
+      "start": {
+        "town": "Apeldoorn",
+        "lat": 52.21666667,
+        "lon": 5.96666667
+      },
+      "finish": {
+        "town": "Apeldoorn",
+        "lat": 52.21666667,
+        "lon": 5.96666667
+      }
+    },
+    {
+      "stage": 2,
+      "date": "2016-05-07",
+      "distance_km": 190,
+      "accumulated_km": 199.8,
+      "elevation_gain_m": null,
+      "start": {
+        "town": "Arnhem",
+        "lat": 51.98333333,
+        "lon": 5.91666667
+      },
+      "finish": {
+        "town": "Nijmegen",
+        "lat": 51.8475,
+        "lon": 5.8625
+      }
+    },
+    {
+      "stage": 3,
+      "date": "2016-05-08",
+      "distance_km": 190,
+      "accumulated_km": 389.8,
+      "elevation_gain_m": null,
+      "start": {
+        "town": "Nijmegen",
+        "lat": 51.8475,
+        "lon": 5.8625
+      },
+      "finish": {
+        "town": "Arnhem",
+        "lat": 51.98333333,
+        "lon": 5.91666667
+      }
+    },
+    {
+      "stage": 4,
+      "date": "2016-05-10",
+      "distance_km": 200,
+      "accumulated_km": 589.8,
+      "elevation_gain_m": null,
+      "start": {
+        "town": "Catanzaro",
+        "lat": 38.9,
+        "lon": 16.6
+      },
+      "finish": {
+        "town": "Praia a Mare",
+        "lat": 39.8979,
+        "lon": 15.8086
+      }
+    },
+    {
+      "stage": 5,
+      "date": "2016-05-11",
+      "distance_km": 233,
+      "accumulated_km": 822.8,
+      "elevation_gain_m": null,
+      "start": {
+        "town": "Praia a Mare",
+        "lat": 39.8979,
+        "lon": 15.8086
+      },
+      "finish": {
+        "town": "Benevento",
+        "lat": 41.13333333,
+        "lon": 14.78333333
+      }
+    },
+    {
+      "stage": 6,
+      "date": "2016-05-12",
+      "distance_km": 157,
+      "accumulated_km": 979.8,
+      "elevation_gain_m": null,
+      "start": {
+        "town": "Ponte",
+        "lat": 41.21666667,
+        "lon": 14.7
+      },
+      "finish": {
+        "town": "Roccaraso",
+        "lat": 41.847,
+        "lon": 14.0789
+      }
+    },
+    {
+      "stage": 7,
+      "date": "2016-05-13",
+      "distance_km": 211,
+      "accumulated_km": 1190.8,
+      "elevation_gain_m": null,
+      "start": {
+        "town": "Sulmona",
+        "lat": 42.03333333,
+        "lon": 13.93333333
+      },
+      "finish": {
+        "town": "Foligno",
+        "lat": 42.9561,
+        "lon": 12.7036
+      }
+    },
+    {
+      "stage": 8,
+      "date": "2016-05-14",
+      "distance_km": 186,
+      "accumulated_km": 1376.8,
+      "elevation_gain_m": null,
+      "start": {
+        "town": "Foligno",
+        "lat": 42.9561,
+        "lon": 12.7036
+      },
+      "finish": {
+        "town": "Arezzo",
+        "lat": 43.46333333,
+        "lon": 11.87833333
+      }
+    },
+    {
+      "stage": 9,
+      "date": "2016-05-15",
+      "distance_km": 40.5,
+      "accumulated_km": 1417.3,
+      "elevation_gain_m": null,
+      "start": {
+        "town": "Radda in Chianti",
+        "lat": 43.4833,
+        "lon": 11.3667
+      },
+      "finish": {
+        "town": "Greve in Chianti",
+        "lat": 43.5833,
+        "lon": 11.3167
+      }
+    },
+    {
+      "stage": 10,
+      "date": "2016-05-17",
+      "distance_km": 219,
+      "accumulated_km": 1636.3,
+      "elevation_gain_m": null,
+      "start": {
+        "town": "Campi Bisenzio",
+        "lat": 43.8333,
+        "lon": 11.1333
+      },
+      "finish": {
+        "town": "Sestola",
+        "lat": 44.23,
+        "lon": 10.77
+      }
+    },
+    {
+      "stage": 11,
+      "date": "2016-05-18",
+      "distance_km": 227,
+      "accumulated_km": 1863.3,
+      "elevation_gain_m": null,
+      "start": {
+        "town": "Modena",
+        "lat": 44.6471,
+        "lon": 10.9252
+      },
+      "finish": {
+        "town": "Asolo",
+        "lat": 45.8,
+        "lon": 11.91666667
+      }
+    },
+    {
+      "stage": 12,
+      "date": "2016-05-19",
+      "distance_km": 182,
+      "accumulated_km": 2045.3,
+      "elevation_gain_m": null,
+      "start": {
+        "town": "Noale",
+        "lat": 45.55,
+        "lon": 12.0667
+      },
+      "finish": {
+        "town": "Bibione",
+        "lat": 45.6333,
+        "lon": 13.0667
+      }
+    },
+    {
+      "stage": 13,
+      "date": "2016-05-20",
+      "distance_km": 170,
+      "accumulated_km": 2215.3,
+      "elevation_gain_m": null,
+      "start": {
+        "town": "Palmanova",
+        "lat": 45.9,
+        "lon": 13.3167
+      },
+      "finish": {
+        "town": "Cividale del Friuli",
+        "lat": 46.1,
+        "lon": 13.43333333
+      }
+    },
+    {
+      "stage": 14,
+      "date": "2016-05-21",
+      "distance_km": 210,
+      "accumulated_km": 2425.3,
+      "elevation_gain_m": null,
+      "start": {
+        "town": "Alpago (Farra)",
+        "lat": 46.1,
+        "lon": 12.3667
+      },
+      "finish": {
+        "town": "Alta Badia",
+        "lat": 46.5667,
+        "lon": 11.9167
+      }
+    },
+    {
+      "stage": 15,
+      "date": "2016-05-22",
+      "distance_km": 10.8,
+      "accumulated_km": 2436.1,
+      "elevation_gain_m": null,
+      "start": {
+        "town": "Castelrotto/Kastelruth",
+        "lat": 46.5675,
+        "lon": 11.5614
+      },
+      "finish": {
+        "town": "Alpe di Siusi/Seiser Alm",
+        "lat": 46.54111111,
+        "lon": 11.64471944
+      }
+    },
+    {
+      "stage": 16,
+      "date": "2016-05-24",
+      "distance_km": 132,
+      "accumulated_km": 2568.1,
+      "elevation_gain_m": null,
+      "start": {
+        "town": "Bressanone/Brixen",
+        "lat": 46.71666667,
+        "lon": 11.65
+      },
+      "finish": {
+        "town": "Andalo",
+        "lat": 46.16666667,
+        "lon": 11.00444444
+      }
+    },
+    {
+      "stage": 17,
+      "date": "2016-05-25",
+      "distance_km": 196,
+      "accumulated_km": 2764.1,
+      "elevation_gain_m": null,
+      "start": {
+        "town": "Molveno",
+        "lat": 46.15,
+        "lon": 10.96666667
+      },
+      "finish": {
+        "town": "Cassano d'Adda",
+        "lat": 45.53333333,
+        "lon": 9.51666667
+      }
+    },
+    {
+      "stage": 18,
+      "date": "2016-05-26",
+      "distance_km": 244,
+      "accumulated_km": 3008.1,
+      "elevation_gain_m": null,
+      "start": {
+        "town": "Muggiò",
+        "lat": 45.5983,
+        "lon": 9.2294
+      },
+      "finish": {
+        "town": "Pinerolo",
+        "lat": 44.885,
+        "lon": 7.331
+      }
+    },
+    {
+      "stage": 19,
+      "date": "2016-05-27",
+      "distance_km": 162,
+      "accumulated_km": 3170.1,
+      "elevation_gain_m": null,
+      "start": {
+        "town": "Pinerolo",
+        "lat": 44.885,
+        "lon": 7.331
+      },
+      "finish": {
+        "town": "Risoul",
+        "lat": 44.6497,
+        "lon": 6.6408
+      }
+    },
+    {
+      "stage": 20,
+      "date": "2016-05-28",
+      "distance_km": 134,
+      "accumulated_km": 3304.1,
+      "elevation_gain_m": null,
+      "start": {
+        "town": "Guillestre",
+        "lat": 44.66,
+        "lon": 6.65
+      },
+      "finish": {
+        "town": "Sant'Anna di Vinadio",
+        "lat": 44.3,
+        "lon": 7.16666667
+      }
+    },
+    {
+      "stage": 21,
+      "date": "2016-05-29",
+      "distance_km": 163,
+      "accumulated_km": 3467.1,
+      "elevation_gain_m": null,
+      "start": {
+        "town": "Cuneo",
+        "lat": 44.3845,
+        "lon": 7.5427
+      },
+      "finish": {
+        "town": "Turin",
+        "lat": 45.0703,
+        "lon": 7.6869
+      }
+    }
+  ]
+}

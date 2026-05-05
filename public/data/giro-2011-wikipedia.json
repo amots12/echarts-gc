@@ -1,0 +1,1371 @@
+{
+  "race": "Giro d%27Italia",
+  "year": 2011,
+  "stages": [
+    {
+      "stage": 1,
+      "riders": [
+        {
+          "rank": 1,
+          "name": "Marco Pinotti (ITA)",
+          "team": "HTC–Highroad",
+          "time": "20' 59\""
+        },
+        {
+          "rank": 2,
+          "name": "Lars Bak (DEN)",
+          "team": "HTC–Highroad",
+          "time": "+ 0\""
+        },
+        {
+          "rank": 3,
+          "name": "Kanstantsin Sivtsov (BLR)",
+          "team": "HTC–Highroad",
+          "time": "+ 0\""
+        },
+        {
+          "rank": 4,
+          "name": "Mark Cavendish (GBR)",
+          "team": "HTC–Highroad",
+          "time": "+ 0\""
+        },
+        {
+          "rank": 5,
+          "name": "Craig Lewis (USA)",
+          "team": "HTC–Highroad",
+          "time": "+ 0\""
+        },
+        {
+          "rank": 6,
+          "name": "Robbie McEwen (AUS)",
+          "team": "Team RadioShack",
+          "time": "+ 10\""
+        },
+        {
+          "rank": 7,
+          "name": "Tiago Machado (POR)",
+          "team": "Team RadioShack",
+          "time": "+ 10\""
+        },
+        {
+          "rank": 8,
+          "name": "Fumiyuki Beppu (JPN)",
+          "team": "Team RadioShack",
+          "time": "+ 10\""
+        },
+        {
+          "rank": 9,
+          "name": "Bjørn Selander (USA)",
+          "team": "Team RadioShack",
+          "time": "+ 10\""
+        },
+        {
+          "rank": 10,
+          "name": "Robert Hunter (RSA)",
+          "team": "Team RadioShack",
+          "time": "+ 10\""
+        }
+      ]
+    },
+    {
+      "stage": 2,
+      "riders": [
+        {
+          "rank": 1,
+          "name": "Mark Cavendish (GBR)",
+          "team": "HTC–Highroad",
+          "time": "6h 06' 27\""
+        },
+        {
+          "rank": 2,
+          "name": "Kanstantsin Sivtsov (BLR)",
+          "team": "HTC–Highroad",
+          "time": "+ 12\""
+        },
+        {
+          "rank": 3,
+          "name": "Craig Lewis (USA)",
+          "team": "HTC–Highroad",
+          "time": "+ 12\""
+        },
+        {
+          "rank": 4,
+          "name": "Marco Pinotti (ITA)",
+          "team": "HTC–Highroad",
+          "time": "+ 12\""
+        },
+        {
+          "rank": 5,
+          "name": "Lars Bak (DEN)",
+          "team": "HTC–Highroad",
+          "time": "+ 12\""
+        },
+        {
+          "rank": 6,
+          "name": "Alessandro Petacchi (ITA)",
+          "team": "Lampre–ISD",
+          "time": "+ 16\""
+        },
+        {
+          "rank": 7,
+          "name": "Robbie McEwen (AUS)",
+          "team": "Team RadioShack",
+          "time": "+ 22\""
+        },
+        {
+          "rank": 8,
+          "name": "Fumiyuki Beppu (JPN)",
+          "team": "Team RadioShack",
+          "time": "+ 22\""
+        },
+        {
+          "rank": 9,
+          "name": "Yaroslav Popovych (UKR)",
+          "team": "Team RadioShack",
+          "time": "+ 22\""
+        },
+        {
+          "rank": 10,
+          "name": "Tiago Machado (POR)",
+          "team": "Team RadioShack",
+          "time": "+ 22\""
+        }
+      ]
+    },
+    {
+      "stage": 3,
+      "riders": [
+        {
+          "rank": 1,
+          "name": "David Millar (GBR)",
+          "team": "Garmin–Cervélo",
+          "time": "10h 04' 29\""
+        },
+        {
+          "rank": 2,
+          "name": "Ángel Vicioso (ESP)",
+          "team": "Androni Giocattoli",
+          "time": "+ 7\""
+        },
+        {
+          "rank": 3,
+          "name": "Kanstantsin Sivtsov (BLR)",
+          "team": "HTC–Highroad",
+          "time": "+ 9\""
+        },
+        {
+          "rank": 4,
+          "name": "Marco Pinotti (ITA)",
+          "team": "HTC–Highroad",
+          "time": "+ 9\""
+        },
+        {
+          "rank": 5,
+          "name": "Craig Lewis (USA)",
+          "team": "HTC–Highroad",
+          "time": "+ 9\""
+        },
+        {
+          "rank": 6,
+          "name": "Christophe Le Mével (FRA)",
+          "team": "Garmin–Cervélo",
+          "time": "+ 12\""
+        },
+        {
+          "rank": 7,
+          "name": "Alessandro Petacchi (ITA)",
+          "team": "Lampre–ISD",
+          "time": "+ 13\""
+        },
+        {
+          "rank": 8,
+          "name": "Pablo Lastras (ESP)",
+          "team": "Movistar Team",
+          "time": "+ 18\""
+        },
+        {
+          "rank": 9,
+          "name": "Yaroslav Popovych (UKR)",
+          "team": "Team RadioShack",
+          "time": "+ 19\""
+        },
+        {
+          "rank": 10,
+          "name": "Tiago Machado (POR)",
+          "team": "Team RadioShack",
+          "time": "+ 19\""
+        }
+      ]
+    },
+    {
+      "stage": 4,
+      "riders": [
+        {
+          "rank": 1,
+          "name": "David Millar (GBR)",
+          "team": "Garmin–Cervélo",
+          "time": "10h 04' 29\""
+        },
+        {
+          "rank": 2,
+          "name": "Ángel Vicioso (ESP)",
+          "team": "Androni Giocattoli",
+          "time": "+ 7\""
+        },
+        {
+          "rank": 3,
+          "name": "Kanstantsin Sivtsov (BLR)",
+          "team": "HTC–Highroad",
+          "time": "+ 9\""
+        },
+        {
+          "rank": 4,
+          "name": "Marco Pinotti (ITA)",
+          "team": "HTC–Highroad",
+          "time": "+ 9\""
+        },
+        {
+          "rank": 5,
+          "name": "Craig Lewis (USA)",
+          "team": "HTC–Highroad",
+          "time": "+ 9\""
+        },
+        {
+          "rank": 6,
+          "name": "Christophe Le Mével (FRA)",
+          "team": "Garmin–Cervélo",
+          "time": "+ 12\""
+        },
+        {
+          "rank": 7,
+          "name": "Alessandro Petacchi (ITA)",
+          "team": "Lampre–ISD",
+          "time": "+ 13\""
+        },
+        {
+          "rank": 8,
+          "name": "Pablo Lastras (ESP)",
+          "team": "Movistar Team",
+          "time": "+ 18\""
+        },
+        {
+          "rank": 9,
+          "name": "Yaroslav Popovych (UKR)",
+          "team": "Team RadioShack",
+          "time": "+ 19\""
+        },
+        {
+          "rank": 10,
+          "name": "Tiago Machado (POR)",
+          "team": "Team RadioShack",
+          "time": "+ 19\""
+        }
+      ]
+    },
+    {
+      "stage": 5,
+      "riders": [
+        {
+          "rank": 1,
+          "name": "Pieter Weening (NED)",
+          "team": "Rabobank",
+          "time": "14h 59' 33\""
+        },
+        {
+          "rank": 2,
+          "name": "Marco Pinotti (ITA)",
+          "team": "HTC–Highroad",
+          "time": "+ 2\""
+        },
+        {
+          "rank": 3,
+          "name": "Kanstantsin Sivtsov (BLR)",
+          "team": "HTC–Highroad",
+          "time": "+ 2\""
+        },
+        {
+          "rank": 4,
+          "name": "Christophe Le Mével (FRA)",
+          "team": "Garmin–Cervélo",
+          "time": "+ 5\""
+        },
+        {
+          "rank": 5,
+          "name": "Pablo Lastras (ESP)",
+          "team": "Movistar Team",
+          "time": "+ 22\""
+        },
+        {
+          "rank": 6,
+          "name": "Vincenzo Nibali (ITA)",
+          "team": "Liquigas–Cannondale",
+          "time": "+ 24\""
+        },
+        {
+          "rank": 7,
+          "name": "Michele Scarponi (ITA)",
+          "team": "Lampre–ISD",
+          "time": "+ 26\""
+        },
+        {
+          "rank": 8,
+          "name": "Steven Kruijswijk (NED)",
+          "team": "Rabobank",
+          "time": "+ 28\""
+        },
+        {
+          "rank": 9,
+          "name": "Alberto Contador (ESP)",
+          "team": "Saxo Bank–SunGard",
+          "time": "+ 30\""
+        },
+        {
+          "rank": 10,
+          "name": "José Serpa (COL)",
+          "team": "Androni Giocattoli",
+          "time": "+ 33\""
+        }
+      ]
+    },
+    {
+      "stage": 6,
+      "riders": [
+        {
+          "rank": 1,
+          "name": "Pieter Weening (NED)",
+          "team": "Rabobank",
+          "time": "20h 15' 12\""
+        },
+        {
+          "rank": 2,
+          "name": "Kanstantsin Sivtsov (BLR)",
+          "team": "HTC–Highroad",
+          "time": "+ 2\""
+        },
+        {
+          "rank": 3,
+          "name": "Marco Pinotti (ITA)",
+          "team": "HTC–Highroad",
+          "time": "+ 2\""
+        },
+        {
+          "rank": 4,
+          "name": "Christophe Le Mével (FRA)",
+          "team": "Garmin–Cervélo",
+          "time": "+ 5\""
+        },
+        {
+          "rank": 5,
+          "name": "Pablo Lastras (ESP)",
+          "team": "Movistar Team",
+          "time": "+ 22\""
+        },
+        {
+          "rank": 6,
+          "name": "Vincenzo Nibali (ITA)",
+          "team": "Liquigas–Cannondale",
+          "time": "+ 24\""
+        },
+        {
+          "rank": 7,
+          "name": "Michele Scarponi (ITA)",
+          "team": "Lampre–ISD",
+          "time": "+ 26\""
+        },
+        {
+          "rank": 8,
+          "name": "Steven Kruijswijk (NED)",
+          "team": "Rabobank",
+          "time": "+ 28\""
+        },
+        {
+          "rank": 9,
+          "name": "Alberto Contador (ESP)",
+          "team": "Saxo Bank–SunGard",
+          "time": "+ 30\""
+        },
+        {
+          "rank": 10,
+          "name": "José Serpa (COL)",
+          "team": "Androni Giocattoli",
+          "time": "+ 33\""
+        }
+      ]
+    },
+    {
+      "stage": 7,
+      "riders": [
+        {
+          "rank": 1,
+          "name": "Pieter Weening (NED)",
+          "team": "Rabobank",
+          "time": "23h 09' 59\""
+        },
+        {
+          "rank": 2,
+          "name": "Kanstantsin Sivtsov (BLR)",
+          "team": "HTC–Highroad",
+          "time": "+ 2\""
+        },
+        {
+          "rank": 3,
+          "name": "Marco Pinotti (ITA)",
+          "team": "HTC–Highroad",
+          "time": "+ 2\""
+        },
+        {
+          "rank": 4,
+          "name": "Christophe Le Mével (FRA)",
+          "team": "Garmin–Cervélo",
+          "time": "+ 5\""
+        },
+        {
+          "rank": 5,
+          "name": "Michele Scarponi (ITA)",
+          "team": "Lampre–ISD",
+          "time": "+ 14\""
+        },
+        {
+          "rank": 6,
+          "name": "Pablo Lastras (ESP)",
+          "team": "Movistar Team",
+          "time": "+ 22\""
+        },
+        {
+          "rank": 7,
+          "name": "Vincenzo Nibali (ITA)",
+          "team": "Liquigas–Cannondale",
+          "time": "+ 24\""
+        },
+        {
+          "rank": 8,
+          "name": "Steven Kruijswijk (NED)",
+          "team": "Rabobank",
+          "time": "+ 28\""
+        },
+        {
+          "rank": 9,
+          "name": "Alberto Contador (ESP)",
+          "team": "Saxo Bank–SunGard",
+          "time": "+ 30\""
+        },
+        {
+          "rank": 10,
+          "name": "José Serpa (COL)",
+          "team": "Androni Giocattoli",
+          "time": "+ 33\""
+        }
+      ]
+    },
+    {
+      "stage": 8,
+      "riders": [
+        {
+          "rank": 1,
+          "name": "Pieter Weening (NED)",
+          "team": "Rabobank",
+          "time": "28h 09' 49\""
+        },
+        {
+          "rank": 2,
+          "name": "Kanstantsin Sivtsov (BLR)",
+          "team": "HTC–Highroad",
+          "time": "+ 2\""
+        },
+        {
+          "rank": 3,
+          "name": "Marco Pinotti (ITA)",
+          "team": "HTC–Highroad",
+          "time": "+ 2\""
+        },
+        {
+          "rank": 4,
+          "name": "Christophe Le Mével (FRA)",
+          "team": "Garmin–Cervélo",
+          "time": "+ 5\""
+        },
+        {
+          "rank": 5,
+          "name": "Alberto Contador (ESP)",
+          "team": "Saxo Bank–SunGard",
+          "time": "+ 13\""
+        },
+        {
+          "rank": 6,
+          "name": "Michele Scarponi (ITA)",
+          "team": "Lampre–ISD",
+          "time": "+ 14\""
+        },
+        {
+          "rank": 7,
+          "name": "Pablo Lastras (ESP)",
+          "team": "Movistar Team",
+          "time": "+ 22\""
+        },
+        {
+          "rank": 8,
+          "name": "Vincenzo Nibali (ITA)",
+          "team": "Liquigas–Cannondale",
+          "time": "+ 24\""
+        },
+        {
+          "rank": 9,
+          "name": "Steven Kruijswijk (NED)",
+          "team": "Rabobank",
+          "time": "+ 28\""
+        },
+        {
+          "rank": 10,
+          "name": "José Serpa (COL)",
+          "team": "Androni Giocattoli",
+          "time": "+ 33\""
+        }
+      ]
+    },
+    {
+      "stage": 9,
+      "riders": [
+        {
+          "rank": 1,
+          "name": "Alberto Contador (ESP)",
+          "team": "Saxo Bank–SunGard",
+          "time": "33h 03' 51\""
+        },
+        {
+          "rank": 2,
+          "name": "Kanstantsin Sivtsov (BLR)",
+          "team": "HTC–Highroad",
+          "time": "+ 59\""
+        },
+        {
+          "rank": 3,
+          "name": "Christophe Le Mével (FRA)",
+          "team": "Garmin–Cervélo",
+          "time": "+ 1' 19\""
+        },
+        {
+          "rank": 4,
+          "name": "Vincenzo Nibali (ITA)",
+          "team": "Liquigas–Cannondale",
+          "time": "+ 1' 21\""
+        },
+        {
+          "rank": 5,
+          "name": "Michele Scarponi (ITA)",
+          "team": "Lampre–ISD",
+          "time": "+ 1' 28\""
+        },
+        {
+          "rank": 6,
+          "name": "David Arroyo (ESP)",
+          "team": "Movistar Team",
+          "time": "+ 1' 37\""
+        },
+        {
+          "rank": 7,
+          "name": "Roman Kreuziger (CZE)",
+          "team": "Astana",
+          "time": "+ 1' 41\""
+        },
+        {
+          "rank": 8,
+          "name": "José Serpa (COL)",
+          "team": "Androni Giocattoli",
+          "time": "+ 1' 47\""
+        },
+        {
+          "rank": 9,
+          "name": "Dario Cataldo (ITA)",
+          "team": "Quick-Step",
+          "time": "+ 2' 21\""
+        },
+        {
+          "rank": 10,
+          "name": "Matteo Carrara (ITA)",
+          "team": "Vacansoleil–DCM",
+          "time": "+ 2' 21\""
+        }
+      ]
+    },
+    {
+      "stage": 10,
+      "riders": [
+        {
+          "rank": 1,
+          "name": "Alberto Contador (ESP)",
+          "team": "Saxo Bank–SunGard",
+          "time": "37h 04' 40\""
+        },
+        {
+          "rank": 2,
+          "name": "Kanstantsin Sivtsov (BLR)",
+          "team": "HTC–Highroad",
+          "time": "+ 59\""
+        },
+        {
+          "rank": 3,
+          "name": "Christophe Le Mével (FRA)",
+          "team": "Garmin–Cervélo",
+          "time": "+ 1' 19\""
+        },
+        {
+          "rank": 4,
+          "name": "Vincenzo Nibali (ITA)",
+          "team": "Liquigas–Cannondale",
+          "time": "+ 1' 21\""
+        },
+        {
+          "rank": 5,
+          "name": "Michele Scarponi (ITA)",
+          "team": "Lampre–ISD",
+          "time": "+ 1' 28\""
+        },
+        {
+          "rank": 6,
+          "name": "David Arroyo (ESP)",
+          "team": "Movistar Team",
+          "time": "+ 1' 37\""
+        },
+        {
+          "rank": 7,
+          "name": "Roman Kreuziger (CZE)",
+          "team": "Astana",
+          "time": "+ 1' 41\""
+        },
+        {
+          "rank": 8,
+          "name": "José Serpa (COL)",
+          "team": "Androni Giocattoli",
+          "time": "+ 1' 47\""
+        },
+        {
+          "rank": 9,
+          "name": "Dario Cataldo (ITA)",
+          "team": "Quick-Step",
+          "time": "+ 2' 21\""
+        },
+        {
+          "rank": 10,
+          "name": "Matteo Carrara (ITA)",
+          "team": "Vacansoleil–DCM",
+          "time": "+ 2' 21\""
+        }
+      ]
+    },
+    {
+      "stage": 11,
+      "riders": [
+        {
+          "rank": 1,
+          "name": "Alberto Contador (ESP)",
+          "team": "Saxo Bank–SunGard",
+          "time": "40h 37' 51\""
+        },
+        {
+          "rank": 2,
+          "name": "Kanstantsin Sivtsov (BLR)",
+          "team": "HTC–Highroad",
+          "time": "+ 59\""
+        },
+        {
+          "rank": 3,
+          "name": "Vincenzo Nibali (ITA)",
+          "team": "Liquigas–Cannondale",
+          "time": "+ 1' 21\""
+        },
+        {
+          "rank": 4,
+          "name": "Christophe Le Mével (FRA)",
+          "team": "Garmin–Cervélo",
+          "time": "+ 1' 28\""
+        },
+        {
+          "rank": 5,
+          "name": "Michele Scarponi (ITA)",
+          "team": "Lampre–ISD",
+          "time": "+ 1' 28\""
+        },
+        {
+          "rank": 6,
+          "name": "David Arroyo (ESP)",
+          "team": "Movistar Team",
+          "time": "+ 1' 37\""
+        },
+        {
+          "rank": 7,
+          "name": "Roman Kreuziger (CZE)",
+          "team": "Astana",
+          "time": "+ 1' 41\""
+        },
+        {
+          "rank": 8,
+          "name": "José Serpa (COL)",
+          "team": "Androni Giocattoli",
+          "time": "+ 1' 47\""
+        },
+        {
+          "rank": 9,
+          "name": "Dario Cataldo (ITA)",
+          "team": "Quick-Step",
+          "time": "+ 2' 21\""
+        },
+        {
+          "rank": 10,
+          "name": "Matteo Carrara (ITA)",
+          "team": "Vacansoleil–DCM",
+          "time": "+ 2' 21\""
+        }
+      ]
+    },
+    {
+      "stage": 12,
+      "riders": [
+        {
+          "rank": 1,
+          "name": "Alberto Contador (ESP)",
+          "team": "Saxo Bank–SunGard",
+          "time": "44h 55' 16\""
+        },
+        {
+          "rank": 2,
+          "name": "Kanstantsin Sivtsov (BLR)",
+          "team": "HTC–Highroad",
+          "time": "+ 59\""
+        },
+        {
+          "rank": 3,
+          "name": "Vincenzo Nibali (ITA)",
+          "team": "Liquigas–Cannondale",
+          "time": "+ 1' 21\""
+        },
+        {
+          "rank": 4,
+          "name": "Christophe Le Mével (FRA)",
+          "team": "Garmin–Cervélo",
+          "time": "+ 1' 28\""
+        },
+        {
+          "rank": 5,
+          "name": "Michele Scarponi (ITA)",
+          "team": "Lampre–ISD",
+          "time": "+ 1' 28\""
+        },
+        {
+          "rank": 6,
+          "name": "David Arroyo (ESP)",
+          "team": "Movistar Team",
+          "time": "+ 1' 37\""
+        },
+        {
+          "rank": 7,
+          "name": "Roman Kreuziger (CZE)",
+          "team": "Astana",
+          "time": "+ 1' 41\""
+        },
+        {
+          "rank": 8,
+          "name": "José Serpa (COL)",
+          "team": "Androni Giocattoli",
+          "time": "+ 1' 47\""
+        },
+        {
+          "rank": 9,
+          "name": "Dario Cataldo (ITA)",
+          "team": "Quick-Step",
+          "time": "+ 2' 21\""
+        },
+        {
+          "rank": 10,
+          "name": "Matteo Carrara (ITA)",
+          "team": "Vacansoleil–DCM",
+          "time": "+ 2' 21\""
+        }
+      ]
+    },
+    {
+      "stage": 13,
+      "riders": [
+        {
+          "rank": 1,
+          "name": "Alberto Contador (ESP)",
+          "team": "Saxo Bank–SunGard",
+          "time": "49h 40' 58\""
+        },
+        {
+          "rank": 2,
+          "name": "Vincenzo Nibali (ITA)",
+          "team": "Liquigas–Cannondale",
+          "time": "+ 3' 09\""
+        },
+        {
+          "rank": 3,
+          "name": "Michele Scarponi (ITA)",
+          "team": "Lampre–ISD",
+          "time": "+ 3' 16\""
+        },
+        {
+          "rank": 4,
+          "name": "David Arroyo (ESP)",
+          "team": "Movistar Team",
+          "time": "+ 3' 25\""
+        },
+        {
+          "rank": 5,
+          "name": "Roman Kreuziger (CZE)",
+          "team": "Astana",
+          "time": "+ 3' 29\""
+        },
+        {
+          "rank": 6,
+          "name": "Kanstantsin Sivtsov (BLR)",
+          "team": "HTC–Highroad",
+          "time": "+ 3' 53\""
+        },
+        {
+          "rank": 7,
+          "name": "Igor Antón (ESP)",
+          "team": "Euskaltel–Euskadi",
+          "time": "+ 4' 02\""
+        },
+        {
+          "rank": 8,
+          "name": "John Gadret (FRA)",
+          "team": "Ag2r–La Mondiale",
+          "time": "+ 4' 05\""
+        },
+        {
+          "rank": 9,
+          "name": "Matteo Carrara (ITA)",
+          "team": "Vacansoleil–DCM",
+          "time": "+ 4' 35\""
+        },
+        {
+          "rank": 10,
+          "name": "Hubert Dupont (FRA)",
+          "team": "Ag2r–La Mondiale",
+          "time": "+ 4' 38\""
+        }
+      ]
+    },
+    {
+      "stage": 14,
+      "riders": [
+        {
+          "rank": 1,
+          "name": "Alberto Contador (ESP)",
+          "team": "Saxo Bank–SunGard",
+          "time": "54h 45' 45\""
+        },
+        {
+          "rank": 2,
+          "name": "Vincenzo Nibali (ITA)",
+          "team": "Liquigas–Cannondale",
+          "time": "+ 3' 20\""
+        },
+        {
+          "rank": 3,
+          "name": "Igor Antón (ESP)",
+          "team": "Euskaltel–Euskadi",
+          "time": "+ 3' 21\""
+        },
+        {
+          "rank": 4,
+          "name": "Michele Scarponi (ITA)",
+          "team": "Lampre–ISD",
+          "time": "+ 4' 06\""
+        },
+        {
+          "rank": 5,
+          "name": "John Gadret (FRA)",
+          "team": "Ag2r–La Mondiale",
+          "time": "+ 5' 23\""
+        },
+        {
+          "rank": 6,
+          "name": "Kanstantsin Sivtsov (BLR)",
+          "team": "HTC–Highroad",
+          "time": "+ 5' 37\""
+        },
+        {
+          "rank": 7,
+          "name": "Denis Menchov (RUS)",
+          "team": "Geox–TMC",
+          "time": "+ 6' 06\""
+        },
+        {
+          "rank": 8,
+          "name": "Hubert Dupont (FRA)",
+          "team": "Ag2r–La Mondiale",
+          "time": "+ 6' 12\""
+        },
+        {
+          "rank": 9,
+          "name": "Roman Kreuziger (CZE)",
+          "team": "Astana",
+          "time": "+ 6' 40\""
+        },
+        {
+          "rank": 10,
+          "name": "David Arroyo (ESP)",
+          "team": "Movistar Team",
+          "time": "+ 6' 43\""
+        }
+      ]
+    },
+    {
+      "stage": 15,
+      "riders": [
+        {
+          "rank": 1,
+          "name": "Alberto Contador (ESP)",
+          "team": "Saxo Bank–SunGard",
+          "time": "62h 14' 42\""
+        },
+        {
+          "rank": 2,
+          "name": "Michele Scarponi (ITA)",
+          "team": "Lampre–ISD",
+          "time": "+ 4' 20\""
+        },
+        {
+          "rank": 3,
+          "name": "Vincenzo Nibali (ITA)",
+          "team": "Liquigas–Cannondale",
+          "time": "+ 5' 11\""
+        },
+        {
+          "rank": 4,
+          "name": "John Gadret (FRA)",
+          "team": "Ag2r–La Mondiale",
+          "time": "+ 6' 08\""
+        },
+        {
+          "rank": 5,
+          "name": "Mikel Nieve (ESP)",
+          "team": "Euskaltel–Euskadi",
+          "time": "+ 7' 03\""
+        },
+        {
+          "rank": 6,
+          "name": "José Rujano (VEN)",
+          "team": "Androni Giocattoli",
+          "time": "+ 8' 39\""
+        },
+        {
+          "rank": 7,
+          "name": "Denis Menchov (RUS)",
+          "team": "Geox–TMC",
+          "time": "+ 8' 46\""
+        },
+        {
+          "rank": 8,
+          "name": "Roman Kreuziger (CZE)",
+          "team": "Astana",
+          "time": "+ 8' 58\""
+        },
+        {
+          "rank": 9,
+          "name": "Joaquim Rodríguez (ESP)",
+          "team": "Team Katusha",
+          "time": "+ 9' 20\""
+        },
+        {
+          "rank": 10,
+          "name": "David Arroyo (ESP)",
+          "team": "Movistar Team",
+          "time": "+ 9' 30\""
+        }
+      ]
+    },
+    {
+      "stage": 16,
+      "riders": [
+        {
+          "rank": 1,
+          "name": "Alberto Contador (ESP)",
+          "team": "Saxo Bank–SunGard",
+          "time": "62h 43' 37\""
+        },
+        {
+          "rank": 2,
+          "name": "Michele Scarponi (ITA)",
+          "team": "Lampre–ISD",
+          "time": "+ 4' 58\""
+        },
+        {
+          "rank": 3,
+          "name": "Vincenzo Nibali (ITA)",
+          "team": "Liquigas–Cannondale",
+          "time": "+ 5' 45\""
+        },
+        {
+          "rank": 4,
+          "name": "John Gadret (FRA)",
+          "team": "Ag2r–La Mondiale",
+          "time": "+ 7' 35\""
+        },
+        {
+          "rank": 5,
+          "name": "José Rujano (VEN)",
+          "team": "Androni Giocattoli",
+          "time": "+ 9' 18\""
+        },
+        {
+          "rank": 6,
+          "name": "Mikel Nieve (ESP)",
+          "team": "Euskaltel–Euskadi",
+          "time": "+ 9' 22\""
+        },
+        {
+          "rank": 7,
+          "name": "Denis Menchov (RUS)",
+          "team": "Geox–TMC",
+          "time": "+ 9' 38\""
+        },
+        {
+          "rank": 8,
+          "name": "Roman Kreuziger (CZE)",
+          "team": "Astana",
+          "time": "+ 9' 47\""
+        },
+        {
+          "rank": 9,
+          "name": "Joaquim Rodríguez (ESP)",
+          "team": "Team Katusha",
+          "time": "+ 10' 25\""
+        },
+        {
+          "rank": 10,
+          "name": "Igor Antón (ESP)",
+          "team": "Euskaltel–Euskadi",
+          "time": "+ 10' 58\""
+        }
+      ]
+    },
+    {
+      "stage": 17,
+      "riders": [
+        {
+          "rank": 1,
+          "name": "Alberto Contador (ESP)",
+          "team": "Saxo Bank–SunGard",
+          "time": "68h 18' 27\""
+        },
+        {
+          "rank": 2,
+          "name": "Michele Scarponi (ITA)",
+          "team": "Lampre–ISD",
+          "time": "+ 4' 58\""
+        },
+        {
+          "rank": 3,
+          "name": "Vincenzo Nibali (ITA)",
+          "team": "Liquigas–Cannondale",
+          "time": "+ 5' 45\""
+        },
+        {
+          "rank": 4,
+          "name": "John Gadret (FRA)",
+          "team": "Ag2r–La Mondiale",
+          "time": "+ 7' 35\""
+        },
+        {
+          "rank": 5,
+          "name": "Kanstantsin Sivtsov (BLR)",
+          "team": "HTC–Highroad",
+          "time": "+ 9' 12\""
+        },
+        {
+          "rank": 6,
+          "name": "José Rujano (VEN)",
+          "team": "Androni Giocattoli",
+          "time": "+ 9' 18\""
+        },
+        {
+          "rank": 7,
+          "name": "Mikel Nieve (ESP)",
+          "team": "Euskaltel–Euskadi",
+          "time": "+ 9' 22\""
+        },
+        {
+          "rank": 8,
+          "name": "Denis Menchov (RUS)",
+          "team": "Geox–TMC",
+          "time": "+ 9' 38\""
+        },
+        {
+          "rank": 9,
+          "name": "Roman Kreuziger (CZE)",
+          "team": "Astana",
+          "time": "+ 9' 47\""
+        },
+        {
+          "rank": 10,
+          "name": "Joaquim Rodríguez (ESP)",
+          "team": "Team Katusha",
+          "time": "+ 10' 25\""
+        }
+      ]
+    },
+    {
+      "stage": 18,
+      "riders": [
+        {
+          "rank": 1,
+          "name": "Alberto Contador (ESP)",
+          "team": "Saxo Bank–SunGard",
+          "time": "71h 45' 09\""
+        },
+        {
+          "rank": 2,
+          "name": "Michele Scarponi (ITA)",
+          "team": "Lampre–ISD",
+          "time": "+ 4' 58\""
+        },
+        {
+          "rank": 3,
+          "name": "Vincenzo Nibali (ITA)",
+          "team": "Liquigas–Cannondale",
+          "time": "+ 5' 45\""
+        },
+        {
+          "rank": 4,
+          "name": "John Gadret (FRA)",
+          "team": "Ag2r–La Mondiale",
+          "time": "+ 7' 35\""
+        },
+        {
+          "rank": 5,
+          "name": "Kanstantsin Sivtsov (BLR)",
+          "team": "HTC–Highroad",
+          "time": "+ 9' 12\""
+        },
+        {
+          "rank": 6,
+          "name": "José Rujano (VEN)",
+          "team": "Androni Giocattoli",
+          "time": "+ 9' 18\""
+        },
+        {
+          "rank": 7,
+          "name": "Mikel Nieve (ESP)",
+          "team": "Euskaltel–Euskadi",
+          "time": "+ 9' 22\""
+        },
+        {
+          "rank": 8,
+          "name": "Denis Menchov (RUS)",
+          "team": "Geox–TMC",
+          "time": "+ 9' 38\""
+        },
+        {
+          "rank": 9,
+          "name": "Roman Kreuziger (CZE)",
+          "team": "Astana",
+          "time": "+ 9' 47\""
+        },
+        {
+          "rank": 10,
+          "name": "Joaquim Rodríguez (ESP)",
+          "team": "Team Katusha",
+          "time": "+ 10' 25\""
+        }
+      ]
+    },
+    {
+      "stage": 19,
+      "riders": [
+        {
+          "rank": 1,
+          "name": "Alberto Contador (ESP)",
+          "team": "Saxo Bank–SunGard",
+          "time": "77h 11' 24\""
+        },
+        {
+          "rank": 2,
+          "name": "Michele Scarponi (ITA)",
+          "team": "Lampre–ISD",
+          "time": "+ 5' 18\""
+        },
+        {
+          "rank": 3,
+          "name": "Vincenzo Nibali (ITA)",
+          "team": "Liquigas–Cannondale",
+          "time": "+ 5' 52\""
+        },
+        {
+          "rank": 4,
+          "name": "John Gadret (FRA)",
+          "team": "Ag2r–La Mondiale",
+          "time": "+ 7' 53\""
+        },
+        {
+          "rank": 5,
+          "name": "Kanstantsin Sivtsov (BLR)",
+          "team": "HTC–Highroad",
+          "time": "+ 9' 58\""
+        },
+        {
+          "rank": 6,
+          "name": "Mikel Nieve (ESP)",
+          "team": "Euskaltel–Euskadi",
+          "time": "+ 10' 08\""
+        },
+        {
+          "rank": 7,
+          "name": "Roman Kreuziger (CZE)",
+          "team": "Astana",
+          "time": "+ 10' 20\""
+        },
+        {
+          "rank": 8,
+          "name": "Joaquim Rodríguez (ESP)",
+          "team": "Team Katusha",
+          "time": "+ 10' 43\""
+        },
+        {
+          "rank": 9,
+          "name": "Denis Menchov (RUS)",
+          "team": "Geox–TMC",
+          "time": "+ 10' 51\""
+        },
+        {
+          "rank": 10,
+          "name": "José Rujano (VEN)",
+          "team": "Androni Giocattoli",
+          "time": "+ 11' 50\""
+        }
+      ]
+    },
+    {
+      "stage": 20,
+      "riders": [
+        {
+          "rank": 1,
+          "name": "Alberto Contador (ESP)",
+          "team": "Saxo Bank–SunGard",
+          "time": "83h 34' 25\""
+        },
+        {
+          "rank": 2,
+          "name": "Michele Scarponi (ITA)",
+          "team": "Lampre–ISD",
+          "time": "+ 5' 18\""
+        },
+        {
+          "rank": 3,
+          "name": "Vincenzo Nibali (ITA)",
+          "team": "Liquigas–Cannondale",
+          "time": "+ 6' 14\""
+        },
+        {
+          "rank": 4,
+          "name": "John Gadret (FRA)",
+          "team": "Ag2r–La Mondiale",
+          "time": "+ 7' 49\""
+        },
+        {
+          "rank": 5,
+          "name": "Joaquim Rodríguez (ESP)",
+          "team": "Team Katusha",
+          "time": "+ 9' 27\""
+        },
+        {
+          "rank": 6,
+          "name": "José Rujano (VEN)",
+          "team": "Androni Giocattoli",
+          "time": "+ 10' 23\""
+        },
+        {
+          "rank": 7,
+          "name": "Roman Kreuziger (CZE)",
+          "team": "Astana",
+          "time": "+ 10' 38\""
+        },
+        {
+          "rank": 8,
+          "name": "Denis Menchov (RUS)",
+          "team": "Geox–TMC",
+          "time": "+ 10' 51\""
+        },
+        {
+          "rank": 9,
+          "name": "Steven Kruijswijk (NED)",
+          "team": "Rabobank",
+          "time": "+ 12' 56\""
+        },
+        {
+          "rank": 10,
+          "name": "Mikel Nieve (ESP)",
+          "team": "Euskaltel–Euskadi",
+          "time": "+ 12' 57\""
+        }
+      ]
+    },
+    {
+      "stage": 21,
+      "riders": [
+        {
+          "rank": 1,
+          "name": "Alberto Contador (ESP)",
+          "team": "Saxo Bank–SunGard",
+          "time": "84h 05' 14\""
+        },
+        {
+          "rank": 2,
+          "name": "Michele Scarponi (ITA)",
+          "team": "Lampre–ISD",
+          "time": "+ 6' 10\""
+        },
+        {
+          "rank": 3,
+          "name": "Vincenzo Nibali (ITA)",
+          "team": "Liquigas–Cannondale",
+          "time": "+ 6' 56\""
+        },
+        {
+          "rank": 4,
+          "name": "John Gadret (FRA)",
+          "team": "Ag2r–La Mondiale",
+          "time": "+ 10' 04\""
+        },
+        {
+          "rank": 5,
+          "name": "Joaquim Rodríguez (ESP)",
+          "team": "Team Katusha",
+          "time": "+ 11' 05\""
+        },
+        {
+          "rank": 6,
+          "name": "Roman Kreuziger (CZE)",
+          "team": "Astana",
+          "time": "+ 11' 28\""
+        },
+        {
+          "rank": 7,
+          "name": "José Rujano (VEN)",
+          "team": "Androni Giocattoli",
+          "time": "+ 12' 12\""
+        },
+        {
+          "rank": 8,
+          "name": "Denis Menchov (RUS)",
+          "team": "Geox–TMC",
+          "time": "+ 12' 18\""
+        },
+        {
+          "rank": 9,
+          "name": "Steven Kruijswijk (NED)",
+          "team": "Rabobank",
+          "time": "+ 13' 51\""
+        },
+        {
+          "rank": 10,
+          "name": "Kanstantsin Sivtsov (BLR)",
+          "team": "HTC–Highroad",
+          "time": "+ 14' 10\""
+        }
+      ]
+    }
+  ]
+}

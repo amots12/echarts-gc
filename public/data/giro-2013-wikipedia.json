@@ -1,0 +1,1371 @@
+{
+  "race": "Giro d%27Italia",
+  "year": 2013,
+  "stages": [
+    {
+      "stage": 1,
+      "riders": [
+        {
+          "rank": 1,
+          "name": "Mark Cavendish (GBR)",
+          "team": "Omega Pharma–Quick-Step",
+          "time": "2h 58' 18\""
+        },
+        {
+          "rank": 2,
+          "name": "Elia Viviani (ITA)",
+          "team": "Cannondale",
+          "time": "+ 8\""
+        },
+        {
+          "rank": 3,
+          "name": "Nacer Bouhanni (FRA)",
+          "team": "FDJ",
+          "time": "+ 12\""
+        },
+        {
+          "rank": 4,
+          "name": "Danilo Hondo (GER)",
+          "team": "RadioShack–Leopard",
+          "time": "+ 16\""
+        },
+        {
+          "rank": 5,
+          "name": "Marco Marcato (ITA)",
+          "team": "Vacansoleil–DCM",
+          "time": "+ 18\""
+        },
+        {
+          "rank": 6,
+          "name": "Giacomo Nizzolo (ITA)",
+          "team": "RadioShack–Leopard",
+          "time": "+ 20\""
+        },
+        {
+          "rank": 7,
+          "name": "Matthew Goss (AUS)",
+          "team": "Orica–GreenEDGE",
+          "time": "+ 20\""
+        },
+        {
+          "rank": 8,
+          "name": "Francisco Ventoso (ESP)",
+          "team": "Movistar Team",
+          "time": "+ 20\""
+        },
+        {
+          "rank": 9,
+          "name": "Adam Blythe (GBR)",
+          "team": "BMC Racing Team",
+          "time": "+ 20\""
+        },
+        {
+          "rank": 10,
+          "name": "Leigh Howard (AUS)",
+          "team": "Orica–GreenEDGE",
+          "time": "+ 20\""
+        }
+      ]
+    },
+    {
+      "stage": 2,
+      "riders": [
+        {
+          "rank": 1,
+          "name": "Salvatore Puccio (ITA)",
+          "team": "Team Sky",
+          "time": "3h 20' 43\""
+        },
+        {
+          "rank": 2,
+          "name": "Bradley Wiggins (GBR)",
+          "team": "Team Sky",
+          "time": "+ 0\""
+        },
+        {
+          "rank": 3,
+          "name": "Sergio Henao (COL)",
+          "team": "Team Sky",
+          "time": "+ 0\""
+        },
+        {
+          "rank": 4,
+          "name": "Dario Cataldo (ITA)",
+          "team": "Team Sky",
+          "time": "+ 0\""
+        },
+        {
+          "rank": 5,
+          "name": "Rigoberto Urán (COL)",
+          "team": "Team Sky",
+          "time": "+ 0\""
+        },
+        {
+          "rank": 6,
+          "name": "Beñat Intxausti (ESP)",
+          "team": "Movistar Team",
+          "time": "+ 9\""
+        },
+        {
+          "rank": 7,
+          "name": "Giovanni Visconti (ITA)",
+          "team": "Movistar Team",
+          "time": "+ 9\""
+        },
+        {
+          "rank": 8,
+          "name": "José Herrada (ESP)",
+          "team": "Movistar Team",
+          "time": "+ 9\""
+        },
+        {
+          "rank": 9,
+          "name": "Alex Dowsett (GBR)",
+          "team": "Movistar Team",
+          "time": "+ 9\""
+        },
+        {
+          "rank": 10,
+          "name": "Eros Capecchi (ITA)",
+          "team": "Movistar Team",
+          "time": "+ 9\""
+        }
+      ]
+    },
+    {
+      "stage": 3,
+      "riders": [
+        {
+          "rank": 1,
+          "name": "Luca Paolini (ITA)",
+          "team": "Team Katusha",
+          "time": "9h 04' 32\""
+        },
+        {
+          "rank": 2,
+          "name": "Bradley Wiggins (GBR)",
+          "team": "Team Sky",
+          "time": "+ 17\""
+        },
+        {
+          "rank": 3,
+          "name": "Rigoberto Urán (COL)",
+          "team": "Team Sky",
+          "time": "+ 17\""
+        },
+        {
+          "rank": 4,
+          "name": "Beñat Intxausti (ESP)",
+          "team": "Movistar Team",
+          "time": "+ 26\""
+        },
+        {
+          "rank": 5,
+          "name": "Vincenzo Nibali (ITA)",
+          "team": "Astana",
+          "time": "+ 31\""
+        },
+        {
+          "rank": 6,
+          "name": "Valerio Agnoli (ITA)",
+          "team": "Astana",
+          "time": "+ 31\""
+        },
+        {
+          "rank": 7,
+          "name": "Ryder Hesjedal (CAN)",
+          "team": "Garmin–Sharp",
+          "time": "+ 34\""
+        },
+        {
+          "rank": 8,
+          "name": "Giampaolo Caruso (ITA)",
+          "team": "Team Katusha",
+          "time": "+ 36\""
+        },
+        {
+          "rank": 9,
+          "name": "Yuri Trofimov (RUS)",
+          "team": "Team Katusha",
+          "time": "+ 36\""
+        },
+        {
+          "rank": 10,
+          "name": "Sergio Henao (COL)",
+          "team": "Team Sky",
+          "time": "+ 37\""
+        }
+      ]
+    },
+    {
+      "stage": 4,
+      "riders": [
+        {
+          "rank": 1,
+          "name": "Luca Paolini (ITA)",
+          "team": "Team Katusha",
+          "time": "15h 18' 51\""
+        },
+        {
+          "rank": 2,
+          "name": "Rigoberto Urán (COL)",
+          "team": "Team Sky",
+          "time": "+ 17\""
+        },
+        {
+          "rank": 3,
+          "name": "Beñat Intxausti (ESP)",
+          "team": "Movistar Team",
+          "time": "+ 26\""
+        },
+        {
+          "rank": 4,
+          "name": "Vincenzo Nibali (ITA)",
+          "team": "Astana",
+          "time": "+ 31\""
+        },
+        {
+          "rank": 5,
+          "name": "Ryder Hesjedal (CAN)",
+          "team": "Garmin–Sharp",
+          "time": "+ 34\""
+        },
+        {
+          "rank": 6,
+          "name": "Bradley Wiggins (GBR)",
+          "team": "Team Sky",
+          "time": "+ 34\""
+        },
+        {
+          "rank": 7,
+          "name": "Giampaolo Caruso (ITA)",
+          "team": "Team Katusha",
+          "time": "+ 36\""
+        },
+        {
+          "rank": 8,
+          "name": "Sergio Henao (COL)",
+          "team": "Team Sky",
+          "time": "+ 37\""
+        },
+        {
+          "rank": 9,
+          "name": "Mauro Santambrogio (ITA)",
+          "team": "Vini Fantini–Selle Italia",
+          "time": "+ 39\""
+        },
+        {
+          "rank": 10,
+          "name": "Cadel Evans (AUS)",
+          "team": "BMC Racing Team",
+          "time": "+ 42\""
+        }
+      ]
+    },
+    {
+      "stage": 5,
+      "riders": [
+        {
+          "rank": 1,
+          "name": "Luca Paolini (ITA)",
+          "team": "Team Katusha",
+          "time": "19h 56' 39\""
+        },
+        {
+          "rank": 2,
+          "name": "Rigoberto Urán (COL)",
+          "team": "Team Sky",
+          "time": "+ 17\""
+        },
+        {
+          "rank": 3,
+          "name": "Beñat Intxausti (ESP)",
+          "team": "Movistar Team",
+          "time": "+ 26\""
+        },
+        {
+          "rank": 4,
+          "name": "Vincenzo Nibali (ITA)",
+          "team": "Astana",
+          "time": "+ 31\""
+        },
+        {
+          "rank": 5,
+          "name": "Ryder Hesjedal (CAN)",
+          "team": "Garmin–Sharp",
+          "time": "+ 34\""
+        },
+        {
+          "rank": 6,
+          "name": "Bradley Wiggins (GBR)",
+          "team": "Team Sky",
+          "time": "+ 34\""
+        },
+        {
+          "rank": 7,
+          "name": "Giampaolo Caruso (ITA)",
+          "team": "Team Katusha",
+          "time": "+ 36\""
+        },
+        {
+          "rank": 8,
+          "name": "Sergio Henao (COL)",
+          "team": "Team Sky",
+          "time": "+ 37\""
+        },
+        {
+          "rank": 9,
+          "name": "Mauro Santambrogio (ITA)",
+          "team": "Vini Fantini–Selle Italia",
+          "time": "+ 39\""
+        },
+        {
+          "rank": 10,
+          "name": "Cadel Evans (AUS)",
+          "team": "BMC Racing Team",
+          "time": "+ 42\""
+        }
+      ]
+    },
+    {
+      "stage": 6,
+      "riders": [
+        {
+          "rank": 1,
+          "name": "Luca Paolini (ITA)",
+          "team": "Team Katusha",
+          "time": "23h 52' 42\""
+        },
+        {
+          "rank": 2,
+          "name": "Rigoberto Urán (COL)",
+          "team": "Team Sky",
+          "time": "+ 17\""
+        },
+        {
+          "rank": 3,
+          "name": "Beñat Intxausti (ESP)",
+          "team": "Movistar Team",
+          "time": "+ 26\""
+        },
+        {
+          "rank": 4,
+          "name": "Vincenzo Nibali (ITA)",
+          "team": "Astana",
+          "time": "+ 31\""
+        },
+        {
+          "rank": 5,
+          "name": "Ryder Hesjedal (CAN)",
+          "team": "Garmin–Sharp",
+          "time": "+ 34\""
+        },
+        {
+          "rank": 6,
+          "name": "Bradley Wiggins (GBR)",
+          "team": "Team Sky",
+          "time": "+ 34\""
+        },
+        {
+          "rank": 7,
+          "name": "Giampaolo Caruso (ITA)",
+          "team": "Team Katusha",
+          "time": "+ 36\""
+        },
+        {
+          "rank": 8,
+          "name": "Sergio Henao (COL)",
+          "team": "Team Sky",
+          "time": "+ 37\""
+        },
+        {
+          "rank": 9,
+          "name": "Mauro Santambrogio (ITA)",
+          "team": "Vini Fantini–Selle Italia",
+          "time": "+ 39\""
+        },
+        {
+          "rank": 10,
+          "name": "Cadel Evans (AUS)",
+          "team": "BMC Racing Team",
+          "time": "+ 42\""
+        }
+      ]
+    },
+    {
+      "stage": 7,
+      "riders": [
+        {
+          "rank": 1,
+          "name": "Beñat Intxausti (ESP)",
+          "team": "Movistar Team",
+          "time": "28h 30' 04\""
+        },
+        {
+          "rank": 2,
+          "name": "Vincenzo Nibali (ITA)",
+          "team": "Astana",
+          "time": "+ 5\""
+        },
+        {
+          "rank": 3,
+          "name": "Ryder Hesjedal (CAN)",
+          "team": "Garmin–Sharp",
+          "time": "+ 8\""
+        },
+        {
+          "rank": 4,
+          "name": "Giampaolo Caruso (ITA)",
+          "team": "Team Katusha",
+          "time": "+ 10\""
+        },
+        {
+          "rank": 5,
+          "name": "Mauro Santambrogio (ITA)",
+          "team": "Vini Fantini–Selle Italia",
+          "time": "+ 13\""
+        },
+        {
+          "rank": 6,
+          "name": "Cadel Evans (AUS)",
+          "team": "BMC Racing Team",
+          "time": "+ 16\""
+        },
+        {
+          "rank": 7,
+          "name": "Robert Gesink (NED)",
+          "team": "Blanco Pro Cycling",
+          "time": "+ 19\""
+        },
+        {
+          "rank": 8,
+          "name": "Ivan Santaromita (ITA)",
+          "team": "BMC Racing Team",
+          "time": "+ 26\""
+        },
+        {
+          "rank": 9,
+          "name": "Pieter Weening (NED)",
+          "team": "Orica–GreenEDGE",
+          "time": "+ 29\""
+        },
+        {
+          "rank": 10,
+          "name": "Robert Kišerlovski (CRO)",
+          "team": "RadioShack–Leopard",
+          "time": "+ 34\""
+        }
+      ]
+    },
+    {
+      "stage": 8,
+      "riders": [
+        {
+          "rank": 1,
+          "name": "Vincenzo Nibali (ITA)",
+          "team": "Astana",
+          "time": "29h 46' 57\""
+        },
+        {
+          "rank": 2,
+          "name": "Cadel Evans (AUS)",
+          "team": "BMC Racing Team",
+          "time": "+ 29\""
+        },
+        {
+          "rank": 3,
+          "name": "Robert Gesink (NED)",
+          "team": "Blanco Pro Cycling",
+          "time": "+ 1' 15\""
+        },
+        {
+          "rank": 4,
+          "name": "Bradley Wiggins (GBR)",
+          "team": "Team Sky",
+          "time": "+ 1' 16\""
+        },
+        {
+          "rank": 5,
+          "name": "Michele Scarponi (ITA)",
+          "team": "Lampre–Merida",
+          "time": "+ 1' 24\""
+        },
+        {
+          "rank": 6,
+          "name": "Ryder Hesjedal (CAN)",
+          "team": "Garmin–Sharp",
+          "time": "+ 2' 05\""
+        },
+        {
+          "rank": 7,
+          "name": "Sergio Henao (COL)",
+          "team": "Team Sky",
+          "time": "+ 2' 11\""
+        },
+        {
+          "rank": 8,
+          "name": "Mauro Santambrogio (ITA)",
+          "team": "Vini Fantini–Selle Italia",
+          "time": "+ 2' 43\""
+        },
+        {
+          "rank": 9,
+          "name": "Przemysław Niemiec (POL)",
+          "team": "Lampre–Merida",
+          "time": "+ 2' 44\""
+        },
+        {
+          "rank": 10,
+          "name": "Rigoberto Urán (COL)",
+          "team": "Team Sky",
+          "time": "+ 2' 49\""
+        }
+      ]
+    },
+    {
+      "stage": 9,
+      "riders": [
+        {
+          "rank": 1,
+          "name": "Vincenzo Nibali (ITA)",
+          "team": "Astana",
+          "time": "34h 19' 31\""
+        },
+        {
+          "rank": 2,
+          "name": "Cadel Evans (AUS)",
+          "team": "BMC Racing Team",
+          "time": "+ 29\""
+        },
+        {
+          "rank": 3,
+          "name": "Robert Gesink (NED)",
+          "team": "Blanco Pro Cycling",
+          "time": "+ 1' 15\""
+        },
+        {
+          "rank": 4,
+          "name": "Bradley Wiggins (GBR)",
+          "team": "Team Sky",
+          "time": "+ 1' 16\""
+        },
+        {
+          "rank": 5,
+          "name": "Michele Scarponi (ITA)",
+          "team": "Lampre–Merida",
+          "time": "+ 1' 24\""
+        },
+        {
+          "rank": 6,
+          "name": "Sergio Henao (COL)",
+          "team": "Team Sky",
+          "time": "+ 2' 11\""
+        },
+        {
+          "rank": 7,
+          "name": "Mauro Santambrogio (ITA)",
+          "team": "Vini Fantini–Selle Italia",
+          "time": "+ 2' 43\""
+        },
+        {
+          "rank": 8,
+          "name": "Przemysław Niemiec (POL)",
+          "team": "Lampre–Merida",
+          "time": "+ 2' 44\""
+        },
+        {
+          "rank": 9,
+          "name": "Rigoberto Urán (COL)",
+          "team": "Team Sky",
+          "time": "+ 2' 49\""
+        },
+        {
+          "rank": 10,
+          "name": "Tanel Kangert (EST)",
+          "team": "Astana",
+          "time": "+ 3' 02\""
+        }
+      ]
+    },
+    {
+      "stage": 10,
+      "riders": [
+        {
+          "rank": 1,
+          "name": "Vincenzo Nibali (ITA)",
+          "team": "Astana",
+          "time": "38h 57' 32\""
+        },
+        {
+          "rank": 2,
+          "name": "Cadel Evans (AUS)",
+          "team": "BMC Racing Team",
+          "time": "+ 41\""
+        },
+        {
+          "rank": 3,
+          "name": "Rigoberto Urán (COL)",
+          "team": "Team Sky",
+          "time": "+ 2' 04\""
+        },
+        {
+          "rank": 4,
+          "name": "Bradley Wiggins (GBR)",
+          "team": "Team Sky",
+          "time": "+ 2' 05\""
+        },
+        {
+          "rank": 5,
+          "name": "Robert Gesink (NED)",
+          "team": "Blanco Pro Cycling",
+          "time": "+ 2' 12\""
+        },
+        {
+          "rank": 6,
+          "name": "Michele Scarponi (ITA)",
+          "team": "Lampre–Merida",
+          "time": "+ 2' 13\""
+        },
+        {
+          "rank": 7,
+          "name": "Mauro Santambrogio (ITA)",
+          "team": "Vini Fantini–Selle Italia",
+          "time": "+ 2' 55\""
+        },
+        {
+          "rank": 8,
+          "name": "Przemysław Niemiec (POL)",
+          "team": "Lampre–Merida",
+          "time": "+ 3' 35\""
+        },
+        {
+          "rank": 9,
+          "name": "Domenico Pozzovivo (ITA)",
+          "team": "Ag2r–La Mondiale",
+          "time": "+ 4' 17\""
+        },
+        {
+          "rank": 10,
+          "name": "Rafał Majka (POL)",
+          "team": "Saxo–Tinkoff",
+          "time": "+ 4' 21\""
+        }
+      ]
+    },
+    {
+      "stage": 11,
+      "riders": [
+        {
+          "rank": 1,
+          "name": "Vincenzo Nibali (ITA)",
+          "team": "Astana",
+          "time": "43h 26' 27\""
+        },
+        {
+          "rank": 2,
+          "name": "Cadel Evans (AUS)",
+          "team": "BMC Racing Team",
+          "time": "+ 41\""
+        },
+        {
+          "rank": 3,
+          "name": "Rigoberto Urán (COL)",
+          "team": "Team Sky",
+          "time": "+ 2' 04\""
+        },
+        {
+          "rank": 4,
+          "name": "Bradley Wiggins (GBR)",
+          "team": "Team Sky",
+          "time": "+ 2' 05\""
+        },
+        {
+          "rank": 5,
+          "name": "Robert Gesink (NED)",
+          "team": "Blanco Pro Cycling",
+          "time": "+ 2' 12\""
+        },
+        {
+          "rank": 6,
+          "name": "Michele Scarponi (ITA)",
+          "team": "Lampre–Merida",
+          "time": "+ 2' 13\""
+        },
+        {
+          "rank": 7,
+          "name": "Mauro Santambrogio (ITA)",
+          "team": "Vini Fantini–Selle Italia",
+          "time": "+ 2' 55\""
+        },
+        {
+          "rank": 8,
+          "name": "Przemysław Niemiec (POL)",
+          "team": "Lampre–Merida",
+          "time": "+ 3' 35\""
+        },
+        {
+          "rank": 9,
+          "name": "Beñat Intxausti (ESP)",
+          "team": "Movistar Team",
+          "time": "+ 4' 05\""
+        },
+        {
+          "rank": 10,
+          "name": "Domenico Pozzovivo (ITA)",
+          "team": "Ag2r–La Mondiale",
+          "time": "+ 4' 17\""
+        }
+      ]
+    },
+    {
+      "stage": 12,
+      "riders": [
+        {
+          "rank": 1,
+          "name": "Vincenzo Nibali (ITA)",
+          "team": "Astana",
+          "time": "46h 28' 14\""
+        },
+        {
+          "rank": 2,
+          "name": "Cadel Evans (AUS)",
+          "team": "BMC Racing Team",
+          "time": "+ 41\""
+        },
+        {
+          "rank": 3,
+          "name": "Rigoberto Urán (COL)",
+          "team": "Team Sky",
+          "time": "+ 2' 04\""
+        },
+        {
+          "rank": 4,
+          "name": "Robert Gesink (NED)",
+          "team": "Blanco Pro Cycling",
+          "time": "+ 2' 12\""
+        },
+        {
+          "rank": 5,
+          "name": "Michele Scarponi (ITA)",
+          "team": "Lampre–Merida",
+          "time": "+ 2' 13\""
+        },
+        {
+          "rank": 6,
+          "name": "Mauro Santambrogio (ITA)",
+          "team": "Vini Fantini–Selle Italia",
+          "time": "+ 2' 55\""
+        },
+        {
+          "rank": 7,
+          "name": "Przemysław Niemiec (POL)",
+          "team": "Lampre–Merida",
+          "time": "+ 3' 35\""
+        },
+        {
+          "rank": 8,
+          "name": "Beñat Intxausti (ESP)",
+          "team": "Movistar Team",
+          "time": "+ 4' 05\""
+        },
+        {
+          "rank": 9,
+          "name": "Domenico Pozzovivo (ITA)",
+          "team": "Ag2r–La Mondiale",
+          "time": "+ 4' 17\""
+        },
+        {
+          "rank": 10,
+          "name": "Rafał Majka (POL)",
+          "team": "Saxo–Tinkoff",
+          "time": "+ 4' 21\""
+        }
+      ]
+    },
+    {
+      "stage": 13,
+      "riders": [
+        {
+          "rank": 1,
+          "name": "Vincenzo Nibali (ITA)",
+          "team": "Astana",
+          "time": "52h 38' 09\""
+        },
+        {
+          "rank": 2,
+          "name": "Cadel Evans (AUS)",
+          "team": "BMC Racing Team",
+          "time": "+ 41\""
+        },
+        {
+          "rank": 3,
+          "name": "Rigoberto Urán (COL)",
+          "team": "Team Sky",
+          "time": "+ 2' 04\""
+        },
+        {
+          "rank": 4,
+          "name": "Robert Gesink (NED)",
+          "team": "Blanco Pro Cycling",
+          "time": "+ 2' 12\""
+        },
+        {
+          "rank": 5,
+          "name": "Michele Scarponi (ITA)",
+          "team": "Lampre–Merida",
+          "time": "+ 2' 13\""
+        },
+        {
+          "rank": 6,
+          "name": "Mauro Santambrogio (ITA)",
+          "team": "Vini Fantini–Selle Italia",
+          "time": "+ 2' 55\""
+        },
+        {
+          "rank": 7,
+          "name": "Przemysław Niemiec (POL)",
+          "team": "Lampre–Merida",
+          "time": "+ 3' 35\""
+        },
+        {
+          "rank": 8,
+          "name": "Beñat Intxausti (ESP)",
+          "team": "Movistar Team",
+          "time": "+ 4' 05\""
+        },
+        {
+          "rank": 9,
+          "name": "Domenico Pozzovivo (ITA)",
+          "team": "Ag2r–La Mondiale",
+          "time": "+ 4' 17\""
+        },
+        {
+          "rank": 10,
+          "name": "Rafał Majka (POL)",
+          "team": "Saxo–Tinkoff",
+          "time": "+ 4' 21\""
+        }
+      ]
+    },
+    {
+      "stage": 14,
+      "riders": [
+        {
+          "rank": 1,
+          "name": "Vincenzo Nibali (ITA)",
+          "team": "Astana",
+          "time": "57h 20' 52\""
+        },
+        {
+          "rank": 2,
+          "name": "Cadel Evans (AUS)",
+          "team": "BMC Racing Team",
+          "time": "+ 1' 26\""
+        },
+        {
+          "rank": 3,
+          "name": "Rigoberto Urán (COL)",
+          "team": "Team Sky",
+          "time": "+ 2' 46\""
+        },
+        {
+          "rank": 4,
+          "name": "Mauro Santambrogio (ITA)",
+          "team": "Vini Fantini–Selle Italia",
+          "time": "+ 2' 47\""
+        },
+        {
+          "rank": 5,
+          "name": "Michele Scarponi (ITA)",
+          "team": "Lampre–Merida",
+          "time": "+ 3' 53\""
+        },
+        {
+          "rank": 6,
+          "name": "Przemysław Niemiec (POL)",
+          "team": "Lampre–Merida",
+          "time": "+ 4' 55\""
+        },
+        {
+          "rank": 7,
+          "name": "Domenico Pozzovivo (ITA)",
+          "team": "Ag2r–La Mondiale",
+          "time": "+ 5' 02\""
+        },
+        {
+          "rank": 8,
+          "name": "Rafał Majka (POL)",
+          "team": "Saxo–Tinkoff",
+          "time": "+ 5' 32\""
+        },
+        {
+          "rank": 9,
+          "name": "Carlos Betancur (COL)",
+          "team": "Ag2r–La Mondiale",
+          "time": "+ 5' 39\""
+        },
+        {
+          "rank": 10,
+          "name": "Beñat Intxausti (ESP)",
+          "team": "Movistar Team",
+          "time": "+ 5' 41\""
+        }
+      ]
+    },
+    {
+      "stage": 15,
+      "riders": [
+        {
+          "rank": 1,
+          "name": "Vincenzo Nibali (ITA)",
+          "team": "Astana",
+          "time": "62h 02' 34\""
+        },
+        {
+          "rank": 2,
+          "name": "Cadel Evans (AUS)",
+          "team": "BMC Racing Team",
+          "time": "+ 1' 26\""
+        },
+        {
+          "rank": 3,
+          "name": "Rigoberto Urán (COL)",
+          "team": "Team Sky",
+          "time": "+ 2' 46\""
+        },
+        {
+          "rank": 4,
+          "name": "Mauro Santambrogio (ITA)",
+          "team": "Vini Fantini–Selle Italia",
+          "time": "+ 2' 47\""
+        },
+        {
+          "rank": 5,
+          "name": "Michele Scarponi (ITA)",
+          "team": "Lampre–Merida",
+          "time": "+ 3' 53\""
+        },
+        {
+          "rank": 6,
+          "name": "Przemysław Niemiec (POL)",
+          "team": "Lampre–Merida",
+          "time": "+ 4' 35\""
+        },
+        {
+          "rank": 7,
+          "name": "Carlos Betancur (COL)",
+          "team": "Ag2r–La Mondiale",
+          "time": "+ 5' 15\""
+        },
+        {
+          "rank": 8,
+          "name": "Rafał Majka (POL)",
+          "team": "Saxo–Tinkoff",
+          "time": "+ 5' 20\""
+        },
+        {
+          "rank": 9,
+          "name": "Domenico Pozzovivo (ITA)",
+          "team": "Ag2r–La Mondiale",
+          "time": "+ 5' 57\""
+        },
+        {
+          "rank": 10,
+          "name": "Beñat Intxausti (ESP)",
+          "team": "Movistar Team",
+          "time": "+ 6' 21\""
+        }
+      ]
+    },
+    {
+      "stage": 16,
+      "riders": [
+        {
+          "rank": 1,
+          "name": "Vincenzo Nibali (ITA)",
+          "team": "Astana",
+          "time": "67h 55' 36\""
+        },
+        {
+          "rank": 2,
+          "name": "Cadel Evans (AUS)",
+          "team": "BMC Racing Team",
+          "time": "+ 1' 26\""
+        },
+        {
+          "rank": 3,
+          "name": "Rigoberto Urán (COL)",
+          "team": "Team Sky",
+          "time": "+ 2' 46\""
+        },
+        {
+          "rank": 4,
+          "name": "Michele Scarponi (ITA)",
+          "team": "Lampre–Merida",
+          "time": "+ 3' 53\""
+        },
+        {
+          "rank": 5,
+          "name": "Przemysław Niemiec (POL)",
+          "team": "Lampre–Merida",
+          "time": "+ 4' 13\""
+        },
+        {
+          "rank": 6,
+          "name": "Mauro Santambrogio (ITA)",
+          "team": "Vini Fantini–Selle Italia",
+          "time": "+ 4' 57\""
+        },
+        {
+          "rank": 7,
+          "name": "Carlos Betancur (COL)",
+          "team": "Ag2r–La Mondiale",
+          "time": "+ 5' 15\""
+        },
+        {
+          "rank": 8,
+          "name": "Rafał Majka (POL)",
+          "team": "Saxo–Tinkoff",
+          "time": "+ 5' 20\""
+        },
+        {
+          "rank": 9,
+          "name": "Beñat Intxausti (ESP)",
+          "team": "Movistar Team",
+          "time": "+ 5' 47\""
+        },
+        {
+          "rank": 10,
+          "name": "Robert Gesink (NED)",
+          "team": "Blanco Pro Cycling",
+          "time": "+ 7' 24\""
+        }
+      ]
+    },
+    {
+      "stage": 17,
+      "riders": [
+        {
+          "rank": 1,
+          "name": "Vincenzo Nibali (ITA)",
+          "team": "Astana",
+          "time": "73h 11' 29\""
+        },
+        {
+          "rank": 2,
+          "name": "Cadel Evans (AUS)",
+          "team": "BMC Racing Team",
+          "time": "+ 1' 26\""
+        },
+        {
+          "rank": 3,
+          "name": "Rigoberto Urán (COL)",
+          "team": "Team Sky",
+          "time": "+ 2' 46\""
+        },
+        {
+          "rank": 4,
+          "name": "Michele Scarponi (ITA)",
+          "team": "Lampre–Merida",
+          "time": "+ 3' 53\""
+        },
+        {
+          "rank": 5,
+          "name": "Przemysław Niemiec (POL)",
+          "team": "Lampre–Merida",
+          "time": "+ 4' 13\""
+        },
+        {
+          "rank": 6,
+          "name": "Mauro Santambrogio (ITA)",
+          "team": "Vini Fantini–Selle Italia",
+          "time": "+ 4' 57\""
+        },
+        {
+          "rank": 7,
+          "name": "Carlos Betancur (COL)",
+          "team": "Ag2r–La Mondiale",
+          "time": "+ 5' 15\""
+        },
+        {
+          "rank": 8,
+          "name": "Rafał Majka (POL)",
+          "team": "Saxo–Tinkoff",
+          "time": "+ 5' 20\""
+        },
+        {
+          "rank": 9,
+          "name": "Beñat Intxausti (ESP)",
+          "team": "Movistar Team",
+          "time": "+ 5' 47\""
+        },
+        {
+          "rank": 10,
+          "name": "Robert Gesink (NED)",
+          "team": "Blanco Pro Cycling",
+          "time": "+ 7' 24\""
+        }
+      ]
+    },
+    {
+      "stage": 18,
+      "riders": [
+        {
+          "rank": 1,
+          "name": "Vincenzo Nibali (ITA)",
+          "team": "Astana",
+          "time": "73h 55' 58\""
+        },
+        {
+          "rank": 2,
+          "name": "Cadel Evans (AUS)",
+          "team": "BMC Racing Team",
+          "time": "+ 4' 02\""
+        },
+        {
+          "rank": 3,
+          "name": "Rigoberto Urán (COL)",
+          "team": "Team Sky",
+          "time": "+ 4' 12\""
+        },
+        {
+          "rank": 4,
+          "name": "Michele Scarponi (ITA)",
+          "team": "Lampre–Merida",
+          "time": "+ 5' 14\""
+        },
+        {
+          "rank": 5,
+          "name": "Przemysław Niemiec (POL)",
+          "team": "Lampre–Merida",
+          "time": "+ 6' 09\""
+        },
+        {
+          "rank": 6,
+          "name": "Rafał Majka (POL)",
+          "team": "Saxo–Tinkoff",
+          "time": "+ 6' 45\""
+        },
+        {
+          "rank": 7,
+          "name": "Carlos Betancur (COL)",
+          "team": "Ag2r–La Mondiale",
+          "time": "+ 6' 47\""
+        },
+        {
+          "rank": 8,
+          "name": "Mauro Santambrogio (ITA)",
+          "team": "Vini Fantini–Selle Italia",
+          "time": "+ 7' 30\""
+        },
+        {
+          "rank": 9,
+          "name": "Beñat Intxausti (ESP)",
+          "team": "Movistar Team",
+          "time": "+ 8' 36\""
+        },
+        {
+          "rank": 10,
+          "name": "Samuel Sánchez (ESP)",
+          "team": "Euskaltel–Euskadi",
+          "time": "+ 9' 34\""
+        }
+      ]
+    },
+    {
+      "stage": 19,
+      "riders": [
+        {
+          "rank": 1,
+          "name": "Vincenzo Nibali (ITA)",
+          "team": "Astana",
+          "time": "73h 55' 58\""
+        },
+        {
+          "rank": 2,
+          "name": "Cadel Evans (AUS)",
+          "team": "BMC Racing Team",
+          "time": "+ 4' 02\""
+        },
+        {
+          "rank": 3,
+          "name": "Rigoberto Urán (COL)",
+          "team": "Team Sky",
+          "time": "+ 4' 12\""
+        },
+        {
+          "rank": 4,
+          "name": "Michele Scarponi (ITA)",
+          "team": "Lampre–Merida",
+          "time": "+ 5' 14\""
+        },
+        {
+          "rank": 5,
+          "name": "Przemysław Niemiec (POL)",
+          "team": "Lampre–Merida",
+          "time": "+ 6' 09\""
+        },
+        {
+          "rank": 6,
+          "name": "Rafał Majka (POL)",
+          "team": "Saxo–Tinkoff",
+          "time": "+ 6' 45\""
+        },
+        {
+          "rank": 7,
+          "name": "Carlos Betancur (COL)",
+          "team": "Ag2r–La Mondiale",
+          "time": "+ 6' 47\""
+        },
+        {
+          "rank": 8,
+          "name": "Mauro Santambrogio (ITA)",
+          "team": "Vini Fantini–Selle Italia",
+          "time": "+ 7' 30\""
+        },
+        {
+          "rank": 9,
+          "name": "Beñat Intxausti (ESP)",
+          "team": "Movistar Team",
+          "time": "+ 8' 36\""
+        },
+        {
+          "rank": 10,
+          "name": "Samuel Sánchez (ESP)",
+          "team": "Euskaltel–Euskadi",
+          "time": "+ 9' 34\""
+        }
+      ]
+    },
+    {
+      "stage": 20,
+      "riders": [
+        {
+          "rank": 1,
+          "name": "Vincenzo Nibali (ITA)",
+          "team": "Astana",
+          "time": "79h 23' 19\""
+        },
+        {
+          "rank": 2,
+          "name": "Rigoberto Urán (COL)",
+          "team": "Team Sky",
+          "time": "+ 4' 43\""
+        },
+        {
+          "rank": 3,
+          "name": "Cadel Evans (AUS)",
+          "team": "BMC Racing Team",
+          "time": "+ 5' 52\""
+        },
+        {
+          "rank": 4,
+          "name": "Michele Scarponi (ITA)",
+          "team": "Lampre–Merida",
+          "time": "+ 6' 48\""
+        },
+        {
+          "rank": 5,
+          "name": "Carlos Betancur (COL)",
+          "team": "Ag2r–La Mondiale",
+          "time": "+ 7' 28\""
+        },
+        {
+          "rank": 6,
+          "name": "Przemysław Niemiec (POL)",
+          "team": "Lampre–Merida",
+          "time": "+ 7' 43\""
+        },
+        {
+          "rank": 7,
+          "name": "Rafał Majka (POL)",
+          "team": "Saxo–Tinkoff",
+          "time": "+ 8' 09\""
+        },
+        {
+          "rank": 8,
+          "name": "Beñat Intxausti (ESP)",
+          "team": "Movistar Team",
+          "time": "+ 10' 26\""
+        },
+        {
+          "rank": 9,
+          "name": "Mauro Santambrogio (ITA)",
+          "team": "Vini Fantini–Selle Italia",
+          "time": "+ 10' 32\""
+        },
+        {
+          "rank": 10,
+          "name": "Domenico Pozzovivo (ITA)",
+          "team": "Ag2r–La Mondiale",
+          "time": "+ 10' 59\""
+        }
+      ]
+    },
+    {
+      "stage": 21,
+      "riders": [
+        {
+          "rank": 1,
+          "name": "Vincenzo Nibali (ITA)",
+          "team": "Astana",
+          "time": "84h 53' 28\""
+        },
+        {
+          "rank": 2,
+          "name": "Rigoberto Urán (COL)",
+          "team": "Team Sky",
+          "time": "+ 4' 43\""
+        },
+        {
+          "rank": 3,
+          "name": "Cadel Evans (AUS)",
+          "team": "BMC Racing Team",
+          "time": "+ 5' 52\""
+        },
+        {
+          "rank": 4,
+          "name": "Michele Scarponi (ITA)",
+          "team": "Lampre–Merida",
+          "time": "+ 6' 48\""
+        },
+        {
+          "rank": 5,
+          "name": "Carlos Betancur (COL)",
+          "team": "Ag2r–La Mondiale",
+          "time": "+ 7' 28\""
+        },
+        {
+          "rank": 6,
+          "name": "Przemysław Niemiec (POL)",
+          "team": "Lampre–Merida",
+          "time": "+ 7' 43\""
+        },
+        {
+          "rank": 7,
+          "name": "Rafał Majka (POL)",
+          "team": "Saxo–Tinkoff",
+          "time": "+ 8' 09\""
+        },
+        {
+          "rank": 8,
+          "name": "Beñat Intxausti (ESP)",
+          "team": "Movistar Team",
+          "time": "+ 10' 26\""
+        },
+        {
+          "rank": 9,
+          "name": "Mauro Santambrogio (ITA)",
+          "team": "Vini Fantini–Selle Italia",
+          "time": "+ 10' 32\""
+        },
+        {
+          "rank": 10,
+          "name": "Domenico Pozzovivo (ITA)",
+          "team": "Ag2r–La Mondiale",
+          "time": "+ 10' 59\""
+        }
+      ]
+    }
+  ]
+}

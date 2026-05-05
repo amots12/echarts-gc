@@ -1,0 +1,1371 @@
+{
+  "race": "Giro d%27Italia",
+  "year": 2016,
+  "stages": [
+    {
+      "stage": 1,
+      "riders": [
+        {
+          "rank": 1,
+          "name": "Tom Dumoulin (NED)",
+          "team": "Team Giant–Alpecin",
+          "time": "11' 03\""
+        },
+        {
+          "rank": 2,
+          "name": "Primož Roglič (SLO)",
+          "team": "LottoNL–Jumbo",
+          "time": "s.t."
+        },
+        {
+          "rank": 3,
+          "name": "Andrey Amador (CRC)",
+          "team": "Movistar Team",
+          "time": "+ 6\""
+        },
+        {
+          "rank": 4,
+          "name": "Tobias Ludvigsson (SWE)",
+          "team": "Team Giant–Alpecin",
+          "time": "+ 8\""
+        },
+        {
+          "rank": 5,
+          "name": "Marcel Kittel (GER)",
+          "team": "Etixx–Quick-Step",
+          "time": "+ 11\""
+        },
+        {
+          "rank": 6,
+          "name": "Moreno Moser (ITA)",
+          "team": "Cannondale",
+          "time": "+ 12\""
+        },
+        {
+          "rank": 7,
+          "name": "Bob Jungels (LUX)",
+          "team": "Etixx–Quick-Step",
+          "time": "+ 13\""
+        },
+        {
+          "rank": 8,
+          "name": "Fabian Cancellara (SUI)",
+          "team": "Trek–Segafredo",
+          "time": "+ 14\""
+        },
+        {
+          "rank": 9,
+          "name": "Matthias Brändle (AUT)",
+          "team": "IAM Cycling",
+          "time": "+ 14\""
+        },
+        {
+          "rank": 10,
+          "name": "Silvan Dillier (SUI)",
+          "team": "BMC Racing Team",
+          "time": "+ 16\""
+        }
+      ]
+    },
+    {
+      "stage": 2,
+      "riders": [
+        {
+          "rank": 1,
+          "name": "Tom Dumoulin (NED)",
+          "team": "Team Giant–Alpecin",
+          "time": "4h 49' 34\""
+        },
+        {
+          "rank": 2,
+          "name": "Primož Roglič (SLO)",
+          "team": "LottoNL–Jumbo",
+          "time": "+ 0\""
+        },
+        {
+          "rank": 3,
+          "name": "Marcel Kittel (GER)",
+          "team": "Etixx–Quick-Step",
+          "time": "+ 1\""
+        },
+        {
+          "rank": 4,
+          "name": "Andrey Amador (CRC)",
+          "team": "Movistar Team",
+          "time": "+ 6\""
+        },
+        {
+          "rank": 5,
+          "name": "Tobias Ludvigsson (SWE)",
+          "team": "Team Giant–Alpecin",
+          "time": "+ 8\""
+        },
+        {
+          "rank": 6,
+          "name": "Moreno Moser (ITA)",
+          "team": "Cannondale",
+          "time": "+ 12\""
+        },
+        {
+          "rank": 7,
+          "name": "Bob Jungels (LUX)",
+          "team": "Etixx–Quick-Step",
+          "time": "+ 13\""
+        },
+        {
+          "rank": 8,
+          "name": "Matthias Brändle (AUT)",
+          "team": "IAM Cycling",
+          "time": "+ 14\""
+        },
+        {
+          "rank": 9,
+          "name": "Silvan Dillier (SUI)",
+          "team": "BMC Racing Team",
+          "time": "+ 16\""
+        },
+        {
+          "rank": 10,
+          "name": "Roger Kluge (GER)",
+          "team": "IAM Cycling",
+          "time": "+ 16\""
+        }
+      ]
+    },
+    {
+      "stage": 3,
+      "riders": [
+        {
+          "rank": 1,
+          "name": "Marcel Kittel (GER)",
+          "team": "Etixx–Quick-Step",
+          "time": "9h 13' 10\""
+        },
+        {
+          "rank": 2,
+          "name": "Tom Dumoulin (NED)",
+          "team": "Team Giant–Alpecin",
+          "time": "+ 9\""
+        },
+        {
+          "rank": 3,
+          "name": "Andrey Amador (CRC)",
+          "team": "Movistar Team",
+          "time": "+ 15\""
+        },
+        {
+          "rank": 4,
+          "name": "Tobias Ludvigsson (SWE)",
+          "team": "Team Giant–Alpecin",
+          "time": "+ 17\""
+        },
+        {
+          "rank": 5,
+          "name": "Moreno Moser (ITA)",
+          "team": "Cannondale",
+          "time": "+ 21\""
+        },
+        {
+          "rank": 6,
+          "name": "Bob Jungels (LUX)",
+          "team": "Etixx–Quick-Step",
+          "time": "+ 22\""
+        },
+        {
+          "rank": 7,
+          "name": "Matthias Brändle (AUT)",
+          "team": "IAM Cycling",
+          "time": "+ 23\""
+        },
+        {
+          "rank": 8,
+          "name": "Roger Kluge (GER)",
+          "team": "IAM Cycling",
+          "time": "+ 25\""
+        },
+        {
+          "rank": 9,
+          "name": "Chad Haga (USA)",
+          "team": "Team Giant–Alpecin",
+          "time": "+ 25\""
+        },
+        {
+          "rank": 10,
+          "name": "Georg Preidler (AUT)",
+          "team": "Team Giant–Alpecin",
+          "time": "+ 26\""
+        }
+      ]
+    },
+    {
+      "stage": 4,
+      "riders": [
+        {
+          "rank": 1,
+          "name": "Tom Dumoulin (NED)",
+          "team": "Team Giant–Alpecin",
+          "time": "14h 00' 09\""
+        },
+        {
+          "rank": 2,
+          "name": "Bob Jungels (LUX)",
+          "team": "Etixx–Quick-Step",
+          "time": "+ 20\""
+        },
+        {
+          "rank": 3,
+          "name": "Diego Ulissi (ITA)",
+          "team": "Lampre–Merida",
+          "time": "+ 20\""
+        },
+        {
+          "rank": 4,
+          "name": "Steven Kruijswijk (NED)",
+          "team": "LottoNL–Jumbo",
+          "time": "+ 24\""
+        },
+        {
+          "rank": 5,
+          "name": "Georg Preidler (AUT)",
+          "team": "Team Giant–Alpecin",
+          "time": "+ 24\""
+        },
+        {
+          "rank": 6,
+          "name": "Vincenzo Nibali (ITA)",
+          "team": "XDS Astana Team",
+          "time": "+ 26\""
+        },
+        {
+          "rank": 7,
+          "name": "Alejandro Valverde (ESP)",
+          "team": "Movistar Team",
+          "time": "+ 31\""
+        },
+        {
+          "rank": 8,
+          "name": "Jakob Fuglsang (DEN)",
+          "team": "Astana",
+          "time": "+ 35\""
+        },
+        {
+          "rank": 9,
+          "name": "Nicolas Roche (IRL)",
+          "team": "Team Sky",
+          "time": "+ 37\""
+        },
+        {
+          "rank": 10,
+          "name": "Esteban Chaves (COL)",
+          "team": "Orica–GreenEDGE",
+          "time": "+ 37\""
+        }
+      ]
+    },
+    {
+      "stage": 5,
+      "riders": [
+        {
+          "rank": 1,
+          "name": "Tom Dumoulin (NED)",
+          "team": "Team Giant–Alpecin",
+          "time": "19h 40' 48\""
+        },
+        {
+          "rank": 2,
+          "name": "Bob Jungels (LUX)",
+          "team": "Etixx–Quick-Step",
+          "time": "+ 16\""
+        },
+        {
+          "rank": 3,
+          "name": "Diego Ulissi (ITA)",
+          "team": "Lampre–Merida",
+          "time": "+ 20\""
+        },
+        {
+          "rank": 4,
+          "name": "Georg Preidler (AUT)",
+          "team": "Team Giant–Alpecin",
+          "time": "+ 20\""
+        },
+        {
+          "rank": 5,
+          "name": "Steven Kruijswijk (NED)",
+          "team": "LottoNL–Jumbo",
+          "time": "+ 24\""
+        },
+        {
+          "rank": 6,
+          "name": "Vincenzo Nibali (ITA)",
+          "team": "XDS Astana Team",
+          "time": "+ 26\""
+        },
+        {
+          "rank": 7,
+          "name": "Alejandro Valverde (ESP)",
+          "team": "Movistar Team",
+          "time": "+ 27\""
+        },
+        {
+          "rank": 8,
+          "name": "Ilnur Zakarin (RUS)",
+          "team": "Team Katusha",
+          "time": "+ 35\""
+        },
+        {
+          "rank": 9,
+          "name": "Jakob Fuglsang (DEN)",
+          "team": "Astana",
+          "time": "+ 35\""
+        },
+        {
+          "rank": 10,
+          "name": "Nicolas Roche (IRL)",
+          "team": "Team Sky",
+          "time": "+ 37\""
+        }
+      ]
+    },
+    {
+      "stage": 6,
+      "riders": [
+        {
+          "rank": 1,
+          "name": "Tom Dumoulin (NED)",
+          "team": "Team Giant–Alpecin",
+          "time": "24h 22' 15\""
+        },
+        {
+          "rank": 2,
+          "name": "Jakob Fuglsang (DEN)",
+          "team": "Astana",
+          "time": "+ 26\""
+        },
+        {
+          "rank": 3,
+          "name": "Ilnur Zakarin (RUS)",
+          "team": "Team Katusha",
+          "time": "+ 28\""
+        },
+        {
+          "rank": 4,
+          "name": "Bob Jungels (LUX)",
+          "team": "Etixx–Quick-Step",
+          "time": "+ 35\""
+        },
+        {
+          "rank": 5,
+          "name": "Steven Kruijswijk (NED)",
+          "team": "LottoNL–Jumbo",
+          "time": "+ 38\""
+        },
+        {
+          "rank": 6,
+          "name": "Alejandro Valverde (ESP)",
+          "team": "Movistar Team",
+          "time": "+ 41\""
+        },
+        {
+          "rank": 7,
+          "name": "Diego Ulissi (ITA)",
+          "team": "Lampre–Merida",
+          "time": "+ 41\""
+        },
+        {
+          "rank": 8,
+          "name": "Esteban Chaves (COL)",
+          "team": "Orica–GreenEDGE",
+          "time": "+ 44\""
+        },
+        {
+          "rank": 9,
+          "name": "Vincenzo Nibali (ITA)",
+          "team": "XDS Astana Team",
+          "time": "+ 47\""
+        },
+        {
+          "rank": 10,
+          "name": "Kanstantsin Siutsou (BLR)",
+          "team": "Team Dimension Data",
+          "time": "+ 49\""
+        }
+      ]
+    },
+    {
+      "stage": 7,
+      "riders": [
+        {
+          "rank": 1,
+          "name": "Tom Dumoulin (NED)",
+          "team": "Team Giant–Alpecin",
+          "time": "29h 23' 23\""
+        },
+        {
+          "rank": 2,
+          "name": "Jakob Fuglsang (DEN)",
+          "team": "Astana",
+          "time": "+ 26\""
+        },
+        {
+          "rank": 3,
+          "name": "Ilnur Zakarin (RUS)",
+          "team": "Team Katusha",
+          "time": "+ 28\""
+        },
+        {
+          "rank": 4,
+          "name": "Bob Jungels (LUX)",
+          "team": "Etixx–Quick-Step",
+          "time": "+ 35\""
+        },
+        {
+          "rank": 5,
+          "name": "Steven Kruijswijk (NED)",
+          "team": "LottoNL–Jumbo",
+          "time": "+ 38\""
+        },
+        {
+          "rank": 6,
+          "name": "Alejandro Valverde (ESP)",
+          "team": "Movistar Team",
+          "time": "+ 41\""
+        },
+        {
+          "rank": 7,
+          "name": "Diego Ulissi (ITA)",
+          "team": "Lampre–Merida",
+          "time": "+ 41\""
+        },
+        {
+          "rank": 8,
+          "name": "Vincenzo Nibali (ITA)",
+          "team": "XDS Astana Team",
+          "time": "+ 47\""
+        },
+        {
+          "rank": 9,
+          "name": "Kanstantsin Siutsou (BLR)",
+          "team": "Team Dimension Data",
+          "time": "+ 49\""
+        },
+        {
+          "rank": 10,
+          "name": "Rigoberto Urán (COL)",
+          "team": "Cannondale",
+          "time": "+ 51\""
+        }
+      ]
+    },
+    {
+      "stage": 8,
+      "riders": [
+        {
+          "rank": 1,
+          "name": "Gianluca Brambilla (ITA)",
+          "team": "Etixx–Quick-Step",
+          "time": "33h 39' 14\""
+        },
+        {
+          "rank": 2,
+          "name": "Ilnur Zakarin (RUS)",
+          "team": "Team Katusha",
+          "time": "+ 23\""
+        },
+        {
+          "rank": 3,
+          "name": "Steven Kruijswijk (NED)",
+          "team": "LottoNL–Jumbo",
+          "time": "+ 33\""
+        },
+        {
+          "rank": 4,
+          "name": "Alejandro Valverde (ESP)",
+          "team": "Movistar Team",
+          "time": "+ 36\""
+        },
+        {
+          "rank": 5,
+          "name": "Vincenzo Nibali (ITA)",
+          "team": "XDS Astana Team",
+          "time": "+ 45\""
+        },
+        {
+          "rank": 6,
+          "name": "Esteban Chaves (COL)",
+          "team": "Orica–GreenEDGE",
+          "time": "+ 48\""
+        },
+        {
+          "rank": 7,
+          "name": "Rigoberto Urán (COL)",
+          "team": "Cannondale",
+          "time": "+ 49\""
+        },
+        {
+          "rank": 8,
+          "name": "Rafał Majka (POL)",
+          "team": "Tinkoff",
+          "time": "+ 54\""
+        },
+        {
+          "rank": 9,
+          "name": "Domenico Pozzovivo (ITA)",
+          "team": "AG2R La Mondiale",
+          "time": "+ 54\""
+        },
+        {
+          "rank": 10,
+          "name": "Mikel Landa (ESP)",
+          "team": "Team Sky",
+          "time": "+ 1' 03\""
+        }
+      ]
+    },
+    {
+      "stage": 9,
+      "riders": [
+        {
+          "rank": 1,
+          "name": "Gianluca Brambilla (ITA)",
+          "team": "Etixx–Quick-Step",
+          "time": "34h 33' 04\""
+        },
+        {
+          "rank": 2,
+          "name": "Bob Jungels (LUX)",
+          "team": "Etixx–Quick-Step",
+          "time": "+ 1\""
+        },
+        {
+          "rank": 3,
+          "name": "Andrey Amador (CRC)",
+          "team": "Movistar Team",
+          "time": "+ 32\""
+        },
+        {
+          "rank": 4,
+          "name": "Steven Kruijswijk (NED)",
+          "team": "LottoNL–Jumbo",
+          "time": "+ 51\""
+        },
+        {
+          "rank": 5,
+          "name": "Vincenzo Nibali (ITA)",
+          "team": "XDS Astana Team",
+          "time": "+ 53\""
+        },
+        {
+          "rank": 6,
+          "name": "Alejandro Valverde (ESP)",
+          "team": "Movistar Team",
+          "time": "+ 55\""
+        },
+        {
+          "rank": 7,
+          "name": "Tom Dumoulin (NED)",
+          "team": "Team Giant–Alpecin",
+          "time": "+ 58\""
+        },
+        {
+          "rank": 8,
+          "name": "Mikel Landa (ESP)",
+          "team": "Team Sky",
+          "time": "+ 1' 18\""
+        },
+        {
+          "rank": 9,
+          "name": "Rafał Majka (POL)",
+          "team": "Tinkoff",
+          "time": "+ 1' 45\""
+        },
+        {
+          "rank": 10,
+          "name": "Jakob Fuglsang (DEN)",
+          "team": "Astana",
+          "time": "+ 1' 51\""
+        }
+      ]
+    },
+    {
+      "stage": 10,
+      "riders": [
+        {
+          "rank": 1,
+          "name": "Bob Jungels (LUX)",
+          "team": "Etixx–Quick-Step",
+          "time": "40h 19' 52\""
+        },
+        {
+          "rank": 2,
+          "name": "Andrey Amador (CRC)",
+          "team": "Movistar Team",
+          "time": "+ 26\""
+        },
+        {
+          "rank": 3,
+          "name": "Alejandro Valverde (ESP)",
+          "team": "Movistar Team",
+          "time": "+ 50\""
+        },
+        {
+          "rank": 4,
+          "name": "Steven Kruijswijk (NED)",
+          "team": "LottoNL–Jumbo",
+          "time": "+ 50\""
+        },
+        {
+          "rank": 5,
+          "name": "Vincenzo Nibali (ITA)",
+          "team": "XDS Astana Team",
+          "time": "+ 52\""
+        },
+        {
+          "rank": 6,
+          "name": "Gianluca Brambilla (ITA)",
+          "team": "Etixx–Quick-Step",
+          "time": "+ 1' 11\""
+        },
+        {
+          "rank": 7,
+          "name": "Rafał Majka (POL)",
+          "team": "Tinkoff",
+          "time": "+ 1' 44\""
+        },
+        {
+          "rank": 8,
+          "name": "Jakob Fuglsang (DEN)",
+          "team": "Astana",
+          "time": "+ 1' 46\""
+        },
+        {
+          "rank": 9,
+          "name": "Ilnur Zakarin (RUS)",
+          "team": "Team Katusha",
+          "time": "+ 2' 08\""
+        },
+        {
+          "rank": 10,
+          "name": "Esteban Chaves (COL)",
+          "team": "Orica–GreenEDGE",
+          "time": "+ 2' 26\""
+        }
+      ]
+    },
+    {
+      "stage": 11,
+      "riders": [
+        {
+          "rank": 1,
+          "name": "Bob Jungels (LUX)",
+          "team": "Etixx–Quick-Step",
+          "time": "45h 16' 20\""
+        },
+        {
+          "rank": 2,
+          "name": "Andrey Amador (CRC)",
+          "team": "Movistar Team",
+          "time": "+ 24\""
+        },
+        {
+          "rank": 3,
+          "name": "Alejandro Valverde (ESP)",
+          "team": "Movistar Team",
+          "time": "+ 1' 07\""
+        },
+        {
+          "rank": 4,
+          "name": "Steven Kruijswijk (NED)",
+          "team": "LottoNL–Jumbo",
+          "time": "+ 1' 07\""
+        },
+        {
+          "rank": 5,
+          "name": "Vincenzo Nibali (ITA)",
+          "team": "XDS Astana Team",
+          "time": "+ 1' 09\""
+        },
+        {
+          "rank": 6,
+          "name": "Rafał Majka (POL)",
+          "team": "Tinkoff",
+          "time": "+ 2' 01\""
+        },
+        {
+          "rank": 7,
+          "name": "Ilnur Zakarin (RUS)",
+          "team": "Team Katusha",
+          "time": "+ 2' 25\""
+        },
+        {
+          "rank": 8,
+          "name": "Esteban Chaves (COL)",
+          "team": "Orica–GreenEDGE",
+          "time": "+ 2' 43\""
+        },
+        {
+          "rank": 9,
+          "name": "Gianluca Brambilla (ITA)",
+          "team": "Etixx–Quick-Step",
+          "time": "+ 2' 45\""
+        },
+        {
+          "rank": 10,
+          "name": "Diego Ulissi (ITA)",
+          "team": "Lampre–Merida",
+          "time": "+ 2' 47\""
+        }
+      ]
+    },
+    {
+      "stage": 12,
+      "riders": [
+        {
+          "rank": 1,
+          "name": "Bob Jungels (LUX)",
+          "team": "Etixx–Quick-Step",
+          "time": "49h 32' 20\""
+        },
+        {
+          "rank": 2,
+          "name": "Andrey Amador (CRC)",
+          "team": "Movistar Team",
+          "time": "+ 24\""
+        },
+        {
+          "rank": 3,
+          "name": "Alejandro Valverde (ESP)",
+          "team": "Movistar Team",
+          "time": "+ 1' 07\""
+        },
+        {
+          "rank": 4,
+          "name": "Steven Kruijswijk (NED)",
+          "team": "LottoNL–Jumbo",
+          "time": "+ 1' 07\""
+        },
+        {
+          "rank": 5,
+          "name": "Vincenzo Nibali (ITA)",
+          "team": "XDS Astana Team",
+          "time": "+ 1' 09\""
+        },
+        {
+          "rank": 6,
+          "name": "Rafał Majka (POL)",
+          "team": "Tinkoff",
+          "time": "+ 2' 01\""
+        },
+        {
+          "rank": 7,
+          "name": "Ilnur Zakarin (RUS)",
+          "team": "Team Katusha",
+          "time": "+ 2' 25\""
+        },
+        {
+          "rank": 8,
+          "name": "Esteban Chaves (COL)",
+          "team": "Orica–GreenEDGE",
+          "time": "+ 2' 43\""
+        },
+        {
+          "rank": 9,
+          "name": "Gianluca Brambilla (ITA)",
+          "team": "Etixx–Quick-Step",
+          "time": "+ 2' 45\""
+        },
+        {
+          "rank": 10,
+          "name": "Diego Ulissi (ITA)",
+          "team": "Lampre–Merida",
+          "time": "+ 2' 47\""
+        }
+      ]
+    },
+    {
+      "stage": 13,
+      "riders": [
+        {
+          "rank": 1,
+          "name": "Andrey Amador (CRC)",
+          "team": "Movistar Team",
+          "time": "54h 05' 50\""
+        },
+        {
+          "rank": 2,
+          "name": "Bob Jungels (LUX)",
+          "team": "Etixx–Quick-Step",
+          "time": "+ 26\""
+        },
+        {
+          "rank": 3,
+          "name": "Vincenzo Nibali (ITA)",
+          "team": "XDS Astana Team",
+          "time": "+ 41\""
+        },
+        {
+          "rank": 4,
+          "name": "Alejandro Valverde (ESP)",
+          "team": "Movistar Team",
+          "time": "+ 43\""
+        },
+        {
+          "rank": 5,
+          "name": "Steven Kruijswijk (NED)",
+          "team": "LottoNL–Jumbo",
+          "time": "+ 43\""
+        },
+        {
+          "rank": 6,
+          "name": "Rafał Majka (POL)",
+          "team": "Tinkoff",
+          "time": "+ 1' 37\""
+        },
+        {
+          "rank": 7,
+          "name": "Ilnur Zakarin (RUS)",
+          "team": "Team Katusha",
+          "time": "+ 2' 01\""
+        },
+        {
+          "rank": 8,
+          "name": "Esteban Chaves (COL)",
+          "team": "Orica–GreenEDGE",
+          "time": "+ 2' 19\""
+        },
+        {
+          "rank": 9,
+          "name": "Rigoberto Urán (COL)",
+          "team": "Cannondale",
+          "time": "+ 2' 48\""
+        },
+        {
+          "rank": 10,
+          "name": "Jakob Fuglsang (DEN)",
+          "team": "Astana",
+          "time": "+ 3' 15\""
+        }
+      ]
+    },
+    {
+      "stage": 14,
+      "riders": [
+        {
+          "rank": 1,
+          "name": "Steven Kruijswijk (NED)",
+          "team": "LottoNL–Jumbo",
+          "time": "60h 12' 43\""
+        },
+        {
+          "rank": 2,
+          "name": "Vincenzo Nibali (ITA)",
+          "team": "XDS Astana Team",
+          "time": "+ 41\""
+        },
+        {
+          "rank": 3,
+          "name": "Esteban Chaves (COL)",
+          "team": "Orica–GreenEDGE",
+          "time": "+ 1' 32\""
+        },
+        {
+          "rank": 4,
+          "name": "Alejandro Valverde (ESP)",
+          "team": "Movistar Team",
+          "time": "+ 3' 06\""
+        },
+        {
+          "rank": 5,
+          "name": "Andrey Amador (CRC)",
+          "team": "Movistar Team",
+          "time": "+ 3' 15\""
+        },
+        {
+          "rank": 6,
+          "name": "Rafał Majka (POL)",
+          "team": "Tinkoff",
+          "time": "+ 3' 29\""
+        },
+        {
+          "rank": 7,
+          "name": "Ilnur Zakarin (RUS)",
+          "team": "Team Katusha",
+          "time": "+ 3' 53\""
+        },
+        {
+          "rank": 8,
+          "name": "Rigoberto Urán (COL)",
+          "team": "Cannondale",
+          "time": "+ 5' 01\""
+        },
+        {
+          "rank": 9,
+          "name": "Kanstantsin Siutsou (BLR)",
+          "team": "Team Dimension Data",
+          "time": "+ 5' 38\""
+        },
+        {
+          "rank": 10,
+          "name": "Jakob Fuglsang (DEN)",
+          "team": "Astana",
+          "time": "+ 5' 38\""
+        }
+      ]
+    },
+    {
+      "stage": 15,
+      "riders": [
+        {
+          "rank": 1,
+          "name": "Steven Kruijswijk (NED)",
+          "team": "LottoNL–Jumbo",
+          "time": "60h 41' 22\""
+        },
+        {
+          "rank": 2,
+          "name": "Esteban Chaves (COL)",
+          "team": "Orica–GreenEDGE",
+          "time": "+ 2' 12\""
+        },
+        {
+          "rank": 3,
+          "name": "Vincenzo Nibali (ITA)",
+          "team": "XDS Astana Team",
+          "time": "+ 2' 51\""
+        },
+        {
+          "rank": 4,
+          "name": "Alejandro Valverde (ESP)",
+          "team": "Movistar Team",
+          "time": "+ 3' 29\""
+        },
+        {
+          "rank": 5,
+          "name": "Rafał Majka (POL)",
+          "team": "Tinkoff",
+          "time": "+ 4' 38\""
+        },
+        {
+          "rank": 6,
+          "name": "Ilnur Zakarin (RUS)",
+          "team": "Team Katusha",
+          "time": "+ 4' 40\""
+        },
+        {
+          "rank": 7,
+          "name": "Andrey Amador (CRC)",
+          "team": "Movistar Team",
+          "time": "+ 5' 27\""
+        },
+        {
+          "rank": 8,
+          "name": "Bob Jungels (LUX)",
+          "team": "Etixx–Quick-Step",
+          "time": "+ 7' 14\""
+        },
+        {
+          "rank": 9,
+          "name": "Kanstantsin Siutsou (BLR)",
+          "team": "Team Dimension Data",
+          "time": "+ 7' 37\""
+        },
+        {
+          "rank": 10,
+          "name": "Jakob Fuglsang (DEN)",
+          "team": "Astana",
+          "time": "+ 7' 55\""
+        }
+      ]
+    },
+    {
+      "stage": 16,
+      "riders": [
+        {
+          "rank": 1,
+          "name": "Steven Kruijswijk (NED)",
+          "team": "LottoNL–Jumbo",
+          "time": "63h 40' 10\""
+        },
+        {
+          "rank": 2,
+          "name": "Esteban Chaves (COL)",
+          "team": "Orica–GreenEDGE",
+          "time": "+ 3' 00\""
+        },
+        {
+          "rank": 3,
+          "name": "Alejandro Valverde (ESP)",
+          "team": "Movistar Team",
+          "time": "+ 3' 23\""
+        },
+        {
+          "rank": 4,
+          "name": "Vincenzo Nibali (ITA)",
+          "team": "XDS Astana Team",
+          "time": "+ 4' 43\""
+        },
+        {
+          "rank": 5,
+          "name": "Ilnur Zakarin (RUS)",
+          "team": "Team Katusha",
+          "time": "+ 4' 50\""
+        },
+        {
+          "rank": 6,
+          "name": "Rafał Majka (POL)",
+          "team": "Tinkoff",
+          "time": "+ 5' 34\""
+        },
+        {
+          "rank": 7,
+          "name": "Bob Jungels (LUX)",
+          "team": "Etixx–Quick-Step",
+          "time": "+ 7' 57\""
+        },
+        {
+          "rank": 8,
+          "name": "Andrey Amador (CRC)",
+          "team": "Movistar Team",
+          "time": "+ 8' 53\""
+        },
+        {
+          "rank": 9,
+          "name": "Domenico Pozzovivo (ITA)",
+          "team": "AG2R La Mondiale",
+          "time": "+ 10' 05\""
+        },
+        {
+          "rank": 10,
+          "name": "Kanstantsin Siutsou (BLR)",
+          "team": "Team Dimension Data",
+          "time": "+ 11' 03\""
+        }
+      ]
+    },
+    {
+      "stage": 17,
+      "riders": [
+        {
+          "rank": 1,
+          "name": "Steven Kruijswijk (NED)",
+          "team": "LottoNL–Jumbo",
+          "time": "68h 11' 39\""
+        },
+        {
+          "rank": 2,
+          "name": "Esteban Chaves (COL)",
+          "team": "Orica–GreenEDGE",
+          "time": "+ 3' 00\""
+        },
+        {
+          "rank": 3,
+          "name": "Alejandro Valverde (ESP)",
+          "team": "Movistar Team",
+          "time": "+ 3' 23\""
+        },
+        {
+          "rank": 4,
+          "name": "Vincenzo Nibali (ITA)",
+          "team": "XDS Astana Team",
+          "time": "+ 4' 43\""
+        },
+        {
+          "rank": 5,
+          "name": "Ilnur Zakarin (RUS)",
+          "team": "Team Katusha",
+          "time": "+ 4' 50\""
+        },
+        {
+          "rank": 6,
+          "name": "Rafał Majka (POL)",
+          "team": "Tinkoff",
+          "time": "+ 5' 34\""
+        },
+        {
+          "rank": 7,
+          "name": "Bob Jungels (LUX)",
+          "team": "Etixx–Quick-Step",
+          "time": "+ 7' 57\""
+        },
+        {
+          "rank": 8,
+          "name": "Andrey Amador (CRC)",
+          "team": "Movistar Team",
+          "time": "+ 8' 53\""
+        },
+        {
+          "rank": 9,
+          "name": "Domenico Pozzovivo (ITA)",
+          "team": "AG2R La Mondiale",
+          "time": "+ 10' 05\""
+        },
+        {
+          "rank": 10,
+          "name": "Kanstantsin Siutsou (BLR)",
+          "team": "Team Dimension Data",
+          "time": "+ 11' 03\""
+        }
+      ]
+    },
+    {
+      "stage": 18,
+      "riders": [
+        {
+          "rank": 1,
+          "name": "Steven Kruijswijk (NED)",
+          "team": "LottoNL–Jumbo",
+          "time": "73h 50' 37\""
+        },
+        {
+          "rank": 2,
+          "name": "Esteban Chaves (COL)",
+          "team": "Orica–GreenEDGE",
+          "time": "+ 3' 00\""
+        },
+        {
+          "rank": 3,
+          "name": "Alejandro Valverde (ESP)",
+          "team": "Movistar Team",
+          "time": "+ 3' 23\""
+        },
+        {
+          "rank": 4,
+          "name": "Vincenzo Nibali (ITA)",
+          "team": "XDS Astana Team",
+          "time": "+ 4' 43\""
+        },
+        {
+          "rank": 5,
+          "name": "Ilnur Zakarin (RUS)",
+          "team": "Team Katusha",
+          "time": "+ 4' 50\""
+        },
+        {
+          "rank": 6,
+          "name": "Rafał Majka (POL)",
+          "team": "Tinkoff",
+          "time": "+ 5' 34\""
+        },
+        {
+          "rank": 7,
+          "name": "Bob Jungels (LUX)",
+          "team": "Etixx–Quick-Step",
+          "time": "+ 7' 57\""
+        },
+        {
+          "rank": 8,
+          "name": "Andrey Amador (CRC)",
+          "team": "Movistar Team",
+          "time": "+ 8' 53\""
+        },
+        {
+          "rank": 9,
+          "name": "Domenico Pozzovivo (ITA)",
+          "team": "AG2R La Mondiale",
+          "time": "+ 10' 05\""
+        },
+        {
+          "rank": 10,
+          "name": "Kanstantsin Siutsou (BLR)",
+          "team": "Team Dimension Data",
+          "time": "+ 11' 15\""
+        }
+      ]
+    },
+    {
+      "stage": 19,
+      "riders": [
+        {
+          "rank": 1,
+          "name": "Esteban Chaves (COL)",
+          "team": "Orica–GreenEDGE",
+          "time": "78h 14' 20\""
+        },
+        {
+          "rank": 2,
+          "name": "Vincenzo Nibali (ITA)",
+          "team": "XDS Astana Team",
+          "time": "+ 44\""
+        },
+        {
+          "rank": 3,
+          "name": "Steven Kruijswijk (NED)",
+          "team": "LottoNL–Jumbo",
+          "time": "+ 1' 05\""
+        },
+        {
+          "rank": 4,
+          "name": "Alejandro Valverde (ESP)",
+          "team": "Movistar Team",
+          "time": "+ 1' 48\""
+        },
+        {
+          "rank": 5,
+          "name": "Rafał Majka (POL)",
+          "team": "Tinkoff",
+          "time": "+ 3' 59\""
+        },
+        {
+          "rank": 6,
+          "name": "Bob Jungels (LUX)",
+          "team": "Etixx–Quick-Step",
+          "time": "+ 7' 53\""
+        },
+        {
+          "rank": 7,
+          "name": "Andrey Amador (CRC)",
+          "team": "Movistar Team",
+          "time": "+ 9' 34\""
+        },
+        {
+          "rank": 8,
+          "name": "Rigoberto Urán (COL)",
+          "team": "Cannondale",
+          "time": "+ 12' 18\""
+        },
+        {
+          "rank": 9,
+          "name": "Kanstantsin Siutsou (BLR)",
+          "team": "Team Dimension Data",
+          "time": "+ 13' 19\""
+        },
+        {
+          "rank": 10,
+          "name": "Domenico Pozzovivo (ITA)",
+          "team": "AG2R La Mondiale",
+          "time": "+ 14' 11\""
+        }
+      ]
+    },
+    {
+      "stage": 20,
+      "riders": [
+        {
+          "rank": 1,
+          "name": "Vincenzo Nibali (ITA)",
+          "team": "XDS Astana Team",
+          "time": "82h 44' 31\""
+        },
+        {
+          "rank": 2,
+          "name": "Esteban Chaves (COL)",
+          "team": "Orica–GreenEDGE",
+          "time": "+ 52\""
+        },
+        {
+          "rank": 3,
+          "name": "Alejandro Valverde (ESP)",
+          "team": "Movistar Team",
+          "time": "+ 1' 17\""
+        },
+        {
+          "rank": 4,
+          "name": "Steven Kruijswijk (NED)",
+          "team": "LottoNL–Jumbo",
+          "time": "+ 1' 50\""
+        },
+        {
+          "rank": 5,
+          "name": "Rafał Majka (POL)",
+          "team": "Tinkoff",
+          "time": "+ 4' 37\""
+        },
+        {
+          "rank": 6,
+          "name": "Bob Jungels (LUX)",
+          "team": "Etixx–Quick-Step",
+          "time": "+ 8' 31\""
+        },
+        {
+          "rank": 7,
+          "name": "Rigoberto Urán (COL)",
+          "team": "Cannondale",
+          "time": "+ 11' 47\""
+        },
+        {
+          "rank": 8,
+          "name": "Andrey Amador (CRC)",
+          "team": "Movistar Team",
+          "time": "+ 13' 21\""
+        },
+        {
+          "rank": 9,
+          "name": "Darwin Atapuma (COL)",
+          "team": "BMC Racing Team",
+          "time": "+ 14' 09\""
+        },
+        {
+          "rank": 10,
+          "name": "Kanstantsin Siutsou (BLR)",
+          "team": "Team Dimension Data",
+          "time": "+ 16' 20\""
+        }
+      ]
+    },
+    {
+      "stage": 21,
+      "riders": [
+        {
+          "rank": 1,
+          "name": "Vincenzo Nibali (ITA)",
+          "team": "XDS Astana Team",
+          "time": "86h 32' 49\""
+        },
+        {
+          "rank": 2,
+          "name": "Esteban Chaves (COL)",
+          "team": "Orica–GreenEDGE",
+          "time": "+ 52\""
+        },
+        {
+          "rank": 3,
+          "name": "Alejandro Valverde (ESP)",
+          "team": "Movistar Team",
+          "time": "+ 1' 17\""
+        },
+        {
+          "rank": 4,
+          "name": "Steven Kruijswijk (NED)",
+          "team": "LottoNL–Jumbo",
+          "time": "+ 1' 50\""
+        },
+        {
+          "rank": 5,
+          "name": "Rafał Majka (POL)",
+          "team": "Tinkoff",
+          "time": "+ 4' 37\""
+        },
+        {
+          "rank": 6,
+          "name": "Bob Jungels (LUX)",
+          "team": "Etixx–Quick-Step",
+          "time": "+ 8' 31\""
+        },
+        {
+          "rank": 7,
+          "name": "Rigoberto Urán (COL)",
+          "team": "Cannondale",
+          "time": "+ 11' 47\""
+        },
+        {
+          "rank": 8,
+          "name": "Andrey Amador (CRC)",
+          "team": "Movistar Team",
+          "time": "+ 13' 21\""
+        },
+        {
+          "rank": 9,
+          "name": "Darwin Atapuma (COL)",
+          "team": "BMC Racing Team",
+          "time": "+ 14' 09\""
+        },
+        {
+          "rank": 10,
+          "name": "Kanstantsin Siutsou (BLR)",
+          "team": "Team Dimension Data",
+          "time": "+ 16' 20\""
+        }
+      ]
+    }
+  ]
+}

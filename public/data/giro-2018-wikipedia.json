@@ -1,0 +1,1371 @@
+{
+  "race": "Giro d%27Italia",
+  "year": 2018,
+  "stages": [
+    {
+      "stage": 1,
+      "riders": [
+        {
+          "rank": 1,
+          "name": "Tom Dumoulin (NED)",
+          "team": "Team Sunweb",
+          "time": "12' 02\""
+        },
+        {
+          "rank": 2,
+          "name": "Rohan Dennis (AUS)",
+          "team": "BMC Racing Team",
+          "time": "+ 2\""
+        },
+        {
+          "rank": 3,
+          "name": "Victor Campenaerts (BEL)",
+          "team": "Lotto–FixAll",
+          "time": "+ 2\""
+        },
+        {
+          "rank": 4,
+          "name": "José Gonçalves (POR)",
+          "team": "Team Katusha–Alpecin",
+          "time": "+ 12\""
+        },
+        {
+          "rank": 5,
+          "name": "Alex Dowsett (GBR)",
+          "team": "Team Katusha–Alpecin",
+          "time": "+ 16\""
+        },
+        {
+          "rank": 6,
+          "name": "Pello Bilbao (ESP)",
+          "team": "Astana",
+          "time": "+ 18\""
+        },
+        {
+          "rank": 7,
+          "name": "Simon Yates (GBR)",
+          "team": "Mitchelton–Scott",
+          "time": "+ 20\""
+        },
+        {
+          "rank": 8,
+          "name": "Maximilian Schachmann (GER)",
+          "team": "Quick-Step Floors",
+          "time": "+ 21\""
+        },
+        {
+          "rank": 9,
+          "name": "Tony Martin (GER)",
+          "team": "Team Katusha–Alpecin",
+          "time": "+ 27\""
+        },
+        {
+          "rank": 10,
+          "name": "Domenico Pozzovivo (ITA)",
+          "team": "Bahrain–Merida",
+          "time": "+ 27\""
+        }
+      ]
+    },
+    {
+      "stage": 2,
+      "riders": [
+        {
+          "rank": 1,
+          "name": "Rohan Dennis (AUS)",
+          "team": "BMC Racing Team",
+          "time": "4h 03' 21\""
+        },
+        {
+          "rank": 2,
+          "name": "Tom Dumoulin (NED)",
+          "team": "Team Sunweb",
+          "time": "+ 1\""
+        },
+        {
+          "rank": 3,
+          "name": "Victor Campenaerts (BEL)",
+          "team": "Lotto–Soudal",
+          "time": "+ 3\""
+        },
+        {
+          "rank": 4,
+          "name": "José Gonçalves (POR)",
+          "team": "Team Katusha–Alpecin",
+          "time": "+ 13\""
+        },
+        {
+          "rank": 5,
+          "name": "Alex Dowsett (GBR)",
+          "team": "Team Katusha–Alpecin",
+          "time": "+ 17\""
+        },
+        {
+          "rank": 6,
+          "name": "Pello Bilbao (ESP)",
+          "team": "Astana",
+          "time": "+ 19\""
+        },
+        {
+          "rank": 7,
+          "name": "Simon Yates (GBR)",
+          "team": "Mitchelton–Scott",
+          "time": "+ 21\""
+        },
+        {
+          "rank": 8,
+          "name": "Maximilian Schachmann (GER)",
+          "team": "Quick-Step Floors",
+          "time": "+ 22\""
+        },
+        {
+          "rank": 9,
+          "name": "Tony Martin (GER)",
+          "team": "Team Katusha–Alpecin",
+          "time": "+ 28\""
+        },
+        {
+          "rank": 10,
+          "name": "Domenico Pozzovivo (ITA)",
+          "team": "Bahrain–Merida",
+          "time": "+ 28\""
+        }
+      ]
+    },
+    {
+      "stage": 3,
+      "riders": [
+        {
+          "rank": 1,
+          "name": "Rohan Dennis (AUS)",
+          "team": "BMC Racing Team",
+          "time": "9h 05' 30\""
+        },
+        {
+          "rank": 2,
+          "name": "Tom Dumoulin (NED)",
+          "team": "Team Sunweb",
+          "time": "+ 1\""
+        },
+        {
+          "rank": 3,
+          "name": "José Gonçalves (POR)",
+          "team": "Team Katusha–Alpecin",
+          "time": "+ 13\""
+        },
+        {
+          "rank": 4,
+          "name": "Alex Dowsett (GBR)",
+          "team": "Team Katusha–Alpecin",
+          "time": "+ 17\""
+        },
+        {
+          "rank": 5,
+          "name": "Pello Bilbao (ESP)",
+          "team": "Astana",
+          "time": "+ 19\""
+        },
+        {
+          "rank": 6,
+          "name": "Simon Yates (GBR)",
+          "team": "Mitchelton–Scott",
+          "time": "+ 21\""
+        },
+        {
+          "rank": 7,
+          "name": "Maximilian Schachmann (GER)",
+          "team": "Quick-Step Floors",
+          "time": "+ 22\""
+        },
+        {
+          "rank": 8,
+          "name": "Tony Martin (GER)",
+          "team": "Team Katusha–Alpecin",
+          "time": "+ 28\""
+        },
+        {
+          "rank": 9,
+          "name": "Domenico Pozzovivo (ITA)",
+          "team": "Bahrain–Merida",
+          "time": "+ 28\""
+        },
+        {
+          "rank": 10,
+          "name": "Carlos Betancur (COL)",
+          "team": "Movistar Team",
+          "time": "+ 29\""
+        }
+      ]
+    },
+    {
+      "stage": 4,
+      "riders": [
+        {
+          "rank": 1,
+          "name": "Rohan Dennis (AUS)",
+          "team": "BMC Racing Team",
+          "time": "14h 23' 08\""
+        },
+        {
+          "rank": 2,
+          "name": "Tom Dumoulin (NED)",
+          "team": "Team Sunweb",
+          "time": "+ 1\""
+        },
+        {
+          "rank": 3,
+          "name": "Simon Yates (GBR)",
+          "team": "Mitchelton–Scott",
+          "time": "+ 17\""
+        },
+        {
+          "rank": 4,
+          "name": "Tim Wellens (BEL)",
+          "team": "Lotto–FixAll",
+          "time": "+ 19\""
+        },
+        {
+          "rank": 5,
+          "name": "Pello Bilbao (ESP)",
+          "team": "Astana",
+          "time": "+ 25\""
+        },
+        {
+          "rank": 6,
+          "name": "Maximilian Schachmann (GER)",
+          "team": "Quick-Step Floors",
+          "time": "+ 28\""
+        },
+        {
+          "rank": 7,
+          "name": "Domenico Pozzovivo (ITA)",
+          "team": "Bahrain–Merida",
+          "time": "+ 28\""
+        },
+        {
+          "rank": 8,
+          "name": "Thibaut Pinot (FRA)",
+          "team": "Groupama–FDJ",
+          "time": "+ 34\""
+        },
+        {
+          "rank": 9,
+          "name": "Patrick Konrad (AUT)",
+          "team": "Bora–Hansgrohe",
+          "time": "+ 35\""
+        },
+        {
+          "rank": 10,
+          "name": "Carlos Betancur (COL)",
+          "team": "Movistar Team",
+          "time": "+ 35\""
+        }
+      ]
+    },
+    {
+      "stage": 5,
+      "riders": [
+        {
+          "rank": 1,
+          "name": "Rohan Dennis (AUS)",
+          "team": "BMC Racing Team",
+          "time": "18h 29' 41\""
+        },
+        {
+          "rank": 2,
+          "name": "Tom Dumoulin (NED)",
+          "team": "Team Sunweb",
+          "time": "+ 1\""
+        },
+        {
+          "rank": 3,
+          "name": "Simon Yates (GBR)",
+          "team": "Mitchelton–Scott",
+          "time": "+ 17\""
+        },
+        {
+          "rank": 4,
+          "name": "Tim Wellens (BEL)",
+          "team": "Lotto–FixAll",
+          "time": "+ 19\""
+        },
+        {
+          "rank": 5,
+          "name": "Pello Bilbao (ESP)",
+          "team": "Astana",
+          "time": "+ 25\""
+        },
+        {
+          "rank": 6,
+          "name": "Maximilian Schachmann (GER)",
+          "team": "Quick-Step Floors",
+          "time": "+ 28\""
+        },
+        {
+          "rank": 7,
+          "name": "Domenico Pozzovivo (ITA)",
+          "team": "Bahrain–Merida",
+          "time": "+ 28\""
+        },
+        {
+          "rank": 8,
+          "name": "José Gonçalves (POR)",
+          "team": "Team Katusha–Alpecin",
+          "time": "+ 32\""
+        },
+        {
+          "rank": 9,
+          "name": "Thibaut Pinot (FRA)",
+          "team": "Groupama–FDJ",
+          "time": "+ 34\""
+        },
+        {
+          "rank": 10,
+          "name": "Patrick Konrad (AUT)",
+          "team": "Bora–Hansgrohe",
+          "time": "+ 35\""
+        }
+      ]
+    },
+    {
+      "stage": 6,
+      "riders": [
+        {
+          "rank": 1,
+          "name": "Simon Yates (GBR)",
+          "team": "Mitchelton–Scott",
+          "time": "22h 46' 03\""
+        },
+        {
+          "rank": 2,
+          "name": "Tom Dumoulin (NED)",
+          "team": "Team Sunweb",
+          "time": "+ 16\""
+        },
+        {
+          "rank": 3,
+          "name": "Esteban Chaves (COL)",
+          "team": "Mitchelton–Scott",
+          "time": "+ 26\""
+        },
+        {
+          "rank": 4,
+          "name": "Domenico Pozzovivo (ITA)",
+          "team": "Bahrain–Merida",
+          "time": "+ 43\""
+        },
+        {
+          "rank": 5,
+          "name": "Thibaut Pinot (FRA)",
+          "team": "Groupama–FDJ",
+          "time": "+ 45\""
+        },
+        {
+          "rank": 6,
+          "name": "Rohan Dennis (AUS)",
+          "team": "BMC Racing Team",
+          "time": "+ 53\""
+        },
+        {
+          "rank": 7,
+          "name": "Pello Bilbao (ESP)",
+          "team": "Astana",
+          "time": "+ 1' 03\""
+        },
+        {
+          "rank": 8,
+          "name": "Chris Froome (GBR)",
+          "team": "Team Sky",
+          "time": "+ 1' 10\""
+        },
+        {
+          "rank": 9,
+          "name": "George Bennett (NZL)",
+          "team": "LottoNL–Jumbo",
+          "time": "+ 1' 11\""
+        },
+        {
+          "rank": 10,
+          "name": "Fabio Aru (ITA)",
+          "team": "UAE Team Emirates",
+          "time": "+ 1' 12\""
+        }
+      ]
+    },
+    {
+      "stage": 7,
+      "riders": [
+        {
+          "rank": 1,
+          "name": "Simon Yates (GBR)",
+          "team": "Mitchelton–Scott",
+          "time": "26h 31' 30\""
+        },
+        {
+          "rank": 2,
+          "name": "Tom Dumoulin (NED)",
+          "team": "Team Sunweb",
+          "time": "+ 16\""
+        },
+        {
+          "rank": 3,
+          "name": "Esteban Chaves (COL)",
+          "team": "Mitchelton–Scott",
+          "time": "+ 26\""
+        },
+        {
+          "rank": 4,
+          "name": "Domenico Pozzovivo (ITA)",
+          "team": "Bahrain–Merida",
+          "time": "+ 43\""
+        },
+        {
+          "rank": 5,
+          "name": "Thibaut Pinot (FRA)",
+          "team": "Groupama–FDJ",
+          "time": "+ 45\""
+        },
+        {
+          "rank": 6,
+          "name": "Rohan Dennis (AUS)",
+          "team": "BMC Racing Team",
+          "time": "+ 53\""
+        },
+        {
+          "rank": 7,
+          "name": "Pello Bilbao (ESP)",
+          "team": "Astana",
+          "time": "+ 1' 03\""
+        },
+        {
+          "rank": 8,
+          "name": "Chris Froome (GBR)",
+          "team": "Team Sky",
+          "time": "+ 1' 10\""
+        },
+        {
+          "rank": 9,
+          "name": "George Bennett (NZL)",
+          "team": "LottoNL–Jumbo",
+          "time": "+ 1' 11\""
+        },
+        {
+          "rank": 10,
+          "name": "Fabio Aru (ITA)",
+          "team": "UAE Team Emirates",
+          "time": "+ 1' 12\""
+        }
+      ]
+    },
+    {
+      "stage": 8,
+      "riders": [
+        {
+          "rank": 1,
+          "name": "Simon Yates (GBR)",
+          "team": "Mitchelton–Scott",
+          "time": "31h 43' 12\""
+        },
+        {
+          "rank": 2,
+          "name": "Tom Dumoulin (NED)",
+          "team": "Team Sunweb",
+          "time": "+ 16\""
+        },
+        {
+          "rank": 3,
+          "name": "Esteban Chaves (COL)",
+          "team": "Mitchelton–Scott",
+          "time": "+ 26\""
+        },
+        {
+          "rank": 4,
+          "name": "Thibaut Pinot (FRA)",
+          "team": "Groupama–FDJ",
+          "time": "+ 41\""
+        },
+        {
+          "rank": 5,
+          "name": "Domenico Pozzovivo (ITA)",
+          "team": "Bahrain–Merida",
+          "time": "+ 43\""
+        },
+        {
+          "rank": 6,
+          "name": "Rohan Dennis (AUS)",
+          "team": "BMC Racing Team",
+          "time": "+ 53\""
+        },
+        {
+          "rank": 7,
+          "name": "Pello Bilbao (ESP)",
+          "team": "Astana",
+          "time": "+ 1' 03\""
+        },
+        {
+          "rank": 8,
+          "name": "Richard Carapaz (ECU)",
+          "team": "Movistar Team",
+          "time": "+ 1' 06\""
+        },
+        {
+          "rank": 9,
+          "name": "Chris Froome (GBR)",
+          "team": "Team Sky",
+          "time": "+ 1' 10\""
+        },
+        {
+          "rank": 10,
+          "name": "George Bennett (NZL)",
+          "team": "LottoNL–Jumbo",
+          "time": "+ 1' 11\""
+        }
+      ]
+    },
+    {
+      "stage": 9,
+      "riders": [
+        {
+          "rank": 1,
+          "name": "Simon Yates (GBR)",
+          "team": "Mitchelton–Scott",
+          "time": "37h 37' 15\""
+        },
+        {
+          "rank": 2,
+          "name": "Esteban Chaves (COL)",
+          "team": "Mitchelton–Scott",
+          "time": "+ 32\""
+        },
+        {
+          "rank": 3,
+          "name": "Tom Dumoulin (NED)",
+          "team": "Team Sunweb",
+          "time": "+ 38\""
+        },
+        {
+          "rank": 4,
+          "name": "Thibaut Pinot (FRA)",
+          "team": "Groupama–FDJ",
+          "time": "+ 45\""
+        },
+        {
+          "rank": 5,
+          "name": "Domenico Pozzovivo (ITA)",
+          "team": "Bahrain–Merida",
+          "time": "+ 57\""
+        },
+        {
+          "rank": 6,
+          "name": "Richard Carapaz (ECU)",
+          "team": "Movistar Team",
+          "time": "+ 1' 20\""
+        },
+        {
+          "rank": 7,
+          "name": "George Bennett (NZL)",
+          "team": "LottoNL–Jumbo",
+          "time": "+ 1' 33\""
+        },
+        {
+          "rank": 8,
+          "name": "Rohan Dennis (AUS)",
+          "team": "BMC Racing Team",
+          "time": "+ 2' 05\""
+        },
+        {
+          "rank": 9,
+          "name": "Pello Bilbao (ESP)",
+          "team": "Astana",
+          "time": "+ 2' 05\""
+        },
+        {
+          "rank": 10,
+          "name": "Michael Woods (CAN)",
+          "team": "EF Education First–Drapac",
+          "time": "+ 2' 25\""
+        }
+      ]
+    },
+    {
+      "stage": 10,
+      "riders": [
+        {
+          "rank": 1,
+          "name": "Simon Yates (GBR)",
+          "team": "Mitchelton–Scott",
+          "time": "43h 42' 38\""
+        },
+        {
+          "rank": 2,
+          "name": "Tom Dumoulin (NED)",
+          "team": "Team Sunweb",
+          "time": "+ 41\""
+        },
+        {
+          "rank": 3,
+          "name": "Thibaut Pinot (FRA)",
+          "team": "Groupama–FDJ",
+          "time": "+ 46\""
+        },
+        {
+          "rank": 4,
+          "name": "Domenico Pozzovivo (ITA)",
+          "team": "Bahrain–Merida",
+          "time": "+ 1' 00\""
+        },
+        {
+          "rank": 5,
+          "name": "Richard Carapaz (ECU)",
+          "team": "Movistar Team",
+          "time": "+ 1' 23\""
+        },
+        {
+          "rank": 6,
+          "name": "George Bennett (NZL)",
+          "team": "LottoNL–Jumbo",
+          "time": "+ 1' 36\""
+        },
+        {
+          "rank": 7,
+          "name": "Rohan Dennis (AUS)",
+          "team": "BMC Racing Team",
+          "time": "+ 2' 08\""
+        },
+        {
+          "rank": 8,
+          "name": "Pello Bilbao (ESP)",
+          "team": "Astana",
+          "time": "+ 2' 08\""
+        },
+        {
+          "rank": 9,
+          "name": "Michael Woods (CAN)",
+          "team": "EF Education First–Drapac",
+          "time": "+ 2' 28\""
+        },
+        {
+          "rank": 10,
+          "name": "Chris Froome (GBR)",
+          "team": "Team Sky",
+          "time": "+ 2' 30\""
+        }
+      ]
+    },
+    {
+      "stage": 11,
+      "riders": [
+        {
+          "rank": 1,
+          "name": "Simon Yates (GBR)",
+          "team": "Mitchelton–Scott",
+          "time": "47h 08' 21\""
+        },
+        {
+          "rank": 2,
+          "name": "Tom Dumoulin (NED)",
+          "team": "Team Sunweb",
+          "time": "+ 47\""
+        },
+        {
+          "rank": 3,
+          "name": "Thibaut Pinot (FRA)",
+          "team": "Groupama–FDJ",
+          "time": "+ 1' 04\""
+        },
+        {
+          "rank": 4,
+          "name": "Domenico Pozzovivo (ITA)",
+          "team": "Bahrain–Merida",
+          "time": "+ 1' 18\""
+        },
+        {
+          "rank": 5,
+          "name": "Richard Carapaz (ECU)",
+          "team": "Movistar Team",
+          "time": "+ 1' 56\""
+        },
+        {
+          "rank": 6,
+          "name": "George Bennett (NZL)",
+          "team": "LottoNL–Jumbo",
+          "time": "+ 2' 09\""
+        },
+        {
+          "rank": 7,
+          "name": "Rohan Dennis (AUS)",
+          "team": "BMC Racing Team",
+          "time": "+ 2' 36\""
+        },
+        {
+          "rank": 8,
+          "name": "Pello Bilbao (ESP)",
+          "team": "Astana",
+          "time": "+ 2' 54\""
+        },
+        {
+          "rank": 9,
+          "name": "Patrick Konrad (AUT)",
+          "team": "Bora–Hansgrohe",
+          "time": "+ 2' 55\""
+        },
+        {
+          "rank": 10,
+          "name": "Fabio Aru (ITA)",
+          "team": "UAE Team Emirates",
+          "time": "+ 3' 10\""
+        }
+      ]
+    },
+    {
+      "stage": 12,
+      "riders": [
+        {
+          "rank": 1,
+          "name": "Simon Yates (GBR)",
+          "team": "Mitchelton–Scott",
+          "time": "51h 57' 55\""
+        },
+        {
+          "rank": 2,
+          "name": "Tom Dumoulin (NED)",
+          "team": "Team Sunweb",
+          "time": "+ 47\""
+        },
+        {
+          "rank": 3,
+          "name": "Thibaut Pinot (FRA)",
+          "team": "Groupama–FDJ",
+          "time": "+ 1' 04\""
+        },
+        {
+          "rank": 4,
+          "name": "Domenico Pozzovivo (ITA)",
+          "team": "Bahrain–Merida",
+          "time": "+ 1' 18\""
+        },
+        {
+          "rank": 5,
+          "name": "Richard Carapaz (ECU)",
+          "team": "Movistar Team",
+          "time": "+ 1' 56\""
+        },
+        {
+          "rank": 6,
+          "name": "George Bennett (NZL)",
+          "team": "LottoNL–Jumbo",
+          "time": "+ 2' 09\""
+        },
+        {
+          "rank": 7,
+          "name": "Rohan Dennis (AUS)",
+          "team": "BMC Racing Team",
+          "time": "+ 2' 36\""
+        },
+        {
+          "rank": 8,
+          "name": "Pello Bilbao (ESP)",
+          "team": "Astana",
+          "time": "+ 2' 54\""
+        },
+        {
+          "rank": 9,
+          "name": "Patrick Konrad (AUT)",
+          "team": "Bora–Hansgrohe",
+          "time": "+ 2' 55\""
+        },
+        {
+          "rank": 10,
+          "name": "Fabio Aru (ITA)",
+          "team": "UAE Team Emirates",
+          "time": "+ 3' 10\""
+        }
+      ]
+    },
+    {
+      "stage": 13,
+      "riders": [
+        {
+          "rank": 1,
+          "name": "Simon Yates (GBR)",
+          "team": "Mitchelton–Scott",
+          "time": "55h 54' 20\""
+        },
+        {
+          "rank": 2,
+          "name": "Tom Dumoulin (NED)",
+          "team": "Team Sunweb",
+          "time": "+ 47\""
+        },
+        {
+          "rank": 3,
+          "name": "Thibaut Pinot (FRA)",
+          "team": "Groupama–FDJ",
+          "time": "+ 1' 04\""
+        },
+        {
+          "rank": 4,
+          "name": "Domenico Pozzovivo (ITA)",
+          "team": "Bahrain–Merida",
+          "time": "+ 1' 18\""
+        },
+        {
+          "rank": 5,
+          "name": "Richard Carapaz (ECU)",
+          "team": "Movistar Team",
+          "time": "+ 1' 56\""
+        },
+        {
+          "rank": 6,
+          "name": "George Bennett (NZL)",
+          "team": "LottoNL–Jumbo",
+          "time": "+ 2' 09\""
+        },
+        {
+          "rank": 7,
+          "name": "Rohan Dennis (AUS)",
+          "team": "BMC Racing Team",
+          "time": "+ 2' 36\""
+        },
+        {
+          "rank": 8,
+          "name": "Pello Bilbao (ESP)",
+          "team": "Astana",
+          "time": "+ 2' 54\""
+        },
+        {
+          "rank": 9,
+          "name": "Patrick Konrad (AUT)",
+          "team": "Bora–Hansgrohe",
+          "time": "+ 2' 55\""
+        },
+        {
+          "rank": 10,
+          "name": "Fabio Aru (ITA)",
+          "team": "UAE Team Emirates",
+          "time": "+ 3' 10\""
+        }
+      ]
+    },
+    {
+      "stage": 14,
+      "riders": [
+        {
+          "rank": 1,
+          "name": "Simon Yates (GBR)",
+          "team": "Mitchelton–Scott",
+          "time": "61h 19' 51\""
+        },
+        {
+          "rank": 2,
+          "name": "Tom Dumoulin (NED)",
+          "team": "Team Sunweb",
+          "time": "+ 1' 24\""
+        },
+        {
+          "rank": 3,
+          "name": "Domenico Pozzovivo (ITA)",
+          "team": "Bahrain–Merida",
+          "time": "+ 1' 37\""
+        },
+        {
+          "rank": 4,
+          "name": "Thibaut Pinot (FRA)",
+          "team": "Groupama–FDJ",
+          "time": "+ 1' 46\""
+        },
+        {
+          "rank": 5,
+          "name": "Chris Froome (GBR)",
+          "team": "Team Sky",
+          "time": "+ 3' 10\""
+        },
+        {
+          "rank": 6,
+          "name": "Miguel Ángel López (COL)",
+          "team": "Astana",
+          "time": "+ 3' 42\""
+        },
+        {
+          "rank": 7,
+          "name": "Richard Carapaz (ECU)",
+          "team": "Movistar Team",
+          "time": "+ 3' 56\""
+        },
+        {
+          "rank": 8,
+          "name": "George Bennett (NZL)",
+          "team": "LottoNL–Jumbo",
+          "time": "+ 4' 04\""
+        },
+        {
+          "rank": 9,
+          "name": "Pello Bilbao (ESP)",
+          "team": "Astana",
+          "time": "+ 4' 29\""
+        },
+        {
+          "rank": 10,
+          "name": "Patrick Konrad (AUT)",
+          "team": "Bora–Hansgrohe",
+          "time": "+ 4' 43\""
+        }
+      ]
+    },
+    {
+      "stage": 15,
+      "riders": [
+        {
+          "rank": 1,
+          "name": "Simon Yates (GBR)",
+          "team": "Mitchelton–Scott",
+          "time": "65h 57' 37\""
+        },
+        {
+          "rank": 2,
+          "name": "Tom Dumoulin (NED)",
+          "team": "Team Sunweb",
+          "time": "+ 2' 11\""
+        },
+        {
+          "rank": 3,
+          "name": "Domenico Pozzovivo (ITA)",
+          "team": "Bahrain–Merida",
+          "time": "+ 2' 28\""
+        },
+        {
+          "rank": 4,
+          "name": "Thibaut Pinot (FRA)",
+          "team": "Groupama–FDJ",
+          "time": "+ 2' 37\""
+        },
+        {
+          "rank": 5,
+          "name": "Miguel Ángel López (COL)",
+          "team": "Astana",
+          "time": "+ 4' 27\""
+        },
+        {
+          "rank": 6,
+          "name": "Richard Carapaz (ECU)",
+          "team": "Movistar Team",
+          "time": "+ 4' 47\""
+        },
+        {
+          "rank": 7,
+          "name": "Chris Froome (GBR)",
+          "team": "Team Sky",
+          "time": "+ 4' 52\""
+        },
+        {
+          "rank": 8,
+          "name": "George Bennett (NZL)",
+          "team": "LottoNL–Jumbo",
+          "time": "+ 5' 34\""
+        },
+        {
+          "rank": 9,
+          "name": "Pello Bilbao (ESP)",
+          "team": "Astana",
+          "time": "+ 5' 59\""
+        },
+        {
+          "rank": 10,
+          "name": "Patrick Konrad (AUT)",
+          "team": "Bora–Hansgrohe",
+          "time": "+ 6' 13\""
+        }
+      ]
+    },
+    {
+      "stage": 16,
+      "riders": [
+        {
+          "rank": 1,
+          "name": "Simon Yates (GBR)",
+          "team": "Mitchelton–Scott",
+          "time": "66h 39' 14\""
+        },
+        {
+          "rank": 2,
+          "name": "Tom Dumoulin (NED)",
+          "team": "Team Sunweb",
+          "time": "+ 56\""
+        },
+        {
+          "rank": 3,
+          "name": "Domenico Pozzovivo (ITA)",
+          "team": "Bahrain–Merida",
+          "time": "+ 3' 11\""
+        },
+        {
+          "rank": 4,
+          "name": "Chris Froome (GBR)",
+          "team": "Team Sky",
+          "time": "+ 3' 50\""
+        },
+        {
+          "rank": 5,
+          "name": "Thibaut Pinot (FRA)",
+          "team": "Groupama–FDJ",
+          "time": "+ 4' 19\""
+        },
+        {
+          "rank": 6,
+          "name": "Rohan Dennis (AUS)",
+          "team": "BMC Racing Team",
+          "time": "+ 5' 04\""
+        },
+        {
+          "rank": 7,
+          "name": "Miguel Ángel López (COL)",
+          "team": "Astana",
+          "time": "+ 5' 37\""
+        },
+        {
+          "rank": 8,
+          "name": "Pello Bilbao (ESP)",
+          "team": "Astana",
+          "time": "+ 6' 02\""
+        },
+        {
+          "rank": 9,
+          "name": "Richard Carapaz (ECU)",
+          "team": "Movistar Team",
+          "time": "+ 6' 07\""
+        },
+        {
+          "rank": 10,
+          "name": "George Bennett (NZL)",
+          "team": "LottoNL–Jumbo",
+          "time": "+ 7' 01\""
+        }
+      ]
+    },
+    {
+      "stage": 17,
+      "riders": [
+        {
+          "rank": 1,
+          "name": "Simon Yates (GBR)",
+          "team": "Mitchelton–Scott",
+          "time": "69h 59' 11\""
+        },
+        {
+          "rank": 2,
+          "name": "Tom Dumoulin (NED)",
+          "team": "Team Sunweb",
+          "time": "+ 56\""
+        },
+        {
+          "rank": 3,
+          "name": "Domenico Pozzovivo (ITA)",
+          "team": "Bahrain–Merida",
+          "time": "+ 3' 11\""
+        },
+        {
+          "rank": 4,
+          "name": "Chris Froome (GBR)",
+          "team": "Team Sky",
+          "time": "+ 3' 50\""
+        },
+        {
+          "rank": 5,
+          "name": "Thibaut Pinot (FRA)",
+          "team": "Groupama–FDJ",
+          "time": "+ 4' 19\""
+        },
+        {
+          "rank": 6,
+          "name": "Rohan Dennis (AUS)",
+          "team": "BMC Racing Team",
+          "time": "+ 5' 04\""
+        },
+        {
+          "rank": 7,
+          "name": "Miguel Ángel López (COL)",
+          "team": "Astana",
+          "time": "+ 5' 37\""
+        },
+        {
+          "rank": 8,
+          "name": "Pello Bilbao (ESP)",
+          "team": "Astana",
+          "time": "+ 6' 02\""
+        },
+        {
+          "rank": 9,
+          "name": "Richard Carapaz (ECU)",
+          "team": "Movistar Team",
+          "time": "+ 6' 07\""
+        },
+        {
+          "rank": 10,
+          "name": "George Bennett (NZL)",
+          "team": "LottoNL–Jumbo",
+          "time": "+ 7' 01\""
+        }
+      ]
+    },
+    {
+      "stage": 18,
+      "riders": [
+        {
+          "rank": 1,
+          "name": "Simon Yates (GBR)",
+          "team": "Mitchelton–Scott",
+          "time": "75h 06' 24\""
+        },
+        {
+          "rank": 2,
+          "name": "Tom Dumoulin (NED)",
+          "team": "Team Sunweb",
+          "time": "+ 28\""
+        },
+        {
+          "rank": 3,
+          "name": "Domenico Pozzovivo (ITA)",
+          "team": "Bahrain–Merida",
+          "time": "+ 2' 43\""
+        },
+        {
+          "rank": 4,
+          "name": "Chris Froome (GBR)",
+          "team": "Team Sky",
+          "time": "+ 3' 22\""
+        },
+        {
+          "rank": 5,
+          "name": "Thibaut Pinot (FRA)",
+          "team": "Groupama–FDJ",
+          "time": "+ 4' 24\""
+        },
+        {
+          "rank": 6,
+          "name": "Miguel Ángel López (COL)",
+          "team": "Astana",
+          "time": "+ 4' 54\""
+        },
+        {
+          "rank": 7,
+          "name": "Rohan Dennis (AUS)",
+          "team": "BMC Racing Team",
+          "time": "+ 5' 09\""
+        },
+        {
+          "rank": 8,
+          "name": "Pello Bilbao (ESP)",
+          "team": "Astana",
+          "time": "+ 5' 54\""
+        },
+        {
+          "rank": 9,
+          "name": "Richard Carapaz (ECU)",
+          "team": "Movistar Team",
+          "time": "+ 5' 59\""
+        },
+        {
+          "rank": 10,
+          "name": "Patrick Konrad (AUT)",
+          "team": "Bora–Hansgrohe",
+          "time": "+ 7' 05\""
+        }
+      ]
+    },
+    {
+      "stage": 19,
+      "riders": [
+        {
+          "rank": 1,
+          "name": "Chris Froome (GBR)",
+          "team": "Team Sky",
+          "time": "80h 21' 59\""
+        },
+        {
+          "rank": 2,
+          "name": "Tom Dumoulin (NED)",
+          "team": "Team Sunweb",
+          "time": "+ 40\""
+        },
+        {
+          "rank": 3,
+          "name": "Thibaut Pinot (FRA)",
+          "team": "Groupama–FDJ",
+          "time": "+ 4' 17\""
+        },
+        {
+          "rank": 4,
+          "name": "Miguel Ángel López (COL)",
+          "team": "Astana",
+          "time": "+ 4' 57\""
+        },
+        {
+          "rank": 5,
+          "name": "Richard Carapaz (ECU)",
+          "team": "Movistar Team",
+          "time": "+ 5' 44\""
+        },
+        {
+          "rank": 6,
+          "name": "Domenico Pozzovivo (ITA)",
+          "team": "Bahrain–Merida",
+          "time": "+ 8' 03\""
+        },
+        {
+          "rank": 7,
+          "name": "Pello Bilbao (ESP)",
+          "team": "Astana",
+          "time": "+ 11' 08\""
+        },
+        {
+          "rank": 8,
+          "name": "Patrick Konrad (AUT)",
+          "team": "Bora–Hansgrohe",
+          "time": "+ 12' 19\""
+        },
+        {
+          "rank": 9,
+          "name": "George Bennett (NZL)",
+          "team": "LottoNL–Jumbo",
+          "time": "+ 12' 35\""
+        },
+        {
+          "rank": 10,
+          "name": "Sam Oomen (NED)",
+          "team": "Team Sunweb",
+          "time": "+ 14' 18\""
+        }
+      ]
+    },
+    {
+      "stage": 20,
+      "riders": [
+        {
+          "rank": 1,
+          "name": "Chris Froome (GBR)",
+          "team": "Team Sky",
+          "time": "86h 11' 50\""
+        },
+        {
+          "rank": 2,
+          "name": "Tom Dumoulin (NED)",
+          "team": "Team Sunweb",
+          "time": "+ 46\""
+        },
+        {
+          "rank": 3,
+          "name": "Miguel Ángel López (COL)",
+          "team": "Astana",
+          "time": "+ 4' 57\""
+        },
+        {
+          "rank": 4,
+          "name": "Richard Carapaz (ECU)",
+          "team": "Movistar Team",
+          "time": "+ 5' 44\""
+        },
+        {
+          "rank": 5,
+          "name": "Domenico Pozzovivo (ITA)",
+          "team": "Bahrain–Merida",
+          "time": "+ 8' 03\""
+        },
+        {
+          "rank": 6,
+          "name": "Pello Bilbao (ESP)",
+          "team": "Astana",
+          "time": "+ 11' 50\""
+        },
+        {
+          "rank": 7,
+          "name": "Patrick Konrad (AUT)",
+          "team": "Bora–Hansgrohe",
+          "time": "+ 13' 01\""
+        },
+        {
+          "rank": 8,
+          "name": "George Bennett (NZL)",
+          "team": "LottoNL–Jumbo",
+          "time": "+ 13' 17\""
+        },
+        {
+          "rank": 9,
+          "name": "Sam Oomen (NED)",
+          "team": "Team Sunweb",
+          "time": "+ 14' 18\""
+        },
+        {
+          "rank": 10,
+          "name": "Davide Formolo (ITA)",
+          "team": "Bora–Hansgrohe",
+          "time": "+ 15' 16\""
+        }
+      ]
+    },
+    {
+      "stage": 21,
+      "riders": [
+        {
+          "rank": 1,
+          "name": "Chris Froome (GBR)",
+          "team": "Team Sky",
+          "time": "89h 02' 39\""
+        },
+        {
+          "rank": 2,
+          "name": "Tom Dumoulin (NED)",
+          "team": "Team Sunweb",
+          "time": "+ 46\""
+        },
+        {
+          "rank": 3,
+          "name": "Miguel Ángel López (COL)",
+          "team": "Astana",
+          "time": "+ 4' 57\""
+        },
+        {
+          "rank": 4,
+          "name": "Richard Carapaz (ECU)",
+          "team": "Movistar Team",
+          "time": "+ 5' 44\""
+        },
+        {
+          "rank": 5,
+          "name": "Domenico Pozzovivo (ITA)",
+          "team": "Bahrain–Merida",
+          "time": "+ 8' 03\""
+        },
+        {
+          "rank": 6,
+          "name": "Pello Bilbao (ESP)",
+          "team": "Astana",
+          "time": "+ 11' 50\""
+        },
+        {
+          "rank": 7,
+          "name": "Patrick Konrad (AUT)",
+          "team": "Bora–Hansgrohe",
+          "time": "+ 13' 01\""
+        },
+        {
+          "rank": 8,
+          "name": "George Bennett (NZL)",
+          "team": "LottoNL–Jumbo",
+          "time": "+ 13' 17\""
+        },
+        {
+          "rank": 9,
+          "name": "Sam Oomen (NED)",
+          "team": "Team Sunweb",
+          "time": "+ 14' 18\""
+        },
+        {
+          "rank": 10,
+          "name": "Davide Formolo (ITA)",
+          "team": "Bora–Hansgrohe",
+          "time": "+ 15' 16\""
+        }
+      ]
+    }
+  ]
+}

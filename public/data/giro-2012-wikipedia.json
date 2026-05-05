@@ -1,0 +1,1371 @@
+{
+  "race": "Giro d%27Italia",
+  "year": 2012,
+  "stages": [
+    {
+      "stage": 1,
+      "riders": [
+        {
+          "rank": 1,
+          "name": "Taylor Phinney (USA)",
+          "team": "BMC Racing Team",
+          "time": "10' 26\""
+        },
+        {
+          "rank": 2,
+          "name": "Geraint Thomas (GBR)",
+          "team": "Team Sky",
+          "time": "+ 9\""
+        },
+        {
+          "rank": 3,
+          "name": "Alex Rasmussen (DEN)",
+          "team": "Garmin–Barracuda",
+          "time": "+ 13\""
+        },
+        {
+          "rank": 4,
+          "name": "Manuele Boaro (ITA)",
+          "team": "Team Saxo Bank",
+          "time": "+ 15\""
+        },
+        {
+          "rank": 5,
+          "name": "Gustav Larsson (SWE)",
+          "team": "Vacansoleil–DCM",
+          "time": "+ 22\""
+        },
+        {
+          "rank": 6,
+          "name": "Ramūnas Navardauskas (LTU)",
+          "team": "Garmin–Barracuda",
+          "time": "+ 22\""
+        },
+        {
+          "rank": 7,
+          "name": "Brett Lancaster (AUS)",
+          "team": "Orica–GreenEDGE",
+          "time": "+ 23\""
+        },
+        {
+          "rank": 8,
+          "name": "Marco Pinotti (ITA)",
+          "team": "BMC Racing Team",
+          "time": "+ 24\""
+        },
+        {
+          "rank": 9,
+          "name": "Jesse Sergent (NZL)",
+          "team": "RadioShack–Nissan",
+          "time": "+ 26\""
+        },
+        {
+          "rank": 10,
+          "name": "Nelson Oliveira (POR)",
+          "team": "RadioShack–Nissan",
+          "time": "+ 27\""
+        }
+      ]
+    },
+    {
+      "stage": 2,
+      "riders": [
+        {
+          "rank": 1,
+          "name": "Taylor Phinney (USA)",
+          "team": "BMC Racing Team",
+          "time": "5h 03' 38\""
+        },
+        {
+          "rank": 2,
+          "name": "Geraint Thomas (GBR)",
+          "team": "Team Sky",
+          "time": "+ 9\""
+        },
+        {
+          "rank": 3,
+          "name": "Alex Rasmussen (DEN)",
+          "team": "Garmin–Barracuda",
+          "time": "+ 13\""
+        },
+        {
+          "rank": 4,
+          "name": "Manuele Boaro (ITA)",
+          "team": "Team Saxo Bank",
+          "time": "+ 15\""
+        },
+        {
+          "rank": 5,
+          "name": "Gustav Larsson (SWE)",
+          "team": "Vacansoleil–DCM",
+          "time": "+ 22\""
+        },
+        {
+          "rank": 6,
+          "name": "Ramūnas Navardauskas (LTU)",
+          "team": "Garmin–Barracuda",
+          "time": "+ 22\""
+        },
+        {
+          "rank": 7,
+          "name": "Brett Lancaster (AUS)",
+          "team": "Orica–GreenEDGE",
+          "time": "+ 23\""
+        },
+        {
+          "rank": 8,
+          "name": "Marco Pinotti (ITA)",
+          "team": "BMC Racing Team",
+          "time": "+ 24\""
+        },
+        {
+          "rank": 9,
+          "name": "Jesse Sergent (NZL)",
+          "team": "RadioShack–Nissan",
+          "time": "+ 26\""
+        },
+        {
+          "rank": 10,
+          "name": "Nelson Oliveira (POR)",
+          "team": "RadioShack–Nissan",
+          "time": "+ 27\""
+        }
+      ]
+    },
+    {
+      "stage": 3,
+      "riders": [
+        {
+          "rank": 1,
+          "name": "Taylor Phinney (USA)",
+          "team": "BMC Racing Team",
+          "time": "9h 24' 31\""
+        },
+        {
+          "rank": 2,
+          "name": "Geraint Thomas (GBR)",
+          "team": "Team Sky",
+          "time": "+ 9\""
+        },
+        {
+          "rank": 3,
+          "name": "Alex Rasmussen (DEN)",
+          "team": "Garmin–Barracuda",
+          "time": "+ 13\""
+        },
+        {
+          "rank": 4,
+          "name": "Manuele Boaro (ITA)",
+          "team": "Team Saxo Bank",
+          "time": "+ 15\""
+        },
+        {
+          "rank": 5,
+          "name": "Ramūnas Navardauskas (LTU)",
+          "team": "Garmin–Barracuda",
+          "time": "+ 18\""
+        },
+        {
+          "rank": 6,
+          "name": "Gustav Larsson (SWE)",
+          "team": "Vacansoleil–DCM",
+          "time": "+ 22\""
+        },
+        {
+          "rank": 7,
+          "name": "Brett Lancaster (AUS)",
+          "team": "Orica–GreenEDGE",
+          "time": "+ 23\""
+        },
+        {
+          "rank": 8,
+          "name": "Matthew Goss (AUS)",
+          "team": "Orica–GreenEDGE",
+          "time": "+ 23\""
+        },
+        {
+          "rank": 9,
+          "name": "Marco Pinotti (ITA)",
+          "team": "BMC Racing Team",
+          "time": "+ 24\""
+        },
+        {
+          "rank": 10,
+          "name": "Jesse Sergent (NZL)",
+          "team": "RadioShack–Nissan",
+          "time": "+ 26\""
+        }
+      ]
+    },
+    {
+      "stage": 4,
+      "riders": [
+        {
+          "rank": 1,
+          "name": "Ramūnas Navardauskas (LTU)",
+          "team": "Garmin–Barracuda",
+          "time": "10h 01' 53\""
+        },
+        {
+          "rank": 2,
+          "name": "Tyler Farrar (USA)",
+          "team": "Garmin–Barracuda",
+          "time": "+ 10\""
+        },
+        {
+          "rank": 3,
+          "name": "Robert Hunter (RSA)",
+          "team": "Garmin–Barracuda",
+          "time": "+ 10\""
+        },
+        {
+          "rank": 4,
+          "name": "Ryder Hesjedal (CAN)",
+          "team": "Garmin–Barracuda",
+          "time": "+ 11\""
+        },
+        {
+          "rank": 5,
+          "name": "Taylor Phinney (USA)",
+          "team": "BMC Racing Team",
+          "time": "+ 13\""
+        },
+        {
+          "rank": 6,
+          "name": "Manuele Boaro (ITA)",
+          "team": "Team Saxo Bank",
+          "time": "+ 19\""
+        },
+        {
+          "rank": 7,
+          "name": "Geraint Thomas (GBR)",
+          "team": "Team Sky",
+          "time": "+ 21\""
+        },
+        {
+          "rank": 8,
+          "name": "Sébastien Rosseler (BEL)",
+          "team": "Garmin–Barracuda",
+          "time": "+ 25\""
+        },
+        {
+          "rank": 9,
+          "name": "Christian Vande Velde (USA)",
+          "team": "Garmin–Barracuda",
+          "time": "+ 26\""
+        },
+        {
+          "rank": 10,
+          "name": "Joaquim Rodríguez (ESP)",
+          "team": "Team Katusha",
+          "time": "+ 30\""
+        }
+      ]
+    },
+    {
+      "stage": 5,
+      "riders": [
+        {
+          "rank": 1,
+          "name": "Ramūnas Navardauskas (LTU)",
+          "team": "Garmin–Barracuda",
+          "time": "14h 45' 13\""
+        },
+        {
+          "rank": 2,
+          "name": "Robert Hunter (RSA)",
+          "team": "Garmin–Barracuda",
+          "time": "+ 5\""
+        },
+        {
+          "rank": 3,
+          "name": "Ryder Hesjedal (CAN)",
+          "team": "Garmin–Barracuda",
+          "time": "+ 11\""
+        },
+        {
+          "rank": 4,
+          "name": "Matthew Goss (AUS)",
+          "team": "Orica–GreenEDGE",
+          "time": "+ 13\""
+        },
+        {
+          "rank": 5,
+          "name": "Mark Cavendish (GBR)",
+          "team": "Team Sky",
+          "time": "+ 14\""
+        },
+        {
+          "rank": 6,
+          "name": "Geraint Thomas (GBR)",
+          "team": "Team Sky",
+          "time": "+ 16\""
+        },
+        {
+          "rank": 7,
+          "name": "Manuele Boaro (ITA)",
+          "team": "Team Saxo Bank",
+          "time": "+ 19\""
+        },
+        {
+          "rank": 8,
+          "name": "Christian Vande Velde (USA)",
+          "team": "Garmin–Barracuda",
+          "time": "+ 26\""
+        },
+        {
+          "rank": 9,
+          "name": "Joaquim Rodríguez (ESP)",
+          "team": "Team Katusha",
+          "time": "+ 30\""
+        },
+        {
+          "rank": 10,
+          "name": "Alexander Kristoff (NOR)",
+          "team": "Team Katusha",
+          "time": "+ 30\""
+        }
+      ]
+    },
+    {
+      "stage": 6,
+      "riders": [
+        {
+          "rank": 1,
+          "name": "Adriano Malori (ITA)",
+          "team": "Lampre–ISD",
+          "time": "20h 25' 28\""
+        },
+        {
+          "rank": 2,
+          "name": "Michał Gołaś (POL)",
+          "team": "Omega Pharma–Quick-Step",
+          "time": "+ 15\""
+        },
+        {
+          "rank": 3,
+          "name": "Ryder Hesjedal (CAN)",
+          "team": "Garmin–Barracuda",
+          "time": "+ 17\""
+        },
+        {
+          "rank": 4,
+          "name": "Miguel Ángel Rubiano (COL)",
+          "team": "Androni Giocattoli–Venezuela",
+          "time": "+ 30\""
+        },
+        {
+          "rank": 5,
+          "name": "Christian Vande Velde (USA)",
+          "team": "Garmin–Barracuda",
+          "time": "+ 32\""
+        },
+        {
+          "rank": 6,
+          "name": "Joaquim Rodríguez (ESP)",
+          "team": "Team Katusha",
+          "time": "+ 36\""
+        },
+        {
+          "rank": 7,
+          "name": "Peter Stetina (USA)",
+          "team": "Garmin–Barracuda",
+          "time": "+ 37\""
+        },
+        {
+          "rank": 8,
+          "name": "Daniel Moreno (ESP)",
+          "team": "Team Katusha",
+          "time": "+ 39\""
+        },
+        {
+          "rank": 9,
+          "name": "Enrico Gasparotto (ITA)",
+          "team": "Astana",
+          "time": "+ 39\""
+        },
+        {
+          "rank": 10,
+          "name": "Luke Roberts (AUS)",
+          "team": "Team Saxo Bank",
+          "time": "+ 41\""
+        }
+      ]
+    },
+    {
+      "stage": 7,
+      "riders": [
+        {
+          "rank": 1,
+          "name": "Ryder Hesjedal (CAN)",
+          "team": "Garmin–Barracuda",
+          "time": "26h 16' 53\""
+        },
+        {
+          "rank": 2,
+          "name": "Paolo Tiralongo (ITA)",
+          "team": "Astana",
+          "time": "+ 15\""
+        },
+        {
+          "rank": 3,
+          "name": "Joaquim Rodríguez (ESP)",
+          "team": "Team Katusha",
+          "time": "+ 17\""
+        },
+        {
+          "rank": 4,
+          "name": "Christian Vande Velde (USA)",
+          "team": "Garmin–Barracuda",
+          "time": "+ 21\""
+        },
+        {
+          "rank": 5,
+          "name": "Peter Stetina (USA)",
+          "team": "Garmin–Barracuda",
+          "time": "+ 26\""
+        },
+        {
+          "rank": 6,
+          "name": "Daniel Moreno (ESP)",
+          "team": "Team Katusha",
+          "time": "+ 26\""
+        },
+        {
+          "rank": 7,
+          "name": "Roman Kreuziger (CZE)",
+          "team": "Astana",
+          "time": "+ 35\""
+        },
+        {
+          "rank": 8,
+          "name": "Ivan Basso (ITA)",
+          "team": "Liquigas–Cannondale",
+          "time": "+ 40\""
+        },
+        {
+          "rank": 9,
+          "name": "Damiano Caruso (ITA)",
+          "team": "Liquigas–Cannondale",
+          "time": "+ 45\""
+        },
+        {
+          "rank": 10,
+          "name": "Dario Cataldo (ITA)",
+          "team": "Omega Pharma–Quick-Step",
+          "time": "+ 46\""
+        }
+      ]
+    },
+    {
+      "stage": 8,
+      "riders": [
+        {
+          "rank": 1,
+          "name": "Ryder Hesjedal (CAN)",
+          "team": "Garmin–Barracuda",
+          "time": "32h 23' 25\""
+        },
+        {
+          "rank": 2,
+          "name": "Joaquim Rodríguez (ESP)",
+          "team": "Team Katusha",
+          "time": "+ 9\""
+        },
+        {
+          "rank": 3,
+          "name": "Paolo Tiralongo (ITA)",
+          "team": "Astana",
+          "time": "+ 15\""
+        },
+        {
+          "rank": 4,
+          "name": "Roman Kreuziger (CZE)",
+          "team": "Astana",
+          "time": "+ 35\""
+        },
+        {
+          "rank": 5,
+          "name": "Beñat Intxausti (ESP)",
+          "team": "Movistar Team",
+          "time": "+ 35\""
+        },
+        {
+          "rank": 6,
+          "name": "Ivan Basso (ITA)",
+          "team": "Liquigas–Cannondale",
+          "time": "+ 40\""
+        },
+        {
+          "rank": 7,
+          "name": "Damiano Caruso (ITA)",
+          "team": "Liquigas–Cannondale",
+          "time": "+ 45\""
+        },
+        {
+          "rank": 8,
+          "name": "Dario Cataldo (ITA)",
+          "team": "Omega Pharma–Quick-Step",
+          "time": "+ 46\""
+        },
+        {
+          "rank": 9,
+          "name": "Fränk Schleck (LUX)",
+          "team": "RadioShack–Nissan",
+          "time": "+ 48\""
+        },
+        {
+          "rank": 10,
+          "name": "Eros Capecchi (ITA)",
+          "team": "Liquigas–Cannondale",
+          "time": "+ 52\""
+        }
+      ]
+    },
+    {
+      "stage": 9,
+      "riders": [
+        {
+          "rank": 1,
+          "name": "Ryder Hesjedal (CAN)",
+          "team": "Garmin–Barracuda",
+          "time": "36h 02' 40\""
+        },
+        {
+          "rank": 2,
+          "name": "Joaquim Rodríguez (ESP)",
+          "team": "Team Katusha",
+          "time": "+ 9\""
+        },
+        {
+          "rank": 3,
+          "name": "Paolo Tiralongo (ITA)",
+          "team": "Astana",
+          "time": "+ 15\""
+        },
+        {
+          "rank": 4,
+          "name": "Roman Kreuziger (CZE)",
+          "team": "Astana",
+          "time": "+ 35\""
+        },
+        {
+          "rank": 5,
+          "name": "Beñat Intxausti (ESP)",
+          "team": "Movistar Team",
+          "time": "+ 35\""
+        },
+        {
+          "rank": 6,
+          "name": "Ivan Basso (ITA)",
+          "team": "Liquigas–Cannondale",
+          "time": "+ 40\""
+        },
+        {
+          "rank": 7,
+          "name": "Damiano Caruso (ITA)",
+          "team": "Liquigas–Cannondale",
+          "time": "+ 45\""
+        },
+        {
+          "rank": 8,
+          "name": "Dario Cataldo (ITA)",
+          "team": "Omega Pharma–Quick-Step",
+          "time": "+ 46\""
+        },
+        {
+          "rank": 9,
+          "name": "Fränk Schleck (LUX)",
+          "team": "RadioShack–Nissan",
+          "time": "+ 48\""
+        },
+        {
+          "rank": 10,
+          "name": "Eros Capecchi (ITA)",
+          "team": "Liquigas–Cannondale",
+          "time": "+ 52\""
+        }
+      ]
+    },
+    {
+      "stage": 10,
+      "riders": [
+        {
+          "rank": 1,
+          "name": "Joaquim Rodríguez (ESP)",
+          "team": "Team Katusha",
+          "time": "40h 27' 34\""
+        },
+        {
+          "rank": 2,
+          "name": "Ryder Hesjedal (CAN)",
+          "team": "Garmin–Barracuda",
+          "time": "+ 17\""
+        },
+        {
+          "rank": 3,
+          "name": "Paolo Tiralongo (ITA)",
+          "team": "Astana",
+          "time": "+ 32\""
+        },
+        {
+          "rank": 4,
+          "name": "Roman Kreuziger (CZE)",
+          "team": "Astana",
+          "time": "+ 52\""
+        },
+        {
+          "rank": 5,
+          "name": "Beñat Intxausti (ESP)",
+          "team": "Movistar Team",
+          "time": "+ 52\""
+        },
+        {
+          "rank": 6,
+          "name": "Ivan Basso (ITA)",
+          "team": "Liquigas–Cannondale",
+          "time": "+ 57\""
+        },
+        {
+          "rank": 7,
+          "name": "Damiano Caruso (ITA)",
+          "team": "Liquigas–Cannondale",
+          "time": "+ 1' 02\""
+        },
+        {
+          "rank": 8,
+          "name": "Dario Cataldo (ITA)",
+          "team": "Omega Pharma–Quick-Step",
+          "time": "+ 1' 03\""
+        },
+        {
+          "rank": 9,
+          "name": "Eros Capecchi (ITA)",
+          "team": "Liquigas–Cannondale",
+          "time": "+ 1' 09\""
+        },
+        {
+          "rank": 10,
+          "name": "Rigoberto Urán (COL)",
+          "team": "Team Sky",
+          "time": "+ 1' 10\""
+        }
+      ]
+    },
+    {
+      "stage": 11,
+      "riders": [
+        {
+          "rank": 1,
+          "name": "Joaquim Rodríguez (ESP)",
+          "team": "Team Katusha",
+          "time": "47h 16' 39\""
+        },
+        {
+          "rank": 2,
+          "name": "Ryder Hesjedal (CAN)",
+          "team": "Garmin–Barracuda",
+          "time": "+ 17\""
+        },
+        {
+          "rank": 3,
+          "name": "Paolo Tiralongo (ITA)",
+          "team": "Astana",
+          "time": "+ 32\""
+        },
+        {
+          "rank": 4,
+          "name": "Roman Kreuziger (CZE)",
+          "team": "Astana",
+          "time": "+ 52\""
+        },
+        {
+          "rank": 5,
+          "name": "Beñat Intxausti (ESP)",
+          "team": "Movistar Team",
+          "time": "+ 52\""
+        },
+        {
+          "rank": 6,
+          "name": "Ivan Basso (ITA)",
+          "team": "Liquigas–Cannondale",
+          "time": "+ 57\""
+        },
+        {
+          "rank": 7,
+          "name": "Damiano Caruso (ITA)",
+          "team": "Liquigas–Cannondale",
+          "time": "+ 1' 02\""
+        },
+        {
+          "rank": 8,
+          "name": "Dario Cataldo (ITA)",
+          "team": "Omega Pharma–Quick-Step",
+          "time": "+ 1' 03\""
+        },
+        {
+          "rank": 9,
+          "name": "Eros Capecchi (ITA)",
+          "team": "Liquigas–Cannondale",
+          "time": "+ 1' 09\""
+        },
+        {
+          "rank": 10,
+          "name": "Rigoberto Urán (COL)",
+          "team": "Team Sky",
+          "time": "+ 1' 10\""
+        }
+      ]
+    },
+    {
+      "stage": 12,
+      "riders": [
+        {
+          "rank": 1,
+          "name": "Joaquim Rodríguez (ESP)",
+          "team": "Team Katusha",
+          "time": "51h 19' 08\""
+        },
+        {
+          "rank": 2,
+          "name": "Ryder Hesjedal (CAN)",
+          "team": "Garmin–Barracuda",
+          "time": "+ 17\""
+        },
+        {
+          "rank": 3,
+          "name": "Sandy Casar (FRA)",
+          "team": "FDJ–BigMat",
+          "time": "+ 26\""
+        },
+        {
+          "rank": 4,
+          "name": "Paolo Tiralongo (ITA)",
+          "team": "Astana",
+          "time": "+ 32\""
+        },
+        {
+          "rank": 5,
+          "name": "Ivan Santaromita (ITA)",
+          "team": "BMC Racing Team",
+          "time": "+ 49\""
+        },
+        {
+          "rank": 6,
+          "name": "Roman Kreuziger (CZE)",
+          "team": "Astana",
+          "time": "+ 52\""
+        },
+        {
+          "rank": 7,
+          "name": "Beñat Intxausti (ESP)",
+          "team": "Movistar Team",
+          "time": "+ 52\""
+        },
+        {
+          "rank": 8,
+          "name": "Ivan Basso (ITA)",
+          "team": "Liquigas–Cannondale",
+          "time": "+ 57\""
+        },
+        {
+          "rank": 9,
+          "name": "Damiano Caruso (ITA)",
+          "team": "Liquigas–Cannondale",
+          "time": "+ 1' 02\""
+        },
+        {
+          "rank": 10,
+          "name": "Dario Cataldo (ITA)",
+          "team": "Omega Pharma–Quick-Step",
+          "time": "+ 1' 03\""
+        }
+      ]
+    },
+    {
+      "stage": 13,
+      "riders": [
+        {
+          "rank": 1,
+          "name": "Joaquim Rodríguez (ESP)",
+          "team": "Team Katusha",
+          "time": "54h 21' 15\""
+        },
+        {
+          "rank": 2,
+          "name": "Ryder Hesjedal (CAN)",
+          "team": "Garmin–Barracuda",
+          "time": "+ 17\""
+        },
+        {
+          "rank": 3,
+          "name": "Sandy Casar (FRA)",
+          "team": "FDJ–BigMat",
+          "time": "+ 26\""
+        },
+        {
+          "rank": 4,
+          "name": "Paolo Tiralongo (ITA)",
+          "team": "Astana",
+          "time": "+ 32\""
+        },
+        {
+          "rank": 5,
+          "name": "Ivan Santaromita (ITA)",
+          "team": "BMC Racing Team",
+          "time": "+ 49\""
+        },
+        {
+          "rank": 6,
+          "name": "Roman Kreuziger (CZE)",
+          "team": "Astana",
+          "time": "+ 52\""
+        },
+        {
+          "rank": 7,
+          "name": "Beñat Intxausti (ESP)",
+          "team": "Movistar Team",
+          "time": "+ 52\""
+        },
+        {
+          "rank": 8,
+          "name": "Ivan Basso (ITA)",
+          "team": "Liquigas–Cannondale",
+          "time": "+ 57\""
+        },
+        {
+          "rank": 9,
+          "name": "Damiano Caruso (ITA)",
+          "team": "Liquigas–Cannondale",
+          "time": "+ 1' 02\""
+        },
+        {
+          "rank": 10,
+          "name": "Dario Cataldo (ITA)",
+          "team": "Omega Pharma–Quick-Step",
+          "time": "+ 1' 03\""
+        }
+      ]
+    },
+    {
+      "stage": 14,
+      "riders": [
+        {
+          "rank": 1,
+          "name": "Ryder Hesjedal (CAN)",
+          "team": "Garmin–Barracuda",
+          "time": "59h 55' 28\""
+        },
+        {
+          "rank": 2,
+          "name": "Joaquim Rodríguez (ESP)",
+          "team": "Team Katusha",
+          "time": "+ 9\""
+        },
+        {
+          "rank": 3,
+          "name": "Paolo Tiralongo (ITA)",
+          "team": "Astana",
+          "time": "+ 41\""
+        },
+        {
+          "rank": 4,
+          "name": "Sandy Casar (FRA)",
+          "team": "FDJ–BigMat",
+          "time": "+ 1' 05\""
+        },
+        {
+          "rank": 5,
+          "name": "Ivan Basso (ITA)",
+          "team": "Liquigas–Cannondale",
+          "time": "+ 1' 06\""
+        },
+        {
+          "rank": 6,
+          "name": "Roman Kreuziger (CZE)",
+          "team": "Astana",
+          "time": "+ 1' 07\""
+        },
+        {
+          "rank": 7,
+          "name": "Beñat Intxausti (ESP)",
+          "team": "Movistar Team",
+          "time": "+ 1' 07\""
+        },
+        {
+          "rank": 8,
+          "name": "Rigoberto Urán (COL)",
+          "team": "Team Sky",
+          "time": "+ 1' 19\""
+        },
+        {
+          "rank": 9,
+          "name": "Michele Scarponi (ITA)",
+          "team": "Lampre–ISD",
+          "time": "+ 1' 20\""
+        },
+        {
+          "rank": 10,
+          "name": "Domenico Pozzovivo (ITA)",
+          "team": "Colnago–CSF Bardiani",
+          "time": "+ 1' 21\""
+        }
+      ]
+    },
+    {
+      "stage": 15,
+      "riders": [
+        {
+          "rank": 1,
+          "name": "Joaquim Rodríguez (ESP)",
+          "team": "Team Katusha",
+          "time": "65h 11' 07\""
+        },
+        {
+          "rank": 2,
+          "name": "Ryder Hesjedal (CAN)",
+          "team": "Garmin–Barracuda",
+          "time": "+ 30\""
+        },
+        {
+          "rank": 3,
+          "name": "Ivan Basso (ITA)",
+          "team": "Liquigas–Cannondale",
+          "time": "+ 1' 22\""
+        },
+        {
+          "rank": 4,
+          "name": "Paolo Tiralongo (ITA)",
+          "team": "Astana",
+          "time": "+ 1' 26\""
+        },
+        {
+          "rank": 5,
+          "name": "Roman Kreuziger (CZE)",
+          "team": "Astana",
+          "time": "+ 1' 27\""
+        },
+        {
+          "rank": 6,
+          "name": "Michele Scarponi (ITA)",
+          "team": "Lampre–ISD",
+          "time": "+ 1' 36\""
+        },
+        {
+          "rank": 7,
+          "name": "Beñat Intxausti (ESP)",
+          "team": "Movistar Team",
+          "time": "+ 1' 42\""
+        },
+        {
+          "rank": 8,
+          "name": "Sergio Henao (COL)",
+          "team": "Team Sky",
+          "time": "+ 1' 55\""
+        },
+        {
+          "rank": 9,
+          "name": "Dario Cataldo (ITA)",
+          "team": "Omega Pharma–Quick-Step",
+          "time": "+ 2' 12\""
+        },
+        {
+          "rank": 10,
+          "name": "Sandy Casar (FRA)",
+          "team": "FDJ–BigMat",
+          "time": "+ 2' 13\""
+        }
+      ]
+    },
+    {
+      "stage": 16,
+      "riders": [
+        {
+          "rank": 1,
+          "name": "Joaquim Rodríguez (ESP)",
+          "team": "Team Katusha",
+          "time": "69h 22' 04\""
+        },
+        {
+          "rank": 2,
+          "name": "Ryder Hesjedal (CAN)",
+          "team": "Garmin–Barracuda",
+          "time": "+ 30\""
+        },
+        {
+          "rank": 3,
+          "name": "Ivan Basso (ITA)",
+          "team": "Liquigas–Cannondale",
+          "time": "+ 1' 22\""
+        },
+        {
+          "rank": 4,
+          "name": "Paolo Tiralongo (ITA)",
+          "team": "Astana",
+          "time": "+ 1' 26\""
+        },
+        {
+          "rank": 5,
+          "name": "Roman Kreuziger (CZE)",
+          "team": "Astana",
+          "time": "+ 1' 27\""
+        },
+        {
+          "rank": 6,
+          "name": "Michele Scarponi (ITA)",
+          "team": "Lampre–ISD",
+          "time": "+ 1' 36\""
+        },
+        {
+          "rank": 7,
+          "name": "Beñat Intxausti (ESP)",
+          "team": "Movistar Team",
+          "time": "+ 1' 42\""
+        },
+        {
+          "rank": 8,
+          "name": "Sergio Henao (COL)",
+          "team": "Team Sky",
+          "time": "+ 1' 55\""
+        },
+        {
+          "rank": 9,
+          "name": "Dario Cataldo (ITA)",
+          "team": "Omega Pharma–Quick-Step",
+          "time": "+ 2' 12\""
+        },
+        {
+          "rank": 10,
+          "name": "Sandy Casar (FRA)",
+          "team": "FDJ–BigMat",
+          "time": "+ 2' 13\""
+        }
+      ]
+    },
+    {
+      "stage": 17,
+      "riders": [
+        {
+          "rank": 1,
+          "name": "Joaquim Rodríguez (ESP)",
+          "team": "Team Katusha",
+          "time": "74h 46' 46\""
+        },
+        {
+          "rank": 2,
+          "name": "Ryder Hesjedal (CAN)",
+          "team": "Garmin–Barracuda",
+          "time": "+ 30\""
+        },
+        {
+          "rank": 3,
+          "name": "Ivan Basso (ITA)",
+          "team": "Liquigas–Cannondale",
+          "time": "+ 1' 22\""
+        },
+        {
+          "rank": 4,
+          "name": "Michele Scarponi (ITA)",
+          "team": "Lampre–ISD",
+          "time": "+ 1' 36\""
+        },
+        {
+          "rank": 5,
+          "name": "Rigoberto Urán (COL)",
+          "team": "Team Sky",
+          "time": "+ 2' 56\""
+        },
+        {
+          "rank": 6,
+          "name": "Beñat Intxausti (ESP)",
+          "team": "Movistar Team",
+          "time": "+ 3' 04\""
+        },
+        {
+          "rank": 7,
+          "name": "Domenico Pozzovivo (ITA)",
+          "team": "Colnago–CSF Bardiani",
+          "time": "+ 3' 19\""
+        },
+        {
+          "rank": 8,
+          "name": "Paolo Tiralongo (ITA)",
+          "team": "Astana",
+          "time": "+ 4' 13\""
+        },
+        {
+          "rank": 9,
+          "name": "Thomas De Gendt (BEL)",
+          "team": "Vacansoleil–DCM",
+          "time": "+ 4' 38\""
+        },
+        {
+          "rank": 10,
+          "name": "Sergio Henao (COL)",
+          "team": "Team Sky",
+          "time": "+ 4' 42\""
+        }
+      ]
+    },
+    {
+      "stage": 18,
+      "riders": [
+        {
+          "rank": 1,
+          "name": "Joaquim Rodríguez (ESP)",
+          "team": "Team Katusha",
+          "time": "77h 47' 38\""
+        },
+        {
+          "rank": 2,
+          "name": "Ryder Hesjedal (CAN)",
+          "team": "Garmin–Barracuda",
+          "time": "+ 30\""
+        },
+        {
+          "rank": 3,
+          "name": "Ivan Basso (ITA)",
+          "team": "Liquigas–Cannondale",
+          "time": "+ 1' 22\""
+        },
+        {
+          "rank": 4,
+          "name": "Michele Scarponi (ITA)",
+          "team": "Lampre–ISD",
+          "time": "+ 1' 36\""
+        },
+        {
+          "rank": 5,
+          "name": "Rigoberto Urán (COL)",
+          "team": "Team Sky",
+          "time": "+ 2' 56\""
+        },
+        {
+          "rank": 6,
+          "name": "Beñat Intxausti (ESP)",
+          "team": "Movistar Team",
+          "time": "+ 3' 04\""
+        },
+        {
+          "rank": 7,
+          "name": "Domenico Pozzovivo (ITA)",
+          "team": "Colnago–CSF Bardiani",
+          "time": "+ 3' 19\""
+        },
+        {
+          "rank": 8,
+          "name": "Paolo Tiralongo (ITA)",
+          "team": "Astana",
+          "time": "+ 4' 13\""
+        },
+        {
+          "rank": 9,
+          "name": "Thomas De Gendt (BEL)",
+          "team": "Vacansoleil–DCM",
+          "time": "+ 4' 38\""
+        },
+        {
+          "rank": 10,
+          "name": "Sergio Henao (COL)",
+          "team": "Team Sky",
+          "time": "+ 4' 42\""
+        }
+      ]
+    },
+    {
+      "stage": 19,
+      "riders": [
+        {
+          "rank": 1,
+          "name": "Joaquim Rodríguez (ESP)",
+          "team": "Team Katusha",
+          "time": "84h 06' 13\""
+        },
+        {
+          "rank": 2,
+          "name": "Ryder Hesjedal (CAN)",
+          "team": "Garmin–Barracuda",
+          "time": "+ 17\""
+        },
+        {
+          "rank": 3,
+          "name": "Michele Scarponi (ITA)",
+          "team": "Lampre–ISD",
+          "time": "+ 1' 39\""
+        },
+        {
+          "rank": 4,
+          "name": "Ivan Basso (ITA)",
+          "team": "Liquigas–Cannondale",
+          "time": "+ 1' 45\""
+        },
+        {
+          "rank": 5,
+          "name": "Rigoberto Urán (COL)",
+          "team": "Team Sky",
+          "time": "+ 3' 21\""
+        },
+        {
+          "rank": 6,
+          "name": "Domenico Pozzovivo (ITA)",
+          "team": "Colnago–CSF Bardiani",
+          "time": "+ 3' 30\""
+        },
+        {
+          "rank": 7,
+          "name": "John Gadret (FRA)",
+          "team": "Ag2r–La Mondiale",
+          "time": "+ 5' 36\""
+        },
+        {
+          "rank": 8,
+          "name": "Thomas De Gendt (BEL)",
+          "team": "Vacansoleil–DCM",
+          "time": "+ 5' 40\""
+        },
+        {
+          "rank": 9,
+          "name": "Sergio Henao (COL)",
+          "team": "Team Sky",
+          "time": "+ 5' 47\""
+        },
+        {
+          "rank": 10,
+          "name": "Damiano Cunego (ITA)",
+          "team": "Lampre–ISD",
+          "time": "+ 6' 09\""
+        }
+      ]
+    },
+    {
+      "stage": 20,
+      "riders": [
+        {
+          "rank": 1,
+          "name": "Joaquim Rodríguez (ESP)",
+          "team": "Team Katusha",
+          "time": "91h 04' 16\""
+        },
+        {
+          "rank": 2,
+          "name": "Ryder Hesjedal (CAN)",
+          "team": "Garmin–Barracuda",
+          "time": "+ 31\""
+        },
+        {
+          "rank": 3,
+          "name": "Michele Scarponi (ITA)",
+          "team": "Lampre–ISD",
+          "time": "+ 1' 51\""
+        },
+        {
+          "rank": 4,
+          "name": "Thomas De Gendt (BEL)",
+          "team": "Vacansoleil–DCM",
+          "time": "+ 2' 18\""
+        },
+        {
+          "rank": 5,
+          "name": "Ivan Basso (ITA)",
+          "team": "Liquigas–Cannondale",
+          "time": "+ 3' 18\""
+        },
+        {
+          "rank": 6,
+          "name": "Damiano Cunego (ITA)",
+          "team": "Lampre–ISD",
+          "time": "+ 3' 43\""
+        },
+        {
+          "rank": 7,
+          "name": "Rigoberto Urán (COL)",
+          "team": "Team Sky",
+          "time": "+ 4' 52\""
+        },
+        {
+          "rank": 8,
+          "name": "Domenico Pozzovivo (ITA)",
+          "team": "Colnago–CSF Bardiani",
+          "time": "+ 5' 47\""
+        },
+        {
+          "rank": 9,
+          "name": "Mikel Nieve (ESP)",
+          "team": "Euskaltel–Euskadi",
+          "time": "+ 5' 56\""
+        },
+        {
+          "rank": 10,
+          "name": "John Gadret (FRA)",
+          "team": "Ag2r–La Mondiale",
+          "time": "+ 6' 43\""
+        }
+      ]
+    },
+    {
+      "stage": 21,
+      "riders": [
+        {
+          "rank": 1,
+          "name": "Ryder Hesjedal (CAN)",
+          "team": "Garmin–Barracuda",
+          "time": "91h 39' 02\""
+        },
+        {
+          "rank": 2,
+          "name": "Joaquim Rodríguez (ESP)",
+          "team": "Team Katusha",
+          "time": "+ 16\""
+        },
+        {
+          "rank": 3,
+          "name": "Thomas De Gendt (BEL)",
+          "team": "Vacansoleil–DCM",
+          "time": "+ 1' 39\""
+        },
+        {
+          "rank": 4,
+          "name": "Michele Scarponi (ITA)",
+          "team": "Lampre–ISD",
+          "time": "+ 2' 05\""
+        },
+        {
+          "rank": 5,
+          "name": "Ivan Basso (ITA)",
+          "team": "Liquigas–Cannondale",
+          "time": "+ 3' 44\""
+        },
+        {
+          "rank": 6,
+          "name": "Damiano Cunego (ITA)",
+          "team": "Lampre–ISD",
+          "time": "+ 4' 40\""
+        },
+        {
+          "rank": 7,
+          "name": "Rigoberto Urán (COL)",
+          "team": "Team Sky",
+          "time": "+ 5' 57\""
+        },
+        {
+          "rank": 8,
+          "name": "Domenico Pozzovivo (ITA)",
+          "team": "Colnago–CSF Bardiani",
+          "time": "+ 6' 28\""
+        },
+        {
+          "rank": 9,
+          "name": "Sergio Henao (COL)",
+          "team": "Team Sky",
+          "time": "+ 7' 50\""
+        },
+        {
+          "rank": 10,
+          "name": "Mikel Nieve (ESP)",
+          "team": "Euskaltel–Euskadi",
+          "time": "+ 8' 08\""
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,585 @@
+{
+  "race": "giro",
+  "year": 2015,
+  "teams": [
+    {
+      "name": "AG2R La Mondiale",
+      "uci_code": null,
+      "country": null,
+      "colours": [
+        "#4A2C2A",
+        "#00A3E0",
+        "#FFFFFF"
+      ]
+    },
+    {
+      "name": "Astana",
+      "uci_code": null,
+      "country": null,
+      "colours": [
+        "#00A3E0",
+        "#111827",
+        "#EF4444"
+      ]
+    },
+    {
+      "name": "BMC Racing Team",
+      "uci_code": null,
+      "country": null,
+      "colours": [
+        "#111827",
+        "#E10600",
+        "#FFFFFF"
+      ]
+    },
+    {
+      "name": "Etixx–Quick-Step",
+      "uci_code": null,
+      "country": null,
+      "colours": [
+        "#E5E7EB",
+        "#9CA3AF",
+        null
+      ]
+    },
+    {
+      "name": "FDJ",
+      "uci_code": null,
+      "country": null,
+      "colours": [
+        "#E5E7EB",
+        "#9CA3AF",
+        null
+      ]
+    },
+    {
+      "name": "IAM Cycling",
+      "uci_code": null,
+      "country": null,
+      "colours": [
+        "#E5E7EB",
+        "#9CA3AF",
+        null
+      ]
+    },
+    {
+      "name": "Lampre–Merida",
+      "uci_code": null,
+      "country": null,
+      "colours": [
+        "#E5E7EB",
+        "#9CA3AF",
+        null
+      ]
+    },
+    {
+      "name": "Lotto–Soudal",
+      "uci_code": null,
+      "country": null,
+      "colours": [
+        "#E10600",
+        "#111827",
+        "#FFFFFF"
+      ]
+    },
+    {
+      "name": "Movistar Team",
+      "uci_code": null,
+      "country": null,
+      "colours": [
+        "#0EA5E9",
+        "#002855",
+        "#FFFFFF"
+      ]
+    },
+    {
+      "name": "Orica–GreenEDGE",
+      "uci_code": null,
+      "country": null,
+      "colours": [
+        "#E5E7EB",
+        "#9CA3AF",
+        null
+      ]
+    },
+    {
+      "name": "Cannondale–Garmin",
+      "uci_code": null,
+      "country": null,
+      "colours": [
+        "#E5E7EB",
+        "#9CA3AF",
+        null
+      ]
+    },
+    {
+      "name": "Team Giant–Alpecin",
+      "uci_code": null,
+      "country": null,
+      "colours": [
+        "#E5E7EB",
+        "#9CA3AF",
+        null
+      ]
+    },
+    {
+      "name": "Team Katusha",
+      "uci_code": null,
+      "country": null,
+      "colours": [
+        "#E5E7EB",
+        "#9CA3AF",
+        null
+      ]
+    },
+    {
+      "name": "LottoNL–Jumbo",
+      "uci_code": null,
+      "country": null,
+      "colours": [
+        "#FACC15",
+        "#111827",
+        "#FFFFFF"
+      ]
+    },
+    {
+      "name": "Team Sky",
+      "uci_code": null,
+      "country": null,
+      "colours": [
+        "#111827",
+        "#00A3E0",
+        "#FFFFFF"
+      ]
+    },
+    {
+      "name": "Tinkoff–Saxo",
+      "uci_code": null,
+      "country": null,
+      "colours": [
+        "#E5E7EB",
+        "#9CA3AF",
+        null
+      ]
+    },
+    {
+      "name": "Trek Factory Racing",
+      "uci_code": null,
+      "country": null,
+      "colours": [
+        "#E5E7EB",
+        "#9CA3AF",
+        null
+      ]
+    },
+    {
+      "name": "Bardiani–CSF",
+      "uci_code": null,
+      "country": null,
+      "colours": [
+        "#E5E7EB",
+        "#9CA3AF",
+        null
+      ]
+    },
+    {
+      "name": "CCC–Sprandi–Polkowice",
+      "uci_code": null,
+      "country": null,
+      "colours": [
+        "#E5E7EB",
+        "#9CA3AF",
+        null
+      ]
+    },
+    {
+      "name": "Southeast Pro Cycling",
+      "uci_code": null,
+      "country": null,
+      "colours": [
+        "#E5E7EB",
+        "#9CA3AF",
+        null
+      ]
+    },
+    {
+      "name": "Nippo–Vini Fantini",
+      "uci_code": null,
+      "country": null,
+      "colours": [
+        "#E5E7EB",
+        "#9CA3AF",
+        null
+      ]
+    },
+    {
+      "name": "Androni Giocattoli–Sidermec",
+      "uci_code": null,
+      "country": null,
+      "colours": [
+        "#16A34A",
+        "#111827",
+        "#F59E0B"
+      ]
+    }
+  ],
+  "stages": [
+    {
+      "stage": 1,
+      "date": "2015-05-09",
+      "distance_km": 17.6,
+      "accumulated_km": 17.6,
+      "elevation_gain_m": null,
+      "start": {
+        "town": "San Lorenzo al Mare",
+        "lat": 43.86666667,
+        "lon": 7.91666667
+      },
+      "finish": {
+        "town": "Sanremo",
+        "lat": 43.817,
+        "lon": 7.777
+      }
+    },
+    {
+      "stage": 2,
+      "date": "2015-05-10",
+      "distance_km": 177,
+      "accumulated_km": 194.6,
+      "elevation_gain_m": null,
+      "start": {
+        "town": "Albenga",
+        "lat": 44.0505,
+        "lon": 8.2139
+      },
+      "finish": {
+        "town": "Genoa",
+        "lat": 44.4056,
+        "lon": 8.9463
+      }
+    },
+    {
+      "stage": 3,
+      "date": "2015-05-11",
+      "distance_km": 136,
+      "accumulated_km": 330.6,
+      "elevation_gain_m": null,
+      "start": {
+        "town": "Rapallo",
+        "lat": 44.35,
+        "lon": 9.23333333
+      },
+      "finish": {
+        "town": "Sestri Levante",
+        "lat": 44.2697,
+        "lon": 9.3958
+      }
+    },
+    {
+      "stage": 4,
+      "date": "2015-05-12",
+      "distance_km": 150,
+      "accumulated_km": 480.6,
+      "elevation_gain_m": null,
+      "start": {
+        "town": "Chiavari",
+        "lat": 44.31666667,
+        "lon": 9.33333333
+      },
+      "finish": {
+        "town": "La Spezia",
+        "lat": 44.1,
+        "lon": 9.81666667
+      }
+    },
+    {
+      "stage": 5,
+      "date": "2015-05-13",
+      "distance_km": 152,
+      "accumulated_km": 632.6,
+      "elevation_gain_m": null,
+      "start": {
+        "town": "La Spezia",
+        "lat": 44.1,
+        "lon": 9.81666667
+      },
+      "finish": {
+        "town": "Abetone",
+        "lat": 44.1347,
+        "lon": 10.6664
+      }
+    },
+    {
+      "stage": 6,
+      "date": "2015-05-14",
+      "distance_km": 183,
+      "accumulated_km": 815.6,
+      "elevation_gain_m": null,
+      "start": {
+        "town": "Montecatini Terme",
+        "lat": 43.8809,
+        "lon": 10.7755
+      },
+      "finish": {
+        "town": "Castiglione della Pescaia",
+        "lat": 42.7667,
+        "lon": 10.8833
+      }
+    },
+    {
+      "stage": 7,
+      "date": "2015-05-15",
+      "distance_km": 264,
+      "accumulated_km": 1079.6,
+      "elevation_gain_m": null,
+      "start": {
+        "town": "Grosseto",
+        "lat": 42.76666667,
+        "lon": 11.1
+      },
+      "finish": {
+        "town": "Fiuggi",
+        "lat": 41.8022,
+        "lon": 13.2225
+      }
+    },
+    {
+      "stage": 8,
+      "date": "2015-05-16",
+      "distance_km": 186,
+      "accumulated_km": 1265.6,
+      "elevation_gain_m": null,
+      "start": {
+        "town": "Fiuggi",
+        "lat": 41.8022,
+        "lon": 13.2225
+      },
+      "finish": {
+        "town": "Campitello Matese",
+        "lat": 41.4667,
+        "lon": 14.45
+      }
+    },
+    {
+      "stage": 9,
+      "date": "2015-05-17",
+      "distance_km": 224,
+      "accumulated_km": 1489.6,
+      "elevation_gain_m": null,
+      "start": {
+        "town": "Benevento",
+        "lat": 41.13333333,
+        "lon": 14.78333333
+      },
+      "finish": {
+        "town": "San Giorgio del Sannio",
+        "lat": 41.06738889,
+        "lon": 14.85522222
+      }
+    },
+    {
+      "stage": 10,
+      "date": "2015-05-19",
+      "distance_km": 200,
+      "accumulated_km": 1689.6,
+      "elevation_gain_m": null,
+      "start": {
+        "town": "Civitanova Marche",
+        "lat": 43.3,
+        "lon": 13.73333333
+      },
+      "finish": {
+        "town": "Forlì",
+        "lat": 44.22277778,
+        "lon": 12.04138889
+      }
+    },
+    {
+      "stage": 11,
+      "date": "2015-05-20",
+      "distance_km": 153,
+      "accumulated_km": 1842.6,
+      "elevation_gain_m": null,
+      "start": {
+        "town": "Forlì",
+        "lat": 44.22277778,
+        "lon": 12.04138889
+      },
+      "finish": {
+        "town": "Autodromo Enzo e Dino Ferrari",
+        "lat": 44.3439,
+        "lon": 11.7133
+      }
+    },
+    {
+      "stage": 12,
+      "date": "2015-05-21",
+      "distance_km": 190,
+      "accumulated_km": 2032.6,
+      "elevation_gain_m": null,
+      "start": {
+        "town": "Imola",
+        "lat": 44.35305556,
+        "lon": 11.71472222
+      },
+      "finish": {
+        "town": "Monte Berico",
+        "lat": 45.5647,
+        "lon": 11.5366
+      }
+    },
+    {
+      "stage": 13,
+      "date": "2015-05-22",
+      "distance_km": 147,
+      "accumulated_km": 2179.6,
+      "elevation_gain_m": null,
+      "start": {
+        "town": "Montecchio Maggiore",
+        "lat": 45.5,
+        "lon": 11.41666667
+      },
+      "finish": {
+        "town": "Jesolo",
+        "lat": 45.5333,
+        "lon": 12.65
+      }
+    },
+    {
+      "stage": 14,
+      "date": "2015-05-23",
+      "distance_km": 59.4,
+      "accumulated_km": 2239,
+      "elevation_gain_m": null,
+      "start": {
+        "town": "Treviso",
+        "lat": 45.6667,
+        "lon": 12.2442
+      },
+      "finish": {
+        "town": "Valdobbiadene",
+        "lat": 45.9,
+        "lon": 11.995
+      }
+    },
+    {
+      "stage": 15,
+      "date": "2015-05-24",
+      "distance_km": 165,
+      "accumulated_km": 2404,
+      "elevation_gain_m": null,
+      "start": {
+        "town": "Marostica",
+        "lat": 45.75,
+        "lon": 11.65
+      },
+      "finish": {
+        "town": "Madonna di Campiglio",
+        "lat": 46.2278,
+        "lon": 10.8264
+      }
+    },
+    {
+      "stage": 16,
+      "date": "2015-05-26",
+      "distance_km": 174,
+      "accumulated_km": 2578,
+      "elevation_gain_m": null,
+      "start": {
+        "town": "Pinzolo",
+        "lat": 46.1597,
+        "lon": 10.7656
+      },
+      "finish": {
+        "town": "Aprica",
+        "lat": 46.154,
+        "lon": 10.152
+      }
+    },
+    {
+      "stage": 17,
+      "date": "2015-05-27",
+      "distance_km": 134,
+      "accumulated_km": 2712,
+      "elevation_gain_m": null,
+      "start": {
+        "town": "Tirano",
+        "lat": 46.21638889,
+        "lon": 10.16888889
+      },
+      "finish": {
+        "town": "Lugano",
+        "lat": 46.005,
+        "lon": 8.9525
+      }
+    },
+    {
+      "stage": 18,
+      "date": "2015-05-28",
+      "distance_km": 170,
+      "accumulated_km": 2882,
+      "elevation_gain_m": null,
+      "start": {
+        "town": "Melide",
+        "lat": 45.9333,
+        "lon": 8.9333
+      },
+      "finish": {
+        "town": "Verbania",
+        "lat": 45.92,
+        "lon": 8.55
+      }
+    },
+    {
+      "stage": 19,
+      "date": "2015-05-29",
+      "distance_km": 236,
+      "accumulated_km": 3118,
+      "elevation_gain_m": null,
+      "start": {
+        "town": "Gravellona Toce",
+        "lat": 45.93333333,
+        "lon": 8.43333333
+      },
+      "finish": {
+        "town": "Cervinia",
+        "lat": 45.9367,
+        "lon": 7.6264
+      }
+    },
+    {
+      "stage": 20,
+      "date": "2015-05-30",
+      "distance_km": 196,
+      "accumulated_km": 3314,
+      "elevation_gain_m": null,
+      "start": {
+        "town": "Saint-Vincent",
+        "lat": 45.75,
+        "lon": 7.65
+      },
+      "finish": {
+        "town": "Sestriere",
+        "lat": 44.9572,
+        "lon": 6.8769
+      }
+    },
+    {
+      "stage": 21,
+      "date": "2015-05-31",
+      "distance_km": 185,
+      "accumulated_km": 3499,
+      "elevation_gain_m": null,
+      "start": {
+        "town": "Turin",
+        "lat": 45.0703,
+        "lon": 7.6869
+      },
+      "finish": {
+        "town": "Milan",
+        "lat": 45.4642,
+        "lon": 9.19
+      }
+    }
+  ]
+}

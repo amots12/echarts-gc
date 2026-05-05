@@ -1,0 +1,1371 @@
+{
+  "race": "Giro d%27Italia",
+  "year": 2019,
+  "stages": [
+    {
+      "stage": 1,
+      "riders": [
+        {
+          "rank": 1,
+          "name": "Primož Roglič (SLO)",
+          "team": "Team Jumbo–Visma",
+          "time": "12' 54\""
+        },
+        {
+          "rank": 2,
+          "name": "Simon Yates (GBR)",
+          "team": "Mitchelton–Scott",
+          "time": "+ 19\""
+        },
+        {
+          "rank": 3,
+          "name": "Vincenzo Nibali (ITA)",
+          "team": "Bahrain–Merida",
+          "time": "+ 23\""
+        },
+        {
+          "rank": 4,
+          "name": "Miguel Ángel López (COL)",
+          "team": "Astana",
+          "time": "+ 28\""
+        },
+        {
+          "rank": 5,
+          "name": "Tom Dumoulin (NED)",
+          "team": "Team Sunweb",
+          "time": "+ 28\""
+        },
+        {
+          "rank": 6,
+          "name": "Rafał Majka (POL)",
+          "team": "Bora–Hansgrohe",
+          "time": "+ 33\""
+        },
+        {
+          "rank": 7,
+          "name": "Tao Geoghegan Hart (GBR)",
+          "team": "Team INEOS",
+          "time": "+ 35\""
+        },
+        {
+          "rank": 8,
+          "name": "Laurens De Plus (BEL)",
+          "team": "Team Jumbo–Visma",
+          "time": "+ 35\""
+        },
+        {
+          "rank": 9,
+          "name": "Bauke Mollema (NED)",
+          "team": "Trek–Segafredo",
+          "time": "+ 39\""
+        },
+        {
+          "rank": 10,
+          "name": "Damiano Caruso (ITA)",
+          "team": "Bahrain–Merida",
+          "time": "+ 40\""
+        }
+      ]
+    },
+    {
+      "stage": 2,
+      "riders": [
+        {
+          "rank": 1,
+          "name": "Primož Roglič (SLO)",
+          "team": "Team Jumbo–Visma",
+          "time": "4h 57' 42\""
+        },
+        {
+          "rank": 2,
+          "name": "Simon Yates (GBR)",
+          "team": "Mitchelton–Scott",
+          "time": "+ 19\""
+        },
+        {
+          "rank": 3,
+          "name": "Vincenzo Nibali (ITA)",
+          "team": "Bahrain–Merida",
+          "time": "+ 23\""
+        },
+        {
+          "rank": 4,
+          "name": "Miguel Ángel López (COL)",
+          "team": "Astana",
+          "time": "+ 28\""
+        },
+        {
+          "rank": 5,
+          "name": "Tom Dumoulin (NED)",
+          "team": "Team Sunweb",
+          "time": "+ 28\""
+        },
+        {
+          "rank": 6,
+          "name": "Rafał Majka (POL)",
+          "team": "Bora–Hansgrohe",
+          "time": "+ 33\""
+        },
+        {
+          "rank": 7,
+          "name": "Tao Geoghegan Hart (GBR)",
+          "team": "Team INEOS",
+          "time": "+ 35\""
+        },
+        {
+          "rank": 8,
+          "name": "Bauke Mollema (NED)",
+          "team": "Trek–Segafredo",
+          "time": "+ 39\""
+        },
+        {
+          "rank": 9,
+          "name": "Damiano Caruso (ITA)",
+          "team": "Bahrain–Merida",
+          "time": "+ 40\""
+        },
+        {
+          "rank": 10,
+          "name": "Pello Bilbao (ESP)",
+          "team": "Astana",
+          "time": "+ 42\""
+        }
+      ]
+    },
+    {
+      "stage": 3,
+      "riders": [
+        {
+          "rank": 1,
+          "name": "Primož Roglič (SLO)",
+          "team": "Team Jumbo–Visma",
+          "time": "10h 21' 01\""
+        },
+        {
+          "rank": 2,
+          "name": "Simon Yates (GBR)",
+          "team": "Mitchelton–Scott",
+          "time": "+ 19\""
+        },
+        {
+          "rank": 3,
+          "name": "Vincenzo Nibali (ITA)",
+          "team": "Bahrain–Merida",
+          "time": "+ 23\""
+        },
+        {
+          "rank": 4,
+          "name": "Miguel Ángel López (COL)",
+          "team": "Astana",
+          "time": "+ 28\""
+        },
+        {
+          "rank": 5,
+          "name": "Tom Dumoulin (NED)",
+          "team": "Team Sunweb",
+          "time": "+ 28\""
+        },
+        {
+          "rank": 6,
+          "name": "Rafał Majka (POL)",
+          "team": "Bora–Hansgrohe",
+          "time": "+ 33\""
+        },
+        {
+          "rank": 7,
+          "name": "Bauke Mollema (NED)",
+          "team": "Trek–Segafredo",
+          "time": "+ 39\""
+        },
+        {
+          "rank": 8,
+          "name": "Damiano Caruso (ITA)",
+          "team": "Bahrain–Merida",
+          "time": "+ 40\""
+        },
+        {
+          "rank": 9,
+          "name": "Pello Bilbao (ESP)",
+          "team": "Astana",
+          "time": "+ 42\""
+        },
+        {
+          "rank": 10,
+          "name": "Víctor de la Parte (ESP)",
+          "team": "CCC Team",
+          "time": "+ 45\""
+        }
+      ]
+    },
+    {
+      "stage": 4,
+      "riders": [
+        {
+          "rank": 1,
+          "name": "Primož Roglič (SLO)",
+          "team": "Team Jumbo–Visma",
+          "time": "16h 19' 20\""
+        },
+        {
+          "rank": 2,
+          "name": "Simon Yates (GBR)",
+          "team": "Mitchelton–Scott",
+          "time": "+ 35\""
+        },
+        {
+          "rank": 3,
+          "name": "Vincenzo Nibali (ITA)",
+          "team": "Bahrain–Merida",
+          "time": "+ 39\""
+        },
+        {
+          "rank": 4,
+          "name": "Miguel Ángel López (COL)",
+          "team": "Astana",
+          "time": "+ 44\""
+        },
+        {
+          "rank": 5,
+          "name": "Diego Ulissi (ITA)",
+          "team": "UAE Team Emirates",
+          "time": "+ 44\""
+        },
+        {
+          "rank": 6,
+          "name": "Rafał Majka (POL)",
+          "team": "Bora–Hansgrohe",
+          "time": "+ 49\""
+        },
+        {
+          "rank": 7,
+          "name": "Bauke Mollema (NED)",
+          "team": "Trek–Segafredo",
+          "time": "+ 55\""
+        },
+        {
+          "rank": 8,
+          "name": "Damiano Caruso (ITA)",
+          "team": "Bahrain–Merida",
+          "time": "+ 56\""
+        },
+        {
+          "rank": 9,
+          "name": "Bob Jungels (LUX)",
+          "team": "Deceuninck–Quick-Step",
+          "time": "+ 1' 02\""
+        },
+        {
+          "rank": 10,
+          "name": "Davide Formolo (ITA)",
+          "team": "Bora–Hansgrohe",
+          "time": "+ 1' 06\""
+        }
+      ]
+    },
+    {
+      "stage": 5,
+      "riders": [
+        {
+          "rank": 1,
+          "name": "Primož Roglič (SLO)",
+          "team": "Team Jumbo–Visma",
+          "time": "19h 46' 25\""
+        },
+        {
+          "rank": 2,
+          "name": "Simon Yates (GBR)",
+          "team": "Mitchelton–Scott",
+          "time": "+ 35\""
+        },
+        {
+          "rank": 3,
+          "name": "Vincenzo Nibali (ITA)",
+          "team": "Bahrain–Merida",
+          "time": "+ 39\""
+        },
+        {
+          "rank": 4,
+          "name": "Miguel Ángel López (COL)",
+          "team": "Astana",
+          "time": "+ 44\""
+        },
+        {
+          "rank": 5,
+          "name": "Diego Ulissi (ITA)",
+          "team": "UAE Team Emirates",
+          "time": "+ 44\""
+        },
+        {
+          "rank": 6,
+          "name": "Rafał Majka (POL)",
+          "team": "Bora–Hansgrohe",
+          "time": "+ 49\""
+        },
+        {
+          "rank": 7,
+          "name": "Bauke Mollema (NED)",
+          "team": "Trek–Segafredo",
+          "time": "+ 55\""
+        },
+        {
+          "rank": 8,
+          "name": "Damiano Caruso (ITA)",
+          "team": "Bahrain–Merida",
+          "time": "+ 56\""
+        },
+        {
+          "rank": 9,
+          "name": "Bob Jungels (LUX)",
+          "team": "Deceuninck–Quick-Step",
+          "time": "+ 1' 02\""
+        },
+        {
+          "rank": 10,
+          "name": "Davide Formolo (ITA)",
+          "team": "Bora–Hansgrohe",
+          "time": "+ 1' 06\""
+        }
+      ]
+    },
+    {
+      "stage": 6,
+      "riders": [
+        {
+          "rank": 1,
+          "name": "Valerio Conti (ITA)",
+          "team": "UAE Team Emirates",
+          "time": "25h 22' 00\""
+        },
+        {
+          "rank": 2,
+          "name": "Giovanni Carboni (ITA)",
+          "team": "Bardiani–CSF",
+          "time": "+ 1' 41\""
+        },
+        {
+          "rank": 3,
+          "name": "Nans Peters (FRA)",
+          "team": "AG2R La Mondiale",
+          "time": "+ 2' 09\""
+        },
+        {
+          "rank": 4,
+          "name": "José Joaquín Rojas (ESP)",
+          "team": "Movistar Team",
+          "time": "+ 2' 12\""
+        },
+        {
+          "rank": 5,
+          "name": "Valentin Madouas (FRA)",
+          "team": "Groupama–FDJ",
+          "time": "+ 2' 19\""
+        },
+        {
+          "rank": 6,
+          "name": "Amaro Antunes (PRT)",
+          "team": "CCC Team",
+          "time": "+ 2' 45\""
+        },
+        {
+          "rank": 7,
+          "name": "Fausto Masnada (ITA)",
+          "team": "Androni Giocattoli–Sidermec",
+          "time": "+ 3' 14\""
+        },
+        {
+          "rank": 8,
+          "name": "Pieter Serry (BEL)",
+          "team": "Deceuninck–Quick-Step",
+          "time": "+ 3' 25\""
+        },
+        {
+          "rank": 9,
+          "name": "Andrey Amador (CRC)",
+          "team": "Movistar Team",
+          "time": "+ 3' 27\""
+        },
+        {
+          "rank": 10,
+          "name": "Sam Oomen (NED)",
+          "team": "Team Sunweb",
+          "time": "+ 4' 57\""
+        }
+      ]
+    },
+    {
+      "stage": 7,
+      "riders": [
+        {
+          "rank": 1,
+          "name": "Valerio Conti (ITA)",
+          "team": "UAE Team Emirates",
+          "time": "29h 29' 34\""
+        },
+        {
+          "rank": 2,
+          "name": "José Joaquín Rojas (ESP)",
+          "team": "Movistar Team",
+          "time": "+ 1' 32\""
+        },
+        {
+          "rank": 3,
+          "name": "Giovanni Carboni (ITA)",
+          "team": "Bardiani–CSF",
+          "time": "+ 1' 41\""
+        },
+        {
+          "rank": 4,
+          "name": "Nans Peters (FRA)",
+          "team": "AG2R La Mondiale",
+          "time": "+ 2' 09\""
+        },
+        {
+          "rank": 5,
+          "name": "Valentin Madouas (FRA)",
+          "team": "Groupama–FDJ",
+          "time": "+ 2' 17\""
+        },
+        {
+          "rank": 6,
+          "name": "Amaro Antunes (PRT)",
+          "team": "CCC Team",
+          "time": "+ 2' 45\""
+        },
+        {
+          "rank": 7,
+          "name": "Fausto Masnada (ITA)",
+          "team": "Androni Giocattoli–Sidermec",
+          "time": "+ 3' 14\""
+        },
+        {
+          "rank": 8,
+          "name": "Pieter Serry (BEL)",
+          "team": "Deceuninck–Quick-Step",
+          "time": "+ 3' 25\""
+        },
+        {
+          "rank": 9,
+          "name": "Andrey Amador (CRC)",
+          "team": "Movistar Team",
+          "time": "+ 3' 27\""
+        },
+        {
+          "rank": 10,
+          "name": "Sam Oomen (NED)",
+          "team": "Team Sunweb",
+          "time": "+ 4' 57\""
+        }
+      ]
+    },
+    {
+      "stage": 8,
+      "riders": [
+        {
+          "rank": 1,
+          "name": "Valerio Conti (ITA)",
+          "team": "UAE Team Emirates",
+          "time": "35h 13' 06\""
+        },
+        {
+          "rank": 2,
+          "name": "José Joaquín Rojas (ESP)",
+          "team": "Movistar Team",
+          "time": "+ 1' 32\""
+        },
+        {
+          "rank": 3,
+          "name": "Giovanni Carboni (ITA)",
+          "team": "Bardiani–CSF",
+          "time": "+ 1' 41\""
+        },
+        {
+          "rank": 4,
+          "name": "Nans Peters (FRA)",
+          "team": "AG2R La Mondiale",
+          "time": "+ 2' 09\""
+        },
+        {
+          "rank": 5,
+          "name": "Valentin Madouas (FRA)",
+          "team": "Groupama–FDJ",
+          "time": "+ 2' 17\""
+        },
+        {
+          "rank": 6,
+          "name": "Amaro Antunes (PRT)",
+          "team": "CCC Team",
+          "time": "+ 2' 45\""
+        },
+        {
+          "rank": 7,
+          "name": "Fausto Masnada (ITA)",
+          "team": "Androni Giocattoli–Sidermec",
+          "time": "+ 3' 14\""
+        },
+        {
+          "rank": 8,
+          "name": "Pieter Serry (BEL)",
+          "team": "Deceuninck–Quick-Step",
+          "time": "+ 3' 25\""
+        },
+        {
+          "rank": 9,
+          "name": "Andrey Amador (CRC)",
+          "team": "Movistar Team",
+          "time": "+ 3' 27\""
+        },
+        {
+          "rank": 10,
+          "name": "Sam Oomen (NED)",
+          "team": "Team Sunweb",
+          "time": "+ 4' 57\""
+        }
+      ]
+    },
+    {
+      "stage": 9,
+      "riders": [
+        {
+          "rank": 1,
+          "name": "Valerio Conti (ITA)",
+          "team": "UAE Team Emirates",
+          "time": "36h 08' 32\""
+        },
+        {
+          "rank": 2,
+          "name": "Primož Roglič (SLO)",
+          "team": "Team Jumbo–Visma",
+          "time": "+ 1' 50\""
+        },
+        {
+          "rank": 3,
+          "name": "Nans Peters (FRA)",
+          "team": "AG2R La Mondiale",
+          "time": "+ 2' 21\""
+        },
+        {
+          "rank": 4,
+          "name": "José Joaquín Rojas (ESP)",
+          "team": "Movistar Team",
+          "time": "+ 2' 33\""
+        },
+        {
+          "rank": 5,
+          "name": "Fausto Masnada (ITA)",
+          "team": "Androni Giocattoli–Sidermec",
+          "time": "+ 2' 36\""
+        },
+        {
+          "rank": 6,
+          "name": "Andrey Amador (CRC)",
+          "team": "Movistar Team",
+          "time": "+ 2' 39\""
+        },
+        {
+          "rank": 7,
+          "name": "Amaro Antunes (PRT)",
+          "team": "CCC Team",
+          "time": "+ 3' 05\""
+        },
+        {
+          "rank": 8,
+          "name": "Valentin Madouas (FRA)",
+          "team": "Groupama–FDJ",
+          "time": "+ 3' 27\""
+        },
+        {
+          "rank": 9,
+          "name": "Giovanni Carboni (ITA)",
+          "team": "Bardiani–CSF",
+          "time": "+ 3' 30\""
+        },
+        {
+          "rank": 10,
+          "name": "Pello Bilbao (ESP)",
+          "team": "Astana",
+          "time": "+ 3' 32\""
+        }
+      ]
+    },
+    {
+      "stage": 10,
+      "riders": [
+        {
+          "rank": 1,
+          "name": "Valerio Conti (ITA)",
+          "team": "UAE Team Emirates",
+          "time": "39h 44' 39\""
+        },
+        {
+          "rank": 2,
+          "name": "Primož Roglič (SLO)",
+          "team": "Team Jumbo–Visma",
+          "time": "+ 1' 50\""
+        },
+        {
+          "rank": 3,
+          "name": "Nans Peters (FRA)",
+          "team": "AG2R La Mondiale",
+          "time": "+ 2' 21\""
+        },
+        {
+          "rank": 4,
+          "name": "José Joaquín Rojas (ESP)",
+          "team": "Movistar Team",
+          "time": "+ 2' 33\""
+        },
+        {
+          "rank": 5,
+          "name": "Fausto Masnada (ITA)",
+          "team": "Androni Giocattoli–Sidermec",
+          "time": "+ 2' 36\""
+        },
+        {
+          "rank": 6,
+          "name": "Andrey Amador (CRC)",
+          "team": "Movistar Team",
+          "time": "+ 2' 39\""
+        },
+        {
+          "rank": 7,
+          "name": "Amaro Antunes (PRT)",
+          "team": "CCC Team",
+          "time": "+ 3' 05\""
+        },
+        {
+          "rank": 8,
+          "name": "Valentin Madouas (FRA)",
+          "team": "Groupama–FDJ",
+          "time": "+ 3' 27\""
+        },
+        {
+          "rank": 9,
+          "name": "Giovanni Carboni (ITA)",
+          "team": "Bardiani–CSF",
+          "time": "+ 3' 30\""
+        },
+        {
+          "rank": 10,
+          "name": "Pello Bilbao (ESP)",
+          "team": "Astana",
+          "time": "+ 3' 32\""
+        }
+      ]
+    },
+    {
+      "stage": 11,
+      "riders": [
+        {
+          "rank": 1,
+          "name": "Valerio Conti (ITA)",
+          "team": "UAE Team Emirates",
+          "time": "45h 02' 05\""
+        },
+        {
+          "rank": 2,
+          "name": "Primož Roglič (SLO)",
+          "team": "Team Jumbo–Visma",
+          "time": "+ 1' 50\""
+        },
+        {
+          "rank": 3,
+          "name": "Nans Peters (FRA)",
+          "team": "AG2R La Mondiale",
+          "time": "+ 2' 21\""
+        },
+        {
+          "rank": 4,
+          "name": "José Joaquín Rojas (ESP)",
+          "team": "Movistar Team",
+          "time": "+ 2' 33\""
+        },
+        {
+          "rank": 5,
+          "name": "Fausto Masnada (ITA)",
+          "team": "Androni Giocattoli–Sidermec",
+          "time": "+ 2' 36\""
+        },
+        {
+          "rank": 6,
+          "name": "Andrey Amador (CRC)",
+          "team": "Movistar Team",
+          "time": "+ 2' 39\""
+        },
+        {
+          "rank": 7,
+          "name": "Amaro Antunes (PRT)",
+          "team": "CCC Team",
+          "time": "+ 3' 05\""
+        },
+        {
+          "rank": 8,
+          "name": "Valentin Madouas (FRA)",
+          "team": "Groupama–FDJ",
+          "time": "+ 3' 27\""
+        },
+        {
+          "rank": 9,
+          "name": "Giovanni Carboni (ITA)",
+          "team": "Bardiani–CSF",
+          "time": "+ 3' 30\""
+        },
+        {
+          "rank": 10,
+          "name": "Pello Bilbao (ESP)",
+          "team": "Astana",
+          "time": "+ 3' 32\""
+        }
+      ]
+    },
+    {
+      "stage": 12,
+      "riders": [
+        {
+          "rank": 1,
+          "name": "Jan Polanc (SLO)",
+          "team": "UAE Team Emirates",
+          "time": "48h 49' 40\""
+        },
+        {
+          "rank": 2,
+          "name": "Primož Roglič (SLO)",
+          "team": "Team Jumbo–Visma",
+          "time": "+ 4' 07\""
+        },
+        {
+          "rank": 3,
+          "name": "Valerio Conti (ITA)",
+          "team": "UAE Team Emirates",
+          "time": "+ 4' 51\""
+        },
+        {
+          "rank": 4,
+          "name": "Eros Capecchi (ITA)",
+          "team": "Deceuninck–Quick-Step",
+          "time": "+ 5' 02\""
+        },
+        {
+          "rank": 5,
+          "name": "Vincenzo Nibali (ITA)",
+          "team": "Bahrain–Merida",
+          "time": "+ 5' 51\""
+        },
+        {
+          "rank": 6,
+          "name": "Bauke Mollema (NED)",
+          "team": "Trek–Segafredo",
+          "time": "+ 6' 02\""
+        },
+        {
+          "rank": 7,
+          "name": "Rafał Majka (POL)",
+          "team": "Bora–Hansgrohe",
+          "time": "+ 7' 00\""
+        },
+        {
+          "rank": 8,
+          "name": "Richard Carapaz (ECU)",
+          "team": "Movistar Team",
+          "time": "+ 7' 23\""
+        },
+        {
+          "rank": 9,
+          "name": "Andrey Amador (CRC)",
+          "team": "Movistar Team",
+          "time": "+ 7' 30\""
+        },
+        {
+          "rank": 10,
+          "name": "Hugh Carthy (GBR)",
+          "team": "EF Education First",
+          "time": "+ 7' 33\""
+        }
+      ]
+    },
+    {
+      "stage": 13,
+      "riders": [
+        {
+          "rank": 1,
+          "name": "Jan Polanc (SLO)",
+          "team": "UAE Team Emirates",
+          "time": "54h 28' 59\""
+        },
+        {
+          "rank": 2,
+          "name": "Primož Roglič (SLO)",
+          "team": "Team Jumbo–Visma",
+          "time": "+ 2' 25\""
+        },
+        {
+          "rank": 3,
+          "name": "Ilnur Zakarin (RUS)",
+          "team": "Team Katusha–Alpecin",
+          "time": "+ 2' 56\""
+        },
+        {
+          "rank": 4,
+          "name": "Bauke Mollema (NED)",
+          "team": "Trek–Segafredo",
+          "time": "+ 3' 06\""
+        },
+        {
+          "rank": 5,
+          "name": "Vincenzo Nibali (ITA)",
+          "team": "Bahrain–Merida",
+          "time": "+ 4' 09\""
+        },
+        {
+          "rank": 6,
+          "name": "Richard Carapaz (ECU)",
+          "team": "Movistar Team",
+          "time": "+ 4' 22\""
+        },
+        {
+          "rank": 7,
+          "name": "Rafał Majka (POL)",
+          "team": "Bora–Hansgrohe",
+          "time": "+ 4' 28\""
+        },
+        {
+          "rank": 8,
+          "name": "Mikel Landa (ESP)",
+          "team": "Movistar Team",
+          "time": "+ 5' 08\""
+        },
+        {
+          "rank": 9,
+          "name": "Pavel Sivakov (RUS)",
+          "team": "Team INEOS",
+          "time": "+ 7' 13\""
+        },
+        {
+          "rank": 10,
+          "name": "Miguel Ángel López (COL)",
+          "team": "Astana",
+          "time": "+ 7' 48\""
+        }
+      ]
+    },
+    {
+      "stage": 14,
+      "riders": [
+        {
+          "rank": 1,
+          "name": "Richard Carapaz (ECU)",
+          "team": "Movistar Team",
+          "time": "58h 35' 34\""
+        },
+        {
+          "rank": 2,
+          "name": "Primož Roglič (SLO)",
+          "team": "Team Jumbo–Visma",
+          "time": "+ 7\""
+        },
+        {
+          "rank": 3,
+          "name": "Vincenzo Nibali (ITA)",
+          "team": "Bahrain–Merida",
+          "time": "+ 1' 47\""
+        },
+        {
+          "rank": 4,
+          "name": "Rafał Majka (POL)",
+          "team": "Bora–Hansgrohe",
+          "time": "+ 2' 10\""
+        },
+        {
+          "rank": 5,
+          "name": "Mikel Landa (ESP)",
+          "team": "Movistar Team",
+          "time": "+ 2' 50\""
+        },
+        {
+          "rank": 6,
+          "name": "Bauke Mollema (NED)",
+          "team": "Trek–Segafredo",
+          "time": "+ 2' 58\""
+        },
+        {
+          "rank": 7,
+          "name": "Jan Polanc (SLO)",
+          "team": "UAE Team Emirates",
+          "time": "+ 3' 29\""
+        },
+        {
+          "rank": 8,
+          "name": "Pavel Sivakov (RUS)",
+          "team": "Team INEOS",
+          "time": "+ 4' 55\""
+        },
+        {
+          "rank": 9,
+          "name": "Simon Yates (GBR)",
+          "team": "Mitchelton–Scott",
+          "time": "+ 5' 28\""
+        },
+        {
+          "rank": 10,
+          "name": "Miguel Ángel López (COL)",
+          "team": "Astana",
+          "time": "+ 5' 30\""
+        }
+      ]
+    },
+    {
+      "stage": 15,
+      "riders": [
+        {
+          "rank": 1,
+          "name": "Richard Carapaz (ECU)",
+          "team": "Movistar Team",
+          "time": "64h 24' 00\""
+        },
+        {
+          "rank": 2,
+          "name": "Primož Roglič (SLO)",
+          "team": "Team Jumbo–Visma",
+          "time": "+ 47\""
+        },
+        {
+          "rank": 3,
+          "name": "Vincenzo Nibali (ITA)",
+          "team": "Bahrain–Merida",
+          "time": "+ 1' 47\""
+        },
+        {
+          "rank": 4,
+          "name": "Rafał Majka (POL)",
+          "team": "Bora–Hansgrohe",
+          "time": "+ 2' 35\""
+        },
+        {
+          "rank": 5,
+          "name": "Mikel Landa (ESP)",
+          "team": "Movistar Team",
+          "time": "+ 3' 15\""
+        },
+        {
+          "rank": 6,
+          "name": "Bauke Mollema (NED)",
+          "team": "Trek–Segafredo",
+          "time": "+ 3' 38\""
+        },
+        {
+          "rank": 7,
+          "name": "Jan Polanc (SLO)",
+          "team": "UAE Team Emirates",
+          "time": "+ 4' 12\""
+        },
+        {
+          "rank": 8,
+          "name": "Simon Yates (GBR)",
+          "team": "Mitchelton–Scott",
+          "time": "+ 5' 24\""
+        },
+        {
+          "rank": 9,
+          "name": "Pavel Sivakov (RUS)",
+          "team": "Team INEOS",
+          "time": "+ 5' 48\""
+        },
+        {
+          "rank": 10,
+          "name": "Miguel Ángel López (COL)",
+          "team": "Astana",
+          "time": "+ 5' 55\""
+        }
+      ]
+    },
+    {
+      "stage": 16,
+      "riders": [
+        {
+          "rank": 12,
+          "name": "]",
+          "team": "[",
+          "time": "13"
+        },
+        {
+          "rank": 1,
+          "name": "Richard Carapaz",
+          "team": "(",
+          "time": "ECU"
+        },
+        {
+          "rank": 2,
+          "name": "Vincenzo Nibali",
+          "team": "(",
+          "time": "ITA"
+        },
+        {
+          "rank": 3,
+          "name": "Primož Roglič",
+          "team": "(",
+          "time": "SLO"
+        },
+        {
+          "rank": 4,
+          "name": "Mikel Landa",
+          "team": "(",
+          "time": "ESP"
+        },
+        {
+          "rank": 5,
+          "name": "Bauke Mollema",
+          "team": "(",
+          "time": "NED"
+        },
+        {
+          "rank": 6,
+          "name": "Rafał Majka",
+          "team": "(",
+          "time": "POL"
+        },
+        {
+          "rank": 7,
+          "name": "Miguel Ángel López",
+          "team": "(",
+          "time": "COL"
+        },
+        {
+          "rank": 8,
+          "name": "Simon Yates",
+          "team": "(",
+          "time": "GBR"
+        },
+        {
+          "rank": 9,
+          "name": "Pavel Sivakov",
+          "team": "(",
+          "time": "RUS"
+        }
+      ]
+    },
+    {
+      "stage": 17,
+      "riders": [
+        {
+          "rank": 1,
+          "name": "Richard Carapaz (ECU)",
+          "team": "Movistar Team",
+          "time": "74h 48' 18\""
+        },
+        {
+          "rank": 2,
+          "name": "Vincenzo Nibali (ITA)",
+          "team": "Bahrain–Merida",
+          "time": "+ 1' 54\""
+        },
+        {
+          "rank": 3,
+          "name": "Primož Roglič (SLO)",
+          "team": "Team Jumbo–Visma",
+          "time": "+ 2' 16\""
+        },
+        {
+          "rank": 4,
+          "name": "Mikel Landa (ESP)",
+          "team": "Movistar Team",
+          "time": "+ 3' 03\""
+        },
+        {
+          "rank": 5,
+          "name": "Bauke Mollema (NED)",
+          "team": "Trek–Segafredo",
+          "time": "+ 5' 07\""
+        },
+        {
+          "rank": 6,
+          "name": "Miguel Ángel López (COL)",
+          "team": "Astana",
+          "time": "+ 6' 17\""
+        },
+        {
+          "rank": 7,
+          "name": "Rafał Majka (POL)",
+          "team": "Bora–Hansgrohe",
+          "time": "+ 6' 48\""
+        },
+        {
+          "rank": 8,
+          "name": "Simon Yates (GBR)",
+          "team": "Mitchelton–Scott",
+          "time": "+ 7' 13\""
+        },
+        {
+          "rank": 9,
+          "name": "Pavel Sivakov (RUS)",
+          "team": "Team INEOS",
+          "time": "+ 8' 21\""
+        },
+        {
+          "rank": 10,
+          "name": "Davide Formolo (ITA)",
+          "team": "Bora–Hansgrohe",
+          "time": "+ 8' 59\""
+        }
+      ]
+    },
+    {
+      "stage": 18,
+      "riders": [
+        {
+          "rank": 1,
+          "name": "Richard Carapaz (ECU)",
+          "team": "Movistar Team",
+          "time": "79h 44' 22\""
+        },
+        {
+          "rank": 2,
+          "name": "Vincenzo Nibali (ITA)",
+          "team": "Bahrain–Merida",
+          "time": "+ 1' 54\""
+        },
+        {
+          "rank": 3,
+          "name": "Primož Roglič (SLO)",
+          "team": "Team Jumbo–Visma",
+          "time": "+ 2' 16\""
+        },
+        {
+          "rank": 4,
+          "name": "Mikel Landa (ESP)",
+          "team": "Movistar Team",
+          "time": "+ 3' 03\""
+        },
+        {
+          "rank": 5,
+          "name": "Bauke Mollema (NED)",
+          "team": "Trek–Segafredo",
+          "time": "+ 5' 07\""
+        },
+        {
+          "rank": 6,
+          "name": "Miguel Ángel López (COL)",
+          "team": "Astana",
+          "time": "+ 6' 17\""
+        },
+        {
+          "rank": 7,
+          "name": "Rafał Majka (POL)",
+          "team": "Bora–Hansgrohe",
+          "time": "+ 6' 48\""
+        },
+        {
+          "rank": 8,
+          "name": "Simon Yates (GBR)",
+          "team": "Mitchelton–Scott",
+          "time": "+ 7' 13\""
+        },
+        {
+          "rank": 9,
+          "name": "Pavel Sivakov (RUS)",
+          "team": "Team INEOS",
+          "time": "+ 8' 21\""
+        },
+        {
+          "rank": 10,
+          "name": "Davide Formolo (ITA)",
+          "team": "Bora–Hansgrohe",
+          "time": "+ 8' 59\""
+        }
+      ]
+    },
+    {
+      "stage": 19,
+      "riders": [
+        {
+          "rank": 1,
+          "name": "Richard Carapaz (ECU)",
+          "team": "Movistar Team",
+          "time": "83h 52' 22\""
+        },
+        {
+          "rank": 2,
+          "name": "Vincenzo Nibali (ITA)",
+          "team": "Bahrain–Merida",
+          "time": "+ 1' 54\""
+        },
+        {
+          "rank": 3,
+          "name": "Primož Roglič (SLO)",
+          "team": "Team Jumbo–Visma",
+          "time": "+ 2' 16\""
+        },
+        {
+          "rank": 4,
+          "name": "Mikel Landa (ESP)",
+          "team": "Movistar Team",
+          "time": "+ 3' 03\""
+        },
+        {
+          "rank": 5,
+          "name": "Bauke Mollema (NED)",
+          "team": "Trek–Segafredo",
+          "time": "+ 5' 07\""
+        },
+        {
+          "rank": 6,
+          "name": "Miguel Ángel López (COL)",
+          "team": "Astana",
+          "time": "+ 5' 33\""
+        },
+        {
+          "rank": 7,
+          "name": "Rafał Majka (POL)",
+          "team": "Bora–Hansgrohe",
+          "time": "+ 6' 48\""
+        },
+        {
+          "rank": 8,
+          "name": "Simon Yates (GBR)",
+          "team": "Mitchelton–Scott",
+          "time": "+ 7' 17\""
+        },
+        {
+          "rank": 9,
+          "name": "Pavel Sivakov (RUS)",
+          "team": "Team INEOS",
+          "time": "+ 8' 27\""
+        },
+        {
+          "rank": 10,
+          "name": "Davide Formolo (ITA)",
+          "team": "Bora–Hansgrohe",
+          "time": "+ 10' 06\""
+        }
+      ]
+    },
+    {
+      "stage": 20,
+      "riders": [
+        {
+          "rank": 1,
+          "name": "Richard Carapaz (ECU)",
+          "team": "Movistar Team",
+          "time": "89h 38' 28\""
+        },
+        {
+          "rank": 2,
+          "name": "Vincenzo Nibali (ITA)",
+          "team": "Bahrain–Merida",
+          "time": "+ 1' 54\""
+        },
+        {
+          "rank": 3,
+          "name": "Mikel Landa (ESP)",
+          "team": "Movistar Team",
+          "time": "+ 2' 53\""
+        },
+        {
+          "rank": 4,
+          "name": "Primož Roglič (SLO)",
+          "team": "Team Jumbo–Visma",
+          "time": "+ 3' 16\""
+        },
+        {
+          "rank": 5,
+          "name": "Bauke Mollema (NED)",
+          "team": "Trek–Segafredo",
+          "time": "+ 5' 51\""
+        },
+        {
+          "rank": 6,
+          "name": "Miguel Ángel López (COL)",
+          "team": "Astana",
+          "time": "+ 7' 18\""
+        },
+        {
+          "rank": 7,
+          "name": "Rafał Majka (POL)",
+          "team": "Bora–Hansgrohe",
+          "time": "+ 7' 28\""
+        },
+        {
+          "rank": 8,
+          "name": "Simon Yates (GBR)",
+          "team": "Mitchelton–Scott",
+          "time": "+ 8' 01\""
+        },
+        {
+          "rank": 9,
+          "name": "Pavel Sivakov (RUS)",
+          "team": "Team INEOS",
+          "time": "+ 9' 11\""
+        },
+        {
+          "rank": 10,
+          "name": "Ilnur Zakarin (RUS)",
+          "team": "Team Katusha–Alpecin",
+          "time": "+ 12' 50\""
+        }
+      ]
+    },
+    {
+      "stage": 21,
+      "riders": [
+        {
+          "rank": 1,
+          "name": "Richard Carapaz (ECU)",
+          "team": "Movistar Team",
+          "time": "90h 01' 47\""
+        },
+        {
+          "rank": 2,
+          "name": "Vincenzo Nibali (ITA)",
+          "team": "Bahrain–Merida",
+          "time": "+ 1' 05\""
+        },
+        {
+          "rank": 3,
+          "name": "Primož Roglič (SLO)",
+          "team": "Team Jumbo–Visma",
+          "time": "+ 2' 30\""
+        },
+        {
+          "rank": 4,
+          "name": "Mikel Landa (ESP)",
+          "team": "Movistar Team",
+          "time": "+ 2' 38\""
+        },
+        {
+          "rank": 5,
+          "name": "Bauke Mollema (NED)",
+          "team": "Trek–Segafredo",
+          "time": "+ 5' 43\""
+        },
+        {
+          "rank": 6,
+          "name": "Rafał Majka (POL)",
+          "team": "Bora–Hansgrohe",
+          "time": "+ 6' 56\""
+        },
+        {
+          "rank": 7,
+          "name": "Miguel Ángel López (COL)",
+          "team": "Astana",
+          "time": "+ 7' 26\""
+        },
+        {
+          "rank": 8,
+          "name": "Simon Yates (GBR)",
+          "team": "Mitchelton–Scott",
+          "time": "+ 7' 49\""
+        },
+        {
+          "rank": 9,
+          "name": "Pavel Sivakov (RUS)",
+          "team": "Team INEOS",
+          "time": "+ 8' 56\""
+        },
+        {
+          "rank": 10,
+          "name": "Ilnur Zakarin (RUS)",
+          "team": "Team Katusha–Alpecin",
+          "time": "+ 12' 14\""
+        }
+      ]
+    }
+  ]
+}
