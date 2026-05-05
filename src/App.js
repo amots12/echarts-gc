@@ -16,11 +16,10 @@ const AVAILABLE_RACES = {
   },
   giro: {
     label: "Giro d’Italia",
-    years: [2020, 2021, 2022, 2023, 2024, 2025]
-  },
-  vuelta: {
-    label: "Vuelta a España",
-    years: []
+    years: [
+      2010, 2011, 2012, 2013, 2014, 2015, 2016, 2017,
+      2018, 2019, 2020, 2021, 2022, 2023, 2024, 2025
+    ]
   }
 };
 
