@@ -21,6 +21,11 @@ const TEAM_NAME_ALIASES = {
   "UAE Team Emirates": "UAE Team Emirates XRG",
   "Alpecin–Deceuninck": "Alpecin–Deceuninck"
 };
+const TEAM_PALETTE_COMPANIONS = {
+  Astana: ["XDS Astana Team"],
+  "EF Education First–Drapac p/b Cannondale": ["EF Education First–Drapac"],
+  "Lotto Fix ALL": ["Lotto–FixAll", "Lotto–Soudal"]
+};
 
 /* ================= TIME ================= */
 
@@ -91,6 +96,7 @@ export default function GcBarChartRace({ race, year, onStageChange }) {
   const theme = useTheme();
   const isMobile = useMediaQuery(theme.breakpoints.down("sm"));
   const [stages, setStages] = useState([]);
+  const [loadError, setLoadError] = useState("");
   const [tick, setTick] = useState(0);
   const [hasStarted, setHasStarted] = useState(false);
   const timerRef = useRef(null);
@@ -105,21 +111,49 @@ export default function GcBarChartRace({ race, year, onStageChange }) {
   /* ---------- LOAD DATA ---------- */
 
   useEffect(() => {
+    clearInterval(timerRef.current);
+    timerRef.current = null;
     setStages([]);
+    setLoadError("");
     setTick(0);
     setHasStarted(false);
 
     fetch(`${process.env.PUBLIC_URL}/data/${race}-${year}-wikipedia.json`)
-      .then(r => r.json())
-      .then(d => setStages(d.stages))
-      .catch(console.error);
+      .then(r => {
+        if (!r.ok) {
+          throw new Error(`Failed to load GC data for ${race} ${year}`);
+        }
+        return r.json();
+      })
+      .then(d => {
+        const nextStages = Array.isArray(d?.stages) ? d.stages : [];
+        if (!nextStages.length) {
+          throw new Error(`No stage data available for ${race} ${year}`);
+        }
+        setStages(nextStages);
+      })
+      .catch(err => {
+        console.error(err);
+        setLoadError(err.message || "Failed to load race data");
+        setStages([]);
+      });
+
+    return () => {
+      clearInterval(timerRef.current);
+      timerRef.current = null;
+    };
   }, [race, year]);
 
   useEffect(() => {
     fetch(
       `${process.env.PUBLIC_URL}/data/stages/${race}-${year}-stages.json`
     )
-      .then(r => r.json())
+      .then(r => {
+        if (!r.ok) {
+          throw new Error(`Failed to load stage metadata for ${race} ${year}`);
+        }
+        return r.json();
+      })
       .then(d => {
         setStageMeta(d?.stages || []);
 
@@ -127,11 +161,15 @@ export default function GcBarChartRace({ race, year, onStageChange }) {
         (d?.teams || []).forEach(team => {
           if (!team?.name) return;
           const colours = Array.isArray(team.colours) ? team.colours : [];
-          palettes[team.name] = {
+          const palette = {
             primary: colours[0] || DEFAULT_JERSEY_PRIMARY,
             secondary: colours[1] || DEFAULT_JERSEY_SECONDARY,
             accent: colours[2] || null
           };
+          palettes[team.name] = palette;
+          (TEAM_PALETTE_COMPANIONS[team.name] || []).forEach(alias => {
+            palettes[alias] = palette;
+          });
         });
         setTeamPaletteByName(palettes);
       })
@@ -168,7 +206,15 @@ export default function GcBarChartRace({ race, year, onStageChange }) {
     }
   }, [stageIndex, onStageChange]);
 
-  if (!stages.length) return <div>Loading…</div>;
+  if (loadError) {
+    return (
+      <div style={{ padding: isMobile ? 24 : 16, color: LINE_CHARCOAL }}>
+        {loadError}
+      </div>
+    );
+  }
+
+  if (!stages.length) return <div style={{ padding: isMobile ? 24 : 16 }}>Loading…</div>;
 
     const currentStageNumber = stages[stageIndex]?.stage;
 
